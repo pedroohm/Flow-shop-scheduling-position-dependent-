@@ -1,0 +1,37 @@
+Máquinas: 3
+Tarefas: 10
+
+Datas de Entrega:
+63
+75
+62
+64
+69
+41
+38
+58
+90
+66
+
+Tempos de Processamento:
+68 9 29 67 70 76 20 18 93 57 
+49 2 22 22 81 71 68 38 80 36 
+60 95 44 78 51 17 4 90 30 95 
+
+Tempos Médios - Solução Inicial:
+(1, 1.0678)
+(2, 2.12264)
+(3, 1.95789)
+(4, 1.1497)
+(5, 1.02475)
+(6, 0.75)
+(7, 1.23913)
+(8, 1.19178)
+(9, 1.33005)
+(10, 1.05319)
+
+68-0-0
+Sequência de Tarefas - Solução Final
+9 4 10 8 5 1 3 2 7 6 
+Atraso Máximo: 2180
+Tempo: 0.236005 segundos

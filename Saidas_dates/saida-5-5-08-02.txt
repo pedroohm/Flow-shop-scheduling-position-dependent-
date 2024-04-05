@@ -1,0 +1,29 @@
+Máquinas: 5
+Tarefas: 5
+
+Datas de Entrega:
+50
+67
+58
+44
+42
+
+Tempos de Processamento:
+82 72 3 20 82 
+25 53 48 4 44 
+14 95 44 85 36 
+45 82 47 30 87 
+65 93 16 55 7 
+
+Tempos Médios - Solução Inicial:
+(1, 1.08225)
+(2, 0.848101)
+(3, 1.83544)
+(4, 1.13402)
+(5, 0.820312)
+
+82-0-0
+Sequência de Tarefas - Solução Final
+5 2 1 4 3 
+Atraso Máximo: 1079
+Tempo: 0.324659 segundos
