@@ -1,0 +1,24 @@
+Máquinas: 3
+Tarefas: 4
+
+Datas de Entrega:
+6
+10
+8
+2
+
+Tempos de Processamento:
+Máquina 1: 10 3 4 2 
+Máquina 2: 11 12 5 12 
+Máquina 3: 3 1 4 2 
+i- 12
+j- 4
+k- 30
+m- 3
+
+Tempos Médios - Solução Inicial:
+(4, 0.375)
+(1, 0.75)
+(3, 1.84615)
+(2, 1.875)
+

@@ -26,8 +26,10 @@ int main(){
     std::vector<int> sequenciaTarefas(n); //Onde será armazenada a solução do problema
 
     std::vector<int> dueDates(n, 0); //Datas de entregas dos jobs
-    std::vector<std::vector<int>> processingTimes(m, std::vector<int>(n));
 
+    std::vector<std::vector<int>> processingTimes(m, std::vector<int>(n));
+    //std::vector<std::vector<int>> processingTimes(m+1, std::vector<int>(n+1, 0)); //Considerar que a matriz processing times, será equivalente ao Completion time
+    
     //Lendo as datas de entrega
     for(int j=0; j<n; j++)
         std::cin>>dueDates[j];
@@ -37,6 +39,9 @@ int main(){
         for(int j=0; j<n; j++)
             std::cin>>processingTimes[i][j];
     }
+
+    // ---------------------------------------------//
+    // Impressão das leituras para verificação
 
     std::cout<<"Máquinas: "<<m<<"\n";
     std::cout<<"Tarefas: "<<n<<"\n\n";
@@ -50,38 +55,42 @@ int main(){
             std::cout<<processingTimes[i][j]<<" ";
         std::cout<<"\n";
     }
-    
-    //-------------------------------------------------------//
+
+    //-------------------------------------------------------//   
 //Construção da matriz tridimensional TP
 
-//TP[j][i][k] = quanto tempo a tarefa j demorará a ser feita pela máquina i
-//   caso ela esteja na posição k
+    //TP[j][i][k] = quanto tempo a tarefa j demorará a ser feita pela máquina i
+    //   caso ela esteja na posição k
 
- //  k = j  //(nº posições = nº de tarefas)
- //  TP[j][i][k] = processingTimes[i][j] * k^alpha;
+    //  k = j  //(nº posições = nº de tarefas)
+    //  TP[j][i][k] = processingTimes[i][j] * k^alpha;
     
     std::vector<std::vector<std::vector<float>>> TP(n, std::vector<std::vector<float>>(m, std::vector<float>(n)));
- //  std::vector<std::vector<std::vector<float>>> TP;
+
     int count_j = 0;
     int count_i = 0;
     int count_k = 0;
     int k = 0;
- for(int j = 0; j < n; j++) {
-    count_j++;
-    for(int i = 0; i < m; i++) {
-        count_i++;
-        for(int k = 0; k <= j; k++) { // k deve ser reinicializado a cada iteração de j
-            TP[j][i][k] = processingTimes[i][j] * (std::pow((k + 1.0), alpha));
-            count_k++;
+    for(int j = 0; j < n; j++) {
+        count_j++;
+        for(int i = 0; i < m; i++) {
+            count_i++;
+            for(int k = 0; k < n; k++) {
+                TP[j][i][k] = processingTimes[i][j] * (std::pow((k + 1.0), alpha));
+                count_k++;
+            }
         }
     }
-}
 
+ /*
     std::cout << "i- " << count_i << std::endl;
     std::cout << "j- " << count_j << std::endl;
     std::cout << "k- " << count_k << std::endl;
     std::cout << "m- " << m << std::endl;
     std::cout<<"\n";
+*/
+
+
 //-------------------------------------------------------//
 //Definindo uma solução inicial (pi0) para o problema
 //Uma solução é uma ordem para a execução das tarefas pela máquinas 1
@@ -94,7 +103,8 @@ int main(){
             soma += processingTimes[i][j];
         }
         float p_medio = soma / m;
-        temposMedios[j] = std::make_pair((dueDates[j] / p_medio), j);
+        //temposMedios[j] = std::make_pair((dueDates[j] / p_medio), j); calculo original
+        temposMedios[j] = std::make_pair(dueDates[j], j);
 
     }
 
@@ -108,6 +118,44 @@ int main(){
 
     std::cout<<"\n";
 
+    
+
+   //Calcula completion time
+   std::vector<std::vector<float>> compTime(n+1, std::vector<float>(m+1, 0));
+    for(int k=1; k<=n; k++){
+        for(int i=1; i<=m; i++){
+            compTime[k][i] = std::max(compTime[k-1][i], compTime[k][i-1]) + TP[sequenciaTarefas[k-1]][i-1][k-1];
+        }
+    }
+
+    //Impressão do completion time
+    std::cout << "\nCalculo do completion time:\n";
+    for(int k=1; k<=n; k++){
+        for(int i=1; i<=m; i++){
+            std::cout << compTime[k][i] << " ";
+        }
+        std::cout << "\n";
+    }
+
+    std::cout<<"Sequência de Tarefas - Solução Final\n";
+    for(int j=0; j<n; j++)
+        std::cout<<sequenciaTarefas[j]+1<<" ";
+    std::cout<<"\n";
+
+    std::cout << "\nMatriz TP tri-dimensional\n";
+    for(int j = 0; j < n; j++) {
+        for(int i = 0; i < m; i++) {
+            for(int k = 0; k <n; k++) {
+                std::cout << TP[j][i][k] << " ";
+            }
+            std::cout << "\n";
+        }
+        std::cout << "\n";
+    }
+
+
+    return 0;
+
 //-------------------------------------------------------//
 
 //Com a solução inicial pronta, agora é necessário melhorá-la
@@ -119,7 +167,9 @@ int main(){
     // -> Seja C[j][i] o tempo em que a tarefa j terminou de ser processada na máquina i
     std::vector<float> temposAtraso(n, 0.0f); // Inicializa um vetor de floats com tamanho n e todos os elementos como 0.0f
 
-    std::vector<std::vector<int>> C(n, std::vector<int>(m, 0)); 
+    //std::vector<std::vector<int>> C(n, std::vector<int>(m, 0));  
+    std::vector<std::vector<int>> C(n+1, std::vector<int>(m+1, 0)); //matriz 2d para o Completion time
+    
   //  for(int i=0; i<n; i++) C[i].resize(m);
 
     for(int k=0; k<n; k++){
@@ -154,8 +204,10 @@ int main(){
 
         if(temposAtraso[k] > atraso_maximo) atraso_maximo = temposAtraso[k];
     }
+
+/*
     //-------------------------------------------------------//
-//Implementação do RVND - a soução que sai do RVND é a pi
+//Implementação do RVND - a solução que sai do RVND é a pi
 
 //Sorteando a ordem de aplicação das vizinhanças 
 
@@ -198,6 +250,8 @@ int main(){
         }
         else iteracoes_sem_melhora++;
     }
+
+*/
 
 //-------------------------------------------------------//
 
