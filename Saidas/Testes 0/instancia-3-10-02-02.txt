@@ -1,0 +1,67 @@
+Máquinas: 3
+Tarefas: 10
+
+Datas de Entrega:
+285
+308
+294
+306
+296
+311
+303
+309
+310
+295
+
+Tempos de Processamento:
+68 9 29 67 70 76 20 18 93 57 
+49 2 22 22 81 71 68 38 80 36 
+60 95 44 78 51 17 4 90 30 95 
+
+Ordenação por dueDates - Solução Inicial:
+(1, 285)
+(3, 294)
+(10, 295)
+(5, 296)
+(7, 303)
+(4, 306)
+(2, 308)
+(8, 309)
+(9, 310)
+(6, 311)
+
+Calculo do completion time:
+68 117 177 
+97 139 221 
+154 190 316 
+224 305 367 
+244 373 377 
+311 395 473 
+320 397 568 
+338 435 658 
+431 515 688 
+507 586 705 
+Sequência de Tarefas - Solução Final
+1 3 10 5 7 4 2 8 9 6 
+
+Squencia que diminui o atraso Maximo:
+Novo Atraso = 361
+10 3 1 8 6 4 7 2 9 5 
+
+Squencia que diminui o atraso Maximo:
+Novo Atraso = 359
+7 3 2 4 9 8 1 10 5 6 
+
+Squencia que diminui o atraso Maximo:
+Novo Atraso = 354
+2 7 6 3 1 8 10 9 5 4 
+
+Squencia que diminui o atraso Maximo:
+Novo Atraso = 347
+10 8 1 6 2 4 7 3 5 9 
+
+Squencia que diminui o atraso Maximo:
+Novo Atraso = 338
+2 4 7 1 10 8 6 5 9 3 
+Atraso Máximo: 338
+Tempo: 0.000844 segundos

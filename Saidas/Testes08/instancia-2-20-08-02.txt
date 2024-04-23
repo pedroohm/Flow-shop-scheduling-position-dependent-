@@ -1,0 +1,106 @@
+Máquinas: 2
+Tarefas: 20
+
+Datas de Entrega:
+240
+106
+250
+229
+152
+287
+223
+211
+272
+109
+131
+169
+135
+133
+161
+204
+96
+222
+277
+202
+
+Tempos de Processamento:
+4 40 83 85 70 70 48 62 49 64 5 26 99 33 89 73 89 47 99 39 
+49 26 92 41 89 79 5 4 61 71 22 94 22 27 24 27 32 95 91 9 
+
+Ordenação por dueDates - Solução Inicial:
+(17, 96)
+(2, 106)
+(10, 109)
+(11, 131)
+(14, 133)
+(13, 135)
+(5, 152)
+(15, 161)
+(12, 169)
+(20, 202)
+(16, 204)
+(8, 211)
+(18, 222)
+(7, 223)
+(4, 229)
+(1, 240)
+(3, 250)
+(9, 272)
+(19, 277)
+(6, 287)
+
+Calculo do completion time:
+89 121 
+158.644 203.913 
+312.77 483.754 
+327.928 550.446 
+447.516 648.291 
+862.62 954.865 
+1194.65 1616.8 
+1664.39 1791.07 
+1815.18 2360.34 
+2061.26 2417.13 
+2558.35 2742.2 
+3010.97 3040.17 
+3376.78 4116.18 
+3773.19 4157.47 
+4515 4872.81 
+4551.75 5323.1 
+5352.39 6239.85 
+5847.18 6855.8 
+6891.03 7850.53 
+7660.02 8718.39 
+Sequência de Tarefas - Solução Final
+17 2 10 11 14 13 5 15 12 20 16 8 18 7 4 1 3 9 19 6 
+
+Atraso Máximo da solução: 8431.39
+
+Squencia que diminui o atraso Maximo:
+Novo Atraso = 7756.42
+3 13 11 4 6 9 14 7 17 8 5 20 2 18 12 19 15 10 16 1 
+
+Squencia que diminui o atraso Maximo:
+Novo Atraso = 7528.34
+18 8 15 14 19 5 6 20 9 10 3 7 1 12 2 16 17 11 4 13 
+
+Squencia que diminui o atraso Maximo:
+Novo Atraso = 7464.8
+16 19 4 2 12 8 7 13 9 10 18 6 14 1 3 20 5 11 15 17 
+
+Squencia que diminui o atraso Maximo:
+Novo Atraso = 7356.78
+5 3 14 17 11 12 16 9 4 10 13 7 6 18 8 19 15 1 2 20 
+
+Squencia que diminui o atraso Maximo:
+Novo Atraso = 7235.11
+17 18 12 15 19 4 6 8 5 7 20 9 1 3 11 10 13 14 16 2 
+
+Squencia que diminui o atraso Maximo:
+Novo Atraso = 7191.4
+7 8 9 5 17 19 18 16 6 3 14 10 4 12 2 15 1 11 20 13 
+
+Squencia que diminui o atraso Maximo:
+Novo Atraso = 7077.34
+13 17 19 6 1 4 20 14 5 9 3 18 10 11 2 16 7 15 12 8 
+Atraso Máximo: 7077.34
+Tempo: 0.001456 segundos

@@ -1,0 +1,50 @@
+Máquinas: 5
+Tarefas: 5
+
+Datas de Entrega:
+50
+67
+58
+44
+42
+
+Tempos de Processamento:
+82 72 3 20 82 
+25 53 48 4 44 
+14 95 44 85 36 
+45 82 47 30 87 
+65 93 16 55 7 
+
+Ordenação por dueDates - Solução Inicial:
+(5, 0.820312)
+(2, 0.848101)
+(1, 1.08225)
+(4, 1.13402)
+(3, 1.83544)
+
+Calculo do completion time:
+82 126 162 249 256 
+154 207 302 384 477 
+236 261 316 429 542 
+256 265 401 459 597 
+259 313 445 506 613 
+Sequência de Tarefas - Solução Final
+5 2 1 4 3 
+
+Squencia que diminui o atraso Maximo:
+Novo Atraso = 515
+5 4 3 1 2 
+
+Squencia que diminui o atraso Maximo:
+Novo Atraso = 512
+2 5 1 4 3 
+
+Squencia que diminui o atraso Maximo:
+Novo Atraso = 480
+2 1 5 4 3 
+
+Squencia que diminui o atraso Maximo:
+Novo Atraso = 465
+4 3 1 2 5 
+Atraso Máximo: 465
+Tempo: 0.000711 segundos
