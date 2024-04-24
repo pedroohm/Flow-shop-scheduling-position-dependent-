@@ -4,7 +4,7 @@
 input_dir="Entradas"
 
 # Compilando o programa
-g++ -o programa main.cpp
+g++ -o programa main.cpp -g
 
 # Verificando se a compilação teve sucesso
 if [ $? -ne 0 ]; then
@@ -15,5 +15,5 @@ fi
 # Loop pelos arquivos de entrada
 for input_file in $input_dir/*.txt; do
     echo "Testando arquivo: $input_file"
-    ./programa < "$input_file" >./Testes08M/$(basename "$input_file")
+    valgrind --leak-check=full ./programa < "$input_file" >./teste/$(basename "$input_file")
 done

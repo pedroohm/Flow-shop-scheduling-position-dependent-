@@ -12,7 +12,7 @@
 #include "Libs/RVND.h"
 #include "Libs/destructConstruct.h"
 
-void calculaTP(int n, int m, std::vector<std::vector<int>> processingTimes, std::vector<std::vector<std::vector<float>>> &TP, float alpha){
+void calculaTP(const int n, const int m, std::vector<std::vector<int>> &processingTimes, std::vector<std::vector<std::vector<float>>> &TP, float alpha){
     for(int j=0; j<n; j++){
         for(int i=0; i<m; i++){
             for(int k=0; k<n; k++){
@@ -22,7 +22,13 @@ void calculaTP(int n, int m, std::vector<std::vector<int>> processingTimes, std:
     }
 }
 
-void calculaCompletionTime(int n, int m, std::vector<int> sequenciaTarefas, std::vector<std::vector<std::vector<float>>> &TP, std::vector<std::vector<float>> &compTime){
+void calculaCompletionTime(const int n, const int m, std::vector<int> &sequenciaTarefas, const std::vector<std::vector<std::vector<float>>> &TP, std::vector<std::vector<float>> &compTime){
+    compTime.resize(n + 1, std::vector<float>(m + 1));
+    for (int i = 0; i <= m; ++i)
+        compTime[0][i] = 0;
+    for (int k = 0; k <= n; ++k)
+        compTime[k][0] = 0;
+    
     for(int k=1; k<=n; k++){
         for(int i=1; i<=m; i++){
             compTime[k][i] = std::max(compTime[k-1][i], compTime[k][i-1]) + TP[sequenciaTarefas[k-1]][i-1][k-1];
@@ -30,7 +36,7 @@ void calculaCompletionTime(int n, int m, std::vector<int> sequenciaTarefas, std:
     }
 }
 
-float atrasoMaximo(int n, int m, std::vector<int> sequenciaTarefas, std::vector<std::vector<float>> compTime, std::vector<int> dueDates){
+float atrasoMaximo(const int n, const int m, std::vector<int> &sequenciaTarefas, std::vector<std::vector<float>> &compTime, const std::vector<int> &dueDates){
     float atraso = 0;
     for(int k=0; k<n; k++){
         atraso = compTime[k+1][m] - dueDates[sequenciaTarefas[k]];
@@ -38,9 +44,8 @@ float atrasoMaximo(int n, int m, std::vector<int> sequenciaTarefas, std::vector<
     return atraso;
 }
 
-std::vector<std::pair<float, int>> ordemTarefas(int n, int m, std::vector<int> dueDates, std::vector<std::vector<int>> processingTimes, int param){
-    std::vector<std::pair<float, int>> temposMedios(n, std::pair<float, int>(0.0f, 0));
-    
+std::vector<std::pair<float, int>> ordemTarefas(const int n, const int m, std::vector<int> &dueDates, std::vector<std::vector<int>> &processingTimes, const int param){
+    std::vector<std::pair<float, int>> temposMedios(n, std::pair<float, int>(0.0f, 0)); 
     if (param ==1){
         for(int j=0; j<n; j++){
             float soma = 0;
@@ -48,8 +53,7 @@ std::vector<std::pair<float, int>> ordemTarefas(int n, int m, std::vector<int> d
                 soma += processingTimes[i][j];
             }
             float p_medio = soma / m;
-            temposMedios[j] = std::make_pair((dueDates[j] / p_medio), j);
-            
+            temposMedios[j] = std::make_pair((dueDates[j] / p_medio), j);       
         }
     } else {
         for(int j=0; j<n; j++)
@@ -58,6 +62,45 @@ std::vector<std::pair<float, int>> ordemTarefas(int n, int m, std::vector<int> d
 
     std::sort(temposMedios.begin(), temposMedios.end());
     return temposMedios;
+}
+
+std::vector<int> destructConstruct(std::vector<int> sequencia, std::vector<std::vector<float>> &completionTime, int d, int n, int m, std::vector<int> dueDates, std::vector<std::vector<int>> processingTimes, std::vector<std::vector<std::vector<float>>> TP, float alpha){
+    std::vector<int> seqParcial(sequencia);
+    std::vector<int> deletados;
+
+    // Processo de destruição
+    std::random_device rd;
+    std::uniform_int_distribution<int> dist(0, seqParcial.size()-1);
+    int pos = dist(rd); // define qual posicao será excluida
+    while (d>0){        
+        deletados.push_back(seqParcial[pos]); // armazena o elemento que será excluído
+        seqParcial.erase(seqParcial.begin() + pos);
+        d--;
+        std::uniform_int_distribution<int> dist(0, seqParcial.size()-1);
+        pos = dist(rd); // define qual posicao será excluida
+    }
+
+    // Processo de construção
+    for(int i=0; i<deletados.size(); i++){
+        float menorAtraso = INT_MAX;
+        int pos = 0;
+        std::vector<int> seqParcialAux;
+        for(int j=0; j<seqParcial.size(); j++){
+            seqParcialAux = seqParcial;
+            seqParcialAux.insert(seqParcialAux.begin() + j, deletados[i]);
+            completionTime.resize(seqParcialAux.size()+1, std::vector<float>(m+1, 0));
+            calculaCompletionTime(seqParcialAux.size(), m, seqParcialAux, TP, completionTime);
+
+            float atrasoAux = atrasoMaximo(seqParcialAux.size(), m, seqParcialAux, completionTime, dueDates);
+            if(atrasoAux < menorAtraso){
+                menorAtraso = atrasoAux;
+                pos = j;
+            }
+        }
+        seqParcial.insert(seqParcial.begin() + pos, deletados[i]);
+    }
+
+    return seqParcial;
 }
 
 int main(){
@@ -187,6 +230,18 @@ int main(){
     std::cout << "\nTempo: " << duration.count()/1000000.0 << " segundos\n";
     //-------------------------------------------------------//
 
+
+    //std::vector<std::vector<float>> completionAux(n, std::vector<float>(m+1, 0)); //usar uma só ta dando merda.
+    //calculaCompletionTime(n, m, solucao, TP, completionAux);
+    std::cout << "\n\nTeste da função destruir e construir " << std::endl;
+    int d = 0.4*n;
+    std::vector<int> seqParcial = destructConstruct(solucao, compTime, d, n, m, dueDates, processingTimes, TP, alpha);
+    std::cout << "\nSequência de tarefas após destruir e construir: " << std::endl;
+    for(int j=0; j<n; j++)
+        std::cout<<seqParcial[j]+1<<" ";
+    std::cout << std::endl;
+    float atraso = atrasoMaximo(n, m, seqParcial, compTime, dueDates);
+    std::cout << "Atraso máximo após destruir e construir: " << atraso << std::endl;
 
     return 0;
 
