@@ -1,0 +1,47 @@
+Máquinas: 2
+Tarefas: 5
+
+Datas de Entrega:
+97
+102
+92
+93
+93
+
+Tempos de Processamento:
+95 61 10 57 16 
+100 83 95 7 8 
+
+Ordenação por dueDates - Solução Inicial:
+(1, 0.994872)
+(2, 1.41667)
+(3, 1.75238)
+(4, 2.90625)
+(5, 7.75)
+
+Completion Time da Solução Inicial
+95 195 
+201.207 345.719 
+225.289 574.5 
+398.081 595.72 
+456.063 624.711 
+
+
+Sequência de Tarefas - Solução Inicial
+1 2 3 4 5 
+
+Atraso Máximo da solução inicial: 531.711
+
+
+Completion Time da Solução Final
+10 105 
+175.405 349.515 
+322.306 549.397 
+495.098 570.617 
+553.08 599.609 
+
+Atraso Máximo Iterated Greedy (IG): 506.609
+Sequência de Tarefas - Solução Final IG
+3 1 2 4 5 
+
+Tempo: 0.001859 segundos

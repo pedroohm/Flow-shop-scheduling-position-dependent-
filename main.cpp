@@ -39,7 +39,9 @@ void calculaCompletionTime(const int n, const int m, std::vector<int> &sequencia
 float atrasoMaximo(const int n, const int m, std::vector<int> &sequenciaTarefas, std::vector<std::vector<float>> &compTime, const std::vector<int> &dueDates){
     float atraso = 0;
     for(int k=0; k<n; k++){
-        atraso = compTime[k+1][m] - dueDates[sequenciaTarefas[k]];
+        float newAtraso = compTime[k+1][m] - dueDates[sequenciaTarefas[k]];
+        if (newAtraso > atraso)
+            atraso = newAtraso;
     }
     return atraso;
 }
@@ -77,7 +79,7 @@ std::vector<int> destructConstruct(std::vector<int> sequencia, std::vector<std::
         seqParcial.erase(seqParcial.begin() + pos);
         d--;
         std::uniform_int_distribution<int> dist(0, seqParcial.size()-1);
-        pos = dist(rd); // define qual posicao será excluida
+        pos = dist(rd); // qual a proxima posicao a excluir
     }
 
     // Processo de construção
@@ -164,7 +166,6 @@ int main(){
     
     // Armazenando a sequência de tarefas
     for(int j=0; j<n; j++) sequenciaTarefas[j] = temposMedios[j].second;
-
     
     std::cout<<"\nOrdenação por dueDates - Solução Inicial:\n";
     for(int j=0; j<n; j++){
@@ -175,28 +176,65 @@ int main(){
    std::vector<std::vector<float>> compTime(n+1, std::vector<float>(m+1, 0));
    calculaCompletionTime(n, m, sequenciaTarefas, TP, compTime);
 
-    /*
-    //Impressão do completion time
-    std::cout << "\nCalculo do completion time:\n";
+
+    std::cout << "\nCompletion Time da Solução Inicial\n";
     for(int k=1; k<=n; k++){
         for(int i=1; i<=m; i++){
             std::cout << compTime[k][i] << " ";
         }
         std::cout << "\n";
     }
-    */
+    std::cout << "\n\n";
 
-    std::cout<<"Sequência de Tarefas - Solução Final\n";
+    std::cout<<"Sequência de Tarefas - Solução Inicial\n";
     for(int j=0; j<n; j++)
         std::cout<<sequenciaTarefas[j]+1<<" ";
     std::cout<<"\n";
-    
-    float atraso_maximo = atrasoMaximo(n, m, sequenciaTarefas, compTime, dueDates);
-
-    std::cout << "\nAtraso Máximo da solução: " << atraso_maximo << "\n";
-
     std::vector<int> solucao(sequenciaTarefas);
 
+    float atraso_maximo = atrasoMaximo(n, m, solucao, compTime, dueDates);
+    std::cout << "\nAtraso Máximo da solução inicial: " << atraso_maximo << "\n";
+
+    //-------------------------------------------------------//
+    // Iterated Greedy
+    std::vector<int> pi0(solucao);
+    std::vector<int> piBest(solucao);
+    int i = 0;
+    while (i<50){
+        //chamada de constructDestruct removendo 40% das tarefas
+        std::vector<int> pi1(destructConstruct(solucao, compTime, 0.4*n, n, m, dueDates, processingTimes, TP, alpha));
+        calculaCompletionTime(n, m, pi1, TP, compTime);
+        float atrasoPi1 = atrasoMaximo(n, m, pi1, compTime, dueDates);
+        if (atrasoPi1 < atraso_maximo){
+            atraso_maximo = atrasoPi1;
+            solucao = pi1;
+            i = 0;
+        }
+        i++;
+    }
+    std::cout << "\n\nCompletion Time da Solução Final\n";
+    for(int k=1; k<=n; k++){
+        for(int i=1; i<=m; i++){
+            std::cout << compTime[k][i] << " ";
+        }
+        std::cout << "\n";
+    }
+    std::cout << "\n";
+
+    std::cout<< "Atraso Máximo Iterated Greedy (IG): "<< atraso_maximo;
+    std::cout << "\nSequência de Tarefas - Solução Final IG\n";
+    for(int j=0; j<n; j++) std::cout<<solucao[j]+1<<" ";
+    std::cout<<"\n";
+
+    //-------------------------------------------------------//
+    auto stop = std::chrono::high_resolution_clock::now();
+    auto duration = std::chrono::duration_cast<std::chrono::microseconds>(stop - start);
+ 
+    std::cout << "\nTempo: " << duration.count()/1000000.0 << " segundos\n";
+    //-------------------------------------------------------//
+    
+
+    /*
     // Procura melhores soluções aleatórias que diminuam o atraso máximo
     for(int i=0; i<100; i++){
 
@@ -221,16 +259,6 @@ int main(){
         }
     }
 
-    //-------------------------------------------------------//
-    std::cout<<"Atraso Máximo: "<<atraso_maximo;
-
-    auto stop = std::chrono::high_resolution_clock::now();
-    auto duration = std::chrono::duration_cast<std::chrono::microseconds>(stop - start);
- 
-    std::cout << "\nTempo: " << duration.count()/1000000.0 << " segundos\n";
-    //-------------------------------------------------------//
-
-
     //std::vector<std::vector<float>> completionAux(n, std::vector<float>(m+1, 0)); //usar uma só ta dando merda.
     //calculaCompletionTime(n, m, solucao, TP, completionAux);
     std::cout << "\n\nTeste da função destruir e construir " << std::endl;
@@ -242,6 +270,8 @@ int main(){
     std::cout << std::endl;
     float atraso = atrasoMaximo(n, m, seqParcial, compTime, dueDates);
     std::cout << "Atraso máximo após destruir e construir: " << atraso << std::endl;
+
+    */
 
     return 0;
 
