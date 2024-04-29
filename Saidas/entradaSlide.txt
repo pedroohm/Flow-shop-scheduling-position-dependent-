@@ -1,0 +1,185 @@
+
+Sequência de Tarefas - Solução Inicial
+1 3 2 4 
+
+Atraso Máximo da solução inicial: 86.5116
+
+Atraso Máximo DestructConstruct: 86.5116
+Atraso Máximo Calculado: 86.5116
+
+Atraso Máximo DestructConstruct: 70.728
+Atraso Máximo Calculado: 70.728
+
+Atraso Máximo DestructConstruct: 70.728
+Atraso Máximo Calculado: 70.728
+
+Atraso Máximo DestructConstruct: 70.728
+Atraso Máximo Calculado: 70.728
+
+Atraso Máximo DestructConstruct: 70.728
+Atraso Máximo Calculado: 70.728
+
+Atraso Máximo DestructConstruct: 76.9491
+Atraso Máximo Calculado: 76.9491
+
+Atraso Máximo DestructConstruct: 76.9491
+Atraso Máximo Calculado: 76.9491
+
+Atraso Máximo DestructConstruct: 65.9814
+Atraso Máximo Calculado: 65.9814
+
+Atraso Máximo DestructConstruct: 65.9814
+Atraso Máximo Calculado: 65.9814
+
+Atraso Máximo DestructConstruct: 65.9814
+Atraso Máximo Calculado: 65.9814
+
+Atraso Máximo DestructConstruct: 65.9814
+Atraso Máximo Calculado: 65.9814
+
+Atraso Máximo DestructConstruct: 65.9814
+Atraso Máximo Calculado: 65.9814
+
+Atraso Máximo DestructConstruct: 70.728
+Atraso Máximo Calculado: 70.728
+
+Atraso Máximo DestructConstruct: 70.728
+Atraso Máximo Calculado: 70.728
+
+Atraso Máximo DestructConstruct: 70.728
+Atraso Máximo Calculado: 70.728
+
+Atraso Máximo DestructConstruct: 70.728
+Atraso Máximo Calculado: 70.728
+
+Atraso Máximo DestructConstruct: 76.9491
+Atraso Máximo Calculado: 76.9491
+
+Atraso Máximo DestructConstruct: 76.9491
+Atraso Máximo Calculado: 76.9491
+
+Atraso Máximo DestructConstruct: 65.9814
+Atraso Máximo Calculado: 65.9814
+
+Atraso Máximo DestructConstruct: 65.9814
+Atraso Máximo Calculado: 65.9814
+
+Atraso Máximo DestructConstruct: 65.9814
+Atraso Máximo Calculado: 65.9814
+
+Atraso Máximo DestructConstruct: 65.9814
+Atraso Máximo Calculado: 65.9814
+
+Atraso Máximo DestructConstruct: 65.9814
+Atraso Máximo Calculado: 65.9814
+
+Atraso Máximo DestructConstruct: 65.9814
+Atraso Máximo Calculado: 65.9814
+
+Atraso Máximo DestructConstruct: 65.9814
+Atraso Máximo Calculado: 65.9814
+
+Atraso Máximo DestructConstruct: 65.9814
+Atraso Máximo Calculado: 65.9814
+
+Atraso Máximo DestructConstruct: 65.9814
+Atraso Máximo Calculado: 65.9814
+
+Atraso Máximo DestructConstruct: 70.728
+Atraso Máximo Calculado: 70.728
+
+Atraso Máximo DestructConstruct: 70.728
+Atraso Máximo Calculado: 70.728
+
+Atraso Máximo DestructConstruct: 70.728
+Atraso Máximo Calculado: 70.728
+
+Atraso Máximo DestructConstruct: 70.728
+Atraso Máximo Calculado: 70.728
+
+Atraso Máximo DestructConstruct: 70.728
+Atraso Máximo Calculado: 70.728
+
+Atraso Máximo DestructConstruct: 70.728
+Atraso Máximo Calculado: 70.728
+
+Atraso Máximo DestructConstruct: 70.728
+Atraso Máximo Calculado: 70.728
+
+Atraso Máximo DestructConstruct: 70.728
+Atraso Máximo Calculado: 70.728
+
+Atraso Máximo DestructConstruct: 70.728
+Atraso Máximo Calculado: 70.728
+
+Atraso Máximo DestructConstruct: 70.728
+Atraso Máximo Calculado: 70.728
+
+Atraso Máximo DestructConstruct: 70.728
+Atraso Máximo Calculado: 70.728
+
+Atraso Máximo DestructConstruct: 70.728
+Atraso Máximo Calculado: 70.728
+
+Atraso Máximo DestructConstruct: 70.728
+Atraso Máximo Calculado: 70.728
+
+Atraso Máximo DestructConstruct: 70.728
+Atraso Máximo Calculado: 70.728
+
+Atraso Máximo DestructConstruct: 70.728
+Atraso Máximo Calculado: 70.728
+
+Atraso Máximo DestructConstruct: 76.9491
+Atraso Máximo Calculado: 76.9491
+
+Atraso Máximo DestructConstruct: 76.9491
+Atraso Máximo Calculado: 76.9491
+
+Atraso Máximo DestructConstruct: 76.9491
+Atraso Máximo Calculado: 76.9491
+
+Atraso Máximo DestructConstruct: 76.9491
+Atraso Máximo Calculado: 76.9491
+
+Atraso Máximo DestructConstruct: 76.9491
+Atraso Máximo Calculado: 76.9491
+
+Atraso Máximo DestructConstruct: 76.9491
+Atraso Máximo Calculado: 76.9491
+
+Atraso Máximo DestructConstruct: 76.9491
+Atraso Máximo Calculado: 76.9491
+
+Atraso Máximo DestructConstruct: 76.9491
+Atraso Máximo Calculado: 76.9491
+
+Atraso Máximo DestructConstruct: 76.9491
+Atraso Máximo Calculado: 76.9491
+
+Atraso Máximo DestructConstruct: 76.9491
+Atraso Máximo Calculado: 76.9491
+
+Atraso Máximo DestructConstruct: 76.9491
+Atraso Máximo Calculado: 76.9491
+
+Atraso Máximo DestructConstruct: 76.9491
+Atraso Máximo Calculado: 76.9491
+
+Atraso Máximo DestructConstruct: 76.9491
+Atraso Máximo Calculado: 76.9491
+
+Atraso Máximo DestructConstruct: 65.9814
+Atraso Máximo Calculado: 65.9814
+
+Atraso Máximo DestructConstruct: 70.728
+Atraso Máximo Calculado: 70.728
+
+Atraso Máximo DestructConstruct: 76.9491
+Atraso Máximo Calculado: 76.9491
+
+Atraso Máximo Iterated Greedy (IG): 65.9814
+Sequência de Tarefas - Solução Final IG
+1 3 4 2 
+
+Tempo: 0.0008 segundos

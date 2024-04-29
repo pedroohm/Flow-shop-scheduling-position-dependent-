@@ -17,5 +17,5 @@ for input_file in $input_dir/*.txt; do
         continue
     fi
     echo "Testando arquivo: $input_file"
-    ./programa < "$input_file" > ./teste/$(basename "$input_file")
+    ./programa < "$input_file" > ./Saidas/$(basename "$input_file")
 done

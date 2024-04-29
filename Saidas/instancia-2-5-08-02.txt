@@ -1,0 +1,302 @@
+
+Sequência de Tarefas - Solução Inicial
+1 2 3 4 5 
+
+Atraso Máximo da solução inicial: 593.711
+
+Atraso Máximo DestructConstruct: 568.609
+Atraso Máximo Calculado: 568.609
+
+Atraso Máximo DestructConstruct: 570.739
+Atraso Máximo Calculado: 570.739
+
+Atraso Máximo DestructConstruct: 568.609
+Atraso Máximo Calculado: 568.609
+
+Atraso Máximo DestructConstruct: 568.609
+Atraso Máximo Calculado: 568.609
+
+Atraso Máximo DestructConstruct: 568.609
+Atraso Máximo Calculado: 568.609
+
+Atraso Máximo DestructConstruct: 568.609
+Atraso Máximo Calculado: 568.609
+
+Atraso Máximo DestructConstruct: 568.609
+Atraso Máximo Calculado: 568.609
+
+Atraso Máximo DestructConstruct: 568.609
+Atraso Máximo Calculado: 568.609
+
+Atraso Máximo DestructConstruct: 570.739
+Atraso Máximo Calculado: 570.739
+
+Atraso Máximo DestructConstruct: 570.739
+Atraso Máximo Calculado: 570.739
+
+Atraso Máximo DestructConstruct: 570.739
+Atraso Máximo Calculado: 570.739
+
+Atraso Máximo DestructConstruct: 570.739
+Atraso Máximo Calculado: 570.739
+
+Atraso Máximo DestructConstruct: 570.739
+Atraso Máximo Calculado: 570.739
+
+Atraso Máximo DestructConstruct: 568.609
+Atraso Máximo Calculado: 568.609
+
+Atraso Máximo DestructConstruct: 568.609
+Atraso Máximo Calculado: 568.609
+
+Atraso Máximo DestructConstruct: 568.609
+Atraso Máximo Calculado: 568.609
+
+Atraso Máximo DestructConstruct: 568.609
+Atraso Máximo Calculado: 568.609
+
+Atraso Máximo DestructConstruct: 568.609
+Atraso Máximo Calculado: 568.609
+
+Atraso Máximo DestructConstruct: 570.739
+Atraso Máximo Calculado: 570.739
+
+Atraso Máximo DestructConstruct: 570.739
+Atraso Máximo Calculado: 570.739
+
+Atraso Máximo DestructConstruct: 570.739
+Atraso Máximo Calculado: 570.739
+
+Atraso Máximo DestructConstruct: 568.609
+Atraso Máximo Calculado: 568.609
+
+Atraso Máximo DestructConstruct: 568.609
+Atraso Máximo Calculado: 568.609
+
+Atraso Máximo DestructConstruct: 570.739
+Atraso Máximo Calculado: 570.739
+
+Atraso Máximo DestructConstruct: 577.906
+Atraso Máximo Calculado: 577.906
+
+Atraso Máximo DestructConstruct: 579.498
+Atraso Máximo Calculado: 579.498
+
+Atraso Máximo DestructConstruct: 568.609
+Atraso Máximo Calculado: 568.609
+
+Atraso Máximo DestructConstruct: 570.739
+Atraso Máximo Calculado: 570.739
+
+Atraso Máximo DestructConstruct: 570.739
+Atraso Máximo Calculado: 570.739
+
+Atraso Máximo DestructConstruct: 570.739
+Atraso Máximo Calculado: 570.739
+
+Atraso Máximo DestructConstruct: 570.739
+Atraso Máximo Calculado: 570.739
+
+Atraso Máximo DestructConstruct: 570.739
+Atraso Máximo Calculado: 570.739
+
+Atraso Máximo DestructConstruct: 570.739
+Atraso Máximo Calculado: 570.739
+
+Atraso Máximo DestructConstruct: 570.739
+Atraso Máximo Calculado: 570.739
+
+Atraso Máximo DestructConstruct: 568.609
+Atraso Máximo Calculado: 568.609
+
+Atraso Máximo DestructConstruct: 570.739
+Atraso Máximo Calculado: 570.739
+
+Atraso Máximo DestructConstruct: 568.609
+Atraso Máximo Calculado: 568.609
+
+Atraso Máximo DestructConstruct: 570.739
+Atraso Máximo Calculado: 570.739
+
+Atraso Máximo DestructConstruct: 577.906
+Atraso Máximo Calculado: 577.906
+
+Atraso Máximo DestructConstruct: 757.669
+Atraso Máximo Calculado: 757.669
+
+Atraso Máximo DestructConstruct: 579.498
+Atraso Máximo Calculado: 579.498
+
+Atraso Máximo DestructConstruct: 568.609
+Atraso Máximo Calculado: 568.609
+
+Atraso Máximo DestructConstruct: 570.739
+Atraso Máximo Calculado: 570.739
+
+Atraso Máximo DestructConstruct: 568.609
+Atraso Máximo Calculado: 568.609
+
+Atraso Máximo DestructConstruct: 568.609
+Atraso Máximo Calculado: 568.609
+
+Atraso Máximo DestructConstruct: 570.739
+Atraso Máximo Calculado: 570.739
+
+Atraso Máximo DestructConstruct: 567.846
+Atraso Máximo Calculado: 567.846
+
+Atraso Máximo DestructConstruct: 577.906
+Atraso Máximo Calculado: 577.906
+
+Atraso Máximo DestructConstruct: 570.739
+Atraso Máximo Calculado: 570.739
+
+Atraso Máximo DestructConstruct: 570.739
+Atraso Máximo Calculado: 570.739
+
+Atraso Máximo DestructConstruct: 570.739
+Atraso Máximo Calculado: 570.739
+
+Atraso Máximo DestructConstruct: 567.846
+Atraso Máximo Calculado: 567.846
+
+Atraso Máximo DestructConstruct: 567.846
+Atraso Máximo Calculado: 567.846
+
+Atraso Máximo DestructConstruct: 570.739
+Atraso Máximo Calculado: 570.739
+
+Atraso Máximo DestructConstruct: 567.846
+Atraso Máximo Calculado: 567.846
+
+Atraso Máximo DestructConstruct: 569.438
+Atraso Máximo Calculado: 569.438
+
+Atraso Máximo DestructConstruct: 568.609
+Atraso Máximo Calculado: 568.609
+
+Atraso Máximo DestructConstruct: 567.846
+Atraso Máximo Calculado: 567.846
+
+Atraso Máximo DestructConstruct: 570.739
+Atraso Máximo Calculado: 570.739
+
+Atraso Máximo DestructConstruct: 568.609
+Atraso Máximo Calculado: 568.609
+
+Atraso Máximo DestructConstruct: 568.609
+Atraso Máximo Calculado: 568.609
+
+Atraso Máximo DestructConstruct: 852.018
+Atraso Máximo Calculado: 852.018
+
+Atraso Máximo DestructConstruct: 568.609
+Atraso Máximo Calculado: 568.609
+
+Atraso Máximo DestructConstruct: 568.609
+Atraso Máximo Calculado: 568.609
+
+Atraso Máximo DestructConstruct: 570.739
+Atraso Máximo Calculado: 570.739
+
+Atraso Máximo DestructConstruct: 568.609
+Atraso Máximo Calculado: 568.609
+
+Atraso Máximo DestructConstruct: 568.609
+Atraso Máximo Calculado: 568.609
+
+Atraso Máximo DestructConstruct: 568.609
+Atraso Máximo Calculado: 568.609
+
+Atraso Máximo DestructConstruct: 570.739
+Atraso Máximo Calculado: 570.739
+
+Atraso Máximo DestructConstruct: 570.739
+Atraso Máximo Calculado: 570.739
+
+Atraso Máximo DestructConstruct: 570.739
+Atraso Máximo Calculado: 570.739
+
+Atraso Máximo DestructConstruct: 568.609
+Atraso Máximo Calculado: 568.609
+
+Atraso Máximo DestructConstruct: 570.739
+Atraso Máximo Calculado: 570.739
+
+Atraso Máximo DestructConstruct: 568.609
+Atraso Máximo Calculado: 568.609
+
+Atraso Máximo DestructConstruct: 568.609
+Atraso Máximo Calculado: 568.609
+
+Atraso Máximo DestructConstruct: 568.609
+Atraso Máximo Calculado: 568.609
+
+Atraso Máximo DestructConstruct: 568.609
+Atraso Máximo Calculado: 568.609
+
+Atraso Máximo DestructConstruct: 570.739
+Atraso Máximo Calculado: 570.739
+
+Atraso Máximo DestructConstruct: 570.739
+Atraso Máximo Calculado: 570.739
+
+Atraso Máximo DestructConstruct: 852.018
+Atraso Máximo Calculado: 852.018
+
+Atraso Máximo DestructConstruct: 568.609
+Atraso Máximo Calculado: 568.609
+
+Atraso Máximo DestructConstruct: 570.739
+Atraso Máximo Calculado: 570.739
+
+Atraso Máximo DestructConstruct: 842.537
+Atraso Máximo Calculado: 842.537
+
+Atraso Máximo DestructConstruct: 757.669
+Atraso Máximo Calculado: 757.669
+
+Atraso Máximo DestructConstruct: 757.669
+Atraso Máximo Calculado: 757.669
+
+Atraso Máximo DestructConstruct: 579.498
+Atraso Máximo Calculado: 579.498
+
+Atraso Máximo DestructConstruct: 570.739
+Atraso Máximo Calculado: 570.739
+
+Atraso Máximo DestructConstruct: 567.846
+Atraso Máximo Calculado: 567.846
+
+Atraso Máximo DestructConstruct: 567.846
+Atraso Máximo Calculado: 567.846
+
+Atraso Máximo DestructConstruct: 567.846
+Atraso Máximo Calculado: 567.846
+
+Atraso Máximo DestructConstruct: 567.846
+Atraso Máximo Calculado: 567.846
+
+Atraso Máximo DestructConstruct: 567.846
+Atraso Máximo Calculado: 567.846
+
+Atraso Máximo DestructConstruct: 922.749
+Atraso Máximo Calculado: 922.749
+
+Atraso Máximo DestructConstruct: 922.749
+Atraso Máximo Calculado: 922.749
+
+Atraso Máximo DestructConstruct: 922.749
+Atraso Máximo Calculado: 922.749
+
+Atraso Máximo DestructConstruct: 738.488
+Atraso Máximo Calculado: 738.488
+
+Atraso Máximo DestructConstruct: 568.609
+Atraso Máximo Calculado: 568.609
+
+Atraso Máximo Iterated Greedy (IG): 567.846
+Sequência de Tarefas - Solução Final IG
+2 3 1 5 4 
+
+Tempo: 0.002045 segundos
