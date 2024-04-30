@@ -123,11 +123,65 @@ std::pair<std::vector<int>, double> destructConstruct(std::vector<int> &sequenci
     }
     
     //retornar um par sendo a sequencia e o menorAtraso
-    std::cout << "\nAtraso Máximo DestructConstruct: " << menorAtraso << "\n";
     return std::make_pair(sequencia, menorAtraso);
 }
 
+std::pair<std::vector<int>, double> generateNeighbors(std::vector<int> &sequencia, double melhorAtraso, int n, int m, std::vector<std::vector<double>> &completionTime, std::vector<int> dueDates, const std::vector<std::vector<int>> &processingTimes, const std::vector<std::vector<std::vector<double>>> &TP){
+    std::vector<int> vizinho(n);
+    std::vector<int> melhorVizinho(n);
+    
+    int distancia = n/2;
 
+    for(int job = 0; job < n; job++){
+        for(int pos = 0; pos < n; pos++){
+            // && std::abs(job-pos)<distancia 
+            if (job != pos && pos != (job-1) && std::abs(job-pos)<distancia){
+                int k, j;
+                k = j = 0;
+
+                while(k < n){
+                    if (j!=job){
+                        if(k == pos) 
+                            vizinho[k] = sequencia[job];
+                        else {
+                            vizinho[k] = sequencia[j];
+                            j++;
+                        }
+                        k++;
+                    }
+                    else j++;
+                } //fim while
+
+                calculaCompletionTime(n, m, vizinho, TP, completionTime);
+                double atraso = atrasoMaximo(n, m, vizinho, completionTime, dueDates);
+
+                if (atraso < melhorAtraso){
+                    melhorVizinho = vizinho;
+                    melhorAtraso = atraso;
+                }                
+            }
+            
+        }
+    }
+    //return bestNeighbor and its Tmax
+    return std::make_pair(melhorVizinho, melhorAtraso);
+}
+
+std::pair<std::vector<int>, double> buscaLocal(std::vector<int> &sequencia, double melhorAtraso, int n, int m, std::vector<std::vector<double>> &completionTime, std::vector<int> dueDates, const std::vector<std::vector<int>> &processingTimes, const std::vector<std::vector<std::vector<double>>> &TP){
+    bool melhora = true;
+
+    while(melhora){
+        melhora = false;
+        std::pair<std::vector<int>, double> sequenciaTmax = generateNeighbors(sequencia, melhorAtraso, n, m, completionTime, dueDates, processingTimes, TP);
+        if(sequenciaTmax.second < melhorAtraso){
+            melhorAtraso = sequenciaTmax.second;
+            sequencia = sequenciaTmax.first;
+            melhora = true;
+        }
+    }
+
+    return std::make_pair(sequencia, melhorAtraso);
+}
 
 int main(){
 
@@ -144,7 +198,8 @@ int main(){
 
     int d = n * 0.4; //Porcentagem de tarefas a serem removidas
 
-    std::vector<int> sequenciaTarefas(n); //Onde será armazenada a solução do problema
+
+    std::vector<int> solucao(n); //Onde será armazenada a solução do problema
 
     std::vector<int> dueDates(n, 0); //Datas de entregas dos jobs
 
@@ -177,49 +232,55 @@ int main(){
     temposMedios = ordemTarefas(n, m, dueDates, processingTimes, 1);
     
     // Armazenando a sequência de tarefas
-    for(int j=0; j<n; j++) sequenciaTarefas[j] = temposMedios[j].second;
+    for(int j=0; j<n; j++) solucao[j] = temposMedios[j].second;
     
      
     //Calculo do completion time para a solução inicial
     std::vector<std::vector<double>> compTime(n+1, std::vector<double>(m+1, 0));
-    calculaCompletionTime(n, m, sequenciaTarefas, TP, compTime);
+    calculaCompletionTime(n, m, solucao, TP, compTime);
 
     std::cout<<"\nSequência de Tarefas - Solução Inicial";
-    imprimeSequencia(sequenciaTarefas);
-
-    std::vector<int> solucao(sequenciaTarefas);
+    imprimeSequencia(solucao);
 
     double atraso_maximo = atrasoMaximo(n, m, solucao, compTime, dueDates);
     std::cout << "\nAtraso Máximo da solução inicial: " << atraso_maximo << "\n";
 
     //-------------------------------------------------------//
-    // Iterated Greedy
+    //                  Iterated Greedy
     std::vector<int> pi0(solucao);
-    std::vector<int> piBest(solucao);
+    std::pair<std::vector<int>, double> sequenceTmaxPi = buscaLocal(pi0, atraso_maximo, n, m, compTime, dueDates, processingTimes, TP);
+    std::vector<int> pi = sequenceTmaxPi.first;
+    double atrasoPi = sequenceTmaxPi.second;
+    
+    std::vector<int> piBest(pi);
+    double atrasoPiBest = atrasoPi;
+
     int i = 0;
-    //std::cout << "\nD: " << d;
     while (i<50){
         i++;
         
-        //chamada de constructDestruct removendo 40% das tarefas
-        std::pair<std::vector<int>, double> sequenceTmax = destructConstruct(pi0, compTime, d, n, m, dueDates, processingTimes, TP, alpha);
-        std::vector<int> pi1(sequenceTmax.first);
-        double atrasoPi1 = sequenceTmax.second;
+        //chamada de constructDestruct removendo d% das tarefas
+        std::pair<std::vector<int>, double> sequenceTmaxPi1 = destructConstruct(pi, compTime, d, n, m, dueDates, processingTimes, TP, alpha);
+        std::vector<int> pi1(sequenceTmaxPi1.first);
+        double atrasoPi1 = sequenceTmaxPi1.second;
 
-        // localSearch passando pi1
-        // pi2 = localSearch(pi1, atasoPi1)
-        // calcular atraso de pi2
-
-        if (atrasoPi1 < atraso_maximo){
-            atraso_maximo = atrasoPi1;
-            solucao = pi1;
-            i = 0;
-        }  
+        std::pair<std::vector<int>, double> sequenceTmaxPi2 = buscaLocal(pi1, atrasoPi1, n, m, compTime, dueDates, processingTimes, TP);
+        std::vector<int> pi2(sequenceTmaxPi2.first);
+        double atrasoPi2 = sequenceTmaxPi2.second;
+        atrasoPi = atrasoMaximo(n, m, pi, compTime, dueDates);
+        if (atrasoPi2 < atrasoPi){
+            pi = pi2;
+            if (atrasoPi < atrasoPiBest){
+                piBest = pi;
+                atrasoPiBest = atrasoPi;
+                i = 0;
+            }            
+        }
     }
 
-    std::cout<< "\nAtraso Máximo Iterated Greedy (IG): "<< atraso_maximo;
+    std::cout<< "\nAtraso Máximo Iterated Greedy (IG): "<< atrasoPiBest;
     std::cout << "\nSequência de Tarefas - Solução Final IG";
-    imprimeSequencia(solucao);
+    imprimeSequencia(piBest);
 
     //-------------------------------------------------------//
     auto stop = std::chrono::high_resolution_clock::now();
