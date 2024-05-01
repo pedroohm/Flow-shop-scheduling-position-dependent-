@@ -1,0 +1,16 @@
+
+Sequência de Tarefas - Solução Inicial EDD
+1 3 2 5 4 
+
+Atraso Máximo da solução inicial EDD: 577.906
+
+Sequência de Tarefas - Solução Inicial Heuristica
+1 2 3 4 5 
+
+Atraso Máximo da solução inicial heurística: 593.711
+
+Atraso Máximo Iterated Greedy (IG): 568.438
+Sequência de Tarefas - Solução Final IG
+2 3 1 5 4 
+
+Tempo: 0.001775 segundos

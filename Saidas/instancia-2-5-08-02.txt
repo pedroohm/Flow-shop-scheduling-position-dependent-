@@ -8,4 +8,4 @@ Atraso Máximo Iterated Greedy (IG): 568.438
 Sequência de Tarefas - Solução Final IG
 2 3 1 5 4 
 
-Tempo: 0.001684 segundos
+Tempo: 0.001806 segundos

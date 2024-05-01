@@ -4,8 +4,8 @@ Sequência de Tarefas - Solução Inicial
 
 Atraso Máximo da solução inicial: 7564.53
 
-Atraso Máximo Iterated Greedy (IG): 6973.58
+Atraso Máximo Iterated Greedy (IG): 6926.91
 Sequência de Tarefas - Solução Final IG
-4 6 10 12 1 11 8 19 5 2 20 9 13 17 14 15 7 16 3 18 
+12 4 10 6 19 1 11 14 15 2 5 20 7 8 13 17 9 16 3 18 
 
-Tempo: 0.425609 segundos
+Tempo: 0.596964 segundos
