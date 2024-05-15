@@ -4,13 +4,353 @@ Sequência de Tarefas - Solução Inicial EDD
 
 Atraso Máximo da solução inicial EDD: 85.2856
 
-Sequência de Tarefas - Solução Inicial Heuristica
+Sequência de Tarefas - Solução Inicial Tempos Medios
 1 3 2 4 
 
-Atraso Máximo da solução inicial heurística: 86.5116
+Atraso Máximo da solução inicial Tempos Medios: 86.5116
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Busca local - Novo atraso: 65.9814
+
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 1 - Atraso: 65.9814
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Busca local - Novo atraso: 69.5338
+
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Busca local - Novo atraso: 65.9814
+
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 2 - Atraso: 65.9814
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 3 - Atraso: 65.9814
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 4 - Atraso: 65.9814
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 5 - Atraso: 65.9814
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 6 - Atraso: 65.9814
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 7 - Atraso: 65.9814
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 8 - Atraso: 65.9814
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 9 - Atraso: 65.9814
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 10 - Atraso: 65.9814
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 11 - Atraso: 65.9814
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Busca local - Novo atraso: 69.5338
+
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Busca local - Novo atraso: 65.9814
+
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 12 - Atraso: 65.9814
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 13 - Atraso: 65.9814
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 14 - Atraso: 65.9814
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 15 - Atraso: 65.9814
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 16 - Atraso: 65.9814
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 17 - Atraso: 65.9814
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Busca local - Novo atraso: 69.5338
+
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Busca local - Novo atraso: 65.9814
+
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 18 - Atraso: 65.9814
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 19 - Atraso: 65.9814
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 20 - Atraso: 65.9814
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 21 - Atraso: 65.9814
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 22 - Atraso: 65.9814
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 23 - Atraso: 65.9814
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 24 - Atraso: 65.9814
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 25 - Atraso: 65.9814
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 26 - Atraso: 65.9814
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Busca local - Novo atraso: 69.5338
+
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Busca local - Novo atraso: 65.9814
+
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 27 - Atraso: 65.9814
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 28 - Atraso: 65.9814
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 29 - Atraso: 65.9814
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 30 - Atraso: 65.9814
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 31 - Atraso: 65.9814
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 32 - Atraso: 65.9814
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 33 - Atraso: 65.9814
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 34 - Atraso: 65.9814
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 35 - Atraso: 65.9814
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 36 - Atraso: 65.9814
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 37 - Atraso: 65.9814
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 38 - Atraso: 65.9814
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 39 - Atraso: 65.9814
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 40 - Atraso: 65.9814
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 41 - Atraso: 65.9814
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 42 - Atraso: 65.9814
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 43 - Atraso: 65.9814
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 44 - Atraso: 65.9814
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 45 - Atraso: 65.9814
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 46 - Atraso: 65.9814
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 47 - Atraso: 65.9814
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 48 - Atraso: 65.9814
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 49 - Atraso: 65.9814
+
+Entrando na Busca Local
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 50 - Atraso: 65.9814
 
 Atraso Máximo Iterated Greedy (IG): 65.9814
 Sequência de Tarefas - Solução Final IG
 1 3 4 2 
 
-Tempo: 0.000772 segundos
+Tempo: 0.000834 segundos

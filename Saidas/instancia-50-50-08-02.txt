@@ -1,4122 +1,3472 @@
 
 Sequência de Tarefas - Solução Inicial EDD
-34 14 7 13 39 20 27 40 44 38 32 17 23 25 37 12 21 28 43 24 36 18 46 49 11 2 19 31 30 16 1 33 42 22 45 26 6 41 5 29 15 8 3 35 9 50 4 48 10 47 
+22 27 9 15 38 25 34 14 42 4 18 40 21 28 5 32 45 10 30 31 46 13 36 1 8 23 26 41 19 20 24 33 2 50 37 43 35 3 7 12 29 39 11 48 16 17 49 6 47 44 
 
-Atraso Máximo da solução inicial EDD: 49702.4
+Atraso Máximo da solução inicial EDD: 109906
 
 Sequência de Tarefas - Solução Inicial Tempos Medios
-7 16 28 18 20 25 27 13 36 43 9 29 40 42 6 49 30 1 37 15 44 26 21 38 50 12 41 32 17 31 39 45 46 11 8 2 35 48 14 34 10 47 3 5 23 4 22 19 24 33 
+22 27 9 38 15 14 42 34 4 28 40 18 10 25 5 32 31 45 21 46 1 30 13 50 23 41 36 19 12 3 8 2 37 33 24 26 20 48 35 7 43 29 39 47 11 6 17 44 16 49 
 
-Atraso Máximo da solução inicial Tempos Medios: 46508.8
+Atraso Máximo da solução inicial Tempos Medios: 107936
 
 Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 43780.1
+Busca local - Novo atraso: 105092
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 42152.4
+Busca local - Novo atraso: 103332
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 40901.7
+Busca local - Novo atraso: 101927
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39846
+Busca local - Novo atraso: 100513
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39109.6
+Busca local - Novo atraso: 99772.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38946.7
+Busca local - Novo atraso: 99147.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38804.7
+Busca local - Novo atraso: 98290.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38671.3
+Busca local - Novo atraso: 97606.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38579.1
+Busca local - Novo atraso: 97169.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38374.1
+Busca local - Novo atraso: 96289.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38006.7
+Busca local - Novo atraso: 96046.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37965.7
+Busca local - Novo atraso: 95895.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37681.4
+Busca local - Novo atraso: 95779.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37644.7
+Busca local - Novo atraso: 95607.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37605.8
+Busca local - Novo atraso: 95450.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37508.4
+Busca local - Novo atraso: 95375.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37431
+Busca local - Novo atraso: 95318
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37406.6
+Busca local - Novo atraso: 95284.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37364.9
+Busca local - Novo atraso: 95262.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37328.3
+Busca local - Novo atraso: 95258
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37308.2
+Busca local - Novo atraso: 95257.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37298.8
+Busca local - Novo atraso: 95246.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37272.8
+Busca local - Novo atraso: 95233
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37269.1
+Busca local - Novo atraso: 95224.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37268.4
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37246.5
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37240.5
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37229.9
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37227.7
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37217.6
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Saindo da Busca Local
-Entrando na Busca Local
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37553.1
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37437
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37396
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37388.3
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37365.5
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37357.4
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37354.4
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37329.7
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Saindo da Busca Local
-Iteração: 1 - Atraso: 37217.6
-
-Entrando na Busca Local
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37594.3
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37535.3
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37513.1
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37454
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37357.6
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37278
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37273.7
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37272.2
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Saindo da Busca Local
-Iteração: 2 - Atraso: 37217.6
-
-Entrando na Busca Local
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38000.1
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37826.7
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37698.4
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37580.4
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37547.4
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37491.8
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37453.8
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37424
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37417
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37412.1
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Saindo da Busca Local
-Iteração: 3 - Atraso: 37217.6
-
-Entrando na Busca Local
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38279.1
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38095
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38040.2
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37974.9
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37925.7
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37808.5
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37779.7
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37737.5
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37724.2
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37677.6
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37661.1
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Saindo da Busca Local
-Iteração: 4 - Atraso: 37217.6
-
-Entrando na Busca Local
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38632.9
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38476.1
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38387.3
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38295.1
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38262.1
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38069.3
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38059.6
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38054.3
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38029
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38014.8
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37994.8
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37990.3
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Saindo da Busca Local
-Iteração: 5 - Atraso: 37217.6
-
-Entrando na Busca Local
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38396.3
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38291.6
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38089.6
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37738.9
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37680.5
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37610.8
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37595.4
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37574.4
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37566.9
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37560.9
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37559.8
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Saindo da Busca Local
-Iteração: 6 - Atraso: 37217.6
-
-Entrando na Busca Local
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39482.1
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39418.1
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39337
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39311.5
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39289.8
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39269.7
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39223.1
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39191.8
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39117.5
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39116.2
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Saindo da Busca Local
-Iteração: 7 - Atraso: 37217.6
-
-Entrando na Busca Local
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39066.8
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39026.6
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38913
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38897.5
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38868.3
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38865.4
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38805
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38717
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38645.1
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38605
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38589.1
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38570.8
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38523.9
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38513.3
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38498.3
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38491.7
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38487.9
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Saindo da Busca Local
-Iteração: 8 - Atraso: 37217.6
-
-Entrando na Busca Local
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39587.2
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39445.5
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39391.3
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39340
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39297.2
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39257.1
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39222.1
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39201.3
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39192.1
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Saindo da Busca Local
-Iteração: 9 - Atraso: 37217.6
-
-Entrando na Busca Local
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39491.1
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39359
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39299
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39248.8
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39197
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39189.7
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39168.2
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39113.1
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39104.9
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39050.3
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39030.6
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39029
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39019.7
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38997
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
 Saindo da Busca Local
-Iteração: 10 - Atraso: 37217.6
-
 Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39769.4
+Busca local - Novo atraso: 95514.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39438.2
+Busca local - Novo atraso: 95384.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39401.9
+Busca local - Novo atraso: 95276.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39383
+Busca local - Novo atraso: 95026.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39339
+Busca local - Novo atraso: 94731.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39220.2
+Busca local - Novo atraso: 94513.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39180.6
+Busca local - Novo atraso: 94262.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39154.7
+Busca local - Novo atraso: 94201.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39142.2
+Busca local - Novo atraso: 94152.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39138.3
+Busca local - Novo atraso: 94059.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Saindo da Busca Local
-Iteração: 11 - Atraso: 37217.6
+Busca local - Novo atraso: 94057.9
 
-Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 40101.5
+Busca local - Novo atraso: 94050.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39576.6
+Busca local - Novo atraso: 94050
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39266.9
+Saindo da Busca Local
+IG - Novo atraso: 94050
 
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39067.7
+Iteração: 0 - Atraso: 94050
 
+Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38969.9
+Busca local - Novo atraso: 95028.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38894.7
+Busca local - Novo atraso: 94863.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38803.8
+Busca local - Novo atraso: 94603.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38754.7
+Busca local - Novo atraso: 94340.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38715.1
+Busca local - Novo atraso: 94272.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38636
+Busca local - Novo atraso: 94242.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38615.2
+Busca local - Novo atraso: 94221.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38502.1
+Busca local - Novo atraso: 94217.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38480.8
+Busca local - Novo atraso: 94151.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38426.3
+Busca local - Novo atraso: 94122.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
 Saindo da Busca Local
-Iteração: 12 - Atraso: 37217.6
+Iteração: 1 - Atraso: 94050
 
 Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39547.2
+Busca local - Novo atraso: 95078.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39438.2
+Busca local - Novo atraso: 94945.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39362.8
+Busca local - Novo atraso: 94691.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39330.7
+Busca local - Novo atraso: 94508.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39283.3
+Busca local - Novo atraso: 94292.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39259.4
+Busca local - Novo atraso: 94244.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39246.2
+Busca local - Novo atraso: 94179
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39213.6
+Busca local - Novo atraso: 94161.3
 
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39188.2
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Saindo da Busca Local
-Iteração: 13 - Atraso: 37217.6
-
-Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39342.7
+Busca local - Novo atraso: 94141.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39153.4
+Busca local - Novo atraso: 94122.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39088.4
+Busca local - Novo atraso: 94109.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38961.1
+Saindo da Busca Local
+Iteração: 2 - Atraso: 94050
 
+Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38900.9
+Busca local - Novo atraso: 93700.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38886.8
+Busca local - Novo atraso: 93432.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38875.1
+Busca local - Novo atraso: 93213.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38865.8
+Busca local - Novo atraso: 93103.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Saindo da Busca Local
-Iteração: 14 - Atraso: 37217.6
+Busca local - Novo atraso: 93015.4
 
-Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39717.9
+Busca local - Novo atraso: 92979.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39591.7
+Busca local - Novo atraso: 92941.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39406.9
+Busca local - Novo atraso: 92927.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38902.5
+Busca local - Novo atraso: 92908
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38707.7
+Busca local - Novo atraso: 92861.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38474.2
+Busca local - Novo atraso: 92831
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38306.9
+Busca local - Novo atraso: 92759.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38196.9
+Busca local - Novo atraso: 92656.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38139.9
+Busca local - Novo atraso: 92507.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38112.8
+Busca local - Novo atraso: 92465.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38083.8
+Busca local - Novo atraso: 92426.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38074.1
+Busca local - Novo atraso: 92413.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38073.7
+Busca local - Novo atraso: 92412.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
 Saindo da Busca Local
-Iteração: 15 - Atraso: 37217.6
+IG - Novo atraso: 92412.3
 
+Iteração: 0 - Atraso: 92412.3
+
 Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39090.6
+Busca local - Novo atraso: 92692.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38946.5
+Busca local - Novo atraso: 92539.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38892.9
+Busca local - Novo atraso: 92454.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38804.8
+Busca local - Novo atraso: 92391.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38771
+Busca local - Novo atraso: 92291.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38744.2
+Busca local - Novo atraso: 92220.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38727.2
+Busca local - Novo atraso: 92168.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38717.4
+Saindo da Busca Local
+IG - Novo atraso: 92168.9
 
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38711.7
+Iteração: 0 - Atraso: 92168.9
 
+Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38696.5
+Busca local - Novo atraso: 92420.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38685.2
+Busca local - Novo atraso: 92160.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38663.2
+Busca local - Novo atraso: 92090.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38628.2
+Busca local - Novo atraso: 92025.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38607.1
+Busca local - Novo atraso: 91949.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38601.9
+Busca local - Novo atraso: 91921.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38601
+Busca local - Novo atraso: 91873.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38586.8
+Busca local - Novo atraso: 91849.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
 Saindo da Busca Local
-Iteração: 16 - Atraso: 37217.6
-
-Entrando na Busca Local
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39178.3
+IG - Novo atraso: 91849.8
 
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39108.1
+Iteração: 0 - Atraso: 91849.8
 
+Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39081.5
+Busca local - Novo atraso: 93252
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39039
+Busca local - Novo atraso: 93062.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38955.3
+Busca local - Novo atraso: 92454.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38801.5
+Busca local - Novo atraso: 92108.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38766.4
+Busca local - Novo atraso: 91865.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38752.3
+Busca local - Novo atraso: 91807.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38745.4
+Busca local - Novo atraso: 91633
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38739.5
+Busca local - Novo atraso: 91624.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Saindo da Busca Local
-Iteração: 17 - Atraso: 37217.6
+Busca local - Novo atraso: 91616
 
-Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39718.4
+Busca local - Novo atraso: 91591.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39606.4
+Busca local - Novo atraso: 91580.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39490.7
+Saindo da Busca Local
+IG - Novo atraso: 91580.2
 
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39279.1
+Iteração: 0 - Atraso: 91580.2
 
+Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39056.5
+Busca local - Novo atraso: 92740
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38922.2
+Busca local - Novo atraso: 92667.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38723.7
+Busca local - Novo atraso: 92579
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38681.2
+Busca local - Novo atraso: 92465.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38642.9
+Busca local - Novo atraso: 92316.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38611.6
+Busca local - Novo atraso: 92180.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38566.1
+Busca local - Novo atraso: 92138.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38524.7
+Busca local - Novo atraso: 92080
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38485.7
+Busca local - Novo atraso: 92032.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38468.4
+Busca local - Novo atraso: 91970
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38432.7
+Busca local - Novo atraso: 91955.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38417.1
+Busca local - Novo atraso: 91945.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38411.6
+Busca local - Novo atraso: 91937.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38386.7
+Saindo da Busca Local
+Iteração: 1 - Atraso: 91580.2
 
+Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38364
+Busca local - Novo atraso: 92986.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38347.2
+Busca local - Novo atraso: 92882.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38326.8
+Busca local - Novo atraso: 92367.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38318.9
+Busca local - Novo atraso: 92070.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Saindo da Busca Local
-Iteração: 18 - Atraso: 37217.6
+Busca local - Novo atraso: 91854.1
 
-Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38472.5
+Busca local - Novo atraso: 91664.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38292.2
+Busca local - Novo atraso: 91631.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38169.9
+Busca local - Novo atraso: 91608.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38065.9
+Busca local - Novo atraso: 91447.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37999
+Busca local - Novo atraso: 91389.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37969.5
+Busca local - Novo atraso: 91197.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37952.6
+Busca local - Novo atraso: 91108
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
 Saindo da Busca Local
-Iteração: 19 - Atraso: 37217.6
+IG - Novo atraso: 91108
 
+Iteração: 0 - Atraso: 91108
+
 Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38541.6
+Busca local - Novo atraso: 92021.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38466.3
+Busca local - Novo atraso: 91873.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38403.4
+Busca local - Novo atraso: 91328.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38363.9
+Busca local - Novo atraso: 91249.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38265.5
+Busca local - Novo atraso: 91216.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38238.8
+Busca local - Novo atraso: 91191.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38221.2
+Busca local - Novo atraso: 91052.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38142.1
+Busca local - Novo atraso: 91021.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38111.5
+Busca local - Novo atraso: 90990.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38101.2
+Busca local - Novo atraso: 90981.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
 Saindo da Busca Local
-Iteração: 20 - Atraso: 37217.6
+IG - Novo atraso: 90981.8
+
+Iteração: 0 - Atraso: 90981.8
 
 Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38664.5
+Busca local - Novo atraso: 93996.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38412.3
+Busca local - Novo atraso: 93520.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38311.8
+Busca local - Novo atraso: 93100.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38196.6
+Busca local - Novo atraso: 92716.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38146.7
+Busca local - Novo atraso: 92514.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38107.4
+Busca local - Novo atraso: 92385.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38062.7
+Busca local - Novo atraso: 92282.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37990.2
+Busca local - Novo atraso: 92241.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37825.7
+Busca local - Novo atraso: 92204.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37762.8
+Saindo da Busca Local
+Iteração: 1 - Atraso: 90981.8
 
+Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37733.9
+Busca local - Novo atraso: 92834
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37707.2
+Busca local - Novo atraso: 92693.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37705.2
+Busca local - Novo atraso: 92466.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37702.2
+Busca local - Novo atraso: 91588.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37657.2
+Busca local - Novo atraso: 91328.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37602.5
+Busca local - Novo atraso: 91262
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37543.7
+Busca local - Novo atraso: 91186.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37481.6
+Busca local - Novo atraso: 91182.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37459.1
+Busca local - Novo atraso: 91144.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37444.6
+Busca local - Novo atraso: 91105.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37435.7
+Busca local - Novo atraso: 90995.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37432.7
+Busca local - Novo atraso: 90968
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37410.1
+Busca local - Novo atraso: 90960.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Saindo da Busca Local
-Iteração: 21 - Atraso: 37217.6
+Busca local - Novo atraso: 90956.7
 
-Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38643.6
+Saindo da Busca Local
+IG - Novo atraso: 90956.7
 
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38555.1
+Iteração: 0 - Atraso: 90956.7
 
+Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38375.5
+Busca local - Novo atraso: 92341.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38260
+Busca local - Novo atraso: 91390.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38040.2
+Busca local - Novo atraso: 90994.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37951.7
+Busca local - Novo atraso: 90873.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37947.8
+Busca local - Novo atraso: 90848.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37928.2
+Busca local - Novo atraso: 90839.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37918.8
+Busca local - Novo atraso: 90777.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37911.2
+Busca local - Novo atraso: 90683.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37885.4
+Busca local - Novo atraso: 90645.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37735.9
+Busca local - Novo atraso: 90626.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37679.7
+Busca local - Novo atraso: 90512.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37676
+Busca local - Novo atraso: 90479.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37660.3
+Busca local - Novo atraso: 90468.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37646.2
+Saindo da Busca Local
+IG - Novo atraso: 90468.1
+
+Iteração: 0 - Atraso: 90468.1
 
+Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37642.4
+Busca local - Novo atraso: 91385.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37618.6
+Busca local - Novo atraso: 91109.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Saindo da Busca Local
-Iteração: 22 - Atraso: 37217.6
+Busca local - Novo atraso: 91015.9
 
-Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38301
+Busca local - Novo atraso: 91005.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38233.4
+Busca local - Novo atraso: 90979.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38203.8
+Busca local - Novo atraso: 90956.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
 Saindo da Busca Local
-Iteração: 23 - Atraso: 37217.6
+Iteração: 1 - Atraso: 90468.1
 
 Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37352.9
+Busca local - Novo atraso: 91696.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37181.8
+Busca local - Novo atraso: 91538.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37140.4
+Busca local - Novo atraso: 91448.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37124.6
+Busca local - Novo atraso: 91342
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37116.1
+Busca local - Novo atraso: 91062.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37090.7
+Busca local - Novo atraso: 91015.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37077
+Busca local - Novo atraso: 91006.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37067
+Busca local - Novo atraso: 90963.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37043.1
+Busca local - Novo atraso: 90941.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 36983.8
+Busca local - Novo atraso: 90924.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 36974.9
+Busca local - Novo atraso: 90891.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Saindo da Busca Local
-IG - Novo atraso: 36974.9
+Busca local - Novo atraso: 90868.2
 
-Iteração: 0 - Atraso: 36974.9
+Entrando no gerador de vizinhos: 
+Saindo do gerador de vizinhos: 
+Saindo da Busca Local
+Iteração: 2 - Atraso: 90468.1
 
 Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37528
+Busca local - Novo atraso: 91506.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37349.5
+Busca local - Novo atraso: 91454.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37218.6
+Busca local - Novo atraso: 91337.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37081.1
+Busca local - Novo atraso: 91279.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37031.6
+Busca local - Novo atraso: 91218.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 36987.5
+Busca local - Novo atraso: 91160.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 36945.2
+Busca local - Novo atraso: 91137.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 36905.6
+Busca local - Novo atraso: 91119.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 36900.6
+Busca local - Novo atraso: 91111.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 36894.3
+Busca local - Novo atraso: 91075.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Saindo da Busca Local
-IG - Novo atraso: 36894.3
+Busca local - Novo atraso: 91059.1
 
-Iteração: 0 - Atraso: 36894.3
-
-Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38751.9
+Saindo da Busca Local
+Iteração: 3 - Atraso: 90468.1
 
+Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38583.5
+Busca local - Novo atraso: 92425.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38468.3
+Busca local - Novo atraso: 91971.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38368.7
+Busca local - Novo atraso: 91647.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38184.1
+Busca local - Novo atraso: 91571.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38120.5
+Busca local - Novo atraso: 91544.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38091.5
+Busca local - Novo atraso: 91526.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38019.4
+Busca local - Novo atraso: 91522
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38010.4
+Saindo da Busca Local
+Iteração: 4 - Atraso: 90468.1
 
+Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37964.2
+Busca local - Novo atraso: 91441.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37925.8
+Busca local - Novo atraso: 91263.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37911
+Busca local - Novo atraso: 91186.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37892.2
+Busca local - Novo atraso: 91155.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37889.1
+Busca local - Novo atraso: 91140.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37888.1
+Busca local - Novo atraso: 91098.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Saindo da Busca Local
-Iteração: 1 - Atraso: 36894.3
+Busca local - Novo atraso: 90971.2
 
-Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38663.3
+Busca local - Novo atraso: 90883
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38510.6
+Busca local - Novo atraso: 90860.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38473.6
+Saindo da Busca Local
+Iteração: 5 - Atraso: 90468.1
 
+Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38439.2
+Busca local - Novo atraso: 93177.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38309.5
+Busca local - Novo atraso: 92969
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38280.9
+Busca local - Novo atraso: 92711.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38270.5
+Busca local - Novo atraso: 92699.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38239.8
+Busca local - Novo atraso: 92688.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38231.5
+Busca local - Novo atraso: 92683.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
 Saindo da Busca Local
-Iteração: 2 - Atraso: 36894.3
+Iteração: 6 - Atraso: 90468.1
 
 Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38693.2
+Busca local - Novo atraso: 94011.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38541.4
+Busca local - Novo atraso: 93470
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38453.8
+Busca local - Novo atraso: 93124.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38358.9
+Busca local - Novo atraso: 93029
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38319.6
+Busca local - Novo atraso: 93002.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38300.5
+Busca local - Novo atraso: 92962.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38291.5
+Busca local - Novo atraso: 92960.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38283.5
+Busca local - Novo atraso: 92951.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38282.4
+Busca local - Novo atraso: 92931.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38269
+Busca local - Novo atraso: 92923.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38233.5
+Busca local - Novo atraso: 92921.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38220.1
+Busca local - Novo atraso: 92917.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38214.2
+Busca local - Novo atraso: 92897.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38208.6
+Busca local - Novo atraso: 92891.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38176.1
+Saindo da Busca Local
+Iteração: 7 - Atraso: 90468.1
 
+Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38139.4
+Busca local - Novo atraso: 93177.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38132.2
+Busca local - Novo atraso: 93152.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38130.1
+Busca local - Novo atraso: 93109.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Saindo da Busca Local
-Iteração: 3 - Atraso: 36894.3
+Busca local - Novo atraso: 93066.9
 
-Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38653.9
+Busca local - Novo atraso: 92976
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38378.5
+Busca local - Novo atraso: 92906.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38091.6
+Busca local - Novo atraso: 92869.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37953.9
+Busca local - Novo atraso: 92835.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37914.7
+Busca local - Novo atraso: 92834.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37890.1
+Saindo da Busca Local
+Iteração: 8 - Atraso: 90468.1
 
+Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37878.2
+Busca local - Novo atraso: 93228.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37845
+Busca local - Novo atraso: 93066.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37807.4
+Busca local - Novo atraso: 92969.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37791.7
+Busca local - Novo atraso: 92850.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37780.3
+Busca local - Novo atraso: 92725.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37768.4
+Busca local - Novo atraso: 92651.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37757.2
+Busca local - Novo atraso: 92457.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37747.1
+Busca local - Novo atraso: 91633.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37742.1
+Busca local - Novo atraso: 91342.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37740.8
+Busca local - Novo atraso: 91272.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Saindo da Busca Local
-Iteração: 4 - Atraso: 36894.3
+Busca local - Novo atraso: 91264
 
-Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39977.4
+Busca local - Novo atraso: 91256.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39650.2
+Busca local - Novo atraso: 91204.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39465.2
+Busca local - Novo atraso: 91178.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39369.7
+Busca local - Novo atraso: 91151.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39286.9
+Busca local - Novo atraso: 91135.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39213.6
+Busca local - Novo atraso: 91134.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39009.6
+Busca local - Novo atraso: 91115.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38888.8
+Saindo da Busca Local
+Iteração: 9 - Atraso: 90468.1
 
+Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38682.2
+Busca local - Novo atraso: 92386.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38638.9
+Busca local - Novo atraso: 92076.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38551.5
+Busca local - Novo atraso: 91893.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38504.3
+Busca local - Novo atraso: 91543.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38476.8
+Busca local - Novo atraso: 91449.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38453.8
+Busca local - Novo atraso: 91418
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38446.4
+Busca local - Novo atraso: 91406.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38442.8
+Busca local - Novo atraso: 91374.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
 Saindo da Busca Local
-Iteração: 5 - Atraso: 36894.3
+Iteração: 10 - Atraso: 90468.1
 
 Entrando na Busca Local
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38622.9
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38471.8
-
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38421.4
+Busca local - Novo atraso: 92161.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38402.9
+Busca local - Novo atraso: 92054.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38367.7
+Busca local - Novo atraso: 91992.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38357.2
+Busca local - Novo atraso: 91940.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38300
+Busca local - Novo atraso: 91921.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38292.1
+Saindo da Busca Local
+Iteração: 11 - Atraso: 90468.1
 
+Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38263.3
+Busca local - Novo atraso: 93025.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38146.3
+Busca local - Novo atraso: 92363.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38141.9
+Busca local - Novo atraso: 92250.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38067.3
+Busca local - Novo atraso: 92174.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38020.9
+Busca local - Novo atraso: 92092
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37865.9
+Busca local - Novo atraso: 92091.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37828.2
+Busca local - Novo atraso: 92048.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37798.7
+Busca local - Novo atraso: 92013.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37765
+Saindo da Busca Local
+Iteração: 12 - Atraso: 90468.1
 
+Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37738.1
+Busca local - Novo atraso: 92003
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37729.2
+Busca local - Novo atraso: 91933.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37705.2
+Busca local - Novo atraso: 91786.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Saindo da Busca Local
-Iteração: 6 - Atraso: 36894.3
+Busca local - Novo atraso: 91501.6
 
-Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38241.1
+Busca local - Novo atraso: 91440.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38106.2
+Busca local - Novo atraso: 91370.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37981.6
+Busca local - Novo atraso: 91287.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37912.6
+Busca local - Novo atraso: 91274.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37848.9
+Busca local - Novo atraso: 91239.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37809.4
+Busca local - Novo atraso: 91226.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37808.7
+Saindo da Busca Local
+Iteração: 13 - Atraso: 90468.1
 
+Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37796
+Busca local - Novo atraso: 92452.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Saindo da Busca Local
-Iteração: 7 - Atraso: 36894.3
+Busca local - Novo atraso: 92273.2
 
-Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38037.1
+Busca local - Novo atraso: 92049
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37967.8
+Busca local - Novo atraso: 91961.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37896.6
+Busca local - Novo atraso: 91915.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37778.1
+Busca local - Novo atraso: 91789.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37762.9
+Busca local - Novo atraso: 91513
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37743
+Busca local - Novo atraso: 91336.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37741.2
+Busca local - Novo atraso: 91189.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37721.6
+Busca local - Novo atraso: 91131.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37698.5
+Busca local - Novo atraso: 91053.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37680.5
+Busca local - Novo atraso: 91013.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
 Saindo da Busca Local
-Iteração: 8 - Atraso: 36894.3
+Iteração: 14 - Atraso: 90468.1
 
 Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39899.9
+Busca local - Novo atraso: 93477.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39871.7
+Busca local - Novo atraso: 93199.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39855.7
+Busca local - Novo atraso: 93082.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39837.5
+Busca local - Novo atraso: 93001.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39793.9
+Busca local - Novo atraso: 92834.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39752.6
+Busca local - Novo atraso: 92714.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39740.8
+Busca local - Novo atraso: 92480.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39710.6
+Busca local - Novo atraso: 92170.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39601.8
+Busca local - Novo atraso: 92154.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39537.6
+Busca local - Novo atraso: 92138.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39440.1
+Saindo da Busca Local
+Iteração: 15 - Atraso: 90468.1
 
+Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39407.7
+Busca local - Novo atraso: 92831.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39370.7
+Busca local - Novo atraso: 92777
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39360
+Busca local - Novo atraso: 92740.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39356.2
+Busca local - Novo atraso: 92720.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39350.1
+Busca local - Novo atraso: 92705.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39334.6
+Busca local - Novo atraso: 92703.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39320.6
+Busca local - Novo atraso: 92639.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39303.2
+Busca local - Novo atraso: 92630.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39300.3
+Busca local - Novo atraso: 92628.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
 Saindo da Busca Local
-Iteração: 9 - Atraso: 36894.3
+Iteração: 16 - Atraso: 90468.1
 
 Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39737.3
+Busca local - Novo atraso: 93559.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39485.4
+Busca local - Novo atraso: 92947.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39446.2
+Busca local - Novo atraso: 92783.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39420
+Busca local - Novo atraso: 92638.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39350.4
+Busca local - Novo atraso: 92320.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39267.1
+Busca local - Novo atraso: 92146.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39216.8
+Busca local - Novo atraso: 92012.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39205.2
+Busca local - Novo atraso: 91958.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39178.2
+Busca local - Novo atraso: 91795.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39162.3
+Busca local - Novo atraso: 91791
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39141.9
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39129.2
+Saindo da Busca Local
+Iteração: 17 - Atraso: 90468.1
 
+Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39121.5
+Busca local - Novo atraso: 92585.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39104.9
+Busca local - Novo atraso: 92344.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39092.4
+Busca local - Novo atraso: 91828.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Saindo da Busca Local
-Iteração: 10 - Atraso: 36894.3
+Busca local - Novo atraso: 91459.7
 
-Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39595
+Busca local - Novo atraso: 91175
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39530.4
+Busca local - Novo atraso: 91080.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39462.9
+Busca local - Novo atraso: 90995.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39443.9
+Busca local - Novo atraso: 90889.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39381.5
+Busca local - Novo atraso: 90779.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39345.4
+Busca local - Novo atraso: 90731.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39329.4
+Busca local - Novo atraso: 90672.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39258.7
+Busca local - Novo atraso: 90593.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39063.8
+Busca local - Novo atraso: 90554.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39024.5
+Busca local - Novo atraso: 90541.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38983.8
+Busca local - Novo atraso: 90529.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38980.2
+Saindo da Busca Local
+Iteração: 18 - Atraso: 90468.1
 
+Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38976.6
+Busca local - Novo atraso: 92271.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38961.9
+Busca local - Novo atraso: 91782.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Saindo da Busca Local
-Iteração: 11 - Atraso: 36894.3
+Busca local - Novo atraso: 91628.4
 
-Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39358
+Busca local - Novo atraso: 91396.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39168.6
+Busca local - Novo atraso: 91319.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39101.4
+Busca local - Novo atraso: 91240.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39062.7
+Busca local - Novo atraso: 91178
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39053.5
+Busca local - Novo atraso: 91103.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39044.4
+Busca local - Novo atraso: 91065
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39036
+Busca local - Novo atraso: 91064.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39029.8
+Busca local - Novo atraso: 91038.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39020.7
+Busca local - Novo atraso: 91037.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
 Saindo da Busca Local
-Iteração: 12 - Atraso: 36894.3
+Iteração: 19 - Atraso: 90468.1
 
 Entrando na Busca Local
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39169.8
-
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39133.2
+Busca local - Novo atraso: 92299.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39113.4
+Busca local - Novo atraso: 92117.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39092.7
+Busca local - Novo atraso: 92019.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39077.9
+Busca local - Novo atraso: 91963.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39069.1
+Busca local - Novo atraso: 91926.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39041.9
+Busca local - Novo atraso: 91892.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39025.9
+Busca local - Novo atraso: 91829.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Saindo da Busca Local
-Iteração: 13 - Atraso: 36894.3
+Busca local - Novo atraso: 91783.1
 
-Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39326.9
+Busca local - Novo atraso: 91631.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39259.9
+Busca local - Novo atraso: 91527
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39226.1
+Busca local - Novo atraso: 91443.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39158.1
+Busca local - Novo atraso: 91427.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39145
+Busca local - Novo atraso: 91418.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39135.5
+Busca local - Novo atraso: 91412.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39127.5
+Busca local - Novo atraso: 91405.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39124.1
+Busca local - Novo atraso: 91385.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39108.6
+Busca local - Novo atraso: 91372.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39098.6
+Busca local - Novo atraso: 91354.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39085
+Busca local - Novo atraso: 91330.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39065.6
+Busca local - Novo atraso: 91327.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
 Saindo da Busca Local
-Iteração: 14 - Atraso: 36894.3
+Iteração: 20 - Atraso: 90468.1
 
 Entrando na Busca Local
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39615.5
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39213.1
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39133.1
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39084.4
-
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38972
+Busca local - Novo atraso: 92324.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38902.3
+Busca local - Novo atraso: 92002.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38859.6
+Busca local - Novo atraso: 91986.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38826.8
+Busca local - Novo atraso: 91922.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38795.3
+Busca local - Novo atraso: 91909.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Saindo da Busca Local
-Iteração: 15 - Atraso: 36894.3
+Busca local - Novo atraso: 91896.8
 
-Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39684.8
+Busca local - Novo atraso: 91873.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39268.1
+Busca local - Novo atraso: 91751.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38967.3
+Busca local - Novo atraso: 91678.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38888.1
+Busca local - Novo atraso: 91630.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38846.5
+Busca local - Novo atraso: 91495.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38814.3
+Busca local - Novo atraso: 91372.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38790.4
+Busca local - Novo atraso: 91337.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38681.7
+Busca local - Novo atraso: 91309.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38664.3
+Busca local - Novo atraso: 91298
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38650.9
+Saindo da Busca Local
+Iteração: 21 - Atraso: 90468.1
 
+Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38630.1
+Busca local - Novo atraso: 92071.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38597.1
+Busca local - Novo atraso: 91672
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38538.1
+Busca local - Novo atraso: 91568.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38393.8
+Busca local - Novo atraso: 91496.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38298.1
+Busca local - Novo atraso: 91447.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38247.1
+Busca local - Novo atraso: 91409.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38158.1
+Busca local - Novo atraso: 91373
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38148.3
+Busca local - Novo atraso: 91317.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38143.2
+Busca local - Novo atraso: 91279.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38104.7
+Busca local - Novo atraso: 91242.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Saindo da Busca Local
-Iteração: 16 - Atraso: 36894.3
+Busca local - Novo atraso: 91208.7
 
-Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39150.5
+Busca local - Novo atraso: 91199.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38766.4
+Busca local - Novo atraso: 91188.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38679.4
+Busca local - Novo atraso: 91186.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38615.4
+Busca local - Novo atraso: 91186.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38484.5
+Busca local - Novo atraso: 91185.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38431.4
+Saindo da Busca Local
+Iteração: 22 - Atraso: 90468.1
 
+Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38393.5
+Busca local - Novo atraso: 92527.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38364.6
+Busca local - Novo atraso: 92253
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38341.1
+Busca local - Novo atraso: 92173.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38334.1
+Busca local - Novo atraso: 92093.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38324.8
+Busca local - Novo atraso: 92045.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38295.3
+Busca local - Novo atraso: 91952.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38269.7
+Busca local - Novo atraso: 91922.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Saindo da Busca Local
-Iteração: 17 - Atraso: 36894.3
+Busca local - Novo atraso: 91897.3
 
-Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39227.1
+Busca local - Novo atraso: 91822.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39136.2
+Busca local - Novo atraso: 91780
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39070.6
+Busca local - Novo atraso: 91764.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38926.1
+Busca local - Novo atraso: 91753.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38882.6
+Busca local - Novo atraso: 91751.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38791
+Busca local - Novo atraso: 91747.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38751.9
+Saindo da Busca Local
+Iteração: 23 - Atraso: 90468.1
 
+Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38721
+Busca local - Novo atraso: 92193.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38707.4
+Busca local - Novo atraso: 91792.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38689.6
+Busca local - Novo atraso: 91613
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38654.5
+Busca local - Novo atraso: 91254.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38652.7
+Busca local - Novo atraso: 91167.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38648.4
+Busca local - Novo atraso: 91031.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38643.9
+Busca local - Novo atraso: 90999.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38637.4
+Busca local - Novo atraso: 90954.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38630.5
+Busca local - Novo atraso: 90926.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Saindo da Busca Local
-Iteração: 18 - Atraso: 36894.3
+Busca local - Novo atraso: 90915.7
 
-Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38654
+Busca local - Novo atraso: 90909
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38552.3
+Busca local - Novo atraso: 90892.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38479.6
+Busca local - Novo atraso: 90890.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38452.8
+Busca local - Novo atraso: 90837.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38441.1
+Busca local - Novo atraso: 90827
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38408.4
+Busca local - Novo atraso: 90824.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38367.8
+Busca local - Novo atraso: 90767.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38361.1
+Busca local - Novo atraso: 90757.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Saindo da Busca Local
-Iteração: 19 - Atraso: 36894.3
+Busca local - Novo atraso: 90748.5
 
-Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 40181.6
+Busca local - Novo atraso: 90747
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39822.8
+Busca local - Novo atraso: 90735.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39615.8
+Busca local - Novo atraso: 90716
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39499.9
+Busca local - Novo atraso: 90701.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39406.9
+Saindo da Busca Local
+Iteração: 24 - Atraso: 90468.1
 
+Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39321.6
+Busca local - Novo atraso: 92943.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39239.4
+Busca local - Novo atraso: 92286.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39125.8
+Busca local - Novo atraso: 92096.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39082.3
+Busca local - Novo atraso: 91984
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39025.9
+Busca local - Novo atraso: 91856
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38988.2
+Busca local - Novo atraso: 91802
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38967.2
+Busca local - Novo atraso: 91767.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38845.3
+Busca local - Novo atraso: 91744.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38824.6
+Busca local - Novo atraso: 91709.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38777.1
+Busca local - Novo atraso: 91691.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38727.3
+Busca local - Novo atraso: 91680.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38546.7
+Busca local - Novo atraso: 91639.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38535.6
+Busca local - Novo atraso: 91605
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38526.7
+Busca local - Novo atraso: 91590.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38509.9
+Busca local - Novo atraso: 91583.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38504.8
+Busca local - Novo atraso: 91560.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Saindo da Busca Local
-Iteração: 20 - Atraso: 36894.3
+Busca local - Novo atraso: 91534.8
 
-Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39483.4
+Busca local - Novo atraso: 91524.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39344.2
+Busca local - Novo atraso: 91512.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39246.7
+Busca local - Novo atraso: 91507
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39201
+Busca local - Novo atraso: 91500.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39150.1
+Busca local - Novo atraso: 91495.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39125.1
+Busca local - Novo atraso: 91490.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39089.4
+Busca local - Novo atraso: 91489
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39078.7
+Busca local - Novo atraso: 91466.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39051.4
+Busca local - Novo atraso: 91459
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
 Saindo da Busca Local
-Iteração: 21 - Atraso: 36894.3
+Iteração: 25 - Atraso: 90468.1
 
 Entrando na Busca Local
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39534.2
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39164.2
-
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38953.1
+Busca local - Novo atraso: 92771.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38846.4
+Busca local - Novo atraso: 92370.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38815.1
+Busca local - Novo atraso: 92149
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38781.9
+Busca local - Novo atraso: 92015
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38538
+Busca local - Novo atraso: 91952.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38530.4
+Busca local - Novo atraso: 91926.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38520.8
+Busca local - Novo atraso: 91904.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38508.7
+Busca local - Novo atraso: 91789.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38487.8
+Busca local - Novo atraso: 91752.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38480.5
+Busca local - Novo atraso: 91727.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Saindo da Busca Local
-Iteração: 22 - Atraso: 36894.3
+Busca local - Novo atraso: 91698.8
 
-Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39639.2
+Busca local - Novo atraso: 91681.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39385.4
+Busca local - Novo atraso: 91627.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39259.2
+Busca local - Novo atraso: 91623.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38756.5
+Busca local - Novo atraso: 91600.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38610.7
+Busca local - Novo atraso: 91578.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38499
+Saindo da Busca Local
+Iteração: 26 - Atraso: 90468.1
 
+Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38410.2
+Busca local - Novo atraso: 93095.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38380.2
+Busca local - Novo atraso: 92455.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38193.2
+Busca local - Novo atraso: 92256.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38171.2
+Busca local - Novo atraso: 92122
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38148.4
+Busca local - Novo atraso: 92072.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38135
+Busca local - Novo atraso: 92054.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38118.6
+Busca local - Novo atraso: 92048.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38109.2
+Busca local - Novo atraso: 92040.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
 Saindo da Busca Local
-Iteração: 23 - Atraso: 36894.3
+Iteração: 27 - Atraso: 90468.1
 
 Entrando na Busca Local
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39022.7
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38909.4
-
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38840.4
+Busca local - Novo atraso: 92775.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38741.8
+Busca local - Novo atraso: 92479.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38666.6
+Busca local - Novo atraso: 92316.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38638.7
+Busca local - Novo atraso: 92277.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38586.2
+Busca local - Novo atraso: 92120.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38568.6
+Busca local - Novo atraso: 92066.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38568.2
+Busca local - Novo atraso: 91847.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38553
+Busca local - Novo atraso: 91802.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38504.7
+Busca local - Novo atraso: 91779.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38497.9
+Busca local - Novo atraso: 91756.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38481.9
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38470.9
+Saindo da Busca Local
+Iteração: 28 - Atraso: 90468.1
 
+Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Saindo da Busca Local
-Iteração: 24 - Atraso: 36894.3
+Busca local - Novo atraso: 93063.2
 
-Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38995.8
+Busca local - Novo atraso: 92726.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38970.5
+Busca local - Novo atraso: 92385.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38866.8
+Busca local - Novo atraso: 92171.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38790.6
+Busca local - Novo atraso: 92003
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38737.9
+Busca local - Novo atraso: 91947.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38638.1
+Busca local - Novo atraso: 91897.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38619.5
+Busca local - Novo atraso: 91738.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38610.4
+Busca local - Novo atraso: 91697.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38542.4
+Busca local - Novo atraso: 91673.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38498.7
+Busca local - Novo atraso: 91639
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Saindo da Busca Local
-Iteração: 25 - Atraso: 36894.3
+Busca local - Novo atraso: 91568.6
 
-Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38876.9
+Busca local - Novo atraso: 91542
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38845.9
+Busca local - Novo atraso: 91500.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38764.5
+Busca local - Novo atraso: 91495.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38741.1
+Busca local - Novo atraso: 91484.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38717.3
+Saindo da Busca Local
+Iteração: 29 - Atraso: 90468.1
 
+Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38702.8
+Busca local - Novo atraso: 92762.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38678.3
+Busca local - Novo atraso: 92636.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38677.8
+Busca local - Novo atraso: 92503.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38676.1
+Busca local - Novo atraso: 92411.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38672.7
+Busca local - Novo atraso: 92345.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Saindo da Busca Local
-Iteração: 26 - Atraso: 36894.3
+Busca local - Novo atraso: 92281.5
 
-Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39748.1
+Busca local - Novo atraso: 92220.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39479.4
+Busca local - Novo atraso: 92164
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39211.7
+Busca local - Novo atraso: 92139.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39040.5
+Busca local - Novo atraso: 92060.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39018.2
+Busca local - Novo atraso: 92044.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39007.9
+Busca local - Novo atraso: 92036.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38992.2
+Saindo da Busca Local
+Iteração: 30 - Atraso: 90468.1
 
+Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38971.3
+Busca local - Novo atraso: 92808.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38966.8
+Busca local - Novo atraso: 92519.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Saindo da Busca Local
-Iteração: 27 - Atraso: 36894.3
+Busca local - Novo atraso: 92295.2
 
-Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39933.9
+Busca local - Novo atraso: 92001.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39806.7
+Busca local - Novo atraso: 91940.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39671.7
+Busca local - Novo atraso: 91910.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39347
+Busca local - Novo atraso: 91876.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39152.5
+Busca local - Novo atraso: 91865.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39023.7
+Busca local - Novo atraso: 91809.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38968
+Busca local - Novo atraso: 91789.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38920
+Busca local - Novo atraso: 91783.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38872.8
+Saindo da Busca Local
+Iteração: 31 - Atraso: 90468.1
 
+Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38840.3
+Busca local - Novo atraso: 93017.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38568.3
+Busca local - Novo atraso: 92796.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38507.9
+Busca local - Novo atraso: 92782.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38485.8
+Busca local - Novo atraso: 92754.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38482.1
+Busca local - Novo atraso: 92737.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
 Saindo da Busca Local
-Iteração: 28 - Atraso: 36894.3
+Iteração: 32 - Atraso: 90468.1
 
 Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39823.9
+Busca local - Novo atraso: 92813.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39451
+Busca local - Novo atraso: 92672.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39371.8
+Busca local - Novo atraso: 92614.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39248.2
+Busca local - Novo atraso: 92525.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39124.8
+Busca local - Novo atraso: 92297.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38432
+Busca local - Novo atraso: 92226.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38203.9
+Busca local - Novo atraso: 92212.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38167.9
+Busca local - Novo atraso: 92128
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38145.1
+Busca local - Novo atraso: 92105.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38139.8
+Busca local - Novo atraso: 92054.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38139.4
+Busca local - Novo atraso: 92012.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
 Saindo da Busca Local
-Iteração: 29 - Atraso: 36894.3
+Iteração: 33 - Atraso: 90468.1
 
 Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38532.5
+Busca local - Novo atraso: 93364.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38380.6
+Busca local - Novo atraso: 93213.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38309.7
+Busca local - Novo atraso: 92868.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38178.4
+Busca local - Novo atraso: 92808.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38118.7
+Busca local - Novo atraso: 92781.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38061
+Busca local - Novo atraso: 92582.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37982.1
+Busca local - Novo atraso: 92552.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37968.2
+Busca local - Novo atraso: 92395
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37951.1
+Busca local - Novo atraso: 92347.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37934.7
+Busca local - Novo atraso: 92338.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
 Saindo da Busca Local
-Iteração: 30 - Atraso: 36894.3
+Iteração: 34 - Atraso: 90468.1
 
 Entrando na Busca Local
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38572.4
-
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38307.6
+Busca local - Novo atraso: 92324.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38127.5
+Busca local - Novo atraso: 92183.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37960.2
+Busca local - Novo atraso: 91638.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37889.6
+Busca local - Novo atraso: 91338.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37832
+Busca local - Novo atraso: 91137
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37811.4
+Busca local - Novo atraso: 91121.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
 Saindo da Busca Local
-Iteração: 31 - Atraso: 36894.3
+Iteração: 35 - Atraso: 90468.1
 
 Entrando na Busca Local
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38151.4
-
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38077.9
+Busca local - Novo atraso: 92630.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38028.1
+Busca local - Novo atraso: 92432.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38008
+Busca local - Novo atraso: 92397.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37993.7
+Busca local - Novo atraso: 92373.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37983.9
+Busca local - Novo atraso: 92058.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37976.1
+Busca local - Novo atraso: 91774.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37961.5
+Busca local - Novo atraso: 91702.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37941.5
+Busca local - Novo atraso: 91663.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37923
+Busca local - Novo atraso: 91642.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
 Saindo da Busca Local
-Iteração: 32 - Atraso: 36894.3
+Iteração: 36 - Atraso: 90468.1
 
 Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39612.9
+Busca local - Novo atraso: 92996.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39298
+Busca local - Novo atraso: 92815.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39177.5
+Busca local - Novo atraso: 92420.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39124.4
+Busca local - Novo atraso: 91692.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39085.8
+Busca local - Novo atraso: 91598.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39074.9
+Busca local - Novo atraso: 91449.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39054.1
+Busca local - Novo atraso: 91383.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39050.8
+Busca local - Novo atraso: 91253.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39049.5
+Busca local - Novo atraso: 91099.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Saindo da Busca Local
-Iteração: 33 - Atraso: 36894.3
+Busca local - Novo atraso: 91053.5
 
-Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38929.4
+Busca local - Novo atraso: 91015.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38748.5
+Busca local - Novo atraso: 90994.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38688
+Busca local - Novo atraso: 90979.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38647.7
+Busca local - Novo atraso: 90958.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38593.3
+Saindo da Busca Local
+Iteração: 37 - Atraso: 90468.1
 
+Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38577.5
+Busca local - Novo atraso: 92693.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38521.5
+Busca local - Novo atraso: 92663.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38495.3
+Busca local - Novo atraso: 92608.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38440.9
+Busca local - Novo atraso: 92298.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38427.9
+Busca local - Novo atraso: 92276.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38422
+Busca local - Novo atraso: 92246.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38409.1
+Busca local - Novo atraso: 92229.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38392.4
+Busca local - Novo atraso: 92218
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
 Saindo da Busca Local
-Iteração: 34 - Atraso: 36894.3
+Iteração: 38 - Atraso: 90468.1
 
 Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38164
+Busca local - Novo atraso: 92542.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38081.5
+Busca local - Novo atraso: 92291.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38063.2
+Busca local - Novo atraso: 91748.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38052.3
+Busca local - Novo atraso: 91581.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38046.7
+Busca local - Novo atraso: 91485
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38018.5
+Busca local - Novo atraso: 91324.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38001.7
+Busca local - Novo atraso: 91199.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37983.1
+Busca local - Novo atraso: 91079.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37973.2
+Busca local - Novo atraso: 91053.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37954.9
+Busca local - Novo atraso: 91032.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37950.1
+Busca local - Novo atraso: 91016.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37928.5
+Busca local - Novo atraso: 91006.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37912.8
+Busca local - Novo atraso: 91002.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37907.3
+Busca local - Novo atraso: 91002.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
 Saindo da Busca Local
-Iteração: 35 - Atraso: 36894.3
+Iteração: 39 - Atraso: 90468.1
 
 Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38299.8
+Busca local - Novo atraso: 93580.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38214.6
+Busca local - Novo atraso: 93487
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38156.8
+Busca local - Novo atraso: 93245.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38112.4
+Busca local - Novo atraso: 92636
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38104.1
+Busca local - Novo atraso: 92339.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38091.5
+Busca local - Novo atraso: 92247.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38037.4
+Busca local - Novo atraso: 92174.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38035.6
+Busca local - Novo atraso: 92131.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38034.3
+Busca local - Novo atraso: 92101
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Saindo da Busca Local
-Iteração: 36 - Atraso: 36894.3
+Busca local - Novo atraso: 92075.3
 
-Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38594.6
+Busca local - Novo atraso: 92059.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38412.1
+Busca local - Novo atraso: 92004.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38376.9
+Busca local - Novo atraso: 91994.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38376.4
+Busca local - Novo atraso: 91962.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Saindo da Busca Local
-Iteração: 37 - Atraso: 36894.3
+Busca local - Novo atraso: 91951.9
 
-Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39962.2
+Busca local - Novo atraso: 91938.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39902.2
+Busca local - Novo atraso: 91929.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39850.3
+Busca local - Novo atraso: 91924.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39701.6
+Busca local - Novo atraso: 91918.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39525.5
+Saindo da Busca Local
+Iteração: 40 - Atraso: 90468.1
 
+Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39286
+Busca local - Novo atraso: 93029.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39225.7
+Busca local - Novo atraso: 92749.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39184.4
+Busca local - Novo atraso: 92573.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39174.9
+Busca local - Novo atraso: 92400.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Saindo da Busca Local
-Iteração: 38 - Atraso: 36894.3
+Busca local - Novo atraso: 92290.6
 
-Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39007.6
+Busca local - Novo atraso: 92203.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38643.5
+Busca local - Novo atraso: 92134.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38457.4
+Busca local - Novo atraso: 92101.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38405.5
+Busca local - Novo atraso: 92086
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38391
+Busca local - Novo atraso: 92062.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38368.8
+Busca local - Novo atraso: 92059
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38367.2
+Saindo da Busca Local
+Iteração: 41 - Atraso: 90468.1
 
+Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38365.4
+Busca local - Novo atraso: 92764.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38309.5
+Busca local - Novo atraso: 92605.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38292
+Busca local - Novo atraso: 92475.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38285.8
+Busca local - Novo atraso: 92352.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38266.8
+Busca local - Novo atraso: 92272.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38261.9
+Busca local - Novo atraso: 92257.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38245.2
+Busca local - Novo atraso: 92226.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38240.5
+Busca local - Novo atraso: 92110.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Saindo da Busca Local
-Iteração: 39 - Atraso: 36894.3
+Busca local - Novo atraso: 92075.1
 
-Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38836
+Busca local - Novo atraso: 92043.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38763.8
+Busca local - Novo atraso: 92037.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38712.2
+Busca local - Novo atraso: 92018.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38677.9
+Busca local - Novo atraso: 92013.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38642.5
+Saindo da Busca Local
+Iteração: 42 - Atraso: 90468.1
 
+Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38625.2
+Busca local - Novo atraso: 94061.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38605.8
+Busca local - Novo atraso: 93552.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38586.9
+Busca local - Novo atraso: 93292.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Saindo da Busca Local
-Iteração: 40 - Atraso: 36894.3
+Busca local - Novo atraso: 93047.8
 
-Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38650.1
+Busca local - Novo atraso: 92546.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38541.4
+Busca local - Novo atraso: 92464.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38488.5
+Busca local - Novo atraso: 92459.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38467.3
+Busca local - Novo atraso: 92413
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38359.5
+Busca local - Novo atraso: 92342.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38330.5
+Busca local - Novo atraso: 92194.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38329.9
+Busca local - Novo atraso: 92136.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38296.9
+Busca local - Novo atraso: 91933.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Saindo da Busca Local
-Iteração: 41 - Atraso: 36894.3
+Busca local - Novo atraso: 91891.6
 
-Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38477.5
+Busca local - Novo atraso: 91856
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38250.2
+Busca local - Novo atraso: 91843.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38205.6
+Busca local - Novo atraso: 91620
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38175.9
+Busca local - Novo atraso: 91425.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38162.9
+Busca local - Novo atraso: 91400.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38142.8
+Busca local - Novo atraso: 91352.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38132.2
+Busca local - Novo atraso: 91342.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38120.5
+Busca local - Novo atraso: 91330.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38113.6
+Busca local - Novo atraso: 91297.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38091.6
+Busca local - Novo atraso: 91295.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38064.4
+Saindo da Busca Local
+Iteração: 43 - Atraso: 90468.1
 
+Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38041
+Busca local - Novo atraso: 91976.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38021.5
+Busca local - Novo atraso: 91865.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38016.9
+Busca local - Novo atraso: 91850
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
 Saindo da Busca Local
-Iteração: 42 - Atraso: 36894.3
+Iteração: 44 - Atraso: 90468.1
 
 Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38970.1
+Busca local - Novo atraso: 93901.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38894
+Busca local - Novo atraso: 93208.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38801.1
+Busca local - Novo atraso: 92996.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38735.2
+Busca local - Novo atraso: 92909.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38691.3
+Busca local - Novo atraso: 92869.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38563.3
+Busca local - Novo atraso: 92828.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38509
+Busca local - Novo atraso: 92741.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38417.5
+Busca local - Novo atraso: 92641.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38398.8
+Busca local - Novo atraso: 92591.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38387.3
+Busca local - Novo atraso: 92570.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38383.4
+Busca local - Novo atraso: 92560.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
 Saindo da Busca Local
-Iteração: 43 - Atraso: 36894.3
+Iteração: 45 - Atraso: 90468.1
 
 Entrando na Busca Local
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38615.2
-
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38473.3
+Busca local - Novo atraso: 93021.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38445.1
+Busca local - Novo atraso: 92658
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38435.6
+Busca local - Novo atraso: 92562.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38367.8
+Busca local - Novo atraso: 92433.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38236.1
+Busca local - Novo atraso: 92403.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38177.5
+Busca local - Novo atraso: 92393.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38157.7
+Busca local - Novo atraso: 92381.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38149.7
+Busca local - Novo atraso: 92376
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38138
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
 Saindo da Busca Local
-Iteração: 44 - Atraso: 36894.3
+Iteração: 46 - Atraso: 90468.1
 
 Entrando na Busca Local
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39559.3
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39509.9
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39011.1
-
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38734.3
+Busca local - Novo atraso: 93334.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38561.2
+Busca local - Novo atraso: 92525
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38454.2
+Busca local - Novo atraso: 92109.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38397.8
+Busca local - Novo atraso: 91806.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38345.1
+Busca local - Novo atraso: 91705.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38252.3
+Busca local - Novo atraso: 91641.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38166.9
+Busca local - Novo atraso: 91536.4
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38066.9
+Busca local - Novo atraso: 91517.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38048.7
+Busca local - Novo atraso: 91490.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38040.2
+Busca local - Novo atraso: 91447.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37953.8
+Busca local - Novo atraso: 91414.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37901.8
+Busca local - Novo atraso: 91390.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 37868.3
+Busca local - Novo atraso: 91340.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Saindo da Busca Local
-Iteração: 45 - Atraso: 36894.3
+Busca local - Novo atraso: 91318.5
 
-Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39021.1
+Busca local - Novo atraso: 91301.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38778.2
+Busca local - Novo atraso: 91296.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38581.1
+Busca local - Novo atraso: 91281.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38529.6
+Busca local - Novo atraso: 91272.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38452.6
+Busca local - Novo atraso: 91267.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38387.2
+Saindo da Busca Local
+Iteração: 47 - Atraso: 90468.1
 
+Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38076
+Busca local - Novo atraso: 92102.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38036.7
+Busca local - Novo atraso: 91939.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38000.7
+Busca local - Novo atraso: 91848.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Saindo da Busca Local
-Iteração: 46 - Atraso: 36894.3
+Busca local - Novo atraso: 91835.5
 
-Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38456.4
+Busca local - Novo atraso: 91782.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38425.8
+Busca local - Novo atraso: 91754.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38321.2
+Busca local - Novo atraso: 91734.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38314.4
+Busca local - Novo atraso: 91707.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38305.1
+Busca local - Novo atraso: 91698.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38303.5
+Busca local - Novo atraso: 91692.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38302.6
+Busca local - Novo atraso: 91680.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
 Saindo da Busca Local
-Iteração: 47 - Atraso: 36894.3
+Iteração: 48 - Atraso: 90468.1
 
 Entrando na Busca Local
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39090.9
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38801.4
-
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38654.6
+Busca local - Novo atraso: 92482.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38617
+Busca local - Novo atraso: 92320.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38591.6
+Busca local - Novo atraso: 92196.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38560.5
+Busca local - Novo atraso: 92106.5
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38555.2
+Busca local - Novo atraso: 92043.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38549
+Busca local - Novo atraso: 92001.9
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38543.2
+Busca local - Novo atraso: 92001.1
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
 Saindo da Busca Local
-Iteração: 48 - Atraso: 36894.3
+Iteração: 49 - Atraso: 90468.1
 
 Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39101.3
+Busca local - Novo atraso: 92396.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38970.5
+Busca local - Novo atraso: 92096.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38707.5
+Busca local - Novo atraso: 91856.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38648.1
+Busca local - Novo atraso: 91698.2
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38607.1
+Busca local - Novo atraso: 91607.6
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38587
+Busca local - Novo atraso: 91270
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38570.8
+Busca local - Novo atraso: 91230.6
 
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38561.5
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38557.3
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38536.5
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 38535.3
-
-Entrando no gerador de vizinhos: 
-Saindo do gerador de vizinhos: 
-Saindo da Busca Local
-Iteração: 49 - Atraso: 36894.3
-
-Entrando na Busca Local
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39293.3
+Busca local - Novo atraso: 91180.3
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39250.2
+Busca local - Novo atraso: 91092.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39213.5
+Busca local - Novo atraso: 91064.7
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
-Busca local - Novo atraso: 39209.1
+Busca local - Novo atraso: 91063.8
 
 Entrando no gerador de vizinhos: 
 Saindo do gerador de vizinhos: 
 Saindo da Busca Local
-Iteração: 50 - Atraso: 36894.3
+Iteração: 50 - Atraso: 90468.1
 
-Atraso Máximo Iterated Greedy (IG): 36894.3
+Atraso Máximo Iterated Greedy (IG): 90468.1
 Sequência de Tarefas - Solução Final IG
-8 30 9 35 7 16 20 25 49 29 28 43 50 18 15 6 1 21 39 17 36 46 11 41 40 34 22 37 45 5 31 12 10 14 38 2 13 42 3 48 27 47 26 33 32 23 44 24 4 19 
+12 46 13 8 29 47 48 28 37 23 9 42 14 7 3 45 31 34 40 30 1 32 19 38 50 10 5 39 15 2 41 27 4 18 43 44 6 24 20 33 35 17 36 16 49 22 21 25 26 11 
 
-Tempo: 38.859 segundos
+Tempo: 148.073 segundos
