@@ -1,0 +1,1501 @@
+
+Calculando TP
+TP calculada
+Sequência de Tarefas - Solução Inicial EDD
+34 14 7 13 39 20 27 40 44 38 32 17 23 25 37 12 21 28 43 24 36 18 46 49 11 2 19 31 30 16 1 33 42 22 45 26 6 41 5 29 15 8 3 35 9 50 4 48 10 47 
+Atraso Máximo da solução inicial EDD: 49702.4
+
+Sequência de Tarefas - Solução Inicial Tempos Medios
+7 16 28 18 20 25 27 13 36 43 9 29 40 42 6 49 30 1 37 15 44 26 21 38 50 12 41 32 17 31 39 45 46 11 8 2 35 48 14 34 10 47 3 5 23 4 22 19 24 33 
+Atraso Máximo da solução inicial Tempos Medios: 46508.8
+
+Sequencia inicial 1 -> 46508.8
+Melhor vizinho: 43780.1
+
+Sequencia inicial 2 -> 43780.1
+Melhor vizinho: 42285.1
+
+Sequencia inicial 3 -> 42285.1
+Melhor vizinho: 41656.7
+
+Sequencia inicial 4 -> 41656.7
+Melhor vizinho: 41293.6
+
+Sequencia inicial 5 -> 41293.6
+Melhor vizinho: 40624.9
+
+Sequencia inicial 6 -> 40624.9
+Melhor vizinho: 40181.7
+
+Sequencia inicial 7 -> 40181.7
+Melhor vizinho: 39940.9
+
+Sequencia inicial 8 -> 39940.9
+Melhor vizinho: 39819
+
+Sequencia inicial 9 -> 39819
+Melhor vizinho: 39720.9
+
+Sequencia inicial 10 -> 39720.9
+Melhor vizinho: 39652.3
+
+Sequencia inicial 11 -> 39652.3
+Melhor vizinho: 39595.4
+
+Sequencia inicial 12 -> 39595.4
+Melhor vizinho: 39523.6
+
+Sequencia inicial 13 -> 39523.6
+Melhor vizinho: 39374.7
+
+Sequencia inicial 14 -> 39374.7
+Melhor vizinho: 39342.5
+
+Sequencia inicial 15 -> 39342.5
+Melhor vizinho: 39182
+
+Sequencia inicial 16 -> 39182
+Melhor vizinho: 38918.4
+
+Sequencia inicial 17 -> 38918.4
+Melhor vizinho: 38811.6
+
+Sequencia inicial 18 -> 38811.6
+Melhor vizinho: 38691.8
+
+Sequencia inicial 19 -> 38691.8
+Melhor vizinho: 38625.9
+
+Sequencia inicial 20 -> 38625.9
+Melhor vizinho: 38341.5
+
+Sequencia inicial 21 -> 38341.5
+Melhor vizinho: 37937.8
+
+Sequencia inicial 22 -> 37937.8
+Melhor vizinho: 37775.8
+
+Sequencia inicial 23 -> 37775.8
+Melhor vizinho: 37699.5
+
+Sequencia inicial 24 -> 37699.5
+Melhor vizinho: 37664.2
+
+Sequencia inicial 25 -> 37664.2
+Melhor vizinho: 37653.4
+
+Sequencia inicial 26 -> 37653.4
+Melhor vizinho: 37632.1
+
+Sequencia inicial 27 -> 37632.1
+Melhor vizinho: 37625.4
+
+Sequencia inicial 28 -> 37625.4
+Melhor vizinho: 37603.7
+
+Sequencia inicial 29 -> 37603.7
+Melhor vizinho: 37578.6
+
+Sequencia inicial 30 -> 37578.6
+Melhor vizinho: 37575.9
+
+Sequencia inicial 31 -> 37575.9
+Melhor vizinho: 37574.2
+
+Sequencia inicial 32 -> 37574.2
+ITERAÇÃO: 1 - Atraso: 37574.2
+
+Sequencia inicial 1 -> 38423.1
+Melhor vizinho: 38373.4
+
+Sequencia inicial 2 -> 38373.4
+Melhor vizinho: 38325.4
+
+Sequencia inicial 3 -> 38325.4
+Melhor vizinho: 38285.3
+
+Sequencia inicial 4 -> 38285.3
+Melhor vizinho: 38245.5
+
+Sequencia inicial 5 -> 38245.5
+Melhor vizinho: 38083.3
+
+Sequencia inicial 6 -> 38083.3
+Melhor vizinho: 38067.1
+
+Sequencia inicial 7 -> 38067.1
+Melhor vizinho: 38058.9
+
+Sequencia inicial 8 -> 38058.9
+Melhor vizinho: 38055
+
+Sequencia inicial 9 -> 38055
+Melhor vizinho: 37993.1
+
+Sequencia inicial 10 -> 37993.1
+Melhor vizinho: 37983.4
+
+Sequencia inicial 11 -> 37983.4
+Melhor vizinho: 37979
+
+Sequencia inicial 12 -> 37979
+ITERAÇÃO: 2 - Atraso: 37574.2
+
+Sequencia inicial 1 -> 38645.7
+Melhor vizinho: 38414.5
+
+Sequencia inicial 2 -> 38414.5
+Melhor vizinho: 38265.9
+
+Sequencia inicial 3 -> 38265.9
+Melhor vizinho: 38209.5
+
+Sequencia inicial 4 -> 38209.5
+Melhor vizinho: 38011.9
+
+Sequencia inicial 5 -> 38011.9
+Melhor vizinho: 37971.4
+
+Sequencia inicial 6 -> 37971.4
+Melhor vizinho: 37902.3
+
+Sequencia inicial 7 -> 37902.3
+Melhor vizinho: 37777.9
+
+Sequencia inicial 8 -> 37777.9
+Melhor vizinho: 37742.3
+
+Sequencia inicial 9 -> 37742.3
+Melhor vizinho: 37628.3
+
+Sequencia inicial 10 -> 37628.3
+Melhor vizinho: 37594.6
+
+Sequencia inicial 11 -> 37594.6
+Melhor vizinho: 37561.8
+
+Sequencia inicial 12 -> 37561.8
+Melhor vizinho: 37554.5
+
+Sequencia inicial 13 -> 37554.5
+Melhor vizinho: 37547.4
+
+Sequencia inicial 14 -> 37547.4
+ITERAÇÃO: 1 - Atraso: 37547.4
+
+Sequencia inicial 1 -> 38438.1
+Melhor vizinho: 38186.2
+
+Sequencia inicial 2 -> 38186.2
+Melhor vizinho: 38034.6
+
+Sequencia inicial 3 -> 38034.6
+Melhor vizinho: 37959.8
+
+Sequencia inicial 4 -> 37959.8
+Melhor vizinho: 37958.2
+
+Sequencia inicial 5 -> 37958.2
+ITERAÇÃO: 2 - Atraso: 37547.4
+
+Sequencia inicial 1 -> 38505.2
+Melhor vizinho: 38248
+
+Sequencia inicial 2 -> 38248
+Melhor vizinho: 38189
+
+Sequencia inicial 3 -> 38189
+Melhor vizinho: 38091.3
+
+Sequencia inicial 4 -> 38091.3
+Melhor vizinho: 38038.3
+
+Sequencia inicial 5 -> 38038.3
+Melhor vizinho: 37953.1
+
+Sequencia inicial 6 -> 37953.1
+Melhor vizinho: 37927.9
+
+Sequencia inicial 7 -> 37927.9
+Melhor vizinho: 37901.7
+
+Sequencia inicial 8 -> 37901.7
+Melhor vizinho: 37853.8
+
+Sequencia inicial 9 -> 37853.8
+Melhor vizinho: 37830.4
+
+Sequencia inicial 10 -> 37830.4
+Melhor vizinho: 37820.7
+
+Sequencia inicial 11 -> 37820.7
+Melhor vizinho: 37805.9
+
+Sequencia inicial 12 -> 37805.9
+Melhor vizinho: 37804.2
+
+Sequencia inicial 13 -> 37804.2
+Melhor vizinho: 37795
+
+Sequencia inicial 14 -> 37795
+ITERAÇÃO: 3 - Atraso: 37547.4
+
+Sequencia inicial 1 -> 38597.6
+Melhor vizinho: 38358.2
+
+Sequencia inicial 2 -> 38358.2
+Melhor vizinho: 38324.7
+
+Sequencia inicial 3 -> 38324.7
+Melhor vizinho: 38291.1
+
+Sequencia inicial 4 -> 38291.1
+Melhor vizinho: 38261.4
+
+Sequencia inicial 5 -> 38261.4
+Melhor vizinho: 38237.2
+
+Sequencia inicial 6 -> 38237.2
+Melhor vizinho: 38214.8
+
+Sequencia inicial 7 -> 38214.8
+Melhor vizinho: 38198.3
+
+Sequencia inicial 8 -> 38198.3
+Melhor vizinho: 38186.5
+
+Sequencia inicial 9 -> 38186.5
+Melhor vizinho: 38070.7
+
+Sequencia inicial 10 -> 38070.7
+Melhor vizinho: 37993.2
+
+Sequencia inicial 11 -> 37993.2
+Melhor vizinho: 37944.4
+
+Sequencia inicial 12 -> 37944.4
+Melhor vizinho: 37929.3
+
+Sequencia inicial 13 -> 37929.3
+Melhor vizinho: 37926
+
+Sequencia inicial 14 -> 37926
+ITERAÇÃO: 4 - Atraso: 37547.4
+
+Sequencia inicial 1 -> 38475.8
+Melhor vizinho: 38315.3
+
+Sequencia inicial 2 -> 38315.3
+Melhor vizinho: 38297.5
+
+Sequencia inicial 3 -> 38297.5
+Melhor vizinho: 38277.4
+
+Sequencia inicial 4 -> 38277.4
+Melhor vizinho: 38198.7
+
+Sequencia inicial 5 -> 38198.7
+Melhor vizinho: 38128.9
+
+Sequencia inicial 6 -> 38128.9
+Melhor vizinho: 38100.8
+
+Sequencia inicial 7 -> 38100.8
+Melhor vizinho: 38071.5
+
+Sequencia inicial 8 -> 38071.5
+Melhor vizinho: 38062.4
+
+Sequencia inicial 9 -> 38062.4
+Melhor vizinho: 37952
+
+Sequencia inicial 10 -> 37952
+Melhor vizinho: 37828.6
+
+Sequencia inicial 11 -> 37828.6
+Melhor vizinho: 37778.1
+
+Sequencia inicial 12 -> 37778.1
+Melhor vizinho: 37711.8
+
+Sequencia inicial 13 -> 37711.8
+Melhor vizinho: 37638
+
+Sequencia inicial 14 -> 37638
+Melhor vizinho: 37599.1
+
+Sequencia inicial 15 -> 37599.1
+Melhor vizinho: 37575.7
+
+Sequencia inicial 16 -> 37575.7
+Melhor vizinho: 37552.5
+
+Sequencia inicial 17 -> 37552.5
+Melhor vizinho: 37499.8
+
+Sequencia inicial 18 -> 37499.8
+Melhor vizinho: 37492.9
+
+Sequencia inicial 19 -> 37492.9
+Melhor vizinho: 37488.4
+
+Sequencia inicial 20 -> 37488.4
+Melhor vizinho: 37473.9
+
+Sequencia inicial 21 -> 37473.9
+ITERAÇÃO: 1 - Atraso: 37473.9
+
+Sequencia inicial 1 -> 38071.9
+Melhor vizinho: 37896.7
+
+Sequencia inicial 2 -> 37896.7
+Melhor vizinho: 37884.4
+
+Sequencia inicial 3 -> 37884.4
+ITERAÇÃO: 2 - Atraso: 37473.9
+
+Sequencia inicial 1 -> 40274.1
+Melhor vizinho: 40107.7
+
+Sequencia inicial 2 -> 40107.7
+Melhor vizinho: 40033.8
+
+Sequencia inicial 3 -> 40033.8
+Melhor vizinho: 40015.2
+
+Sequencia inicial 4 -> 40015.2
+Melhor vizinho: 39999.5
+
+Sequencia inicial 5 -> 39999.5
+Melhor vizinho: 39993.4
+
+Sequencia inicial 6 -> 39993.4
+Melhor vizinho: 39979.9
+
+Sequencia inicial 7 -> 39979.9
+Melhor vizinho: 39977.9
+
+Sequencia inicial 8 -> 39977.9
+Melhor vizinho: 39950.9
+
+Sequencia inicial 9 -> 39950.9
+Melhor vizinho: 39885
+
+Sequencia inicial 10 -> 39885
+Melhor vizinho: 39825.1
+
+Sequencia inicial 11 -> 39825.1
+Melhor vizinho: 39787.3
+
+Sequencia inicial 12 -> 39787.3
+ITERAÇÃO: 3 - Atraso: 37473.9
+
+Sequencia inicial 1 -> 40471.3
+Melhor vizinho: 40350.3
+
+Sequencia inicial 2 -> 40350.3
+Melhor vizinho: 39980.4
+
+Sequencia inicial 3 -> 39980.4
+Melhor vizinho: 39911.5
+
+Sequencia inicial 4 -> 39911.5
+Melhor vizinho: 39872.6
+
+Sequencia inicial 5 -> 39872.6
+Melhor vizinho: 39779.5
+
+Sequencia inicial 6 -> 39779.5
+Melhor vizinho: 39743.4
+
+Sequencia inicial 7 -> 39743.4
+Melhor vizinho: 39722.1
+
+Sequencia inicial 8 -> 39722.1
+Melhor vizinho: 39713.8
+
+Sequencia inicial 9 -> 39713.8
+Melhor vizinho: 39705.4
+
+Sequencia inicial 10 -> 39705.4
+ITERAÇÃO: 4 - Atraso: 37473.9
+
+Sequencia inicial 1 -> 40355.7
+Melhor vizinho: 39783.7
+
+Sequencia inicial 2 -> 39783.7
+Melhor vizinho: 39724.4
+
+Sequencia inicial 3 -> 39724.4
+Melhor vizinho: 39710.2
+
+Sequencia inicial 4 -> 39710.2
+Melhor vizinho: 39690.6
+
+Sequencia inicial 5 -> 39690.6
+Melhor vizinho: 39591.3
+
+Sequencia inicial 6 -> 39591.3
+Melhor vizinho: 39519.5
+
+Sequencia inicial 7 -> 39519.5
+Melhor vizinho: 39486.9
+
+Sequencia inicial 8 -> 39486.9
+Melhor vizinho: 39458.9
+
+Sequencia inicial 9 -> 39458.9
+Melhor vizinho: 39457.1
+
+Sequencia inicial 10 -> 39457.1
+Melhor vizinho: 39451
+
+Sequencia inicial 11 -> 39451
+Melhor vizinho: 39383
+
+Sequencia inicial 12 -> 39383
+Melhor vizinho: 39380.1
+
+Sequencia inicial 13 -> 39380.1
+Melhor vizinho: 39377.5
+
+Sequencia inicial 14 -> 39377.5
+Melhor vizinho: 39373
+
+Sequencia inicial 15 -> 39373
+Melhor vizinho: 39356.9
+
+Sequencia inicial 16 -> 39356.9
+Melhor vizinho: 39313.6
+
+Sequencia inicial 17 -> 39313.6
+Melhor vizinho: 39302.4
+
+Sequencia inicial 18 -> 39302.4
+Melhor vizinho: 39300.8
+
+Sequencia inicial 19 -> 39300.8
+Melhor vizinho: 39287.4
+
+Sequencia inicial 20 -> 39287.4
+Melhor vizinho: 39280.1
+
+Sequencia inicial 21 -> 39280.1
+Melhor vizinho: 39279.6
+
+Sequencia inicial 22 -> 39279.6
+Melhor vizinho: 39279.5
+
+Sequencia inicial 23 -> 39279.5
+ITERAÇÃO: 5 - Atraso: 37473.9
+
+Sequencia inicial 1 -> 40443.4
+Melhor vizinho: 40307.4
+
+Sequencia inicial 2 -> 40307.4
+Melhor vizinho: 40030.2
+
+Sequencia inicial 3 -> 40030.2
+Melhor vizinho: 39869.6
+
+Sequencia inicial 4 -> 39869.6
+Melhor vizinho: 39781
+
+Sequencia inicial 5 -> 39781
+Melhor vizinho: 39704
+
+Sequencia inicial 6 -> 39704
+Melhor vizinho: 39657.2
+
+Sequencia inicial 7 -> 39657.2
+Melhor vizinho: 39622.8
+
+Sequencia inicial 8 -> 39622.8
+Melhor vizinho: 39460.5
+
+Sequencia inicial 9 -> 39460.5
+Melhor vizinho: 39346.3
+
+Sequencia inicial 10 -> 39346.3
+Melhor vizinho: 39228.2
+
+Sequencia inicial 11 -> 39228.2
+Melhor vizinho: 39199.1
+
+Sequencia inicial 12 -> 39199.1
+Melhor vizinho: 39187.7
+
+Sequencia inicial 13 -> 39187.7
+Melhor vizinho: 39178.5
+
+Sequencia inicial 14 -> 39178.5
+Melhor vizinho: 39129.7
+
+Sequencia inicial 15 -> 39129.7
+Melhor vizinho: 39096.4
+
+Sequencia inicial 16 -> 39096.4
+Melhor vizinho: 39012.2
+
+Sequencia inicial 17 -> 39012.2
+Melhor vizinho: 38973.2
+
+Sequencia inicial 18 -> 38973.2
+Melhor vizinho: 38965.6
+
+Sequencia inicial 19 -> 38965.6
+ITERAÇÃO: 6 - Atraso: 37473.9
+
+Sequencia inicial 1 -> 41196.6
+Melhor vizinho: 41017.1
+
+Sequencia inicial 2 -> 41017.1
+Melhor vizinho: 40790.4
+
+Sequencia inicial 3 -> 40790.4
+Melhor vizinho: 40699.7
+
+Sequencia inicial 4 -> 40699.7
+Melhor vizinho: 40609.3
+
+Sequencia inicial 5 -> 40609.3
+Melhor vizinho: 40533.7
+
+Sequencia inicial 6 -> 40533.7
+Melhor vizinho: 40462
+
+Sequencia inicial 7 -> 40462
+Melhor vizinho: 40431.4
+
+Sequencia inicial 8 -> 40431.4
+Melhor vizinho: 40323.7
+
+Sequencia inicial 9 -> 40323.7
+Melhor vizinho: 40269.5
+
+Sequencia inicial 10 -> 40269.5
+Melhor vizinho: 40221.9
+
+Sequencia inicial 11 -> 40221.9
+Melhor vizinho: 40124.9
+
+Sequencia inicial 12 -> 40124.9
+Melhor vizinho: 40098.3
+
+Sequencia inicial 13 -> 40098.3
+Melhor vizinho: 40022.8
+
+Sequencia inicial 14 -> 40022.8
+Melhor vizinho: 40005
+
+Sequencia inicial 15 -> 40005
+Melhor vizinho: 39954
+
+Sequencia inicial 16 -> 39954
+Melhor vizinho: 39921.5
+
+Sequencia inicial 17 -> 39921.5
+Melhor vizinho: 39835.2
+
+Sequencia inicial 18 -> 39835.2
+Melhor vizinho: 39819.7
+
+Sequencia inicial 19 -> 39819.7
+Melhor vizinho: 39598.7
+
+Sequencia inicial 20 -> 39598.7
+Melhor vizinho: 39502.5
+
+Sequencia inicial 21 -> 39502.5
+Melhor vizinho: 39458.4
+
+Sequencia inicial 22 -> 39458.4
+Melhor vizinho: 39452.7
+
+Sequencia inicial 23 -> 39452.7
+Melhor vizinho: 39442.3
+
+Sequencia inicial 24 -> 39442.3
+Melhor vizinho: 39421.6
+
+Sequencia inicial 25 -> 39421.6
+Melhor vizinho: 39411.5
+
+Sequencia inicial 26 -> 39411.5
+Melhor vizinho: 39379.8
+
+Sequencia inicial 27 -> 39379.8
+Melhor vizinho: 39376
+
+Sequencia inicial 28 -> 39376
+ITERAÇÃO: 7 - Atraso: 37473.9
+
+Sequencia inicial 1 -> 41174.9
+Melhor vizinho: 40958.3
+
+Sequencia inicial 2 -> 40958.3
+Melhor vizinho: 40847.1
+
+Sequencia inicial 3 -> 40847.1
+Melhor vizinho: 40780.8
+
+Sequencia inicial 4 -> 40780.8
+Melhor vizinho: 40527.7
+
+Sequencia inicial 5 -> 40527.7
+Melhor vizinho: 40398
+
+Sequencia inicial 6 -> 40398
+Melhor vizinho: 40335.2
+
+Sequencia inicial 7 -> 40335.2
+Melhor vizinho: 40257.2
+
+Sequencia inicial 8 -> 40257.2
+Melhor vizinho: 40213.1
+
+Sequencia inicial 9 -> 40213.1
+Melhor vizinho: 40130
+
+Sequencia inicial 10 -> 40130
+Melhor vizinho: 40095.1
+
+Sequencia inicial 11 -> 40095.1
+Melhor vizinho: 40083.8
+
+Sequencia inicial 12 -> 40083.8
+Melhor vizinho: 40069.3
+
+Sequencia inicial 13 -> 40069.3
+Melhor vizinho: 40041.4
+
+Sequencia inicial 14 -> 40041.4
+Melhor vizinho: 40029
+
+Sequencia inicial 15 -> 40029
+Melhor vizinho: 39907.9
+
+Sequencia inicial 16 -> 39907.9
+Melhor vizinho: 39899.1
+
+Sequencia inicial 17 -> 39899.1
+Melhor vizinho: 39890.4
+
+Sequencia inicial 18 -> 39890.4
+Melhor vizinho: 39880.7
+
+Sequencia inicial 19 -> 39880.7
+Melhor vizinho: 39873.5
+
+Sequencia inicial 20 -> 39873.5
+Melhor vizinho: 39836.4
+
+Sequencia inicial 21 -> 39836.4
+Melhor vizinho: 39831.7
+
+Sequencia inicial 22 -> 39831.7
+Melhor vizinho: 39828.1
+
+Sequencia inicial 23 -> 39828.1
+ITERAÇÃO: 8 - Atraso: 37473.9
+
+Sequencia inicial 1 -> 40424.9
+Melhor vizinho: 40204.9
+
+Sequencia inicial 2 -> 40204.9
+Melhor vizinho: 40097.8
+
+Sequencia inicial 3 -> 40097.8
+Melhor vizinho: 40009.2
+
+Sequencia inicial 4 -> 40009.2
+Melhor vizinho: 39964
+
+Sequencia inicial 5 -> 39964
+Melhor vizinho: 39534.5
+
+Sequencia inicial 6 -> 39534.5
+Melhor vizinho: 39513.8
+
+Sequencia inicial 7 -> 39513.8
+Melhor vizinho: 39487.3
+
+Sequencia inicial 8 -> 39487.3
+Melhor vizinho: 39473.3
+
+Sequencia inicial 9 -> 39473.3
+Melhor vizinho: 39407.1
+
+Sequencia inicial 10 -> 39407.1
+Melhor vizinho: 39293
+
+Sequencia inicial 11 -> 39293
+Melhor vizinho: 39193.9
+
+Sequencia inicial 12 -> 39193.9
+Melhor vizinho: 39116.8
+
+Sequencia inicial 13 -> 39116.8
+Melhor vizinho: 39089.1
+
+Sequencia inicial 14 -> 39089.1
+Melhor vizinho: 38985.6
+
+Sequencia inicial 15 -> 38985.6
+Melhor vizinho: 38940.9
+
+Sequencia inicial 16 -> 38940.9
+Melhor vizinho: 38906.9
+
+Sequencia inicial 17 -> 38906.9
+Melhor vizinho: 38878.8
+
+Sequencia inicial 18 -> 38878.8
+Melhor vizinho: 38872.1
+
+Sequencia inicial 19 -> 38872.1
+Melhor vizinho: 38857.5
+
+Sequencia inicial 20 -> 38857.5
+Melhor vizinho: 38831.6
+
+Sequencia inicial 21 -> 38831.6
+Melhor vizinho: 38816
+
+Sequencia inicial 22 -> 38816
+Melhor vizinho: 38737.9
+
+Sequencia inicial 23 -> 38737.9
+Melhor vizinho: 38701
+
+Sequencia inicial 24 -> 38701
+Melhor vizinho: 38656.6
+
+Sequencia inicial 25 -> 38656.6
+Melhor vizinho: 38629.9
+
+Sequencia inicial 26 -> 38629.9
+Melhor vizinho: 38602
+
+Sequencia inicial 27 -> 38602
+Melhor vizinho: 38598.6
+
+Sequencia inicial 28 -> 38598.6
+Melhor vizinho: 38594.8
+
+Sequencia inicial 29 -> 38594.8
+Melhor vizinho: 38557.4
+
+Sequencia inicial 30 -> 38557.4
+Melhor vizinho: 38446.3
+
+Sequencia inicial 31 -> 38446.3
+Melhor vizinho: 38375.3
+
+Sequencia inicial 32 -> 38375.3
+Melhor vizinho: 38347.3
+
+Sequencia inicial 33 -> 38347.3
+Melhor vizinho: 38324.7
+
+Sequencia inicial 34 -> 38324.7
+Melhor vizinho: 38316.6
+
+Sequencia inicial 35 -> 38316.6
+Melhor vizinho: 38308.7
+
+Sequencia inicial 36 -> 38308.7
+Melhor vizinho: 38273.1
+
+Sequencia inicial 37 -> 38273.1
+Melhor vizinho: 38271
+
+Sequencia inicial 38 -> 38271
+Melhor vizinho: 38269.8
+
+Sequencia inicial 39 -> 38269.8
+Melhor vizinho: 38264.4
+
+Sequencia inicial 40 -> 38264.4
+ITERAÇÃO: 9 - Atraso: 37473.9
+
+Sequencia inicial 1 -> 40616.1
+Melhor vizinho: 40283.5
+
+Sequencia inicial 2 -> 40283.5
+Melhor vizinho: 40090.7
+
+Sequencia inicial 3 -> 40090.7
+Melhor vizinho: 39873.8
+
+Sequencia inicial 4 -> 39873.8
+Melhor vizinho: 39604.5
+
+Sequencia inicial 5 -> 39604.5
+Melhor vizinho: 39499.1
+
+Sequencia inicial 6 -> 39499.1
+Melhor vizinho: 39313.2
+
+Sequencia inicial 7 -> 39313.2
+Melhor vizinho: 39199.2
+
+Sequencia inicial 8 -> 39199.2
+Melhor vizinho: 39161.3
+
+Sequencia inicial 9 -> 39161.3
+Melhor vizinho: 38880.7
+
+Sequencia inicial 10 -> 38880.7
+Melhor vizinho: 38870.3
+
+Sequencia inicial 11 -> 38870.3
+Melhor vizinho: 38791.5
+
+Sequencia inicial 12 -> 38791.5
+Melhor vizinho: 38754.3
+
+Sequencia inicial 13 -> 38754.3
+Melhor vizinho: 38681.8
+
+Sequencia inicial 14 -> 38681.8
+Melhor vizinho: 38606.1
+
+Sequencia inicial 15 -> 38606.1
+ITERAÇÃO: 10 - Atraso: 37473.9
+
+Sequencia inicial 1 -> 40782.5
+Melhor vizinho: 40495.8
+
+Sequencia inicial 2 -> 40495.8
+Melhor vizinho: 40209.5
+
+Sequencia inicial 3 -> 40209.5
+Melhor vizinho: 39806.6
+
+Sequencia inicial 4 -> 39806.6
+Melhor vizinho: 39549.4
+
+Sequencia inicial 5 -> 39549.4
+Melhor vizinho: 39436.8
+
+Sequencia inicial 6 -> 39436.8
+Melhor vizinho: 39336.4
+
+Sequencia inicial 7 -> 39336.4
+Melhor vizinho: 39219.6
+
+Sequencia inicial 8 -> 39219.6
+Melhor vizinho: 39117.1
+
+Sequencia inicial 9 -> 39117.1
+Melhor vizinho: 39023.2
+
+Sequencia inicial 10 -> 39023.2
+Melhor vizinho: 38922.5
+
+Sequencia inicial 11 -> 38922.5
+Melhor vizinho: 38914.6
+
+Sequencia inicial 12 -> 38914.6
+Melhor vizinho: 38903.4
+
+Sequencia inicial 13 -> 38903.4
+Melhor vizinho: 38830.5
+
+Sequencia inicial 14 -> 38830.5
+Melhor vizinho: 38790.8
+
+Sequencia inicial 15 -> 38790.8
+Melhor vizinho: 38756.4
+
+Sequencia inicial 16 -> 38756.4
+Melhor vizinho: 38685.5
+
+Sequencia inicial 17 -> 38685.5
+Melhor vizinho: 38681.9
+
+Sequencia inicial 18 -> 38681.9
+Melhor vizinho: 38680.9
+
+Sequencia inicial 19 -> 38680.9
+Melhor vizinho: 38676.3
+
+Sequencia inicial 20 -> 38676.3
+Melhor vizinho: 38675.3
+
+Sequencia inicial 21 -> 38675.3
+ITERAÇÃO: 11 - Atraso: 37473.9
+
+Sequencia inicial 1 -> 40179.7
+Melhor vizinho: 40042.3
+
+Sequencia inicial 2 -> 40042.3
+Melhor vizinho: 39489.3
+
+Sequencia inicial 3 -> 39489.3
+Melhor vizinho: 39316.8
+
+Sequencia inicial 4 -> 39316.8
+Melhor vizinho: 39159.8
+
+Sequencia inicial 5 -> 39159.8
+Melhor vizinho: 39056.8
+
+Sequencia inicial 6 -> 39056.8
+Melhor vizinho: 39006.7
+
+Sequencia inicial 7 -> 39006.7
+Melhor vizinho: 38957
+
+Sequencia inicial 8 -> 38957
+Melhor vizinho: 38919.4
+
+Sequencia inicial 9 -> 38919.4
+Melhor vizinho: 38872.3
+
+Sequencia inicial 10 -> 38872.3
+Melhor vizinho: 38834.7
+
+Sequencia inicial 11 -> 38834.7
+Melhor vizinho: 38797.4
+
+Sequencia inicial 12 -> 38797.4
+Melhor vizinho: 38722.1
+
+Sequencia inicial 13 -> 38722.1
+Melhor vizinho: 38681.6
+
+Sequencia inicial 14 -> 38681.6
+Melhor vizinho: 38660.8
+
+Sequencia inicial 15 -> 38660.8
+Melhor vizinho: 38654.1
+
+Sequencia inicial 16 -> 38654.1
+Melhor vizinho: 38609
+
+Sequencia inicial 17 -> 38609
+Melhor vizinho: 38575
+
+Sequencia inicial 18 -> 38575
+Melhor vizinho: 38553
+
+Sequencia inicial 19 -> 38553
+Melhor vizinho: 38548.6
+
+Sequencia inicial 20 -> 38548.6
+Melhor vizinho: 38544.7
+
+Sequencia inicial 21 -> 38544.7
+Melhor vizinho: 38526.6
+
+Sequencia inicial 22 -> 38526.6
+ITERAÇÃO: 12 - Atraso: 37473.9
+
+Sequencia inicial 1 -> 40034.8
+Melhor vizinho: 39907.6
+
+Sequencia inicial 2 -> 39907.6
+Melhor vizinho: 39802.1
+
+Sequencia inicial 3 -> 39802.1
+Melhor vizinho: 39777
+
+Sequencia inicial 4 -> 39777
+Melhor vizinho: 39661.4
+
+Sequencia inicial 5 -> 39661.4
+Melhor vizinho: 39455.5
+
+Sequencia inicial 6 -> 39455.5
+Melhor vizinho: 39168.1
+
+Sequencia inicial 7 -> 39168.1
+Melhor vizinho: 39123.9
+
+Sequencia inicial 8 -> 39123.9
+Melhor vizinho: 39093.4
+
+Sequencia inicial 9 -> 39093.4
+Melhor vizinho: 39071.5
+
+Sequencia inicial 10 -> 39071.5
+Melhor vizinho: 39022.8
+
+Sequencia inicial 11 -> 39022.8
+Melhor vizinho: 39002.2
+
+Sequencia inicial 12 -> 39002.2
+Melhor vizinho: 38872.7
+
+Sequencia inicial 13 -> 38872.7
+Melhor vizinho: 38778
+
+Sequencia inicial 14 -> 38778
+Melhor vizinho: 38668.1
+
+Sequencia inicial 15 -> 38668.1
+Melhor vizinho: 38563.8
+
+Sequencia inicial 16 -> 38563.8
+Melhor vizinho: 38451.7
+
+Sequencia inicial 17 -> 38451.7
+Melhor vizinho: 38309.6
+
+Sequencia inicial 18 -> 38309.6
+Melhor vizinho: 38258
+
+Sequencia inicial 19 -> 38258
+Melhor vizinho: 38215.8
+
+Sequencia inicial 20 -> 38215.8
+Melhor vizinho: 38203.7
+
+Sequencia inicial 21 -> 38203.7
+Melhor vizinho: 38191.6
+
+Sequencia inicial 22 -> 38191.6
+Melhor vizinho: 38165.3
+
+Sequencia inicial 23 -> 38165.3
+Melhor vizinho: 38126.5
+
+Sequencia inicial 24 -> 38126.5
+Melhor vizinho: 38102.6
+
+Sequencia inicial 25 -> 38102.6
+Melhor vizinho: 38095
+
+Sequencia inicial 26 -> 38095
+Melhor vizinho: 38018
+
+Sequencia inicial 27 -> 38018
+Melhor vizinho: 37970.7
+
+Sequencia inicial 28 -> 37970.7
+ITERAÇÃO: 13 - Atraso: 37473.9
+
+Sequencia inicial 1 -> 39783
+Melhor vizinho: 39560.6
+
+Sequencia inicial 2 -> 39560.6
+Melhor vizinho: 38832.3
+
+Sequencia inicial 3 -> 38832.3
+Melhor vizinho: 38520.2
+
+Sequencia inicial 4 -> 38520.2
+Melhor vizinho: 38438.2
+
+Sequencia inicial 5 -> 38438.2
+Melhor vizinho: 38261.8
+
+Sequencia inicial 6 -> 38261.8
+Melhor vizinho: 38215.2
+
+Sequencia inicial 7 -> 38215.2
+Melhor vizinho: 38166.3
+
+Sequencia inicial 8 -> 38166.3
+Melhor vizinho: 38133.2
+
+Sequencia inicial 9 -> 38133.2
+Melhor vizinho: 38117.3
+
+Sequencia inicial 10 -> 38117.3
+Melhor vizinho: 38049.3
+
+Sequencia inicial 11 -> 38049.3
+Melhor vizinho: 37993.8
+
+Sequencia inicial 12 -> 37993.8
+Melhor vizinho: 37906.2
+
+Sequencia inicial 13 -> 37906.2
+Melhor vizinho: 37874.3
+
+Sequencia inicial 14 -> 37874.3
+Melhor vizinho: 37822.7
+
+Sequencia inicial 15 -> 37822.7
+Melhor vizinho: 37812.4
+
+Sequencia inicial 16 -> 37812.4
+Melhor vizinho: 37805.5
+
+Sequencia inicial 17 -> 37805.5
+Melhor vizinho: 37795.2
+
+Sequencia inicial 18 -> 37795.2
+Melhor vizinho: 37793.7
+
+Sequencia inicial 19 -> 37793.7
+Melhor vizinho: 37792.5
+
+Sequencia inicial 20 -> 37792.5
+ITERAÇÃO: 14 - Atraso: 37473.9
+
+Sequencia inicial 1 -> 40110.1
+Melhor vizinho: 39908.8
+
+Sequencia inicial 2 -> 39908.8
+Melhor vizinho: 39083.6
+
+Sequencia inicial 3 -> 39083.6
+Melhor vizinho: 38936.7
+
+Sequencia inicial 4 -> 38936.7
+Melhor vizinho: 38740.3
+
+Sequencia inicial 5 -> 38740.3
+Melhor vizinho: 38557.1
+
+Sequencia inicial 6 -> 38557.1
+Melhor vizinho: 38475.2
+
+Sequencia inicial 7 -> 38475.2
+Melhor vizinho: 38403.3
+
+Sequencia inicial 8 -> 38403.3
+Melhor vizinho: 38316.3
+
+Sequencia inicial 9 -> 38316.3
+Melhor vizinho: 38249.6
+
+Sequencia inicial 10 -> 38249.6
+Melhor vizinho: 38192.5
+
+Sequencia inicial 11 -> 38192.5
+Melhor vizinho: 38150.8
+
+Sequencia inicial 12 -> 38150.8
+Melhor vizinho: 38125.2
+
+Sequencia inicial 13 -> 38125.2
+Melhor vizinho: 38123.9
+
+Sequencia inicial 14 -> 38123.9
+Melhor vizinho: 38123.4
+
+Sequencia inicial 15 -> 38123.4
+Melhor vizinho: 38109.5
+
+Sequencia inicial 16 -> 38109.5
+ITERAÇÃO: 15 - Atraso: 37473.9
+
+Sequencia inicial 1 -> 40168.5
+Melhor vizinho: 39824.5
+
+Sequencia inicial 2 -> 39824.5
+Melhor vizinho: 39665.4
+
+Sequencia inicial 3 -> 39665.4
+Melhor vizinho: 38950.2
+
+Sequencia inicial 4 -> 38950.2
+Melhor vizinho: 38856
+
+Sequencia inicial 5 -> 38856
+Melhor vizinho: 38833.1
+
+Sequencia inicial 6 -> 38833.1
+Melhor vizinho: 38778.9
+
+Sequencia inicial 7 -> 38778.9
+Melhor vizinho: 38756.7
+
+Sequencia inicial 8 -> 38756.7
+Melhor vizinho: 38733.9
+
+Sequencia inicial 9 -> 38733.9
+Melhor vizinho: 38721.7
+
+Sequencia inicial 10 -> 38721.7
+Melhor vizinho: 38701.8
+
+Sequencia inicial 11 -> 38701.8
+Melhor vizinho: 38699.1
+
+Sequencia inicial 12 -> 38699.1
+Melhor vizinho: 38693.7
+
+Sequencia inicial 13 -> 38693.7
+ITERAÇÃO: 16 - Atraso: 37473.9
+
+Sequencia inicial 1 -> 39706.4
+Melhor vizinho: 39604.2
+
+Sequencia inicial 2 -> 39604.2
+Melhor vizinho: 39397.6
+
+Sequencia inicial 3 -> 39397.6
+Melhor vizinho: 39251.8
+
+Sequencia inicial 4 -> 39251.8
+Melhor vizinho: 39179.6
+
+Sequencia inicial 5 -> 39179.6
+Melhor vizinho: 39112.1
+
+Sequencia inicial 6 -> 39112.1
+Melhor vizinho: 39089.6
+
+Sequencia inicial 7 -> 39089.6
+Melhor vizinho: 39005.3
+
+Sequencia inicial 8 -> 39005.3
+Melhor vizinho: 38943.1
+
+Sequencia inicial 9 -> 38943.1
+Melhor vizinho: 38849.1
+
+Sequencia inicial 10 -> 38849.1
+Melhor vizinho: 38840.7
+
+Sequencia inicial 11 -> 38840.7
+Melhor vizinho: 38822.3
+
+Sequencia inicial 12 -> 38822.3
+Melhor vizinho: 38803.8
+
+Sequencia inicial 13 -> 38803.8
+Melhor vizinho: 38802.5
+
+Sequencia inicial 14 -> 38802.5
+ITERAÇÃO: 17 - Atraso: 37473.9
+
+Sequencia inicial 1 -> 40236
+Melhor vizinho: 40128.7
+
+Sequencia inicial 2 -> 40128.7
+Melhor vizinho: 39960.6
+
+Sequencia inicial 3 -> 39960.6
+Melhor vizinho: 39673.4
+
+Sequencia inicial 4 -> 39673.4
+Melhor vizinho: 39515.3
+
+Sequencia inicial 5 -> 39515.3
+Melhor vizinho: 39469.9
+
+Sequencia inicial 6 -> 39469.9
+Melhor vizinho: 39427.6
+
+Sequencia inicial 7 -> 39427.6
+Melhor vizinho: 39386.6
+
+Sequencia inicial 8 -> 39386.6
+Melhor vizinho: 39353.8
+
+Sequencia inicial 9 -> 39353.8
+Melhor vizinho: 39335.8
+
+Sequencia inicial 10 -> 39335.8
+Melhor vizinho: 39263.6
+
+Sequencia inicial 11 -> 39263.6
+Melhor vizinho: 39201.1
+
+Sequencia inicial 12 -> 39201.1
+Melhor vizinho: 39081.5
+
+Sequencia inicial 13 -> 39081.5
+Melhor vizinho: 38964.3
+
+Sequencia inicial 14 -> 38964.3
+Melhor vizinho: 38934.9
+
+Sequencia inicial 15 -> 38934.9
+Melhor vizinho: 38916.9
+
+Sequencia inicial 16 -> 38916.9
+Melhor vizinho: 38865.8
+
+Sequencia inicial 17 -> 38865.8
+Melhor vizinho: 38819
+
+Sequencia inicial 18 -> 38819
+Melhor vizinho: 38775.3
+
+Sequencia inicial 19 -> 38775.3
+Melhor vizinho: 38719.1
+
+Sequencia inicial 20 -> 38719.1
+Melhor vizinho: 38669.3
+
+Sequencia inicial 21 -> 38669.3
+Melhor vizinho: 38653
+
+Sequencia inicial 22 -> 38653
+Melhor vizinho: 38646.7
+
+Sequencia inicial 23 -> 38646.7
+Melhor vizinho: 38645.6
+
+Sequencia inicial 24 -> 38645.6
+ITERAÇÃO: 18 - Atraso: 37473.9
+
+Sequencia inicial 1 -> 40232.1
+Melhor vizinho: 39957.2
+
+Sequencia inicial 2 -> 39957.2
+Melhor vizinho: 39691.3
+
+Sequencia inicial 3 -> 39691.3
+Melhor vizinho: 39345.9
+
+Sequencia inicial 4 -> 39345.9
+Melhor vizinho: 39236.1
+
+Sequencia inicial 5 -> 39236.1
+Melhor vizinho: 39168.4
+
+Sequencia inicial 6 -> 39168.4
+Melhor vizinho: 39117.2
+
+Sequencia inicial 7 -> 39117.2
+Melhor vizinho: 39075.9
+
+Sequencia inicial 8 -> 39075.9
+Melhor vizinho: 38895.3
+
+Sequencia inicial 9 -> 38895.3
+Melhor vizinho: 38821.2
+
+Sequencia inicial 10 -> 38821.2
+Melhor vizinho: 38615.7
+
+Sequencia inicial 11 -> 38615.7
+Melhor vizinho: 38398.7
+
+Sequencia inicial 12 -> 38398.7
+Melhor vizinho: 38315
+
+Sequencia inicial 13 -> 38315
+Melhor vizinho: 38284.1
+
+Sequencia inicial 14 -> 38284.1
+Melhor vizinho: 38254.6
+
+Sequencia inicial 15 -> 38254.6
+Melhor vizinho: 38226.9
+
+Sequencia inicial 16 -> 38226.9
+Melhor vizinho: 38201.8
+
+Sequencia inicial 17 -> 38201.8
+Melhor vizinho: 38137
+
+Sequencia inicial 18 -> 38137
+Melhor vizinho: 38072.7
+
+Sequencia inicial 19 -> 38072.7
+Melhor vizinho: 38062.4
+
+Sequencia inicial 20 -> 38062.4
+Melhor vizinho: 38051.4
+
+Sequencia inicial 21 -> 38051.4
+ITERAÇÃO: 19 - Atraso: 37473.9
+
+Sequencia inicial 1 -> 39652.8
+Melhor vizinho: 39490.3
+
+Sequencia inicial 2 -> 39490.3
+Melhor vizinho: 39135.9
+
+Sequencia inicial 3 -> 39135.9
+Melhor vizinho: 38882
+
+Sequencia inicial 4 -> 38882
+Melhor vizinho: 38801.4
+
+Sequencia inicial 5 -> 38801.4
+Melhor vizinho: 38628.7
+
+Sequencia inicial 6 -> 38628.7
+Melhor vizinho: 38546.2
+
+Sequencia inicial 7 -> 38546.2
+Melhor vizinho: 38390.8
+
+Sequencia inicial 8 -> 38390.8
+Melhor vizinho: 38309.9
+
+Sequencia inicial 9 -> 38309.9
+Melhor vizinho: 38210.6
+
+Sequencia inicial 10 -> 38210.6
+Melhor vizinho: 38173.7
+
+Sequencia inicial 11 -> 38173.7
+Melhor vizinho: 38142.4
+
+Sequencia inicial 12 -> 38142.4
+Melhor vizinho: 38106.6
+
+Sequencia inicial 13 -> 38106.6
+Melhor vizinho: 37845.7
+
+Sequencia inicial 14 -> 37845.7
+Melhor vizinho: 37751
+
+Sequencia inicial 15 -> 37751
+Melhor vizinho: 37724.8
+
+Sequencia inicial 16 -> 37724.8
+Melhor vizinho: 37702
+
+Sequencia inicial 17 -> 37702
+Melhor vizinho: 37690
+
+Sequencia inicial 18 -> 37690
+Melhor vizinho: 37688.2
+
+Sequencia inicial 19 -> 37688.2
+Melhor vizinho: 37653.6
+
+Sequencia inicial 20 -> 37653.6
+Melhor vizinho: 37643.7
+
+Sequencia inicial 21 -> 37643.7
+Melhor vizinho: 37642.5
+
+Sequencia inicial 22 -> 37642.5
+Melhor vizinho: 37619.8
+
+Sequencia inicial 23 -> 37619.8
+ITERAÇÃO: 20 - Atraso: 37473.9
+
+Sequencia inicial 1 -> 39570.2
+Melhor vizinho: 39391.8
+
+Sequencia inicial 2 -> 39391.8
+Melhor vizinho: 39190.8
+
+Sequencia inicial 3 -> 39190.8
+Melhor vizinho: 39145.2
+
+Sequencia inicial 4 -> 39145.2
+Melhor vizinho: 39051.1
+
+Sequencia inicial 5 -> 39051.1
+Melhor vizinho: 39020.2
+
+Sequencia inicial 6 -> 39020.2
+Melhor vizinho: 38998.7
+
+Sequencia inicial 7 -> 38998.7
+Melhor vizinho: 38984.9
+
+Sequencia inicial 8 -> 38984.9
+Melhor vizinho: 38978.2
+
+Sequencia inicial 9 -> 38978.2
+Atraso Máximo Iterated Greedy (IG): 37473.9
+Sequência de Tarefas - Solução Final IG
+12 9 16 18 30 6 28 15 37 42 21 31 45 43 39 50 48 20 25 26 34 47 27 8 3 1 7 29 24 2 5 17 46 35 49 11 13 44 32 41 14 36 40 10 38 4 23 22 19 33 
+Tempo: 11.6342 segundos

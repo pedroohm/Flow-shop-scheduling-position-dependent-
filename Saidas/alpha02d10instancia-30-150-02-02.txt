@@ -1,0 +1,7984 @@
+
+Calculando TP
+TP calculada
+Sequência de Tarefas - Solução Inicial EDD
+34 88 142 116 58 102 19 3 22 61 14 72 27 70 143 109 9 100 147 7 94 141 140 136 110 2 131 106 18 86 41 67 21 98 29 83 138 55 84 36 31 32 82 39 123 117 48 105 15 73 87 17 130 92 75 13 128 71 107 47 124 10 104 144 46 90 11 78 38 45 63 132 126 49 59 66 101 33 119 146 80 6 65 120 23 64 137 4 37 115 54 139 121 96 118 108 148 62 81 5 95 133 93 20 89 125 150 149 30 103 16 56 26 113 60 53 52 57 85 77 8 12 145 43 40 44 35 50 1 122 129 111 79 97 28 114 76 74 51 112 99 134 135 68 91 24 127 42 69 25 
+Atraso Máximo da solução inicial EDD: 11433.8
+
+Sequência de Tarefas - Solução Inicial Tempos Medios
+7 41 21 67 2 51 3 49 102 34 26 136 27 59 132 75 48 61 18 110 115 117 6 45 72 116 43 108 62 36 44 46 57 15 65 32 10 29 4 12 66 74 70 47 50 37 54 125 19 148 105 30 68 5 126 77 135 14 128 100 13 55 42 131 80 31 11 149 107 92 81 137 134 86 53 85 93 144 88 69 94 25 111 60 33 52 124 71 139 58 103 20 79 40 121 64 147 24 127 23 98 145 9 113 73 104 119 96 97 114 35 91 141 130 142 109 22 17 89 112 28 133 143 146 101 8 1 39 99 38 123 87 63 83 150 118 95 82 76 140 56 90 16 84 138 129 78 122 106 120 
+Atraso Máximo da solução inicial Tempos Medios: 11448.9
+
+Sequencia inicial 1 -> 11448.9
+Melhor vizinho: 11041.6
+
+Sequencia inicial 2 -> 11041.6
+Melhor vizinho: 10817
+
+Sequencia inicial 3 -> 10817
+Melhor vizinho: 10615.6
+
+Sequencia inicial 4 -> 10615.6
+Melhor vizinho: 10447.8
+
+Sequencia inicial 5 -> 10447.8
+Melhor vizinho: 10369.8
+
+Sequencia inicial 6 -> 10369.8
+Melhor vizinho: 10311.4
+
+Sequencia inicial 7 -> 10311.4
+Melhor vizinho: 10222.5
+
+Sequencia inicial 8 -> 10222.5
+Melhor vizinho: 10149.9
+
+Sequencia inicial 9 -> 10149.9
+Melhor vizinho: 10126.3
+
+Sequencia inicial 10 -> 10126.3
+Melhor vizinho: 10076.6
+
+Sequencia inicial 11 -> 10076.6
+Melhor vizinho: 10027.7
+
+Sequencia inicial 12 -> 10027.7
+Melhor vizinho: 9998.81
+
+Sequencia inicial 13 -> 9998.81
+Melhor vizinho: 9925.89
+
+Sequencia inicial 14 -> 9925.89
+Melhor vizinho: 9876.64
+
+Sequencia inicial 15 -> 9876.64
+Melhor vizinho: 9854.93
+
+Sequencia inicial 16 -> 9854.93
+Melhor vizinho: 9826.14
+
+Sequencia inicial 17 -> 9826.14
+Melhor vizinho: 9807.28
+
+Sequencia inicial 18 -> 9807.28
+Melhor vizinho: 9777.98
+
+Sequencia inicial 19 -> 9777.98
+Melhor vizinho: 9716.94
+
+Sequencia inicial 20 -> 9716.94
+Melhor vizinho: 9704
+
+Sequencia inicial 21 -> 9704
+Melhor vizinho: 9689.24
+
+Sequencia inicial 22 -> 9689.24
+Melhor vizinho: 9673.78
+
+Sequencia inicial 23 -> 9673.78
+Melhor vizinho: 9662.53
+
+Sequencia inicial 24 -> 9662.53
+Melhor vizinho: 9647.56
+
+Sequencia inicial 25 -> 9647.56
+Melhor vizinho: 9635.78
+
+Sequencia inicial 26 -> 9635.78
+Melhor vizinho: 9612.28
+
+Sequencia inicial 27 -> 9612.28
+Melhor vizinho: 9601.19
+
+Sequencia inicial 28 -> 9601.19
+Melhor vizinho: 9543.07
+
+Sequencia inicial 29 -> 9543.07
+Melhor vizinho: 9530.39
+
+Sequencia inicial 30 -> 9530.39
+Melhor vizinho: 9518.62
+
+Sequencia inicial 31 -> 9518.62
+Melhor vizinho: 9503.56
+
+Sequencia inicial 32 -> 9503.56
+Melhor vizinho: 9449.85
+
+Sequencia inicial 33 -> 9449.85
+Melhor vizinho: 9433.36
+
+Sequencia inicial 34 -> 9433.36
+Melhor vizinho: 9419.94
+
+Sequencia inicial 35 -> 9419.94
+Melhor vizinho: 9410.97
+
+Sequencia inicial 36 -> 9410.97
+Melhor vizinho: 9379.39
+
+Sequencia inicial 37 -> 9379.39
+Melhor vizinho: 9357.68
+
+Sequencia inicial 38 -> 9357.68
+Melhor vizinho: 9349.46
+
+Sequencia inicial 39 -> 9349.46
+Melhor vizinho: 9343.72
+
+Sequencia inicial 40 -> 9343.72
+Melhor vizinho: 9334.52
+
+Sequencia inicial 41 -> 9334.52
+Melhor vizinho: 9331
+
+Sequencia inicial 42 -> 9331
+Melhor vizinho: 9327.72
+
+Sequencia inicial 43 -> 9327.72
+Melhor vizinho: 9323.48
+
+Sequencia inicial 44 -> 9323.48
+Melhor vizinho: 9320.47
+
+Sequencia inicial 45 -> 9320.47
+Melhor vizinho: 9317.46
+
+Sequencia inicial 46 -> 9317.46
+Melhor vizinho: 9314.02
+
+Sequencia inicial 47 -> 9314.02
+Melhor vizinho: 9310.28
+
+Sequencia inicial 48 -> 9310.28
+Melhor vizinho: 9304.98
+
+Sequencia inicial 49 -> 9304.98
+Melhor vizinho: 9302.34
+
+Sequencia inicial 50 -> 9302.34
+Melhor vizinho: 9298.65
+
+Sequencia inicial 51 -> 9298.65
+Melhor vizinho: 9293.79
+
+Sequencia inicial 52 -> 9293.79
+Melhor vizinho: 9290.61
+
+Sequencia inicial 53 -> 9290.61
+Melhor vizinho: 9288.27
+
+Sequencia inicial 54 -> 9288.27
+Melhor vizinho: 9285.48
+
+Sequencia inicial 55 -> 9285.48
+Melhor vizinho: 9260.77
+
+Sequencia inicial 56 -> 9260.77
+Melhor vizinho: 9248.79
+
+Sequencia inicial 57 -> 9248.79
+Melhor vizinho: 9234.79
+
+Sequencia inicial 58 -> 9234.79
+Melhor vizinho: 9224.48
+
+Sequencia inicial 59 -> 9224.48
+Melhor vizinho: 9209.25
+
+Sequencia inicial 60 -> 9209.25
+Melhor vizinho: 9198.86
+
+Sequencia inicial 61 -> 9198.86
+Melhor vizinho: 9196.41
+
+Sequencia inicial 62 -> 9196.41
+Melhor vizinho: 9193.34
+
+Sequencia inicial 63 -> 9193.34
+Melhor vizinho: 9190.23
+
+Sequencia inicial 64 -> 9190.23
+Melhor vizinho: 9187.86
+
+Sequencia inicial 65 -> 9187.86
+Melhor vizinho: 9183.64
+
+Sequencia inicial 66 -> 9183.64
+Melhor vizinho: 9182.16
+
+Sequencia inicial 67 -> 9182.16
+Melhor vizinho: 9180.4
+
+Sequencia inicial 68 -> 9180.4
+Melhor vizinho: 9178.72
+
+Sequencia inicial 69 -> 9178.72
+Melhor vizinho: 9176.58
+
+Sequencia inicial 70 -> 9176.58
+Melhor vizinho: 9172.42
+
+Sequencia inicial 71 -> 9172.42
+Melhor vizinho: 9171.28
+
+Sequencia inicial 72 -> 9171.28
+Melhor vizinho: 9170.16
+
+Sequencia inicial 73 -> 9170.16
+Melhor vizinho: 9168.85
+
+Sequencia inicial 74 -> 9168.85
+Melhor vizinho: 9167.74
+
+Sequencia inicial 75 -> 9167.74
+Melhor vizinho: 9165.59
+
+Sequencia inicial 76 -> 9165.59
+Melhor vizinho: 9164.33
+
+Sequencia inicial 77 -> 9164.33
+Melhor vizinho: 9162.8
+
+Sequencia inicial 78 -> 9162.8
+Melhor vizinho: 9161.32
+
+Sequencia inicial 79 -> 9161.32
+Melhor vizinho: 9157.51
+
+Sequencia inicial 80 -> 9157.51
+Melhor vizinho: 9156.42
+
+Sequencia inicial 81 -> 9156.42
+Melhor vizinho: 9154.61
+
+Sequencia inicial 82 -> 9154.61
+Melhor vizinho: 9153.78
+
+Sequencia inicial 83 -> 9153.78
+Melhor vizinho: 9152.89
+
+Sequencia inicial 84 -> 9152.89
+Melhor vizinho: 9152.09
+
+Sequencia inicial 85 -> 9152.09
+Melhor vizinho: 9151.03
+
+Sequencia inicial 86 -> 9151.03
+Melhor vizinho: 9150.38
+
+Sequencia inicial 87 -> 9150.38
+Melhor vizinho: 9148.55
+
+Sequencia inicial 88 -> 9148.55
+Melhor vizinho: 9148.04
+
+Sequencia inicial 89 -> 9148.04
+Melhor vizinho: 9147.25
+
+Sequencia inicial 90 -> 9147.25
+Melhor vizinho: 9146.84
+
+Sequencia inicial 91 -> 9146.84
+Melhor vizinho: 9146.45
+
+Sequencia inicial 92 -> 9146.45
+Melhor vizinho: 9145.67
+
+Sequencia inicial 93 -> 9145.67
+Melhor vizinho: 9145.35
+
+Sequencia inicial 94 -> 9145.35
+Melhor vizinho: 9145.06
+
+Sequencia inicial 95 -> 9145.06
+Melhor vizinho: 9144.19
+
+Sequencia inicial 96 -> 9144.19
+Melhor vizinho: 9142.83
+
+Sequencia inicial 97 -> 9142.83
+Melhor vizinho: 9142.26
+
+Sequencia inicial 98 -> 9142.26
+Melhor vizinho: 9141.93
+
+Sequencia inicial 99 -> 9141.93
+Melhor vizinho: 9141.62
+
+Sequencia inicial 100 -> 9141.62
+Melhor vizinho: 9140.79
+
+Sequencia inicial 101 -> 9140.79
+Melhor vizinho: 9140.51
+
+Sequencia inicial 102 -> 9140.51
+Melhor vizinho: 9139.07
+
+Sequencia inicial 103 -> 9139.07
+Melhor vizinho: 9138.79
+
+Sequencia inicial 104 -> 9138.79
+Melhor vizinho: 9138.54
+
+Sequencia inicial 105 -> 9138.54
+Melhor vizinho: 9138.29
+
+Sequencia inicial 106 -> 9138.29
+Melhor vizinho: 9138.1
+
+Sequencia inicial 107 -> 9138.1
+Melhor vizinho: 9137.81
+
+Sequencia inicial 108 -> 9137.81
+Melhor vizinho: 9137.63
+
+Sequencia inicial 109 -> 9137.63
+Melhor vizinho: 9137.08
+
+Sequencia inicial 110 -> 9137.08
+Melhor vizinho: 9136.8
+
+Sequencia inicial 111 -> 9136.8
+Melhor vizinho: 9136.14
+
+Sequencia inicial 112 -> 9136.14
+Melhor vizinho: 9135.91
+
+Sequencia inicial 113 -> 9135.91
+Melhor vizinho: 9134.88
+
+Sequencia inicial 114 -> 9134.88
+Melhor vizinho: 9134.71
+
+Sequencia inicial 115 -> 9134.71
+Melhor vizinho: 9132.75
+
+Sequencia inicial 116 -> 9132.75
+Melhor vizinho: 9132.46
+
+Sequencia inicial 117 -> 9132.46
+Melhor vizinho: 9131.5
+
+Sequencia inicial 118 -> 9131.5
+Melhor vizinho: 9131.28
+
+Sequencia inicial 119 -> 9131.28
+Melhor vizinho: 9130.97
+
+Sequencia inicial 120 -> 9130.97
+Melhor vizinho: 9130.82
+
+Sequencia inicial 121 -> 9130.82
+Melhor vizinho: 9130.49
+
+Sequencia inicial 122 -> 9130.49
+Melhor vizinho: 9130.33
+
+Sequencia inicial 123 -> 9130.33
+Melhor vizinho: 9130.2
+
+Sequencia inicial 124 -> 9130.2
+Melhor vizinho: 9129.63
+
+Sequencia inicial 125 -> 9129.63
+Melhor vizinho: 9129.38
+
+Sequencia inicial 126 -> 9129.38
+Melhor vizinho: 9129.11
+
+Sequencia inicial 127 -> 9129.11
+Melhor vizinho: 9128.98
+
+Sequencia inicial 128 -> 9128.98
+Melhor vizinho: 9128.85
+
+Sequencia inicial 129 -> 9128.85
+Melhor vizinho: 9128.74
+
+Sequencia inicial 130 -> 9128.74
+Melhor vizinho: 9128
+
+Sequencia inicial 131 -> 9128
+Melhor vizinho: 9127.83
+
+Sequencia inicial 132 -> 9127.83
+Melhor vizinho: 9127.56
+
+Sequencia inicial 133 -> 9127.56
+Melhor vizinho: 9127.42
+
+Sequencia inicial 134 -> 9127.42
+Melhor vizinho: 9127.36
+
+Sequencia inicial 135 -> 9127.36
+Melhor vizinho: 9126.94
+
+Sequencia inicial 136 -> 9126.94
+Melhor vizinho: 9126.86
+
+Sequencia inicial 137 -> 9126.86
+Melhor vizinho: 9126.81
+
+Sequencia inicial 138 -> 9126.81
+Melhor vizinho: 9126.7
+
+Sequencia inicial 139 -> 9126.7
+Melhor vizinho: 9126.49
+
+Sequencia inicial 140 -> 9126.49
+Melhor vizinho: 9124.99
+
+Sequencia inicial 141 -> 9124.99
+Melhor vizinho: 9124.92
+
+Sequencia inicial 142 -> 9124.92
+Melhor vizinho: 9124.8
+
+Sequencia inicial 143 -> 9124.8
+Melhor vizinho: 9124.76
+
+Sequencia inicial 144 -> 9124.76
+Melhor vizinho: 9124.72
+
+Sequencia inicial 145 -> 9124.72
+Melhor vizinho: 9124.42
+
+Sequencia inicial 146 -> 9124.42
+Melhor vizinho: 9124.27
+
+Sequencia inicial 147 -> 9124.27
+Melhor vizinho: 9124.16
+
+Sequencia inicial 148 -> 9124.16
+Melhor vizinho: 9124.13
+
+Sequencia inicial 149 -> 9124.13
+Melhor vizinho: 9124.11
+
+Sequencia inicial 150 -> 9124.11
+Melhor vizinho: 9124.1
+
+Sequencia inicial 151 -> 9124.1
+Melhor vizinho: 9124.04
+
+Sequencia inicial 152 -> 9124.04
+Melhor vizinho: 9124.01
+
+Sequencia inicial 153 -> 9124.01
+Melhor vizinho: 9123.94
+
+Sequencia inicial 154 -> 9123.94
+ITERAÇÃO: 1 - Atraso: 9123.94
+
+Sequencia inicial 1 -> 9203.42
+Melhor vizinho: 9173.91
+
+Sequencia inicial 2 -> 9173.91
+Melhor vizinho: 9149.3
+
+Sequencia inicial 3 -> 9149.3
+Melhor vizinho: 9133.62
+
+Sequencia inicial 4 -> 9133.62
+Melhor vizinho: 9128.01
+
+Sequencia inicial 5 -> 9128.01
+Melhor vizinho: 9127.38
+
+Sequencia inicial 6 -> 9127.38
+Melhor vizinho: 9127.08
+
+Sequencia inicial 7 -> 9127.08
+Melhor vizinho: 9126.57
+
+Sequencia inicial 8 -> 9126.57
+Melhor vizinho: 9125.21
+
+Sequencia inicial 9 -> 9125.21
+Melhor vizinho: 9124.44
+
+Sequencia inicial 10 -> 9124.44
+Melhor vizinho: 9124.19
+
+Sequencia inicial 11 -> 9124.19
+Melhor vizinho: 9123.88
+
+Sequencia inicial 12 -> 9123.88
+Melhor vizinho: 9123.74
+
+Sequencia inicial 13 -> 9123.74
+Melhor vizinho: 9123.22
+
+Sequencia inicial 14 -> 9123.22
+Melhor vizinho: 9123.1
+
+Sequencia inicial 15 -> 9123.1
+Melhor vizinho: 9123.03
+
+Sequencia inicial 16 -> 9123.03
+Melhor vizinho: 9122.97
+
+Sequencia inicial 17 -> 9122.97
+Melhor vizinho: 9122.83
+
+Sequencia inicial 18 -> 9122.83
+Melhor vizinho: 9122.71
+
+Sequencia inicial 19 -> 9122.71
+Melhor vizinho: 9122.65
+
+Sequencia inicial 20 -> 9122.65
+Melhor vizinho: 9122.42
+
+Sequencia inicial 21 -> 9122.42
+Melhor vizinho: 9122.31
+
+Sequencia inicial 22 -> 9122.31
+Melhor vizinho: 9122.26
+
+Sequencia inicial 23 -> 9122.26
+Melhor vizinho: 9122.22
+
+Sequencia inicial 24 -> 9122.22
+Melhor vizinho: 9122.19
+
+Sequencia inicial 25 -> 9122.19
+Melhor vizinho: 9121.79
+
+Sequencia inicial 26 -> 9121.79
+Melhor vizinho: 9121.71
+
+Sequencia inicial 27 -> 9121.71
+Melhor vizinho: 9121.69
+
+Sequencia inicial 28 -> 9121.69
+Melhor vizinho: 9121.69
+
+Sequencia inicial 29 -> 9121.69
+ITERAÇÃO: 1 - Atraso: 9121.69
+
+Sequencia inicial 1 -> 9281.45
+Melhor vizinho: 9244.71
+
+Sequencia inicial 2 -> 9244.71
+Melhor vizinho: 9228.96
+
+Sequencia inicial 3 -> 9228.96
+Melhor vizinho: 9211.35
+
+Sequencia inicial 4 -> 9211.35
+Melhor vizinho: 9204.52
+
+Sequencia inicial 5 -> 9204.52
+Melhor vizinho: 9198.78
+
+Sequencia inicial 6 -> 9198.78
+Melhor vizinho: 9193.38
+
+Sequencia inicial 7 -> 9193.38
+Melhor vizinho: 9188.8
+
+Sequencia inicial 8 -> 9188.8
+Melhor vizinho: 9184.56
+
+Sequencia inicial 9 -> 9184.56
+Melhor vizinho: 9180.53
+
+Sequencia inicial 10 -> 9180.53
+Melhor vizinho: 9177.26
+
+Sequencia inicial 11 -> 9177.26
+Melhor vizinho: 9174.24
+
+Sequencia inicial 12 -> 9174.24
+Melhor vizinho: 9171.98
+
+Sequencia inicial 13 -> 9171.98
+Melhor vizinho: 9167.78
+
+Sequencia inicial 14 -> 9167.78
+Melhor vizinho: 9166.35
+
+Sequencia inicial 15 -> 9166.35
+Melhor vizinho: 9164.92
+
+Sequencia inicial 16 -> 9164.92
+Melhor vizinho: 9163.42
+
+Sequencia inicial 17 -> 9163.42
+Melhor vizinho: 9159.74
+
+Sequencia inicial 18 -> 9159.74
+Melhor vizinho: 9156.2
+
+Sequencia inicial 19 -> 9156.2
+Melhor vizinho: 9155.43
+
+Sequencia inicial 20 -> 9155.43
+Melhor vizinho: 9154.06
+
+Sequencia inicial 21 -> 9154.06
+Melhor vizinho: 9152.52
+
+Sequencia inicial 22 -> 9152.52
+Melhor vizinho: 9151.73
+
+Sequencia inicial 23 -> 9151.73
+Melhor vizinho: 9151.21
+
+Sequencia inicial 24 -> 9151.21
+Melhor vizinho: 9150.59
+
+Sequencia inicial 25 -> 9150.59
+Melhor vizinho: 9149.88
+
+Sequencia inicial 26 -> 9149.88
+Melhor vizinho: 9149.37
+
+Sequencia inicial 27 -> 9149.37
+Melhor vizinho: 9149.18
+
+Sequencia inicial 28 -> 9149.18
+Melhor vizinho: 9148.99
+
+Sequencia inicial 29 -> 9148.99
+Melhor vizinho: 9148.38
+
+Sequencia inicial 30 -> 9148.38
+Melhor vizinho: 9147.14
+
+Sequencia inicial 31 -> 9147.14
+Melhor vizinho: 9146.86
+
+Sequencia inicial 32 -> 9146.86
+Melhor vizinho: 9145.97
+
+Sequencia inicial 33 -> 9145.97
+Melhor vizinho: 9145.51
+
+Sequencia inicial 34 -> 9145.51
+Melhor vizinho: 9144.48
+
+Sequencia inicial 35 -> 9144.48
+Melhor vizinho: 9141.79
+
+Sequencia inicial 36 -> 9141.79
+Melhor vizinho: 9141.32
+
+Sequencia inicial 37 -> 9141.32
+Melhor vizinho: 9141.09
+
+Sequencia inicial 38 -> 9141.09
+Melhor vizinho: 9140.89
+
+Sequencia inicial 39 -> 9140.89
+Melhor vizinho: 9140.76
+
+Sequencia inicial 40 -> 9140.76
+Melhor vizinho: 9140.46
+
+Sequencia inicial 41 -> 9140.46
+Melhor vizinho: 9140.05
+
+Sequencia inicial 42 -> 9140.05
+Melhor vizinho: 9139.94
+
+Sequencia inicial 43 -> 9139.94
+Melhor vizinho: 9139.82
+
+Sequencia inicial 44 -> 9139.82
+Melhor vizinho: 9139.47
+
+Sequencia inicial 45 -> 9139.47
+Melhor vizinho: 9139.19
+
+Sequencia inicial 46 -> 9139.19
+Melhor vizinho: 9138.75
+
+Sequencia inicial 47 -> 9138.75
+Melhor vizinho: 9138.61
+
+Sequencia inicial 48 -> 9138.61
+Melhor vizinho: 9138.48
+
+Sequencia inicial 49 -> 9138.48
+Melhor vizinho: 9138.4
+
+Sequencia inicial 50 -> 9138.4
+Melhor vizinho: 9138.35
+
+Sequencia inicial 51 -> 9138.35
+Melhor vizinho: 9138.27
+
+Sequencia inicial 52 -> 9138.27
+Melhor vizinho: 9138.23
+
+Sequencia inicial 53 -> 9138.23
+Melhor vizinho: 9138
+
+Sequencia inicial 54 -> 9138
+Melhor vizinho: 9137.82
+
+Sequencia inicial 55 -> 9137.82
+Melhor vizinho: 9137.79
+
+Sequencia inicial 56 -> 9137.79
+Melhor vizinho: 9137.56
+
+Sequencia inicial 57 -> 9137.56
+Melhor vizinho: 9137.43
+
+Sequencia inicial 58 -> 9137.43
+Melhor vizinho: 9137.3
+
+Sequencia inicial 59 -> 9137.3
+ITERAÇÃO: 2 - Atraso: 9121.69
+
+Sequencia inicial 1 -> 9329.85
+Melhor vizinho: 9276.59
+
+Sequencia inicial 2 -> 9276.59
+Melhor vizinho: 9261.12
+
+Sequencia inicial 3 -> 9261.12
+Melhor vizinho: 9249.97
+
+Sequencia inicial 4 -> 9249.97
+Melhor vizinho: 9243.8
+
+Sequencia inicial 5 -> 9243.8
+Melhor vizinho: 9238.31
+
+Sequencia inicial 6 -> 9238.31
+Melhor vizinho: 9233.53
+
+Sequencia inicial 7 -> 9233.53
+Melhor vizinho: 9229.46
+
+Sequencia inicial 8 -> 9229.46
+Melhor vizinho: 9225.84
+
+Sequencia inicial 9 -> 9225.84
+Melhor vizinho: 9222.27
+
+Sequencia inicial 10 -> 9222.27
+Melhor vizinho: 9219.65
+
+Sequencia inicial 11 -> 9219.65
+Melhor vizinho: 9216.84
+
+Sequencia inicial 12 -> 9216.84
+Melhor vizinho: 9214.58
+
+Sequencia inicial 13 -> 9214.58
+Melhor vizinho: 9203.57
+
+Sequencia inicial 14 -> 9203.57
+Melhor vizinho: 9201.57
+
+Sequencia inicial 15 -> 9201.57
+Melhor vizinho: 9200.41
+
+Sequencia inicial 16 -> 9200.41
+Melhor vizinho: 9198.96
+
+Sequencia inicial 17 -> 9198.96
+Melhor vizinho: 9191.49
+
+Sequencia inicial 18 -> 9191.49
+Melhor vizinho: 9188.15
+
+Sequencia inicial 19 -> 9188.15
+Melhor vizinho: 9184.52
+
+Sequencia inicial 20 -> 9184.52
+Melhor vizinho: 9183.72
+
+Sequencia inicial 21 -> 9183.72
+Melhor vizinho: 9182.8
+
+Sequencia inicial 22 -> 9182.8
+Melhor vizinho: 9182.32
+
+Sequencia inicial 23 -> 9182.32
+Melhor vizinho: 9181.62
+
+Sequencia inicial 24 -> 9181.62
+Melhor vizinho: 9178.59
+
+Sequencia inicial 25 -> 9178.59
+Melhor vizinho: 9178.14
+
+Sequencia inicial 26 -> 9178.14
+Melhor vizinho: 9165.55
+
+Sequencia inicial 27 -> 9165.55
+Melhor vizinho: 9160.3
+
+Sequencia inicial 28 -> 9160.3
+Melhor vizinho: 9156.85
+
+Sequencia inicial 29 -> 9156.85
+Melhor vizinho: 9153.66
+
+Sequencia inicial 30 -> 9153.66
+Melhor vizinho: 9153.24
+
+Sequencia inicial 31 -> 9153.24
+Melhor vizinho: 9151.37
+
+Sequencia inicial 32 -> 9151.37
+Melhor vizinho: 9150.48
+
+Sequencia inicial 33 -> 9150.48
+Melhor vizinho: 9149.63
+
+Sequencia inicial 34 -> 9149.63
+Melhor vizinho: 9149.14
+
+Sequencia inicial 35 -> 9149.14
+Melhor vizinho: 9147.65
+
+Sequencia inicial 36 -> 9147.65
+Melhor vizinho: 9146.34
+
+Sequencia inicial 37 -> 9146.34
+Melhor vizinho: 9145.58
+
+Sequencia inicial 38 -> 9145.58
+Melhor vizinho: 9144.88
+
+Sequencia inicial 39 -> 9144.88
+Melhor vizinho: 9144.45
+
+Sequencia inicial 40 -> 9144.45
+Melhor vizinho: 9143.98
+
+Sequencia inicial 41 -> 9143.98
+Melhor vizinho: 9143.64
+
+Sequencia inicial 42 -> 9143.64
+Melhor vizinho: 9143.38
+
+Sequencia inicial 43 -> 9143.38
+Melhor vizinho: 9142.85
+
+Sequencia inicial 44 -> 9142.85
+Melhor vizinho: 9142.41
+
+Sequencia inicial 45 -> 9142.41
+Melhor vizinho: 9142.08
+
+Sequencia inicial 46 -> 9142.08
+Melhor vizinho: 9141.59
+
+Sequencia inicial 47 -> 9141.59
+Melhor vizinho: 9141.24
+
+Sequencia inicial 48 -> 9141.24
+Melhor vizinho: 9141
+
+Sequencia inicial 49 -> 9141
+Melhor vizinho: 9140.56
+
+Sequencia inicial 50 -> 9140.56
+Melhor vizinho: 9140.31
+
+Sequencia inicial 51 -> 9140.31
+Melhor vizinho: 9140.04
+
+Sequencia inicial 52 -> 9140.04
+Melhor vizinho: 9139.81
+
+Sequencia inicial 53 -> 9139.81
+Melhor vizinho: 9139.62
+
+Sequencia inicial 54 -> 9139.62
+Melhor vizinho: 9138.6
+
+Sequencia inicial 55 -> 9138.6
+Melhor vizinho: 9138.39
+
+Sequencia inicial 56 -> 9138.39
+Melhor vizinho: 9138.15
+
+Sequencia inicial 57 -> 9138.15
+Melhor vizinho: 9137.94
+
+Sequencia inicial 58 -> 9137.94
+Melhor vizinho: 9136.57
+
+Sequencia inicial 59 -> 9136.57
+Melhor vizinho: 9136.36
+
+Sequencia inicial 60 -> 9136.36
+Melhor vizinho: 9134.97
+
+Sequencia inicial 61 -> 9134.97
+Melhor vizinho: 9133.98
+
+Sequencia inicial 62 -> 9133.98
+Melhor vizinho: 9133.75
+
+Sequencia inicial 63 -> 9133.75
+Melhor vizinho: 9133.67
+
+Sequencia inicial 64 -> 9133.67
+Melhor vizinho: 9133.59
+
+Sequencia inicial 65 -> 9133.59
+Melhor vizinho: 9133.51
+
+Sequencia inicial 66 -> 9133.51
+Melhor vizinho: 9133.44
+
+Sequencia inicial 67 -> 9133.44
+Melhor vizinho: 9133.4
+
+Sequencia inicial 68 -> 9133.4
+Melhor vizinho: 9133.22
+
+Sequencia inicial 69 -> 9133.22
+Melhor vizinho: 9133.21
+
+Sequencia inicial 70 -> 9133.21
+Melhor vizinho: 9133.21
+
+Sequencia inicial 71 -> 9133.21
+Melhor vizinho: 9133.13
+
+Sequencia inicial 72 -> 9133.13
+Melhor vizinho: 9133.07
+
+Sequencia inicial 73 -> 9133.07
+Melhor vizinho: 9132.97
+
+Sequencia inicial 74 -> 9132.97
+Melhor vizinho: 9132.93
+
+Sequencia inicial 75 -> 9132.93
+Melhor vizinho: 9132.85
+
+Sequencia inicial 76 -> 9132.85
+Melhor vizinho: 9132.71
+
+Sequencia inicial 77 -> 9132.71
+Melhor vizinho: 9132.66
+
+Sequencia inicial 78 -> 9132.66
+ITERAÇÃO: 3 - Atraso: 9121.69
+
+Sequencia inicial 1 -> 9266.65
+Melhor vizinho: 9240.73
+
+Sequencia inicial 2 -> 9240.73
+Melhor vizinho: 9223.24
+
+Sequencia inicial 3 -> 9223.24
+Melhor vizinho: 9210.25
+
+Sequencia inicial 4 -> 9210.25
+Melhor vizinho: 9198.91
+
+Sequencia inicial 5 -> 9198.91
+Melhor vizinho: 9188.68
+
+Sequencia inicial 6 -> 9188.68
+Melhor vizinho: 9179.51
+
+Sequencia inicial 7 -> 9179.51
+Melhor vizinho: 9170.65
+
+Sequencia inicial 8 -> 9170.65
+Melhor vizinho: 9162.6
+
+Sequencia inicial 9 -> 9162.6
+Melhor vizinho: 9157.42
+
+Sequencia inicial 10 -> 9157.42
+Melhor vizinho: 9150.56
+
+Sequencia inicial 11 -> 9150.56
+Melhor vizinho: 9146.43
+
+Sequencia inicial 12 -> 9146.43
+Melhor vizinho: 9140.43
+
+Sequencia inicial 13 -> 9140.43
+Melhor vizinho: 9136.7
+
+Sequencia inicial 14 -> 9136.7
+Melhor vizinho: 9131.37
+
+Sequencia inicial 15 -> 9131.37
+Melhor vizinho: 9127.66
+
+Sequencia inicial 16 -> 9127.66
+Melhor vizinho: 9123.47
+
+Sequencia inicial 17 -> 9123.47
+Melhor vizinho: 9121.51
+
+Sequencia inicial 18 -> 9121.51
+Melhor vizinho: 9119.37
+
+Sequencia inicial 19 -> 9119.37
+Melhor vizinho: 9115.59
+
+Sequencia inicial 20 -> 9115.59
+Melhor vizinho: 9114.03
+
+Sequencia inicial 21 -> 9114.03
+Melhor vizinho: 9112.62
+
+Sequencia inicial 22 -> 9112.62
+Melhor vizinho: 9105.47
+
+Sequencia inicial 23 -> 9105.47
+Melhor vizinho: 9104.76
+
+Sequencia inicial 24 -> 9104.76
+Melhor vizinho: 9102.61
+
+Sequencia inicial 25 -> 9102.61
+Melhor vizinho: 9101.37
+
+Sequencia inicial 26 -> 9101.37
+Melhor vizinho: 9097.62
+
+Sequencia inicial 27 -> 9097.62
+Melhor vizinho: 9094.96
+
+Sequencia inicial 28 -> 9094.96
+Melhor vizinho: 9093.41
+
+Sequencia inicial 29 -> 9093.41
+Melhor vizinho: 9092.79
+
+Sequencia inicial 30 -> 9092.79
+Melhor vizinho: 9091.87
+
+Sequencia inicial 31 -> 9091.87
+Melhor vizinho: 9091.52
+
+Sequencia inicial 32 -> 9091.52
+Melhor vizinho: 9091.12
+
+Sequencia inicial 33 -> 9091.12
+Melhor vizinho: 9090.27
+
+Sequencia inicial 34 -> 9090.27
+Melhor vizinho: 9089.66
+
+Sequencia inicial 35 -> 9089.66
+Melhor vizinho: 9089.09
+
+Sequencia inicial 36 -> 9089.09
+Melhor vizinho: 9088.75
+
+Sequencia inicial 37 -> 9088.75
+Melhor vizinho: 9088.38
+
+Sequencia inicial 38 -> 9088.38
+Melhor vizinho: 9087.9
+
+Sequencia inicial 39 -> 9087.9
+Melhor vizinho: 9087.53
+
+Sequencia inicial 40 -> 9087.53
+Melhor vizinho: 9087.15
+
+Sequencia inicial 41 -> 9087.15
+Melhor vizinho: 9086.72
+
+Sequencia inicial 42 -> 9086.72
+Melhor vizinho: 9086.45
+
+Sequencia inicial 43 -> 9086.45
+Melhor vizinho: 9086.27
+
+Sequencia inicial 44 -> 9086.27
+Melhor vizinho: 9085.88
+
+Sequencia inicial 45 -> 9085.88
+Melhor vizinho: 9085.72
+
+Sequencia inicial 46 -> 9085.72
+Melhor vizinho: 9085.33
+
+Sequencia inicial 47 -> 9085.33
+Melhor vizinho: 9085.13
+
+Sequencia inicial 48 -> 9085.13
+Melhor vizinho: 9085
+
+Sequencia inicial 49 -> 9085
+Melhor vizinho: 9084.43
+
+Sequencia inicial 50 -> 9084.43
+Melhor vizinho: 9083.95
+
+Sequencia inicial 51 -> 9083.95
+Melhor vizinho: 9083.84
+
+Sequencia inicial 52 -> 9083.84
+Melhor vizinho: 9083.71
+
+Sequencia inicial 53 -> 9083.71
+Melhor vizinho: 9083.62
+
+Sequencia inicial 54 -> 9083.62
+Melhor vizinho: 9083.41
+
+Sequencia inicial 55 -> 9083.41
+Melhor vizinho: 9083.37
+
+Sequencia inicial 56 -> 9083.37
+Melhor vizinho: 9083.2
+
+Sequencia inicial 57 -> 9083.2
+Melhor vizinho: 9082.85
+
+Sequencia inicial 58 -> 9082.85
+Melhor vizinho: 9079.87
+
+Sequencia inicial 59 -> 9079.87
+Melhor vizinho: 9077.64
+
+Sequencia inicial 60 -> 9077.64
+Melhor vizinho: 9077.59
+
+Sequencia inicial 61 -> 9077.59
+Melhor vizinho: 9077.11
+
+Sequencia inicial 62 -> 9077.11
+Melhor vizinho: 9077.04
+
+Sequencia inicial 63 -> 9077.04
+Melhor vizinho: 9076.81
+
+Sequencia inicial 64 -> 9076.81
+Melhor vizinho: 9076.76
+
+Sequencia inicial 65 -> 9076.76
+Melhor vizinho: 9076.66
+
+Sequencia inicial 66 -> 9076.66
+Melhor vizinho: 9076.58
+
+Sequencia inicial 67 -> 9076.58
+Melhor vizinho: 9076.39
+
+Sequencia inicial 68 -> 9076.39
+ITERAÇÃO: 1 - Atraso: 9076.39
+
+Sequencia inicial 1 -> 9162.69
+Melhor vizinho: 9137.24
+
+Sequencia inicial 2 -> 9137.24
+Melhor vizinho: 9113.35
+
+Sequencia inicial 3 -> 9113.35
+Melhor vizinho: 9102.56
+
+Sequencia inicial 4 -> 9102.56
+Melhor vizinho: 9100.78
+
+Sequencia inicial 5 -> 9100.78
+Melhor vizinho: 9097.23
+
+Sequencia inicial 6 -> 9097.23
+Melhor vizinho: 9087.02
+
+Sequencia inicial 7 -> 9087.02
+Melhor vizinho: 9086.67
+
+Sequencia inicial 8 -> 9086.67
+Melhor vizinho: 9085.69
+
+Sequencia inicial 9 -> 9085.69
+Melhor vizinho: 9085.47
+
+Sequencia inicial 10 -> 9085.47
+Melhor vizinho: 9085.31
+
+Sequencia inicial 11 -> 9085.31
+Melhor vizinho: 9085.16
+
+Sequencia inicial 12 -> 9085.16
+Melhor vizinho: 9084.95
+
+Sequencia inicial 13 -> 9084.95
+Melhor vizinho: 9084.7
+
+Sequencia inicial 14 -> 9084.7
+Melhor vizinho: 9084.43
+
+Sequencia inicial 15 -> 9084.43
+Melhor vizinho: 9084.25
+
+Sequencia inicial 16 -> 9084.25
+Melhor vizinho: 9084.09
+
+Sequencia inicial 17 -> 9084.09
+Melhor vizinho: 9083.81
+
+Sequencia inicial 18 -> 9083.81
+Melhor vizinho: 9076.98
+
+Sequencia inicial 19 -> 9076.98
+Melhor vizinho: 9076.67
+
+Sequencia inicial 20 -> 9076.67
+Melhor vizinho: 9076.04
+
+Sequencia inicial 21 -> 9076.04
+Melhor vizinho: 9075.56
+
+Sequencia inicial 22 -> 9075.56
+Melhor vizinho: 9073.11
+
+Sequencia inicial 23 -> 9073.11
+Melhor vizinho: 9072.71
+
+Sequencia inicial 24 -> 9072.71
+Melhor vizinho: 9070.75
+
+Sequencia inicial 25 -> 9070.75
+Melhor vizinho: 9070.27
+
+Sequencia inicial 26 -> 9070.27
+Melhor vizinho: 9068.78
+
+Sequencia inicial 27 -> 9068.78
+Melhor vizinho: 9068.49
+
+Sequencia inicial 28 -> 9068.49
+Melhor vizinho: 9068.3
+
+Sequencia inicial 29 -> 9068.3
+Melhor vizinho: 9068.05
+
+Sequencia inicial 30 -> 9068.05
+Melhor vizinho: 9067.87
+
+Sequencia inicial 31 -> 9067.87
+Melhor vizinho: 9067.75
+
+Sequencia inicial 32 -> 9067.75
+Melhor vizinho: 9067.67
+
+Sequencia inicial 33 -> 9067.67
+Melhor vizinho: 9067.6
+
+Sequencia inicial 34 -> 9067.6
+Melhor vizinho: 9066.89
+
+Sequencia inicial 35 -> 9066.89
+Melhor vizinho: 9066.44
+
+Sequencia inicial 36 -> 9066.44
+Melhor vizinho: 9063.81
+
+Sequencia inicial 37 -> 9063.81
+Melhor vizinho: 9063.42
+
+Sequencia inicial 38 -> 9063.42
+Melhor vizinho: 9063.35
+
+Sequencia inicial 39 -> 9063.35
+Melhor vizinho: 9063.29
+
+Sequencia inicial 40 -> 9063.29
+Melhor vizinho: 9062.89
+
+Sequencia inicial 41 -> 9062.89
+Melhor vizinho: 9062.39
+
+Sequencia inicial 42 -> 9062.39
+Melhor vizinho: 9062.08
+
+Sequencia inicial 43 -> 9062.08
+Melhor vizinho: 9061.53
+
+Sequencia inicial 44 -> 9061.53
+Melhor vizinho: 9061.33
+
+Sequencia inicial 45 -> 9061.33
+Melhor vizinho: 9061.23
+
+Sequencia inicial 46 -> 9061.23
+Melhor vizinho: 9061.16
+
+Sequencia inicial 47 -> 9061.16
+Melhor vizinho: 9061.1
+
+Sequencia inicial 48 -> 9061.1
+Melhor vizinho: 9060.9
+
+Sequencia inicial 49 -> 9060.9
+Melhor vizinho: 9060.65
+
+Sequencia inicial 50 -> 9060.65
+Melhor vizinho: 9060.5
+
+Sequencia inicial 51 -> 9060.5
+Melhor vizinho: 9060.45
+
+Sequencia inicial 52 -> 9060.45
+Melhor vizinho: 9060.33
+
+Sequencia inicial 53 -> 9060.33
+Melhor vizinho: 9060.29
+
+Sequencia inicial 54 -> 9060.29
+Melhor vizinho: 9060.28
+
+Sequencia inicial 55 -> 9060.28
+Melhor vizinho: 9060.27
+
+Sequencia inicial 56 -> 9060.27
+Melhor vizinho: 9060.02
+
+Sequencia inicial 57 -> 9060.02
+Melhor vizinho: 9058.71
+
+Sequencia inicial 58 -> 9058.71
+Melhor vizinho: 9058.63
+
+Sequencia inicial 59 -> 9058.63
+Melhor vizinho: 9058.45
+
+Sequencia inicial 60 -> 9058.45
+ITERAÇÃO: 1 - Atraso: 9058.45
+
+Sequencia inicial 1 -> 9099.98
+Melhor vizinho: 9096.09
+
+Sequencia inicial 2 -> 9096.09
+Melhor vizinho: 9090.31
+
+Sequencia inicial 3 -> 9090.31
+Melhor vizinho: 9088.82
+
+Sequencia inicial 4 -> 9088.82
+Melhor vizinho: 9087.66
+
+Sequencia inicial 5 -> 9087.66
+Melhor vizinho: 9085.53
+
+Sequencia inicial 6 -> 9085.53
+Melhor vizinho: 9084.76
+
+Sequencia inicial 7 -> 9084.76
+Melhor vizinho: 9083.76
+
+Sequencia inicial 8 -> 9083.76
+Melhor vizinho: 9083.27
+
+Sequencia inicial 9 -> 9083.27
+Melhor vizinho: 9082.25
+
+Sequencia inicial 10 -> 9082.25
+Melhor vizinho: 9077.73
+
+Sequencia inicial 11 -> 9077.73
+Melhor vizinho: 9074.16
+
+Sequencia inicial 12 -> 9074.16
+Melhor vizinho: 9072.92
+
+Sequencia inicial 13 -> 9072.92
+Melhor vizinho: 9069.02
+
+Sequencia inicial 14 -> 9069.02
+Melhor vizinho: 9068.44
+
+Sequencia inicial 15 -> 9068.44
+Melhor vizinho: 9068.02
+
+Sequencia inicial 16 -> 9068.02
+Melhor vizinho: 9067.79
+
+Sequencia inicial 17 -> 9067.79
+Melhor vizinho: 9067.47
+
+Sequencia inicial 18 -> 9067.47
+Melhor vizinho: 9067.3
+
+Sequencia inicial 19 -> 9067.3
+Melhor vizinho: 9067.11
+
+Sequencia inicial 20 -> 9067.11
+Melhor vizinho: 9067.02
+
+Sequencia inicial 21 -> 9067.02
+Melhor vizinho: 9066.69
+
+Sequencia inicial 22 -> 9066.69
+Melhor vizinho: 9066.24
+
+Sequencia inicial 23 -> 9066.24
+Melhor vizinho: 9066.16
+
+Sequencia inicial 24 -> 9066.16
+Melhor vizinho: 9066.1
+
+Sequencia inicial 25 -> 9066.1
+Melhor vizinho: 9066.09
+
+Sequencia inicial 26 -> 9066.09
+ITERAÇÃO: 2 - Atraso: 9058.45
+
+Sequencia inicial 1 -> 9337.71
+Melhor vizinho: 9265.25
+
+Sequencia inicial 2 -> 9265.25
+Melhor vizinho: 9195.45
+
+Sequencia inicial 3 -> 9195.45
+Melhor vizinho: 9155.05
+
+Sequencia inicial 4 -> 9155.05
+Melhor vizinho: 9139.28
+
+Sequencia inicial 5 -> 9139.28
+Melhor vizinho: 9129.08
+
+Sequencia inicial 6 -> 9129.08
+Melhor vizinho: 9127.03
+
+Sequencia inicial 7 -> 9127.03
+Melhor vizinho: 9119.74
+
+Sequencia inicial 8 -> 9119.74
+Melhor vizinho: 9118.28
+
+Sequencia inicial 9 -> 9118.28
+Melhor vizinho: 9116.78
+
+Sequencia inicial 10 -> 9116.78
+Melhor vizinho: 9115.74
+
+Sequencia inicial 11 -> 9115.74
+Melhor vizinho: 9114.57
+
+Sequencia inicial 12 -> 9114.57
+Melhor vizinho: 9113.62
+
+Sequencia inicial 13 -> 9113.62
+Melhor vizinho: 9108.91
+
+Sequencia inicial 14 -> 9108.91
+Melhor vizinho: 9106.39
+
+Sequencia inicial 15 -> 9106.39
+Melhor vizinho: 9104.08
+
+Sequencia inicial 16 -> 9104.08
+Melhor vizinho: 9101.15
+
+Sequencia inicial 17 -> 9101.15
+Melhor vizinho: 9100.26
+
+Sequencia inicial 18 -> 9100.26
+Melhor vizinho: 9099.71
+
+Sequencia inicial 19 -> 9099.71
+Melhor vizinho: 9099.37
+
+Sequencia inicial 20 -> 9099.37
+Melhor vizinho: 9099.1
+
+Sequencia inicial 21 -> 9099.1
+Melhor vizinho: 9097.38
+
+Sequencia inicial 22 -> 9097.38
+Melhor vizinho: 9096.55
+
+Sequencia inicial 23 -> 9096.55
+Melhor vizinho: 9096.11
+
+Sequencia inicial 24 -> 9096.11
+Melhor vizinho: 9095.56
+
+Sequencia inicial 25 -> 9095.56
+Melhor vizinho: 9095.4
+
+Sequencia inicial 26 -> 9095.4
+Melhor vizinho: 9095.16
+
+Sequencia inicial 27 -> 9095.16
+Melhor vizinho: 9094.9
+
+Sequencia inicial 28 -> 9094.9
+Melhor vizinho: 9087.99
+
+Sequencia inicial 29 -> 9087.99
+Melhor vizinho: 9087.51
+
+Sequencia inicial 30 -> 9087.51
+Melhor vizinho: 9087.35
+
+Sequencia inicial 31 -> 9087.35
+Melhor vizinho: 9087.24
+
+Sequencia inicial 32 -> 9087.24
+Melhor vizinho: 9086.88
+
+Sequencia inicial 33 -> 9086.88
+Melhor vizinho: 9086.78
+
+Sequencia inicial 34 -> 9086.78
+Melhor vizinho: 9086.6
+
+Sequencia inicial 35 -> 9086.6
+Melhor vizinho: 9086.38
+
+Sequencia inicial 36 -> 9086.38
+Melhor vizinho: 9086.27
+
+Sequencia inicial 37 -> 9086.27
+Melhor vizinho: 9086.19
+
+Sequencia inicial 38 -> 9086.19
+Melhor vizinho: 9085.84
+
+Sequencia inicial 39 -> 9085.84
+Melhor vizinho: 9085.51
+
+Sequencia inicial 40 -> 9085.51
+Melhor vizinho: 9085.29
+
+Sequencia inicial 41 -> 9085.29
+Melhor vizinho: 9084.58
+
+Sequencia inicial 42 -> 9084.58
+Melhor vizinho: 9084.5
+
+Sequencia inicial 43 -> 9084.5
+Melhor vizinho: 9084.43
+
+Sequencia inicial 44 -> 9084.43
+Melhor vizinho: 9083.96
+
+Sequencia inicial 45 -> 9083.96
+Melhor vizinho: 9083.53
+
+Sequencia inicial 46 -> 9083.53
+Melhor vizinho: 9083.47
+
+Sequencia inicial 47 -> 9083.47
+Melhor vizinho: 9083.44
+
+Sequencia inicial 48 -> 9083.44
+Melhor vizinho: 9083.3
+
+Sequencia inicial 49 -> 9083.3
+Melhor vizinho: 9083.25
+
+Sequencia inicial 50 -> 9083.25
+ITERAÇÃO: 3 - Atraso: 9058.45
+
+Sequencia inicial 1 -> 9363.24
+Melhor vizinho: 9327.6
+
+Sequencia inicial 2 -> 9327.6
+Melhor vizinho: 9312.55
+
+Sequencia inicial 3 -> 9312.55
+Melhor vizinho: 9300.31
+
+Sequencia inicial 4 -> 9300.31
+Melhor vizinho: 9290.15
+
+Sequencia inicial 5 -> 9290.15
+Melhor vizinho: 9282.1
+
+Sequencia inicial 6 -> 9282.1
+Melhor vizinho: 9275.04
+
+Sequencia inicial 7 -> 9275.04
+Melhor vizinho: 9268.79
+
+Sequencia inicial 8 -> 9268.79
+Melhor vizinho: 9264.5
+
+Sequencia inicial 9 -> 9264.5
+Melhor vizinho: 9257.45
+
+Sequencia inicial 10 -> 9257.45
+Melhor vizinho: 9252.87
+
+Sequencia inicial 11 -> 9252.87
+Melhor vizinho: 9247.36
+
+Sequencia inicial 12 -> 9247.36
+Melhor vizinho: 9244.8
+
+Sequencia inicial 13 -> 9244.8
+Melhor vizinho: 9241.94
+
+Sequencia inicial 14 -> 9241.94
+Melhor vizinho: 9239.53
+
+Sequencia inicial 15 -> 9239.53
+Melhor vizinho: 9234.77
+
+Sequencia inicial 16 -> 9234.77
+Melhor vizinho: 9232.95
+
+Sequencia inicial 17 -> 9232.95
+Melhor vizinho: 9228.72
+
+Sequencia inicial 18 -> 9228.72
+Melhor vizinho: 9226.82
+
+Sequencia inicial 19 -> 9226.82
+Melhor vizinho: 9225.06
+
+Sequencia inicial 20 -> 9225.06
+Melhor vizinho: 9223.22
+
+Sequencia inicial 21 -> 9223.22
+Melhor vizinho: 9222.52
+
+Sequencia inicial 22 -> 9222.52
+Melhor vizinho: 9216.62
+
+Sequencia inicial 23 -> 9216.62
+Melhor vizinho: 9176.35
+
+Sequencia inicial 24 -> 9176.35
+Melhor vizinho: 9156.9
+
+Sequencia inicial 25 -> 9156.9
+Melhor vizinho: 9137.54
+
+Sequencia inicial 26 -> 9137.54
+Melhor vizinho: 9109.78
+
+Sequencia inicial 27 -> 9109.78
+Melhor vizinho: 9099.96
+
+Sequencia inicial 28 -> 9099.96
+Melhor vizinho: 9096.71
+
+Sequencia inicial 29 -> 9096.71
+Melhor vizinho: 9095.97
+
+Sequencia inicial 30 -> 9095.97
+Melhor vizinho: 9095.35
+
+Sequencia inicial 31 -> 9095.35
+Melhor vizinho: 9092.01
+
+Sequencia inicial 32 -> 9092.01
+Melhor vizinho: 9090.38
+
+Sequencia inicial 33 -> 9090.38
+Melhor vizinho: 9087.16
+
+Sequencia inicial 34 -> 9087.16
+Melhor vizinho: 9084.88
+
+Sequencia inicial 35 -> 9084.88
+Melhor vizinho: 9084.18
+
+Sequencia inicial 36 -> 9084.18
+Melhor vizinho: 9083.52
+
+Sequencia inicial 37 -> 9083.52
+Melhor vizinho: 9083.12
+
+Sequencia inicial 38 -> 9083.12
+Melhor vizinho: 9082.89
+
+Sequencia inicial 39 -> 9082.89
+Melhor vizinho: 9082.5
+
+Sequencia inicial 40 -> 9082.5
+Melhor vizinho: 9082.01
+
+Sequencia inicial 41 -> 9082.01
+Melhor vizinho: 9081.81
+
+Sequencia inicial 42 -> 9081.81
+Melhor vizinho: 9081.59
+
+Sequencia inicial 43 -> 9081.59
+Melhor vizinho: 9081.44
+
+Sequencia inicial 44 -> 9081.44
+Melhor vizinho: 9081.32
+
+Sequencia inicial 45 -> 9081.32
+Melhor vizinho: 9081.24
+
+Sequencia inicial 46 -> 9081.24
+Melhor vizinho: 9078.08
+
+Sequencia inicial 47 -> 9078.08
+Melhor vizinho: 9075.93
+
+Sequencia inicial 48 -> 9075.93
+Melhor vizinho: 9075.43
+
+Sequencia inicial 49 -> 9075.43
+Melhor vizinho: 9075.26
+
+Sequencia inicial 50 -> 9075.26
+Melhor vizinho: 9075.13
+
+Sequencia inicial 51 -> 9075.13
+Melhor vizinho: 9075.05
+
+Sequencia inicial 52 -> 9075.05
+Melhor vizinho: 9075.02
+
+Sequencia inicial 53 -> 9075.02
+Melhor vizinho: 9074.99
+
+Sequencia inicial 54 -> 9074.99
+Melhor vizinho: 9074.92
+
+Sequencia inicial 55 -> 9074.92
+Melhor vizinho: 9074.87
+
+Sequencia inicial 56 -> 9074.87
+Melhor vizinho: 9074.8
+
+Sequencia inicial 57 -> 9074.8
+Melhor vizinho: 9074.67
+
+Sequencia inicial 58 -> 9074.67
+Melhor vizinho: 9074.6
+
+Sequencia inicial 59 -> 9074.6
+Melhor vizinho: 9074.29
+
+Sequencia inicial 60 -> 9074.29
+Melhor vizinho: 9074.13
+
+Sequencia inicial 61 -> 9074.13
+Melhor vizinho: 9074.09
+
+Sequencia inicial 62 -> 9074.09
+Melhor vizinho: 9073.92
+
+Sequencia inicial 63 -> 9073.92
+Melhor vizinho: 9073.85
+
+Sequencia inicial 64 -> 9073.85
+Melhor vizinho: 9073.84
+
+Sequencia inicial 65 -> 9073.84
+Melhor vizinho: 9073.16
+
+Sequencia inicial 66 -> 9073.16
+Melhor vizinho: 9072.23
+
+Sequencia inicial 67 -> 9072.23
+Melhor vizinho: 9071.99
+
+Sequencia inicial 68 -> 9071.99
+Melhor vizinho: 9071.91
+
+Sequencia inicial 69 -> 9071.91
+Melhor vizinho: 9071.89
+
+Sequencia inicial 70 -> 9071.89
+Melhor vizinho: 9071.67
+
+Sequencia inicial 71 -> 9071.67
+Melhor vizinho: 9071.58
+
+Sequencia inicial 72 -> 9071.58
+Melhor vizinho: 9071.55
+
+Sequencia inicial 73 -> 9071.55
+Melhor vizinho: 9071.52
+
+Sequencia inicial 74 -> 9071.52
+ITERAÇÃO: 4 - Atraso: 9058.45
+
+Sequencia inicial 1 -> 9429.92
+Melhor vizinho: 9371.03
+
+Sequencia inicial 2 -> 9371.03
+Melhor vizinho: 9356.59
+
+Sequencia inicial 3 -> 9356.59
+Melhor vizinho: 9345.69
+
+Sequencia inicial 4 -> 9345.69
+Melhor vizinho: 9332.15
+
+Sequencia inicial 5 -> 9332.15
+Melhor vizinho: 9321.45
+
+Sequencia inicial 6 -> 9321.45
+Melhor vizinho: 9313.21
+
+Sequencia inicial 7 -> 9313.21
+Melhor vizinho: 9302.55
+
+Sequencia inicial 8 -> 9302.55
+Melhor vizinho: 9296.04
+
+Sequencia inicial 9 -> 9296.04
+Melhor vizinho: 9290.87
+
+Sequencia inicial 10 -> 9290.87
+Melhor vizinho: 9285.6
+
+Sequencia inicial 11 -> 9285.6
+Melhor vizinho: 9276.59
+
+Sequencia inicial 12 -> 9276.59
+Melhor vizinho: 9272.32
+
+Sequencia inicial 13 -> 9272.32
+Melhor vizinho: 9267.71
+
+Sequencia inicial 14 -> 9267.71
+Melhor vizinho: 9262.35
+
+Sequencia inicial 15 -> 9262.35
+Melhor vizinho: 9257.54
+
+Sequencia inicial 16 -> 9257.54
+Melhor vizinho: 9254.05
+
+Sequencia inicial 17 -> 9254.05
+Melhor vizinho: 9250.87
+
+Sequencia inicial 18 -> 9250.87
+Melhor vizinho: 9248.56
+
+Sequencia inicial 19 -> 9248.56
+Melhor vizinho: 9246.99
+
+Sequencia inicial 20 -> 9246.99
+Melhor vizinho: 9246.26
+
+Sequencia inicial 21 -> 9246.26
+Melhor vizinho: 9245.18
+
+Sequencia inicial 22 -> 9245.18
+Melhor vizinho: 9241.48
+
+Sequencia inicial 23 -> 9241.48
+Melhor vizinho: 9240.83
+
+Sequencia inicial 24 -> 9240.83
+Melhor vizinho: 9239.83
+
+Sequencia inicial 25 -> 9239.83
+Melhor vizinho: 9239.11
+
+Sequencia inicial 26 -> 9239.11
+Melhor vizinho: 9238.56
+
+Sequencia inicial 27 -> 9238.56
+Melhor vizinho: 9238.12
+
+Sequencia inicial 28 -> 9238.12
+Melhor vizinho: 9237.69
+
+Sequencia inicial 29 -> 9237.69
+Melhor vizinho: 9237.29
+
+Sequencia inicial 30 -> 9237.29
+Melhor vizinho: 9236.9
+
+Sequencia inicial 31 -> 9236.9
+Melhor vizinho: 9236.53
+
+Sequencia inicial 32 -> 9236.53
+Melhor vizinho: 9236.19
+
+Sequencia inicial 33 -> 9236.19
+Melhor vizinho: 9235.23
+
+Sequencia inicial 34 -> 9235.23
+Melhor vizinho: 9233.99
+
+Sequencia inicial 35 -> 9233.99
+Melhor vizinho: 9226.98
+
+Sequencia inicial 36 -> 9226.98
+Melhor vizinho: 9222.24
+
+Sequencia inicial 37 -> 9222.24
+Melhor vizinho: 9217.38
+
+Sequencia inicial 38 -> 9217.38
+Melhor vizinho: 9211.94
+
+Sequencia inicial 39 -> 9211.94
+Melhor vizinho: 9182.22
+
+Sequencia inicial 40 -> 9182.22
+Melhor vizinho: 9173.15
+
+Sequencia inicial 41 -> 9173.15
+Melhor vizinho: 9170.12
+
+Sequencia inicial 42 -> 9170.12
+Melhor vizinho: 9130.85
+
+Sequencia inicial 43 -> 9130.85
+Melhor vizinho: 9129.11
+
+Sequencia inicial 44 -> 9129.11
+Melhor vizinho: 9127.49
+
+Sequencia inicial 45 -> 9127.49
+Melhor vizinho: 9125.6
+
+Sequencia inicial 46 -> 9125.6
+Melhor vizinho: 9123.99
+
+Sequencia inicial 47 -> 9123.99
+Melhor vizinho: 9123.63
+
+Sequencia inicial 48 -> 9123.63
+Melhor vizinho: 9123.35
+
+Sequencia inicial 49 -> 9123.35
+Melhor vizinho: 9123.06
+
+Sequencia inicial 50 -> 9123.06
+Melhor vizinho: 9120.25
+
+Sequencia inicial 51 -> 9120.25
+Melhor vizinho: 9120
+
+Sequencia inicial 52 -> 9120
+Melhor vizinho: 9119.35
+
+Sequencia inicial 53 -> 9119.35
+Melhor vizinho: 9116.96
+
+Sequencia inicial 54 -> 9116.96
+Melhor vizinho: 9113.33
+
+Sequencia inicial 55 -> 9113.33
+Melhor vizinho: 9108.74
+
+Sequencia inicial 56 -> 9108.74
+Melhor vizinho: 9106.19
+
+Sequencia inicial 57 -> 9106.19
+Melhor vizinho: 9104.64
+
+Sequencia inicial 58 -> 9104.64
+Melhor vizinho: 9103.38
+
+Sequencia inicial 59 -> 9103.38
+Melhor vizinho: 9102.98
+
+Sequencia inicial 60 -> 9102.98
+Melhor vizinho: 9102.73
+
+Sequencia inicial 61 -> 9102.73
+Melhor vizinho: 9102.42
+
+Sequencia inicial 62 -> 9102.42
+Melhor vizinho: 9102.23
+
+Sequencia inicial 63 -> 9102.23
+Melhor vizinho: 9101.93
+
+Sequencia inicial 64 -> 9101.93
+Melhor vizinho: 9101.68
+
+Sequencia inicial 65 -> 9101.68
+Melhor vizinho: 9101.55
+
+Sequencia inicial 66 -> 9101.55
+Melhor vizinho: 9101.46
+
+Sequencia inicial 67 -> 9101.46
+Melhor vizinho: 9101.4
+
+Sequencia inicial 68 -> 9101.4
+Melhor vizinho: 9101.36
+
+Sequencia inicial 69 -> 9101.36
+Melhor vizinho: 9101.28
+
+Sequencia inicial 70 -> 9101.28
+Melhor vizinho: 9101.2
+
+Sequencia inicial 71 -> 9101.2
+Melhor vizinho: 9100.89
+
+Sequencia inicial 72 -> 9100.89
+Melhor vizinho: 9100.68
+
+Sequencia inicial 73 -> 9100.68
+Melhor vizinho: 9100.65
+
+Sequencia inicial 74 -> 9100.65
+Melhor vizinho: 9100.62
+
+Sequencia inicial 75 -> 9100.62
+Melhor vizinho: 9100.4
+
+Sequencia inicial 76 -> 9100.4
+Melhor vizinho: 9100.4
+
+Sequencia inicial 77 -> 9100.4
+Melhor vizinho: 9100.38
+
+Sequencia inicial 78 -> 9100.38
+Melhor vizinho: 9100.29
+
+Sequencia inicial 79 -> 9100.29
+ITERAÇÃO: 5 - Atraso: 9058.45
+
+Sequencia inicial 1 -> 9480.09
+Melhor vizinho: 9420.65
+
+Sequencia inicial 2 -> 9420.65
+Melhor vizinho: 9401.55
+
+Sequencia inicial 3 -> 9401.55
+Melhor vizinho: 9383.97
+
+Sequencia inicial 4 -> 9383.97
+Melhor vizinho: 9368.31
+
+Sequencia inicial 5 -> 9368.31
+Melhor vizinho: 9354.41
+
+Sequencia inicial 6 -> 9354.41
+Melhor vizinho: 9343.52
+
+Sequencia inicial 7 -> 9343.52
+Melhor vizinho: 9337.01
+
+Sequencia inicial 8 -> 9337.01
+Melhor vizinho: 9328.54
+
+Sequencia inicial 9 -> 9328.54
+Melhor vizinho: 9319.93
+
+Sequencia inicial 10 -> 9319.93
+Melhor vizinho: 9314.64
+
+Sequencia inicial 11 -> 9314.64
+Melhor vizinho: 9303.17
+
+Sequencia inicial 12 -> 9303.17
+Melhor vizinho: 9298.75
+
+Sequencia inicial 13 -> 9298.75
+Melhor vizinho: 9292.25
+
+Sequencia inicial 14 -> 9292.25
+Melhor vizinho: 9287.61
+
+Sequencia inicial 15 -> 9287.61
+Melhor vizinho: 9284.02
+
+Sequencia inicial 16 -> 9284.02
+Melhor vizinho: 9280.68
+
+Sequencia inicial 17 -> 9280.68
+Melhor vizinho: 9276.38
+
+Sequencia inicial 18 -> 9276.38
+Melhor vizinho: 9269.78
+
+Sequencia inicial 19 -> 9269.78
+Melhor vizinho: 9266.88
+
+Sequencia inicial 20 -> 9266.88
+Melhor vizinho: 9264.28
+
+Sequencia inicial 21 -> 9264.28
+Melhor vizinho: 9261.57
+
+Sequencia inicial 22 -> 9261.57
+Melhor vizinho: 9259.29
+
+Sequencia inicial 23 -> 9259.29
+Melhor vizinho: 9258.27
+
+Sequencia inicial 24 -> 9258.27
+Melhor vizinho: 9254.4
+
+Sequencia inicial 25 -> 9254.4
+Melhor vizinho: 9252.32
+
+Sequencia inicial 26 -> 9252.32
+Melhor vizinho: 9248.51
+
+Sequencia inicial 27 -> 9248.51
+Melhor vizinho: 9247.85
+
+Sequencia inicial 28 -> 9247.85
+Melhor vizinho: 9247.21
+
+Sequencia inicial 29 -> 9247.21
+Melhor vizinho: 9246.57
+
+Sequencia inicial 30 -> 9246.57
+Melhor vizinho: 9243.76
+
+Sequencia inicial 31 -> 9243.76
+Melhor vizinho: 9243.08
+
+Sequencia inicial 32 -> 9243.08
+Melhor vizinho: 9241.03
+
+Sequencia inicial 33 -> 9241.03
+Melhor vizinho: 9240.31
+
+Sequencia inicial 34 -> 9240.31
+Melhor vizinho: 9239.37
+
+Sequencia inicial 35 -> 9239.37
+Melhor vizinho: 9238.66
+
+Sequencia inicial 36 -> 9238.66
+Melhor vizinho: 9236.7
+
+Sequencia inicial 37 -> 9236.7
+Melhor vizinho: 9232.24
+
+Sequencia inicial 38 -> 9232.24
+Melhor vizinho: 9224.86
+
+Sequencia inicial 39 -> 9224.86
+Melhor vizinho: 9223.97
+
+Sequencia inicial 40 -> 9223.97
+Melhor vizinho: 9222.82
+
+Sequencia inicial 41 -> 9222.82
+Melhor vizinho: 9221.99
+
+Sequencia inicial 42 -> 9221.99
+Melhor vizinho: 9214.1
+
+Sequencia inicial 43 -> 9214.1
+Melhor vizinho: 9183.16
+
+Sequencia inicial 44 -> 9183.16
+Melhor vizinho: 9169.16
+
+Sequencia inicial 45 -> 9169.16
+Melhor vizinho: 9164.91
+
+Sequencia inicial 46 -> 9164.91
+Melhor vizinho: 9134.62
+
+Sequencia inicial 47 -> 9134.62
+Melhor vizinho: 9112.02
+
+Sequencia inicial 48 -> 9112.02
+Melhor vizinho: 9104.71
+
+Sequencia inicial 49 -> 9104.71
+Melhor vizinho: 9102.21
+
+Sequencia inicial 50 -> 9102.21
+Melhor vizinho: 9100.33
+
+Sequencia inicial 51 -> 9100.33
+Melhor vizinho: 9099.7
+
+Sequencia inicial 52 -> 9099.7
+Melhor vizinho: 9097.32
+
+Sequencia inicial 53 -> 9097.32
+Melhor vizinho: 9096.85
+
+Sequencia inicial 54 -> 9096.85
+Melhor vizinho: 9096.41
+
+Sequencia inicial 55 -> 9096.41
+Melhor vizinho: 9095.3
+
+Sequencia inicial 56 -> 9095.3
+Melhor vizinho: 9094.58
+
+Sequencia inicial 57 -> 9094.58
+Melhor vizinho: 9092.38
+
+Sequencia inicial 58 -> 9092.38
+Melhor vizinho: 9091.76
+
+Sequencia inicial 59 -> 9091.76
+Melhor vizinho: 9090.93
+
+Sequencia inicial 60 -> 9090.93
+Melhor vizinho: 9090.41
+
+Sequencia inicial 61 -> 9090.41
+Melhor vizinho: 9089.7
+
+Sequencia inicial 62 -> 9089.7
+Melhor vizinho: 9089.34
+
+Sequencia inicial 63 -> 9089.34
+Melhor vizinho: 9089
+
+Sequencia inicial 64 -> 9089
+Melhor vizinho: 9087.96
+
+Sequencia inicial 65 -> 9087.96
+Melhor vizinho: 9087.64
+
+Sequencia inicial 66 -> 9087.64
+Melhor vizinho: 9084.24
+
+Sequencia inicial 67 -> 9084.24
+Melhor vizinho: 9083.2
+
+Sequencia inicial 68 -> 9083.2
+Melhor vizinho: 9082.89
+
+Sequencia inicial 69 -> 9082.89
+Melhor vizinho: 9082.64
+
+Sequencia inicial 70 -> 9082.64
+Melhor vizinho: 9082.38
+
+Sequencia inicial 71 -> 9082.38
+Melhor vizinho: 9082.07
+
+Sequencia inicial 72 -> 9082.07
+Melhor vizinho: 9081.37
+
+Sequencia inicial 73 -> 9081.37
+Melhor vizinho: 9079.77
+
+Sequencia inicial 74 -> 9079.77
+Melhor vizinho: 9079.2
+
+Sequencia inicial 75 -> 9079.2
+Melhor vizinho: 9078.95
+
+Sequencia inicial 76 -> 9078.95
+Melhor vizinho: 9078.31
+
+Sequencia inicial 77 -> 9078.31
+Melhor vizinho: 9077.8
+
+Sequencia inicial 78 -> 9077.8
+Melhor vizinho: 9077.58
+
+Sequencia inicial 79 -> 9077.58
+Melhor vizinho: 9077.22
+
+Sequencia inicial 80 -> 9077.22
+Melhor vizinho: 9076.87
+
+Sequencia inicial 81 -> 9076.87
+Melhor vizinho: 9076.72
+
+Sequencia inicial 82 -> 9076.72
+Melhor vizinho: 9076.56
+
+Sequencia inicial 83 -> 9076.56
+Melhor vizinho: 9076.49
+
+Sequencia inicial 84 -> 9076.49
+Melhor vizinho: 9076.39
+
+Sequencia inicial 85 -> 9076.39
+Melhor vizinho: 9076.31
+
+Sequencia inicial 86 -> 9076.31
+Melhor vizinho: 9076.22
+
+Sequencia inicial 87 -> 9076.22
+Melhor vizinho: 9075.95
+
+Sequencia inicial 88 -> 9075.95
+Melhor vizinho: 9075.82
+
+Sequencia inicial 89 -> 9075.82
+Melhor vizinho: 9075.48
+
+Sequencia inicial 90 -> 9075.48
+Melhor vizinho: 9075.46
+
+Sequencia inicial 91 -> 9075.46
+Melhor vizinho: 9075.41
+
+Sequencia inicial 92 -> 9075.41
+Melhor vizinho: 9075.35
+
+Sequencia inicial 93 -> 9075.35
+Melhor vizinho: 9075.16
+
+Sequencia inicial 94 -> 9075.16
+Melhor vizinho: 9075.13
+
+Sequencia inicial 95 -> 9075.13
+Melhor vizinho: 9075.12
+
+Sequencia inicial 96 -> 9075.12
+Melhor vizinho: 9075.05
+
+Sequencia inicial 97 -> 9075.05
+Melhor vizinho: 9074.86
+
+Sequencia inicial 98 -> 9074.86
+Melhor vizinho: 9074.68
+
+Sequencia inicial 99 -> 9074.68
+Melhor vizinho: 9074.64
+
+Sequencia inicial 100 -> 9074.64
+Melhor vizinho: 9074.46
+
+Sequencia inicial 101 -> 9074.46
+ITERAÇÃO: 6 - Atraso: 9058.45
+
+Sequencia inicial 1 -> 9442.99
+Melhor vizinho: 9414.46
+
+Sequencia inicial 2 -> 9414.46
+Melhor vizinho: 9390.86
+
+Sequencia inicial 3 -> 9390.86
+Melhor vizinho: 9374.85
+
+Sequencia inicial 4 -> 9374.85
+Melhor vizinho: 9362.53
+
+Sequencia inicial 5 -> 9362.53
+Melhor vizinho: 9348.85
+
+Sequencia inicial 6 -> 9348.85
+Melhor vizinho: 9337.53
+
+Sequencia inicial 7 -> 9337.53
+Melhor vizinho: 9326.93
+
+Sequencia inicial 8 -> 9326.93
+Melhor vizinho: 9320.56
+
+Sequencia inicial 9 -> 9320.56
+Melhor vizinho: 9310.55
+
+Sequencia inicial 10 -> 9310.55
+Melhor vizinho: 9302.81
+
+Sequencia inicial 11 -> 9302.81
+Melhor vizinho: 9297.54
+
+Sequencia inicial 12 -> 9297.54
+Melhor vizinho: 9292.41
+
+Sequencia inicial 13 -> 9292.41
+Melhor vizinho: 9282.55
+
+Sequencia inicial 14 -> 9282.55
+Melhor vizinho: 9278.49
+
+Sequencia inicial 15 -> 9278.49
+Melhor vizinho: 9274.8
+
+Sequencia inicial 16 -> 9274.8
+Melhor vizinho: 9267.42
+
+Sequencia inicial 17 -> 9267.42
+Melhor vizinho: 9265.46
+
+Sequencia inicial 18 -> 9265.46
+Melhor vizinho: 9262.02
+
+Sequencia inicial 19 -> 9262.02
+Melhor vizinho: 9258.06
+
+Sequencia inicial 20 -> 9258.06
+Melhor vizinho: 9250.9
+
+Sequencia inicial 21 -> 9250.9
+Melhor vizinho: 9234.89
+
+Sequencia inicial 22 -> 9234.89
+Melhor vizinho: 9205.73
+
+Sequencia inicial 23 -> 9205.73
+Melhor vizinho: 9194.29
+
+Sequencia inicial 24 -> 9194.29
+Melhor vizinho: 9187.27
+
+Sequencia inicial 25 -> 9187.27
+Melhor vizinho: 9167.9
+
+Sequencia inicial 26 -> 9167.9
+Melhor vizinho: 9160.98
+
+Sequencia inicial 27 -> 9160.98
+Melhor vizinho: 9159.15
+
+Sequencia inicial 28 -> 9159.15
+Melhor vizinho: 9152.45
+
+Sequencia inicial 29 -> 9152.45
+Melhor vizinho: 9150.69
+
+Sequencia inicial 30 -> 9150.69
+Melhor vizinho: 9148.73
+
+Sequencia inicial 31 -> 9148.73
+Melhor vizinho: 9147.1
+
+Sequencia inicial 32 -> 9147.1
+Melhor vizinho: 9130.83
+
+Sequencia inicial 33 -> 9130.83
+Melhor vizinho: 9129.12
+
+Sequencia inicial 34 -> 9129.12
+Melhor vizinho: 9125.66
+
+Sequencia inicial 35 -> 9125.66
+Melhor vizinho: 9124.6
+
+Sequencia inicial 36 -> 9124.6
+Melhor vizinho: 9122.4
+
+Sequencia inicial 37 -> 9122.4
+Melhor vizinho: 9121.41
+
+Sequencia inicial 38 -> 9121.41
+Melhor vizinho: 9119.17
+
+Sequencia inicial 39 -> 9119.17
+Melhor vizinho: 9118.49
+
+Sequencia inicial 40 -> 9118.49
+Melhor vizinho: 9117.63
+
+Sequencia inicial 41 -> 9117.63
+Melhor vizinho: 9111.16
+
+Sequencia inicial 42 -> 9111.16
+Melhor vizinho: 9101.51
+
+Sequencia inicial 43 -> 9101.51
+Melhor vizinho: 9100.71
+
+Sequencia inicial 44 -> 9100.71
+Melhor vizinho: 9099.23
+
+Sequencia inicial 45 -> 9099.23
+Melhor vizinho: 9096.59
+
+Sequencia inicial 46 -> 9096.59
+Melhor vizinho: 9094.32
+
+Sequencia inicial 47 -> 9094.32
+Melhor vizinho: 9093.22
+
+Sequencia inicial 48 -> 9093.22
+Melhor vizinho: 9092.82
+
+Sequencia inicial 49 -> 9092.82
+Melhor vizinho: 9092.44
+
+Sequencia inicial 50 -> 9092.44
+Melhor vizinho: 9092.13
+
+Sequencia inicial 51 -> 9092.13
+Melhor vizinho: 9091.28
+
+Sequencia inicial 52 -> 9091.28
+Melhor vizinho: 9090.99
+
+Sequencia inicial 53 -> 9090.99
+Melhor vizinho: 9090.61
+
+Sequencia inicial 54 -> 9090.61
+Melhor vizinho: 9090.2
+
+Sequencia inicial 55 -> 9090.2
+Melhor vizinho: 9089.33
+
+Sequencia inicial 56 -> 9089.33
+Melhor vizinho: 9089.1
+
+Sequencia inicial 57 -> 9089.1
+Melhor vizinho: 9087.38
+
+Sequencia inicial 58 -> 9087.38
+Melhor vizinho: 9085.79
+
+Sequencia inicial 59 -> 9085.79
+Melhor vizinho: 9085.54
+
+Sequencia inicial 60 -> 9085.54
+Melhor vizinho: 9085.3
+
+Sequencia inicial 61 -> 9085.3
+Melhor vizinho: 9085.08
+
+Sequencia inicial 62 -> 9085.08
+Melhor vizinho: 9083.48
+
+Sequencia inicial 63 -> 9083.48
+Melhor vizinho: 9083.17
+
+Sequencia inicial 64 -> 9083.17
+Melhor vizinho: 9082.66
+
+Sequencia inicial 65 -> 9082.66
+Melhor vizinho: 9082.45
+
+Sequencia inicial 66 -> 9082.45
+Melhor vizinho: 9082.2
+
+Sequencia inicial 67 -> 9082.2
+Melhor vizinho: 9081.99
+
+Sequencia inicial 68 -> 9081.99
+Melhor vizinho: 9081.78
+
+Sequencia inicial 69 -> 9081.78
+Melhor vizinho: 9081.57
+
+Sequencia inicial 70 -> 9081.57
+Melhor vizinho: 9081.16
+
+Sequencia inicial 71 -> 9081.16
+Melhor vizinho: 9079.36
+
+Sequencia inicial 72 -> 9079.36
+Melhor vizinho: 9079.17
+
+Sequencia inicial 73 -> 9079.17
+Melhor vizinho: 9078.5
+
+Sequencia inicial 74 -> 9078.5
+Melhor vizinho: 9078.34
+
+Sequencia inicial 75 -> 9078.34
+Melhor vizinho: 9078.17
+
+Sequencia inicial 76 -> 9078.17
+Melhor vizinho: 9078.07
+
+Sequencia inicial 77 -> 9078.07
+Melhor vizinho: 9077.11
+
+Sequencia inicial 78 -> 9077.11
+Melhor vizinho: 9077.02
+
+Sequencia inicial 79 -> 9077.02
+Melhor vizinho: 9076.97
+
+Sequencia inicial 80 -> 9076.97
+Melhor vizinho: 9075.73
+
+Sequencia inicial 81 -> 9075.73
+Melhor vizinho: 9074.18
+
+Sequencia inicial 82 -> 9074.18
+Melhor vizinho: 9073.67
+
+Sequencia inicial 83 -> 9073.67
+Melhor vizinho: 9072.98
+
+Sequencia inicial 84 -> 9072.98
+Melhor vizinho: 9072.8
+
+Sequencia inicial 85 -> 9072.8
+Melhor vizinho: 9072.58
+
+Sequencia inicial 86 -> 9072.58
+Melhor vizinho: 9072.4
+
+Sequencia inicial 87 -> 9072.4
+Melhor vizinho: 9072.24
+
+Sequencia inicial 88 -> 9072.24
+Melhor vizinho: 9072.15
+
+Sequencia inicial 89 -> 9072.15
+Melhor vizinho: 9071.88
+
+Sequencia inicial 90 -> 9071.88
+Melhor vizinho: 9071.74
+
+Sequencia inicial 91 -> 9071.74
+Melhor vizinho: 9071.67
+
+Sequencia inicial 92 -> 9071.67
+Melhor vizinho: 9071.52
+
+Sequencia inicial 93 -> 9071.52
+Melhor vizinho: 9071.48
+
+Sequencia inicial 94 -> 9071.48
+Melhor vizinho: 9071.34
+
+Sequencia inicial 95 -> 9071.34
+Melhor vizinho: 9071.27
+
+Sequencia inicial 96 -> 9071.27
+Melhor vizinho: 9071.24
+
+Sequencia inicial 97 -> 9071.24
+Melhor vizinho: 9071.21
+
+Sequencia inicial 98 -> 9071.21
+Melhor vizinho: 9071.19
+
+Sequencia inicial 99 -> 9071.19
+Melhor vizinho: 9071.14
+
+Sequencia inicial 100 -> 9071.14
+Melhor vizinho: 9071.12
+
+Sequencia inicial 101 -> 9071.12
+Melhor vizinho: 9071.11
+
+Sequencia inicial 102 -> 9071.11
+ITERAÇÃO: 7 - Atraso: 9058.45
+
+Sequencia inicial 1 -> 9403.82
+Melhor vizinho: 9381.79
+
+Sequencia inicial 2 -> 9381.79
+Melhor vizinho: 9364.12
+
+Sequencia inicial 3 -> 9364.12
+Melhor vizinho: 9348.88
+
+Sequencia inicial 4 -> 9348.88
+Melhor vizinho: 9339.82
+
+Sequencia inicial 5 -> 9339.82
+Melhor vizinho: 9332
+
+Sequencia inicial 6 -> 9332
+Melhor vizinho: 9325.37
+
+Sequencia inicial 7 -> 9325.37
+Melhor vizinho: 9310.75
+
+Sequencia inicial 8 -> 9310.75
+Melhor vizinho: 9300.69
+
+Sequencia inicial 9 -> 9300.69
+Melhor vizinho: 9294.88
+
+Sequencia inicial 10 -> 9294.88
+Melhor vizinho: 9289.04
+
+Sequencia inicial 11 -> 9289.04
+Melhor vizinho: 9282.88
+
+Sequencia inicial 12 -> 9282.88
+Melhor vizinho: 9274.9
+
+Sequencia inicial 13 -> 9274.9
+Melhor vizinho: 9256.61
+
+Sequencia inicial 14 -> 9256.61
+Melhor vizinho: 9252.82
+
+Sequencia inicial 15 -> 9252.82
+Melhor vizinho: 9247.76
+
+Sequencia inicial 16 -> 9247.76
+Melhor vizinho: 9244.83
+
+Sequencia inicial 17 -> 9244.83
+Melhor vizinho: 9238.32
+
+Sequencia inicial 18 -> 9238.32
+Melhor vizinho: 9235.85
+
+Sequencia inicial 19 -> 9235.85
+Melhor vizinho: 9234.25
+
+Sequencia inicial 20 -> 9234.25
+Melhor vizinho: 9231.19
+
+Sequencia inicial 21 -> 9231.19
+Melhor vizinho: 9225.35
+
+Sequencia inicial 22 -> 9225.35
+Melhor vizinho: 9220.08
+
+Sequencia inicial 23 -> 9220.08
+Melhor vizinho: 9218.47
+
+Sequencia inicial 24 -> 9218.47
+Melhor vizinho: 9215.51
+
+Sequencia inicial 25 -> 9215.51
+Melhor vizinho: 9213.72
+
+Sequencia inicial 26 -> 9213.72
+Melhor vizinho: 9208.7
+
+Sequencia inicial 27 -> 9208.7
+Melhor vizinho: 9207.18
+
+Sequencia inicial 28 -> 9207.18
+Melhor vizinho: 9205.8
+
+Sequencia inicial 29 -> 9205.8
+Melhor vizinho: 9203.96
+
+Sequencia inicial 30 -> 9203.96
+Melhor vizinho: 9202.78
+
+Sequencia inicial 31 -> 9202.78
+Melhor vizinho: 9201.54
+
+Sequencia inicial 32 -> 9201.54
+Melhor vizinho: 9200.2
+
+Sequencia inicial 33 -> 9200.2
+Melhor vizinho: 9197.86
+
+Sequencia inicial 34 -> 9197.86
+Melhor vizinho: 9196.74
+
+Sequencia inicial 35 -> 9196.74
+Melhor vizinho: 9196.25
+
+Sequencia inicial 36 -> 9196.25
+Melhor vizinho: 9194.95
+
+Sequencia inicial 37 -> 9194.95
+Melhor vizinho: 9194.41
+
+Sequencia inicial 38 -> 9194.41
+Melhor vizinho: 9193.82
+
+Sequencia inicial 39 -> 9193.82
+Melhor vizinho: 9193.4
+
+Sequencia inicial 40 -> 9193.4
+Melhor vizinho: 9192.82
+
+Sequencia inicial 41 -> 9192.82
+Melhor vizinho: 9192.45
+
+Sequencia inicial 42 -> 9192.45
+Melhor vizinho: 9189.47
+
+Sequencia inicial 43 -> 9189.47
+Melhor vizinho: 9188.86
+
+Sequencia inicial 44 -> 9188.86
+Melhor vizinho: 9188.23
+
+Sequencia inicial 45 -> 9188.23
+Melhor vizinho: 9187.15
+
+Sequencia inicial 46 -> 9187.15
+Melhor vizinho: 9185.94
+
+Sequencia inicial 47 -> 9185.94
+Melhor vizinho: 9185.52
+
+Sequencia inicial 48 -> 9185.52
+Melhor vizinho: 9185.02
+
+Sequencia inicial 49 -> 9185.02
+Melhor vizinho: 9184.77
+
+Sequencia inicial 50 -> 9184.77
+Melhor vizinho: 9184.57
+
+Sequencia inicial 51 -> 9184.57
+Melhor vizinho: 9183.79
+
+Sequencia inicial 52 -> 9183.79
+Melhor vizinho: 9183.52
+
+Sequencia inicial 53 -> 9183.52
+Melhor vizinho: 9183.08
+
+Sequencia inicial 54 -> 9183.08
+Melhor vizinho: 9182.77
+
+Sequencia inicial 55 -> 9182.77
+Melhor vizinho: 9182.57
+
+Sequencia inicial 56 -> 9182.57
+Melhor vizinho: 9182.4
+
+Sequencia inicial 57 -> 9182.4
+Melhor vizinho: 9182.22
+
+Sequencia inicial 58 -> 9182.22
+Melhor vizinho: 9181.94
+
+Sequencia inicial 59 -> 9181.94
+Melhor vizinho: 9181.72
+
+Sequencia inicial 60 -> 9181.72
+Melhor vizinho: 9181.44
+
+Sequencia inicial 61 -> 9181.44
+Melhor vizinho: 9181.31
+
+Sequencia inicial 62 -> 9181.31
+Melhor vizinho: 9181.17
+
+Sequencia inicial 63 -> 9181.17
+Melhor vizinho: 9180.87
+
+Sequencia inicial 64 -> 9180.87
+Melhor vizinho: 9180.74
+
+Sequencia inicial 65 -> 9180.74
+Melhor vizinho: 9180.64
+
+Sequencia inicial 66 -> 9180.64
+Melhor vizinho: 9180.47
+
+Sequencia inicial 67 -> 9180.47
+Melhor vizinho: 9180.34
+
+Sequencia inicial 68 -> 9180.34
+Melhor vizinho: 9180.28
+
+Sequencia inicial 69 -> 9180.28
+Melhor vizinho: 9180.17
+
+Sequencia inicial 70 -> 9180.17
+Melhor vizinho: 9180.12
+
+Sequencia inicial 71 -> 9180.12
+Melhor vizinho: 9179.99
+
+Sequencia inicial 72 -> 9179.99
+Melhor vizinho: 9179.57
+
+Sequencia inicial 73 -> 9179.57
+Melhor vizinho: 9179.49
+
+Sequencia inicial 74 -> 9179.49
+Melhor vizinho: 9179.06
+
+Sequencia inicial 75 -> 9179.06
+Melhor vizinho: 9178.91
+
+Sequencia inicial 76 -> 9178.91
+Melhor vizinho: 9178.76
+
+Sequencia inicial 77 -> 9178.76
+Melhor vizinho: 9178.74
+
+Sequencia inicial 78 -> 9178.74
+Melhor vizinho: 9178.49
+
+Sequencia inicial 79 -> 9178.49
+Melhor vizinho: 9177.91
+
+Sequencia inicial 80 -> 9177.91
+Melhor vizinho: 9167.76
+
+Sequencia inicial 81 -> 9167.76
+Melhor vizinho: 9166.58
+
+Sequencia inicial 82 -> 9166.58
+Melhor vizinho: 9157.07
+
+Sequencia inicial 83 -> 9157.07
+Melhor vizinho: 9132.04
+
+Sequencia inicial 84 -> 9132.04
+Melhor vizinho: 9118.75
+
+Sequencia inicial 85 -> 9118.75
+Melhor vizinho: 9115.82
+
+Sequencia inicial 86 -> 9115.82
+Melhor vizinho: 9115.45
+
+Sequencia inicial 87 -> 9115.45
+Melhor vizinho: 9113.53
+
+Sequencia inicial 88 -> 9113.53
+Melhor vizinho: 9113.27
+
+Sequencia inicial 89 -> 9113.27
+Melhor vizinho: 9112.84
+
+Sequencia inicial 90 -> 9112.84
+Melhor vizinho: 9112.51
+
+Sequencia inicial 91 -> 9112.51
+Melhor vizinho: 9103.38
+
+Sequencia inicial 92 -> 9103.38
+Melhor vizinho: 9101.56
+
+Sequencia inicial 93 -> 9101.56
+Melhor vizinho: 9094.4
+
+Sequencia inicial 94 -> 9094.4
+Melhor vizinho: 9091.91
+
+Sequencia inicial 95 -> 9091.91
+Melhor vizinho: 9079.67
+
+Sequencia inicial 96 -> 9079.67
+Melhor vizinho: 9078.47
+
+Sequencia inicial 97 -> 9078.47
+Melhor vizinho: 9077.71
+
+Sequencia inicial 98 -> 9077.71
+Melhor vizinho: 9077.24
+
+Sequencia inicial 99 -> 9077.24
+Melhor vizinho: 9077.09
+
+Sequencia inicial 100 -> 9077.09
+Melhor vizinho: 9076.93
+
+Sequencia inicial 101 -> 9076.93
+Melhor vizinho: 9076.45
+
+Sequencia inicial 102 -> 9076.45
+Melhor vizinho: 9076.18
+
+Sequencia inicial 103 -> 9076.18
+Melhor vizinho: 9075.93
+
+Sequencia inicial 104 -> 9075.93
+Melhor vizinho: 9075.84
+
+Sequencia inicial 105 -> 9075.84
+Melhor vizinho: 9075.06
+
+Sequencia inicial 106 -> 9075.06
+Melhor vizinho: 9074.88
+
+Sequencia inicial 107 -> 9074.88
+Melhor vizinho: 9074.75
+
+Sequencia inicial 108 -> 9074.75
+Melhor vizinho: 9074.34
+
+Sequencia inicial 109 -> 9074.34
+Melhor vizinho: 9074.16
+
+Sequencia inicial 110 -> 9074.16
+Melhor vizinho: 9073.76
+
+Sequencia inicial 111 -> 9073.76
+Melhor vizinho: 9073.34
+
+Sequencia inicial 112 -> 9073.34
+Melhor vizinho: 9073.27
+
+Sequencia inicial 113 -> 9073.27
+Melhor vizinho: 9073.22
+
+Sequencia inicial 114 -> 9073.22
+Melhor vizinho: 9073.03
+
+Sequencia inicial 115 -> 9073.03
+Melhor vizinho: 9072.98
+
+Sequencia inicial 116 -> 9072.98
+Melhor vizinho: 9072.88
+
+Sequencia inicial 117 -> 9072.88
+Melhor vizinho: 9072.78
+
+Sequencia inicial 118 -> 9072.78
+Melhor vizinho: 9072.75
+
+Sequencia inicial 119 -> 9072.75
+Melhor vizinho: 9072.69
+
+Sequencia inicial 120 -> 9072.69
+Melhor vizinho: 9072.65
+
+Sequencia inicial 121 -> 9072.65
+Melhor vizinho: 9067.46
+
+Sequencia inicial 122 -> 9067.46
+Melhor vizinho: 9067.17
+
+Sequencia inicial 123 -> 9067.17
+Melhor vizinho: 9066.97
+
+Sequencia inicial 124 -> 9066.97
+Melhor vizinho: 9066.77
+
+Sequencia inicial 125 -> 9066.77
+Melhor vizinho: 9066.64
+
+Sequencia inicial 126 -> 9066.64
+Melhor vizinho: 9066.54
+
+Sequencia inicial 127 -> 9066.54
+Melhor vizinho: 9066.41
+
+Sequencia inicial 128 -> 9066.41
+Melhor vizinho: 9066.27
+
+Sequencia inicial 129 -> 9066.27
+Melhor vizinho: 9066.17
+
+Sequencia inicial 130 -> 9066.17
+Melhor vizinho: 9066.14
+
+Sequencia inicial 131 -> 9066.14
+Melhor vizinho: 9065.83
+
+Sequencia inicial 132 -> 9065.83
+Melhor vizinho: 9065.33
+
+Sequencia inicial 133 -> 9065.33
+Melhor vizinho: 9065.19
+
+Sequencia inicial 134 -> 9065.19
+Melhor vizinho: 9065.15
+
+Sequencia inicial 135 -> 9065.15
+Melhor vizinho: 9065.13
+
+Sequencia inicial 136 -> 9065.13
+Melhor vizinho: 9065.12
+
+Sequencia inicial 137 -> 9065.12
+Melhor vizinho: 9065.1
+
+Sequencia inicial 138 -> 9065.1
+Melhor vizinho: 9064.92
+
+Sequencia inicial 139 -> 9064.92
+Melhor vizinho: 9064.88
+
+Sequencia inicial 140 -> 9064.88
+ITERAÇÃO: 8 - Atraso: 9058.45
+
+Sequencia inicial 1 -> 9419.53
+Melhor vizinho: 9397.26
+
+Sequencia inicial 2 -> 9397.26
+Melhor vizinho: 9380.21
+
+Sequencia inicial 3 -> 9380.21
+Melhor vizinho: 9367.59
+
+Sequencia inicial 4 -> 9367.59
+Melhor vizinho: 9357.6
+
+Sequencia inicial 5 -> 9357.6
+Melhor vizinho: 9348.71
+
+Sequencia inicial 6 -> 9348.71
+Melhor vizinho: 9337.3
+
+Sequencia inicial 7 -> 9337.3
+Melhor vizinho: 9324.54
+
+Sequencia inicial 8 -> 9324.54
+Melhor vizinho: 9318.78
+
+Sequencia inicial 9 -> 9318.78
+Melhor vizinho: 9311.34
+
+Sequencia inicial 10 -> 9311.34
+Melhor vizinho: 9305.81
+
+Sequencia inicial 11 -> 9305.81
+Melhor vizinho: 9302.05
+
+Sequencia inicial 12 -> 9302.05
+Melhor vizinho: 9295.82
+
+Sequencia inicial 13 -> 9295.82
+Melhor vizinho: 9291.38
+
+Sequencia inicial 14 -> 9291.38
+Melhor vizinho: 9273.02
+
+Sequencia inicial 15 -> 9273.02
+Melhor vizinho: 9270.62
+
+Sequencia inicial 16 -> 9270.62
+Melhor vizinho: 9268.79
+
+Sequencia inicial 17 -> 9268.79
+Melhor vizinho: 9266.02
+
+Sequencia inicial 18 -> 9266.02
+Melhor vizinho: 9261.96
+
+Sequencia inicial 19 -> 9261.96
+Melhor vizinho: 9259.71
+
+Sequencia inicial 20 -> 9259.71
+Melhor vizinho: 9256.11
+
+Sequencia inicial 21 -> 9256.11
+Melhor vizinho: 9254.54
+
+Sequencia inicial 22 -> 9254.54
+Melhor vizinho: 9246.96
+
+Sequencia inicial 23 -> 9246.96
+Melhor vizinho: 9242.2
+
+Sequencia inicial 24 -> 9242.2
+Melhor vizinho: 9241.04
+
+Sequencia inicial 25 -> 9241.04
+Melhor vizinho: 9239.76
+
+Sequencia inicial 26 -> 9239.76
+Melhor vizinho: 9238.94
+
+Sequencia inicial 27 -> 9238.94
+Melhor vizinho: 9238.3
+
+Sequencia inicial 28 -> 9238.3
+Melhor vizinho: 9237.17
+
+Sequencia inicial 29 -> 9237.17
+Melhor vizinho: 9236.16
+
+Sequencia inicial 30 -> 9236.16
+Melhor vizinho: 9235.36
+
+Sequencia inicial 31 -> 9235.36
+Melhor vizinho: 9234.76
+
+Sequencia inicial 32 -> 9234.76
+Melhor vizinho: 9234.32
+
+Sequencia inicial 33 -> 9234.32
+Melhor vizinho: 9233.71
+
+Sequencia inicial 34 -> 9233.71
+Melhor vizinho: 9232.86
+
+Sequencia inicial 35 -> 9232.86
+Melhor vizinho: 9232.02
+
+Sequencia inicial 36 -> 9232.02
+Melhor vizinho: 9231.63
+
+Sequencia inicial 37 -> 9231.63
+Melhor vizinho: 9231.14
+
+Sequencia inicial 38 -> 9231.14
+Melhor vizinho: 9230.6
+
+Sequencia inicial 39 -> 9230.6
+Melhor vizinho: 9230.17
+
+Sequencia inicial 40 -> 9230.17
+Melhor vizinho: 9229.92
+
+Sequencia inicial 41 -> 9229.92
+Melhor vizinho: 9225.31
+
+Sequencia inicial 42 -> 9225.31
+Melhor vizinho: 9223.93
+
+Sequencia inicial 43 -> 9223.93
+Melhor vizinho: 9223.4
+
+Sequencia inicial 44 -> 9223.4
+Melhor vizinho: 9220.01
+
+Sequencia inicial 45 -> 9220.01
+Melhor vizinho: 9216.68
+
+Sequencia inicial 46 -> 9216.68
+Melhor vizinho: 9211.49
+
+Sequencia inicial 47 -> 9211.49
+Melhor vizinho: 9210.93
+
+Sequencia inicial 48 -> 9210.93
+Melhor vizinho: 9210.39
+
+Sequencia inicial 49 -> 9210.39
+Melhor vizinho: 9209.9
+
+Sequencia inicial 50 -> 9209.9
+Melhor vizinho: 9209.42
+
+Sequencia inicial 51 -> 9209.42
+Melhor vizinho: 9207.27
+
+Sequencia inicial 52 -> 9207.27
+Melhor vizinho: 9206.8
+
+Sequencia inicial 53 -> 9206.8
+Melhor vizinho: 9205.31
+
+Sequencia inicial 54 -> 9205.31
+Melhor vizinho: 9204.67
+
+Sequencia inicial 55 -> 9204.67
+Melhor vizinho: 9203.55
+
+Sequencia inicial 56 -> 9203.55
+Melhor vizinho: 9202.94
+
+Sequencia inicial 57 -> 9202.94
+Melhor vizinho: 9201.6
+
+Sequencia inicial 58 -> 9201.6
+Melhor vizinho: 9199.53
+
+Sequencia inicial 59 -> 9199.53
+Melhor vizinho: 9196.83
+
+Sequencia inicial 60 -> 9196.83
+Melhor vizinho: 9196.51
+
+Sequencia inicial 61 -> 9196.51
+Melhor vizinho: 9196.29
+
+Sequencia inicial 62 -> 9196.29
+Melhor vizinho: 9196.06
+
+Sequencia inicial 63 -> 9196.06
+Melhor vizinho: 9195.56
+
+Sequencia inicial 64 -> 9195.56
+Melhor vizinho: 9195.21
+
+Sequencia inicial 65 -> 9195.21
+Melhor vizinho: 9194.89
+
+Sequencia inicial 66 -> 9194.89
+Melhor vizinho: 9194.33
+
+Sequencia inicial 67 -> 9194.33
+Melhor vizinho: 9192.45
+
+Sequencia inicial 68 -> 9192.45
+Melhor vizinho: 9192.32
+
+Sequencia inicial 69 -> 9192.32
+Melhor vizinho: 9191.62
+
+Sequencia inicial 70 -> 9191.62
+Melhor vizinho: 9191.48
+
+Sequencia inicial 71 -> 9191.48
+Melhor vizinho: 9191.16
+
+Sequencia inicial 72 -> 9191.16
+Melhor vizinho: 9191.04
+
+Sequencia inicial 73 -> 9191.04
+Melhor vizinho: 9190.83
+
+Sequencia inicial 74 -> 9190.83
+Melhor vizinho: 9190.71
+
+Sequencia inicial 75 -> 9190.71
+Melhor vizinho: 9190.59
+
+Sequencia inicial 76 -> 9190.59
+Melhor vizinho: 9190.37
+
+Sequencia inicial 77 -> 9190.37
+Melhor vizinho: 9190
+
+Sequencia inicial 78 -> 9190
+Melhor vizinho: 9189.81
+
+Sequencia inicial 79 -> 9189.81
+Melhor vizinho: 9189.67
+
+Sequencia inicial 80 -> 9189.67
+Melhor vizinho: 9189.54
+
+Sequencia inicial 81 -> 9189.54
+Melhor vizinho: 9189.08
+
+Sequencia inicial 82 -> 9189.08
+Melhor vizinho: 9188.65
+
+Sequencia inicial 83 -> 9188.65
+Melhor vizinho: 9187.49
+
+Sequencia inicial 84 -> 9187.49
+Melhor vizinho: 9187.39
+
+Sequencia inicial 85 -> 9187.39
+Melhor vizinho: 9187.19
+
+Sequencia inicial 86 -> 9187.19
+Melhor vizinho: 9187.06
+
+Sequencia inicial 87 -> 9187.06
+Melhor vizinho: 9186.96
+
+Sequencia inicial 88 -> 9186.96
+Melhor vizinho: 9186.87
+
+Sequencia inicial 89 -> 9186.87
+Melhor vizinho: 9186.81
+
+Sequencia inicial 90 -> 9186.81
+Melhor vizinho: 9186.76
+
+Sequencia inicial 91 -> 9186.76
+Melhor vizinho: 9186.69
+
+Sequencia inicial 92 -> 9186.69
+Melhor vizinho: 9186.62
+
+Sequencia inicial 93 -> 9186.62
+Melhor vizinho: 9186.05
+
+Sequencia inicial 94 -> 9186.05
+Melhor vizinho: 9185.85
+
+Sequencia inicial 95 -> 9185.85
+Melhor vizinho: 9185.72
+
+Sequencia inicial 96 -> 9185.72
+Melhor vizinho: 9185.66
+
+Sequencia inicial 97 -> 9185.66
+Melhor vizinho: 9185.58
+
+Sequencia inicial 98 -> 9185.58
+Melhor vizinho: 9185.52
+
+Sequencia inicial 99 -> 9185.52
+Melhor vizinho: 9185.48
+
+Sequencia inicial 100 -> 9185.48
+Melhor vizinho: 9185.33
+
+Sequencia inicial 101 -> 9185.33
+Melhor vizinho: 9185.12
+
+Sequencia inicial 102 -> 9185.12
+Melhor vizinho: 9185.07
+
+Sequencia inicial 103 -> 9185.07
+Melhor vizinho: 9184.96
+
+Sequencia inicial 104 -> 9184.96
+Melhor vizinho: 9184.94
+
+Sequencia inicial 105 -> 9184.94
+Melhor vizinho: 9184.87
+
+Sequencia inicial 106 -> 9184.87
+Melhor vizinho: 9184.86
+
+Sequencia inicial 107 -> 9184.86
+Melhor vizinho: 9184.82
+
+Sequencia inicial 108 -> 9184.82
+Melhor vizinho: 9184.75
+
+Sequencia inicial 109 -> 9184.75
+Melhor vizinho: 9184.6
+
+Sequencia inicial 110 -> 9184.6
+Melhor vizinho: 9184.49
+
+Sequencia inicial 111 -> 9184.49
+Melhor vizinho: 9183.39
+
+Sequencia inicial 112 -> 9183.39
+Melhor vizinho: 9169.14
+
+Sequencia inicial 113 -> 9169.14
+Melhor vizinho: 9151.09
+
+Sequencia inicial 114 -> 9151.09
+Melhor vizinho: 9132.24
+
+Sequencia inicial 115 -> 9132.24
+Melhor vizinho: 9129.04
+
+Sequencia inicial 116 -> 9129.04
+Melhor vizinho: 9110.57
+
+Sequencia inicial 117 -> 9110.57
+Melhor vizinho: 9100.96
+
+Sequencia inicial 118 -> 9100.96
+Melhor vizinho: 9096.29
+
+Sequencia inicial 119 -> 9096.29
+Melhor vizinho: 9095.41
+
+Sequencia inicial 120 -> 9095.41
+Melhor vizinho: 9095.02
+
+Sequencia inicial 121 -> 9095.02
+Melhor vizinho: 9094.86
+
+Sequencia inicial 122 -> 9094.86
+Melhor vizinho: 9094.42
+
+Sequencia inicial 123 -> 9094.42
+Melhor vizinho: 9094.02
+
+Sequencia inicial 124 -> 9094.02
+Melhor vizinho: 9093.82
+
+Sequencia inicial 125 -> 9093.82
+Melhor vizinho: 9093.7
+
+Sequencia inicial 126 -> 9093.7
+Melhor vizinho: 9093.57
+
+Sequencia inicial 127 -> 9093.57
+Melhor vizinho: 9093.35
+
+Sequencia inicial 128 -> 9093.35
+Melhor vizinho: 9092.48
+
+Sequencia inicial 129 -> 9092.48
+Melhor vizinho: 9090.91
+
+Sequencia inicial 130 -> 9090.91
+Melhor vizinho: 9090.84
+
+Sequencia inicial 131 -> 9090.84
+Melhor vizinho: 9090.77
+
+Sequencia inicial 132 -> 9090.77
+Melhor vizinho: 9090.73
+
+Sequencia inicial 133 -> 9090.73
+Melhor vizinho: 9090.62
+
+Sequencia inicial 134 -> 9090.62
+Melhor vizinho: 9090.46
+
+Sequencia inicial 135 -> 9090.46
+Melhor vizinho: 9089.81
+
+Sequencia inicial 136 -> 9089.81
+Melhor vizinho: 9089.07
+
+Sequencia inicial 137 -> 9089.07
+Melhor vizinho: 9088.98
+
+Sequencia inicial 138 -> 9088.98
+Melhor vizinho: 9088.76
+
+Sequencia inicial 139 -> 9088.76
+Melhor vizinho: 9088.71
+
+Sequencia inicial 140 -> 9088.71
+Melhor vizinho: 9088.69
+
+Sequencia inicial 141 -> 9088.69
+Melhor vizinho: 9088.61
+
+Sequencia inicial 142 -> 9088.61
+Melhor vizinho: 9088.58
+
+Sequencia inicial 143 -> 9088.58
+Melhor vizinho: 9088.36
+
+Sequencia inicial 144 -> 9088.36
+Melhor vizinho: 9088.36
+
+Sequencia inicial 145 -> 9088.36
+Melhor vizinho: 9088.32
+
+Sequencia inicial 146 -> 9088.32
+Melhor vizinho: 9088.18
+
+Sequencia inicial 147 -> 9088.18
+Melhor vizinho: 9088.16
+
+Sequencia inicial 148 -> 9088.16
+Melhor vizinho: 9088.15
+
+Sequencia inicial 149 -> 9088.15
+Melhor vizinho: 9088.14
+
+Sequencia inicial 150 -> 9088.14
+ITERAÇÃO: 9 - Atraso: 9058.45
+
+Sequencia inicial 1 -> 9461.29
+Melhor vizinho: 9401.6
+
+Sequencia inicial 2 -> 9401.6
+Melhor vizinho: 9386.7
+
+Sequencia inicial 3 -> 9386.7
+Melhor vizinho: 9369.94
+
+Sequencia inicial 4 -> 9369.94
+Melhor vizinho: 9360.62
+
+Sequencia inicial 5 -> 9360.62
+Melhor vizinho: 9352.72
+
+Sequencia inicial 6 -> 9352.72
+Melhor vizinho: 9337.55
+
+Sequencia inicial 7 -> 9337.55
+Melhor vizinho: 9329.51
+
+Sequencia inicial 8 -> 9329.51
+Melhor vizinho: 9323.05
+
+Sequencia inicial 9 -> 9323.05
+Melhor vizinho: 9315.16
+
+Sequencia inicial 10 -> 9315.16
+Melhor vizinho: 9309.35
+
+Sequencia inicial 11 -> 9309.35
+Melhor vizinho: 9302.15
+
+Sequencia inicial 12 -> 9302.15
+Melhor vizinho: 9298.34
+
+Sequencia inicial 13 -> 9298.34
+Melhor vizinho: 9294.83
+
+Sequencia inicial 14 -> 9294.83
+Melhor vizinho: 9291.46
+
+Sequencia inicial 15 -> 9291.46
+Melhor vizinho: 9285.03
+
+Sequencia inicial 16 -> 9285.03
+Melhor vizinho: 9263.77
+
+Sequencia inicial 17 -> 9263.77
+Melhor vizinho: 9249.27
+
+Sequencia inicial 18 -> 9249.27
+Melhor vizinho: 9226.89
+
+Sequencia inicial 19 -> 9226.89
+Melhor vizinho: 9216.03
+
+Sequencia inicial 20 -> 9216.03
+Melhor vizinho: 9213.6
+
+Sequencia inicial 21 -> 9213.6
+Melhor vizinho: 9207.46
+
+Sequencia inicial 22 -> 9207.46
+Melhor vizinho: 9205.08
+
+Sequencia inicial 23 -> 9205.08
+Melhor vizinho: 9173.9
+
+Sequencia inicial 24 -> 9173.9
+Melhor vizinho: 9161.58
+
+Sequencia inicial 25 -> 9161.58
+Melhor vizinho: 9159.31
+
+Sequencia inicial 26 -> 9159.31
+Melhor vizinho: 9156.46
+
+Sequencia inicial 27 -> 9156.46
+Melhor vizinho: 9153.89
+
+Sequencia inicial 28 -> 9153.89
+Melhor vizinho: 9150.06
+
+Sequencia inicial 29 -> 9150.06
+Melhor vizinho: 9147.92
+
+Sequencia inicial 30 -> 9147.92
+Melhor vizinho: 9145.81
+
+Sequencia inicial 31 -> 9145.81
+Melhor vizinho: 9143.97
+
+Sequencia inicial 32 -> 9143.97
+Melhor vizinho: 9140.18
+
+Sequencia inicial 33 -> 9140.18
+Melhor vizinho: 9138.38
+
+Sequencia inicial 34 -> 9138.38
+Melhor vizinho: 9136.72
+
+Sequencia inicial 35 -> 9136.72
+Melhor vizinho: 9133.19
+
+Sequencia inicial 36 -> 9133.19
+Melhor vizinho: 9131.77
+
+Sequencia inicial 37 -> 9131.77
+Melhor vizinho: 9130.49
+
+Sequencia inicial 38 -> 9130.49
+Melhor vizinho: 9129.52
+
+Sequencia inicial 39 -> 9129.52
+Melhor vizinho: 9128.34
+
+Sequencia inicial 40 -> 9128.34
+Melhor vizinho: 9127.4
+
+Sequencia inicial 41 -> 9127.4
+Melhor vizinho: 9126.7
+
+Sequencia inicial 42 -> 9126.7
+Melhor vizinho: 9125.96
+
+Sequencia inicial 43 -> 9125.96
+Melhor vizinho: 9125.38
+
+Sequencia inicial 44 -> 9125.38
+Melhor vizinho: 9122.34
+
+Sequencia inicial 45 -> 9122.34
+Melhor vizinho: 9121.74
+
+Sequencia inicial 46 -> 9121.74
+Melhor vizinho: 9121.15
+
+Sequencia inicial 47 -> 9121.15
+Melhor vizinho: 9120.58
+
+Sequencia inicial 48 -> 9120.58
+Melhor vizinho: 9119.91
+
+Sequencia inicial 49 -> 9119.91
+Melhor vizinho: 9118.43
+
+Sequencia inicial 50 -> 9118.43
+Melhor vizinho: 9117.97
+
+Sequencia inicial 51 -> 9117.97
+Melhor vizinho: 9117.67
+
+Sequencia inicial 52 -> 9117.67
+Melhor vizinho: 9117.31
+
+Sequencia inicial 53 -> 9117.31
+Melhor vizinho: 9116.86
+
+Sequencia inicial 54 -> 9116.86
+Melhor vizinho: 9116.58
+
+Sequencia inicial 55 -> 9116.58
+Melhor vizinho: 9116.11
+
+Sequencia inicial 56 -> 9116.11
+Melhor vizinho: 9115.77
+
+Sequencia inicial 57 -> 9115.77
+Melhor vizinho: 9115.54
+
+Sequencia inicial 58 -> 9115.54
+Melhor vizinho: 9115.31
+
+Sequencia inicial 59 -> 9115.31
+Melhor vizinho: 9114.87
+
+Sequencia inicial 60 -> 9114.87
+Melhor vizinho: 9114.56
+
+Sequencia inicial 61 -> 9114.56
+Melhor vizinho: 9114.36
+
+Sequencia inicial 62 -> 9114.36
+Melhor vizinho: 9114.15
+
+Sequencia inicial 63 -> 9114.15
+Melhor vizinho: 9113.96
+
+Sequencia inicial 64 -> 9113.96
+Melhor vizinho: 9113.03
+
+Sequencia inicial 65 -> 9113.03
+Melhor vizinho: 9112.74
+
+Sequencia inicial 66 -> 9112.74
+Melhor vizinho: 9112.54
+
+Sequencia inicial 67 -> 9112.54
+Melhor vizinho: 9112.27
+
+Sequencia inicial 68 -> 9112.27
+Melhor vizinho: 9111.93
+
+Sequencia inicial 69 -> 9111.93
+Melhor vizinho: 9111.75
+
+Sequencia inicial 70 -> 9111.75
+Melhor vizinho: 9111.59
+
+Sequencia inicial 71 -> 9111.59
+Melhor vizinho: 9110.5
+
+Sequencia inicial 72 -> 9110.5
+Melhor vizinho: 9110.34
+
+Sequencia inicial 73 -> 9110.34
+Melhor vizinho: 9110.2
+
+Sequencia inicial 74 -> 9110.2
+Melhor vizinho: 9108.84
+
+Sequencia inicial 75 -> 9108.84
+Melhor vizinho: 9108.56
+
+Sequencia inicial 76 -> 9108.56
+Melhor vizinho: 9108.21
+
+Sequencia inicial 77 -> 9108.21
+Melhor vizinho: 9108.07
+
+Sequencia inicial 78 -> 9108.07
+Melhor vizinho: 9107.93
+
+Sequencia inicial 79 -> 9107.93
+Melhor vizinho: 9107.78
+
+Sequencia inicial 80 -> 9107.78
+Melhor vizinho: 9107.5
+
+Sequencia inicial 81 -> 9107.5
+Melhor vizinho: 9107.34
+
+Sequencia inicial 82 -> 9107.34
+Melhor vizinho: 9107.12
+
+Sequencia inicial 83 -> 9107.12
+Melhor vizinho: 9106.99
+
+Sequencia inicial 84 -> 9106.99
+Melhor vizinho: 9106.61
+
+Sequencia inicial 85 -> 9106.61
+Melhor vizinho: 9106.38
+
+Sequencia inicial 86 -> 9106.38
+Melhor vizinho: 9106.23
+
+Sequencia inicial 87 -> 9106.23
+Melhor vizinho: 9106.14
+
+Sequencia inicial 88 -> 9106.14
+Melhor vizinho: 9106.09
+
+Sequencia inicial 89 -> 9106.09
+Melhor vizinho: 9106.05
+
+Sequencia inicial 90 -> 9106.05
+Melhor vizinho: 9105.95
+
+Sequencia inicial 91 -> 9105.95
+Melhor vizinho: 9105.85
+
+Sequencia inicial 92 -> 9105.85
+Melhor vizinho: 9105.81
+
+Sequencia inicial 93 -> 9105.81
+Melhor vizinho: 9105.78
+
+Sequencia inicial 94 -> 9105.78
+Melhor vizinho: 9103.13
+
+Sequencia inicial 95 -> 9103.13
+Melhor vizinho: 9102.83
+
+Sequencia inicial 96 -> 9102.83
+Melhor vizinho: 9102.08
+
+Sequencia inicial 97 -> 9102.08
+Melhor vizinho: 9101.92
+
+Sequencia inicial 98 -> 9101.92
+Melhor vizinho: 9101.88
+
+Sequencia inicial 99 -> 9101.88
+Melhor vizinho: 9101.78
+
+Sequencia inicial 100 -> 9101.78
+Melhor vizinho: 9101.76
+
+Sequencia inicial 101 -> 9101.76
+Melhor vizinho: 9101.25
+
+Sequencia inicial 102 -> 9101.25
+Melhor vizinho: 9101.21
+
+Sequencia inicial 103 -> 9101.21
+Melhor vizinho: 9100.92
+
+Sequencia inicial 104 -> 9100.92
+Melhor vizinho: 9100.8
+
+Sequencia inicial 105 -> 9100.8
+Melhor vizinho: 9100.65
+
+Sequencia inicial 106 -> 9100.65
+Melhor vizinho: 9100.59
+
+Sequencia inicial 107 -> 9100.59
+Melhor vizinho: 9100.58
+
+Sequencia inicial 108 -> 9100.58
+Melhor vizinho: 9100.54
+
+Sequencia inicial 109 -> 9100.54
+Melhor vizinho: 9100.53
+
+Sequencia inicial 110 -> 9100.53
+Melhor vizinho: 9100.53
+
+Sequencia inicial 111 -> 9100.53
+Melhor vizinho: 9100.51
+
+Sequencia inicial 112 -> 9100.51
+ITERAÇÃO: 10 - Atraso: 9058.45
+
+Sequencia inicial 1 -> 9440.7
+Melhor vizinho: 9422.44
+
+Sequencia inicial 2 -> 9422.44
+Melhor vizinho: 9411.82
+
+Sequencia inicial 3 -> 9411.82
+Melhor vizinho: 9398
+
+Sequencia inicial 4 -> 9398
+Melhor vizinho: 9381.46
+
+Sequencia inicial 5 -> 9381.46
+Melhor vizinho: 9372.21
+
+Sequencia inicial 6 -> 9372.21
+Melhor vizinho: 9361.56
+
+Sequencia inicial 7 -> 9361.56
+Melhor vizinho: 9351.71
+
+Sequencia inicial 8 -> 9351.71
+Melhor vizinho: 9345.77
+
+Sequencia inicial 9 -> 9345.77
+Melhor vizinho: 9335.49
+
+Sequencia inicial 10 -> 9335.49
+Melhor vizinho: 9328.76
+
+Sequencia inicial 11 -> 9328.76
+Melhor vizinho: 9322.3
+
+Sequencia inicial 12 -> 9322.3
+Melhor vizinho: 9318.54
+
+Sequencia inicial 13 -> 9318.54
+Melhor vizinho: 9312.16
+
+Sequencia inicial 14 -> 9312.16
+Melhor vizinho: 9307.45
+
+Sequencia inicial 15 -> 9307.45
+Melhor vizinho: 9301.61
+
+Sequencia inicial 16 -> 9301.61
+Melhor vizinho: 9299.27
+
+Sequencia inicial 17 -> 9299.27
+Melhor vizinho: 9296.82
+
+Sequencia inicial 18 -> 9296.82
+Melhor vizinho: 9291.73
+
+Sequencia inicial 19 -> 9291.73
+Melhor vizinho: 9286.84
+
+Sequencia inicial 20 -> 9286.84
+Melhor vizinho: 9284.2
+
+Sequencia inicial 21 -> 9284.2
+Melhor vizinho: 9281.88
+
+Sequencia inicial 22 -> 9281.88
+Melhor vizinho: 9279.72
+
+Sequencia inicial 23 -> 9279.72
+Melhor vizinho: 9277.25
+
+Sequencia inicial 24 -> 9277.25
+Melhor vizinho: 9275.82
+
+Sequencia inicial 25 -> 9275.82
+Melhor vizinho: 9274.22
+
+Sequencia inicial 26 -> 9274.22
+Melhor vizinho: 9273.21
+
+Sequencia inicial 27 -> 9273.21
+Melhor vizinho: 9272.51
+
+Sequencia inicial 28 -> 9272.51
+Melhor vizinho: 9271.55
+
+Sequencia inicial 29 -> 9271.55
+Melhor vizinho: 9270.76
+
+Sequencia inicial 30 -> 9270.76
+Melhor vizinho: 9267.44
+
+Sequencia inicial 31 -> 9267.44
+Melhor vizinho: 9266.78
+
+Sequencia inicial 32 -> 9266.78
+Melhor vizinho: 9266.11
+
+Sequencia inicial 33 -> 9266.11
+Melhor vizinho: 9264.17
+
+Sequencia inicial 34 -> 9264.17
+Melhor vizinho: 9262.98
+
+Sequencia inicial 35 -> 9262.98
+Melhor vizinho: 9262.59
+
+Sequencia inicial 36 -> 9262.59
+Melhor vizinho: 9261.91
+
+Sequencia inicial 37 -> 9261.91
+Melhor vizinho: 9260.76
+
+Sequencia inicial 38 -> 9260.76
+Melhor vizinho: 9259.64
+
+Sequencia inicial 39 -> 9259.64
+Melhor vizinho: 9248.31
+
+Sequencia inicial 40 -> 9248.31
+Melhor vizinho: 9214.86
+
+Sequencia inicial 41 -> 9214.86
+Melhor vizinho: 9210.32
+
+Sequencia inicial 42 -> 9210.32
+Melhor vizinho: 9185.16
+
+Sequencia inicial 43 -> 9185.16
+Melhor vizinho: 9152.66
+
+Sequencia inicial 44 -> 9152.66
+Melhor vizinho: 9138.12
+
+Sequencia inicial 45 -> 9138.12
+Melhor vizinho: 9130.02
+
+Sequencia inicial 46 -> 9130.02
+Melhor vizinho: 9129.02
+
+Sequencia inicial 47 -> 9129.02
+Melhor vizinho: 9128.46
+
+Sequencia inicial 48 -> 9128.46
+Melhor vizinho: 9128.05
+
+Sequencia inicial 49 -> 9128.05
+Melhor vizinho: 9126.45
+
+Sequencia inicial 50 -> 9126.45
+Melhor vizinho: 9126.13
+
+Sequencia inicial 51 -> 9126.13
+Melhor vizinho: 9125.84
+
+Sequencia inicial 52 -> 9125.84
+Melhor vizinho: 9125.59
+
+Sequencia inicial 53 -> 9125.59
+Melhor vizinho: 9125.2
+
+Sequencia inicial 54 -> 9125.2
+Melhor vizinho: 9124.93
+
+Sequencia inicial 55 -> 9124.93
+Melhor vizinho: 9124.63
+
+Sequencia inicial 56 -> 9124.63
+Melhor vizinho: 9124.4
+
+Sequencia inicial 57 -> 9124.4
+Melhor vizinho: 9124.17
+
+Sequencia inicial 58 -> 9124.17
+Melhor vizinho: 9124
+
+Sequencia inicial 59 -> 9124
+Melhor vizinho: 9121.1
+
+Sequencia inicial 60 -> 9121.1
+Melhor vizinho: 9120.74
+
+Sequencia inicial 61 -> 9120.74
+Melhor vizinho: 9120.5
+
+Sequencia inicial 62 -> 9120.5
+Melhor vizinho: 9120.27
+
+Sequencia inicial 63 -> 9120.27
+Melhor vizinho: 9120.14
+
+Sequencia inicial 64 -> 9120.14
+Melhor vizinho: 9119.9
+
+Sequencia inicial 65 -> 9119.9
+Melhor vizinho: 9119.58
+
+Sequencia inicial 66 -> 9119.58
+Melhor vizinho: 9119.37
+
+Sequencia inicial 67 -> 9119.37
+Melhor vizinho: 9119.27
+
+Sequencia inicial 68 -> 9119.27
+Melhor vizinho: 9119.16
+
+Sequencia inicial 69 -> 9119.16
+Melhor vizinho: 9118.15
+
+Sequencia inicial 70 -> 9118.15
+Melhor vizinho: 9117.59
+
+Sequencia inicial 71 -> 9117.59
+Melhor vizinho: 9116.85
+
+Sequencia inicial 72 -> 9116.85
+Melhor vizinho: 9116.47
+
+Sequencia inicial 73 -> 9116.47
+Melhor vizinho: 9116.16
+
+Sequencia inicial 74 -> 9116.16
+Melhor vizinho: 9115.8
+
+Sequencia inicial 75 -> 9115.8
+Melhor vizinho: 9115.56
+
+Sequencia inicial 76 -> 9115.56
+Melhor vizinho: 9115.27
+
+Sequencia inicial 77 -> 9115.27
+Melhor vizinho: 9115.19
+
+Sequencia inicial 78 -> 9115.19
+Melhor vizinho: 9115.06
+
+Sequencia inicial 79 -> 9115.06
+Melhor vizinho: 9114.94
+
+Sequencia inicial 80 -> 9114.94
+Melhor vizinho: 9114.82
+
+Sequencia inicial 81 -> 9114.82
+Melhor vizinho: 9114.73
+
+Sequencia inicial 82 -> 9114.73
+Melhor vizinho: 9114.56
+
+Sequencia inicial 83 -> 9114.56
+Melhor vizinho: 9114.17
+
+Sequencia inicial 84 -> 9114.17
+Melhor vizinho: 9114.03
+
+Sequencia inicial 85 -> 9114.03
+Melhor vizinho: 9113.63
+
+Sequencia inicial 86 -> 9113.63
+Melhor vizinho: 9113.51
+
+Sequencia inicial 87 -> 9113.51
+Melhor vizinho: 9112.85
+
+Sequencia inicial 88 -> 9112.85
+Melhor vizinho: 9112.75
+
+Sequencia inicial 89 -> 9112.75
+Melhor vizinho: 9112.26
+
+Sequencia inicial 90 -> 9112.26
+Melhor vizinho: 9112.19
+
+Sequencia inicial 91 -> 9112.19
+Melhor vizinho: 9112.12
+
+Sequencia inicial 92 -> 9112.12
+Melhor vizinho: 9112.06
+
+Sequencia inicial 93 -> 9112.06
+Melhor vizinho: 9111.84
+
+Sequencia inicial 94 -> 9111.84
+Melhor vizinho: 9111.79
+
+Sequencia inicial 95 -> 9111.79
+Melhor vizinho: 9111.69
+
+Sequencia inicial 96 -> 9111.69
+Melhor vizinho: 9111.5
+
+Sequencia inicial 97 -> 9111.5
+Melhor vizinho: 9110.99
+
+Sequencia inicial 98 -> 9110.99
+Melhor vizinho: 9110.86
+
+Sequencia inicial 99 -> 9110.86
+Melhor vizinho: 9110.82
+
+Sequencia inicial 100 -> 9110.82
+Melhor vizinho: 9110.76
+
+Sequencia inicial 101 -> 9110.76
+Melhor vizinho: 9110.73
+
+Sequencia inicial 102 -> 9110.73
+Melhor vizinho: 9110.32
+
+Sequencia inicial 103 -> 9110.32
+Melhor vizinho: 9110.27
+
+Sequencia inicial 104 -> 9110.27
+Melhor vizinho: 9110.24
+
+Sequencia inicial 105 -> 9110.24
+Melhor vizinho: 9110.23
+
+Sequencia inicial 106 -> 9110.23
+Melhor vizinho: 9110.04
+
+Sequencia inicial 107 -> 9110.04
+Melhor vizinho: 9106.38
+
+Sequencia inicial 108 -> 9106.38
+Melhor vizinho: 9105.66
+
+Sequencia inicial 109 -> 9105.66
+Melhor vizinho: 9105.45
+
+Sequencia inicial 110 -> 9105.45
+Melhor vizinho: 9105.09
+
+Sequencia inicial 111 -> 9105.09
+Melhor vizinho: 9104.97
+
+Sequencia inicial 112 -> 9104.97
+Melhor vizinho: 9104.74
+
+Sequencia inicial 113 -> 9104.74
+Melhor vizinho: 9104.69
+
+Sequencia inicial 114 -> 9104.69
+Melhor vizinho: 9104.54
+
+Sequencia inicial 115 -> 9104.54
+Melhor vizinho: 9104.51
+
+Sequencia inicial 116 -> 9104.51
+ITERAÇÃO: 11 - Atraso: 9058.45
+
+Sequencia inicial 1 -> 9527.96
+Melhor vizinho: 9483.52
+
+Sequencia inicial 2 -> 9483.52
+Melhor vizinho: 9407.66
+
+Sequencia inicial 3 -> 9407.66
+Melhor vizinho: 9391.69
+
+Sequencia inicial 4 -> 9391.69
+Melhor vizinho: 9368.58
+
+Sequencia inicial 5 -> 9368.58
+Melhor vizinho: 9354.61
+
+Sequencia inicial 6 -> 9354.61
+Melhor vizinho: 9342.33
+
+Sequencia inicial 7 -> 9342.33
+Melhor vizinho: 9330.14
+
+Sequencia inicial 8 -> 9330.14
+Melhor vizinho: 9315.23
+
+Sequencia inicial 9 -> 9315.23
+Melhor vizinho: 9306.26
+
+Sequencia inicial 10 -> 9306.26
+Melhor vizinho: 9296.94
+
+Sequencia inicial 11 -> 9296.94
+Melhor vizinho: 9282.15
+
+Sequencia inicial 12 -> 9282.15
+Melhor vizinho: 9271.85
+
+Sequencia inicial 13 -> 9271.85
+Melhor vizinho: 9261.06
+
+Sequencia inicial 14 -> 9261.06
+Melhor vizinho: 9249.19
+
+Sequencia inicial 15 -> 9249.19
+Melhor vizinho: 9242.82
+
+Sequencia inicial 16 -> 9242.82
+Melhor vizinho: 9235.56
+
+Sequencia inicial 17 -> 9235.56
+Melhor vizinho: 9227.46
+
+Sequencia inicial 18 -> 9227.46
+Melhor vizinho: 9224.35
+
+Sequencia inicial 19 -> 9224.35
+Melhor vizinho: 9218.2
+
+Sequencia inicial 20 -> 9218.2
+Melhor vizinho: 9215.13
+
+Sequencia inicial 21 -> 9215.13
+Melhor vizinho: 9212.12
+
+Sequencia inicial 22 -> 9212.12
+Melhor vizinho: 9205.47
+
+Sequencia inicial 23 -> 9205.47
+Melhor vizinho: 9202.04
+
+Sequencia inicial 24 -> 9202.04
+Melhor vizinho: 9199.21
+
+Sequencia inicial 25 -> 9199.21
+Melhor vizinho: 9196.58
+
+Sequencia inicial 26 -> 9196.58
+Melhor vizinho: 9193.09
+
+Sequencia inicial 27 -> 9193.09
+Melhor vizinho: 9189.65
+
+Sequencia inicial 28 -> 9189.65
+Melhor vizinho: 9184.9
+
+Sequencia inicial 29 -> 9184.9
+Melhor vizinho: 9182.78
+
+Sequencia inicial 30 -> 9182.78
+Melhor vizinho: 9180.71
+
+Sequencia inicial 31 -> 9180.71
+Melhor vizinho: 9178.48
+
+Sequencia inicial 32 -> 9178.48
+Melhor vizinho: 9177.26
+
+Sequencia inicial 33 -> 9177.26
+Melhor vizinho: 9175.6
+
+Sequencia inicial 34 -> 9175.6
+Melhor vizinho: 9174.44
+
+Sequencia inicial 35 -> 9174.44
+Melhor vizinho: 9173.38
+
+Sequencia inicial 36 -> 9173.38
+Melhor vizinho: 9172.66
+
+Sequencia inicial 37 -> 9172.66
+Melhor vizinho: 9171.96
+
+Sequencia inicial 38 -> 9171.96
+Melhor vizinho: 9171.28
+
+Sequencia inicial 39 -> 9171.28
+Melhor vizinho: 9170.68
+
+Sequencia inicial 40 -> 9170.68
+Melhor vizinho: 9166.63
+
+Sequencia inicial 41 -> 9166.63
+Melhor vizinho: 9165.95
+
+Sequencia inicial 42 -> 9165.95
+Melhor vizinho: 9165.3
+
+Sequencia inicial 43 -> 9165.3
+Melhor vizinho: 9164.75
+
+Sequencia inicial 44 -> 9164.75
+Melhor vizinho: 9164.36
+
+Sequencia inicial 45 -> 9164.36
+Melhor vizinho: 9162.87
+
+Sequencia inicial 46 -> 9162.87
+Melhor vizinho: 9160.85
+
+Sequencia inicial 47 -> 9160.85
+Melhor vizinho: 9160.47
+
+Sequencia inicial 48 -> 9160.47
+Melhor vizinho: 9159.97
+
+Sequencia inicial 49 -> 9159.97
+Melhor vizinho: 9159.64
+
+Sequencia inicial 50 -> 9159.64
+Melhor vizinho: 9159.39
+
+Sequencia inicial 51 -> 9159.39
+Melhor vizinho: 9156.52
+
+Sequencia inicial 52 -> 9156.52
+Melhor vizinho: 9156
+
+Sequencia inicial 53 -> 9156
+Melhor vizinho: 9155.57
+
+Sequencia inicial 54 -> 9155.57
+Melhor vizinho: 9155.04
+
+Sequencia inicial 55 -> 9155.04
+Melhor vizinho: 9154.82
+
+Sequencia inicial 56 -> 9154.82
+Melhor vizinho: 9154.64
+
+Sequencia inicial 57 -> 9154.64
+Melhor vizinho: 9154.46
+
+Sequencia inicial 58 -> 9154.46
+Melhor vizinho: 9153.4
+
+Sequencia inicial 59 -> 9153.4
+Melhor vizinho: 9153.09
+
+Sequencia inicial 60 -> 9153.09
+Melhor vizinho: 9152.77
+
+Sequencia inicial 61 -> 9152.77
+Melhor vizinho: 9152.17
+
+Sequencia inicial 62 -> 9152.17
+Melhor vizinho: 9149.67
+
+Sequencia inicial 63 -> 9149.67
+Melhor vizinho: 9149.53
+
+Sequencia inicial 64 -> 9149.53
+Melhor vizinho: 9149.26
+
+Sequencia inicial 65 -> 9149.26
+Melhor vizinho: 9148.94
+
+Sequencia inicial 66 -> 9148.94
+Melhor vizinho: 9148.69
+
+Sequencia inicial 67 -> 9148.69
+Melhor vizinho: 9148.54
+
+Sequencia inicial 68 -> 9148.54
+Melhor vizinho: 9148.46
+
+Sequencia inicial 69 -> 9148.46
+Melhor vizinho: 9148.27
+
+Sequencia inicial 70 -> 9148.27
+Melhor vizinho: 9148.09
+
+Sequencia inicial 71 -> 9148.09
+Melhor vizinho: 9148.01
+
+Sequencia inicial 72 -> 9148.01
+Melhor vizinho: 9147.86
+
+Sequencia inicial 73 -> 9147.86
+Melhor vizinho: 9147.71
+
+Sequencia inicial 74 -> 9147.71
+Melhor vizinho: 9147.51
+
+Sequencia inicial 75 -> 9147.51
+Melhor vizinho: 9147.4
+
+Sequencia inicial 76 -> 9147.4
+Melhor vizinho: 9147.31
+
+Sequencia inicial 77 -> 9147.31
+Melhor vizinho: 9147.24
+
+Sequencia inicial 78 -> 9147.24
+Melhor vizinho: 9146.69
+
+Sequencia inicial 79 -> 9146.69
+Melhor vizinho: 9146.25
+
+Sequencia inicial 80 -> 9146.25
+Melhor vizinho: 9146.05
+
+Sequencia inicial 81 -> 9146.05
+Melhor vizinho: 9145.83
+
+Sequencia inicial 82 -> 9145.83
+Melhor vizinho: 9145.38
+
+Sequencia inicial 83 -> 9145.38
+Melhor vizinho: 9145.21
+
+Sequencia inicial 84 -> 9145.21
+Melhor vizinho: 9145.17
+
+Sequencia inicial 85 -> 9145.17
+Melhor vizinho: 9145.13
+
+Sequencia inicial 86 -> 9145.13
+Melhor vizinho: 9145.06
+
+Sequencia inicial 87 -> 9145.06
+Melhor vizinho: 9145.02
+
+Sequencia inicial 88 -> 9145.02
+Melhor vizinho: 9145
+
+Sequencia inicial 89 -> 9145
+Melhor vizinho: 9144.99
+
+Sequencia inicial 90 -> 9144.99
+Melhor vizinho: 9144.94
+
+Sequencia inicial 91 -> 9144.94
+Melhor vizinho: 9144.79
+
+Sequencia inicial 92 -> 9144.79
+Melhor vizinho: 9144.73
+
+Sequencia inicial 93 -> 9144.73
+Melhor vizinho: 9144.18
+
+Sequencia inicial 94 -> 9144.18
+Melhor vizinho: 9144.16
+
+Sequencia inicial 95 -> 9144.16
+Melhor vizinho: 9143.36
+
+Sequencia inicial 96 -> 9143.36
+Melhor vizinho: 9143.02
+
+Sequencia inicial 97 -> 9143.02
+Melhor vizinho: 9140.79
+
+Sequencia inicial 98 -> 9140.79
+Melhor vizinho: 9140.71
+
+Sequencia inicial 99 -> 9140.71
+Melhor vizinho: 9140.64
+
+Sequencia inicial 100 -> 9140.64
+Melhor vizinho: 9140.18
+
+Sequencia inicial 101 -> 9140.18
+Melhor vizinho: 9138.54
+
+Sequencia inicial 102 -> 9138.54
+Melhor vizinho: 9138.07
+
+Sequencia inicial 103 -> 9138.07
+Melhor vizinho: 9137.94
+
+Sequencia inicial 104 -> 9137.94
+Melhor vizinho: 9137.91
+
+Sequencia inicial 105 -> 9137.91
+Melhor vizinho: 9137.88
+
+Sequencia inicial 106 -> 9137.88
+Melhor vizinho: 9137.88
+
+Sequencia inicial 107 -> 9137.88
+Melhor vizinho: 9137.81
+
+Sequencia inicial 108 -> 9137.81
+ITERAÇÃO: 12 - Atraso: 9058.45
+
+Sequencia inicial 1 -> 9550.97
+Melhor vizinho: 9507.67
+
+Sequencia inicial 2 -> 9507.67
+Melhor vizinho: 9471.4
+
+Sequencia inicial 3 -> 9471.4
+Melhor vizinho: 9452.46
+
+Sequencia inicial 4 -> 9452.46
+Melhor vizinho: 9435.09
+
+Sequencia inicial 5 -> 9435.09
+Melhor vizinho: 9417.96
+
+Sequencia inicial 6 -> 9417.96
+Melhor vizinho: 9399.6
+
+Sequencia inicial 7 -> 9399.6
+Melhor vizinho: 9383.16
+
+Sequencia inicial 8 -> 9383.16
+Melhor vizinho: 9373.56
+
+Sequencia inicial 9 -> 9373.56
+Melhor vizinho: 9359.43
+
+Sequencia inicial 10 -> 9359.43
+Melhor vizinho: 9351.35
+
+Sequencia inicial 11 -> 9351.35
+Melhor vizinho: 9338.11
+
+Sequencia inicial 12 -> 9338.11
+Melhor vizinho: 9330.64
+
+Sequencia inicial 13 -> 9330.64
+Melhor vizinho: 9317.11
+
+Sequencia inicial 14 -> 9317.11
+Melhor vizinho: 9311.38
+
+Sequencia inicial 15 -> 9311.38
+Melhor vizinho: 9302.02
+
+Sequencia inicial 16 -> 9302.02
+Melhor vizinho: 9297.93
+
+Sequencia inicial 17 -> 9297.93
+Melhor vizinho: 9294.14
+
+Sequencia inicial 18 -> 9294.14
+Melhor vizinho: 9286.68
+
+Sequencia inicial 19 -> 9286.68
+Melhor vizinho: 9283.26
+
+Sequencia inicial 20 -> 9283.26
+Melhor vizinho: 9280
+
+Sequencia inicial 21 -> 9280
+Melhor vizinho: 9277.07
+
+Sequencia inicial 22 -> 9277.07
+Melhor vizinho: 9273.56
+
+Sequencia inicial 23 -> 9273.56
+Melhor vizinho: 9270.68
+
+Sequencia inicial 24 -> 9270.68
+Melhor vizinho: 9268.16
+
+Sequencia inicial 25 -> 9268.16
+Melhor vizinho: 9265.73
+
+Sequencia inicial 26 -> 9265.73
+Melhor vizinho: 9255.27
+
+Sequencia inicial 27 -> 9255.27
+Melhor vizinho: 9250.67
+
+Sequencia inicial 28 -> 9250.67
+Melhor vizinho: 9246.3
+
+Sequencia inicial 29 -> 9246.3
+Melhor vizinho: 9243.26
+
+Sequencia inicial 30 -> 9243.26
+Melhor vizinho: 9240.5
+
+Sequencia inicial 31 -> 9240.5
+Melhor vizinho: 9237.68
+
+Sequencia inicial 32 -> 9237.68
+Melhor vizinho: 9225.09
+
+Sequencia inicial 33 -> 9225.09
+Melhor vizinho: 9203.4
+
+Sequencia inicial 34 -> 9203.4
+Melhor vizinho: 9194.87
+
+Sequencia inicial 35 -> 9194.87
+Melhor vizinho: 9179.25
+
+Sequencia inicial 36 -> 9179.25
+Melhor vizinho: 9174.62
+
+Sequencia inicial 37 -> 9174.62
+Melhor vizinho: 9169.68
+
+Sequencia inicial 38 -> 9169.68
+Melhor vizinho: 9167.08
+
+Sequencia inicial 39 -> 9167.08
+Melhor vizinho: 9163.9
+
+Sequencia inicial 40 -> 9163.9
+Melhor vizinho: 9162.24
+
+Sequencia inicial 41 -> 9162.24
+Melhor vizinho: 9157.13
+
+Sequencia inicial 42 -> 9157.13
+Melhor vizinho: 9155.78
+
+Sequencia inicial 43 -> 9155.78
+Melhor vizinho: 9154.56
+
+Sequencia inicial 44 -> 9154.56
+Melhor vizinho: 9148.87
+
+Sequencia inicial 45 -> 9148.87
+Melhor vizinho: 9147.51
+
+Sequencia inicial 46 -> 9147.51
+Melhor vizinho: 9145.98
+
+Sequencia inicial 47 -> 9145.98
+Melhor vizinho: 9144.67
+
+Sequencia inicial 48 -> 9144.67
+Melhor vizinho: 9142.06
+
+Sequencia inicial 49 -> 9142.06
+Melhor vizinho: 9140.92
+
+Sequencia inicial 50 -> 9140.92
+Melhor vizinho: 9136.74
+
+Sequencia inicial 51 -> 9136.74
+Melhor vizinho: 9135.7
+
+Sequencia inicial 52 -> 9135.7
+Melhor vizinho: 9134.15
+
+Sequencia inicial 53 -> 9134.15
+Melhor vizinho: 9133.21
+
+Sequencia inicial 54 -> 9133.21
+Melhor vizinho: 9131.29
+
+Sequencia inicial 55 -> 9131.29
+Melhor vizinho: 9129.94
+
+Sequencia inicial 56 -> 9129.94
+Melhor vizinho: 9127.28
+
+Sequencia inicial 57 -> 9127.28
+Melhor vizinho: 9126.63
+
+Sequencia inicial 58 -> 9126.63
+Melhor vizinho: 9125.98
+
+Sequencia inicial 59 -> 9125.98
+Melhor vizinho: 9125.47
+
+Sequencia inicial 60 -> 9125.47
+Melhor vizinho: 9124.83
+
+Sequencia inicial 61 -> 9124.83
+Melhor vizinho: 9124.12
+
+Sequencia inicial 62 -> 9124.12
+Melhor vizinho: 9123.59
+
+Sequencia inicial 63 -> 9123.59
+Melhor vizinho: 9123.28
+
+Sequencia inicial 64 -> 9123.28
+Melhor vizinho: 9122.81
+
+Sequencia inicial 65 -> 9122.81
+Melhor vizinho: 9122.46
+
+Sequencia inicial 66 -> 9122.46
+Melhor vizinho: 9122.15
+
+Sequencia inicial 67 -> 9122.15
+Melhor vizinho: 9121
+
+Sequencia inicial 68 -> 9121
+Melhor vizinho: 9120.57
+
+Sequencia inicial 69 -> 9120.57
+Melhor vizinho: 9120
+
+Sequencia inicial 70 -> 9120
+Melhor vizinho: 9119.66
+
+Sequencia inicial 71 -> 9119.66
+Melhor vizinho: 9119.43
+
+Sequencia inicial 72 -> 9119.43
+Melhor vizinho: 9119.16
+
+Sequencia inicial 73 -> 9119.16
+Melhor vizinho: 9118.83
+
+Sequencia inicial 74 -> 9118.83
+Melhor vizinho: 9118.38
+
+Sequencia inicial 75 -> 9118.38
+Melhor vizinho: 9117.97
+
+Sequencia inicial 76 -> 9117.97
+Melhor vizinho: 9117.42
+
+Sequencia inicial 77 -> 9117.42
+Melhor vizinho: 9116.82
+
+Sequencia inicial 78 -> 9116.82
+Melhor vizinho: 9116.59
+
+Sequencia inicial 79 -> 9116.59
+Melhor vizinho: 9116.41
+
+Sequencia inicial 80 -> 9116.41
+Melhor vizinho: 9116.02
+
+Sequencia inicial 81 -> 9116.02
+Melhor vizinho: 9115.52
+
+Sequencia inicial 82 -> 9115.52
+Melhor vizinho: 9115.28
+
+Sequencia inicial 83 -> 9115.28
+Melhor vizinho: 9115.1
+
+Sequencia inicial 84 -> 9115.1
+Melhor vizinho: 9114.95
+
+Sequencia inicial 85 -> 9114.95
+Melhor vizinho: 9114.81
+
+Sequencia inicial 86 -> 9114.81
+Melhor vizinho: 9113.36
+
+Sequencia inicial 87 -> 9113.36
+Melhor vizinho: 9113.14
+
+Sequencia inicial 88 -> 9113.14
+Melhor vizinho: 9112.62
+
+Sequencia inicial 89 -> 9112.62
+Melhor vizinho: 9112.02
+
+Sequencia inicial 90 -> 9112.02
+Melhor vizinho: 9111.59
+
+Sequencia inicial 91 -> 9111.59
+Melhor vizinho: 9111.28
+
+Sequencia inicial 92 -> 9111.28
+Melhor vizinho: 9110.77
+
+Sequencia inicial 93 -> 9110.77
+Melhor vizinho: 9110.45
+
+Sequencia inicial 94 -> 9110.45
+Melhor vizinho: 9110.25
+
+Sequencia inicial 95 -> 9110.25
+Melhor vizinho: 9110.15
+
+Sequencia inicial 96 -> 9110.15
+Melhor vizinho: 9110.03
+
+Sequencia inicial 97 -> 9110.03
+Melhor vizinho: 9109.85
+
+Sequencia inicial 98 -> 9109.85
+Melhor vizinho: 9109.75
+
+Sequencia inicial 99 -> 9109.75
+Melhor vizinho: 9109.66
+
+Sequencia inicial 100 -> 9109.66
+Melhor vizinho: 9109.59
+
+Sequencia inicial 101 -> 9109.59
+Melhor vizinho: 9109.53
+
+Sequencia inicial 102 -> 9109.53
+Melhor vizinho: 9109.47
+
+Sequencia inicial 103 -> 9109.47
+Melhor vizinho: 9109.4
+
+Sequencia inicial 104 -> 9109.4
+Melhor vizinho: 9109.28
+
+Sequencia inicial 105 -> 9109.28
+Melhor vizinho: 9108.77
+
+Sequencia inicial 106 -> 9108.77
+Melhor vizinho: 9108.56
+
+Sequencia inicial 107 -> 9108.56
+Melhor vizinho: 9108.38
+
+Sequencia inicial 108 -> 9108.38
+Melhor vizinho: 9108.34
+
+Sequencia inicial 109 -> 9108.34
+Melhor vizinho: 9108.12
+
+Sequencia inicial 110 -> 9108.12
+Melhor vizinho: 9107.71
+
+Sequencia inicial 111 -> 9107.71
+Melhor vizinho: 9107.26
+
+Sequencia inicial 112 -> 9107.26
+Melhor vizinho: 9107.11
+
+Sequencia inicial 113 -> 9107.11
+Melhor vizinho: 9107.05
+
+Sequencia inicial 114 -> 9107.05
+Melhor vizinho: 9106.36
+
+Sequencia inicial 115 -> 9106.36
+Melhor vizinho: 9106.29
+
+Sequencia inicial 116 -> 9106.29
+Melhor vizinho: 9106.21
+
+Sequencia inicial 117 -> 9106.21
+Melhor vizinho: 9106.2
+
+Sequencia inicial 118 -> 9106.2
+Melhor vizinho: 9106.12
+
+Sequencia inicial 119 -> 9106.12
+Melhor vizinho: 9106.11
+
+Sequencia inicial 120 -> 9106.11
+Melhor vizinho: 9106.06
+
+Sequencia inicial 121 -> 9106.06
+Melhor vizinho: 9106.05
+
+Sequencia inicial 122 -> 9106.05
+Melhor vizinho: 9106.04
+
+Sequencia inicial 123 -> 9106.04
+Melhor vizinho: 9106.02
+
+Sequencia inicial 124 -> 9106.02
+ITERAÇÃO: 13 - Atraso: 9058.45
+
+Sequencia inicial 1 -> 9523.07
+Melhor vizinho: 9499.47
+
+Sequencia inicial 2 -> 9499.47
+Melhor vizinho: 9477.53
+
+Sequencia inicial 3 -> 9477.53
+Melhor vizinho: 9457.4
+
+Sequencia inicial 4 -> 9457.4
+Melhor vizinho: 9438.85
+
+Sequencia inicial 5 -> 9438.85
+Melhor vizinho: 9428.24
+
+Sequencia inicial 6 -> 9428.24
+Melhor vizinho: 9414.47
+
+Sequencia inicial 7 -> 9414.47
+Melhor vizinho: 9405.12
+
+Sequencia inicial 8 -> 9405.12
+Melhor vizinho: 9392.22
+
+Sequencia inicial 9 -> 9392.22
+Melhor vizinho: 9383.44
+
+Sequencia inicial 10 -> 9383.44
+Melhor vizinho: 9370.52
+
+Sequencia inicial 11 -> 9370.52
+Melhor vizinho: 9362.96
+
+Sequencia inicial 12 -> 9362.96
+Melhor vizinho: 9355.38
+
+Sequencia inicial 13 -> 9355.38
+Melhor vizinho: 9346.43
+
+Sequencia inicial 14 -> 9346.43
+Melhor vizinho: 9336.96
+
+Sequencia inicial 15 -> 9336.96
+Melhor vizinho: 9328.9
+
+Sequencia inicial 16 -> 9328.9
+Melhor vizinho: 9320.01
+
+Sequencia inicial 17 -> 9320.01
+Melhor vizinho: 9312.61
+
+Sequencia inicial 18 -> 9312.61
+Melhor vizinho: 9308
+
+Sequencia inicial 19 -> 9308
+Melhor vizinho: 9303.88
+
+Sequencia inicial 20 -> 9303.88
+Melhor vizinho: 9298.37
+
+Sequencia inicial 21 -> 9298.37
+Melhor vizinho: 9290.91
+
+Sequencia inicial 22 -> 9290.91
+Melhor vizinho: 9283.65
+
+Sequencia inicial 23 -> 9283.65
+Melhor vizinho: 9279.9
+
+Sequencia inicial 24 -> 9279.9
+Melhor vizinho: 9276.34
+
+Sequencia inicial 25 -> 9276.34
+Melhor vizinho: 9272.78
+
+Sequencia inicial 26 -> 9272.78
+Melhor vizinho: 9266.16
+
+Sequencia inicial 27 -> 9266.16
+Melhor vizinho: 9262.65
+
+Sequencia inicial 28 -> 9262.65
+Melhor vizinho: 9259.58
+
+Sequencia inicial 29 -> 9259.58
+Melhor vizinho: 9256.7
+
+Sequencia inicial 30 -> 9256.7
+Melhor vizinho: 9222.26
+
+Sequencia inicial 31 -> 9222.26
+Melhor vizinho: 9203.14
+
+Sequencia inicial 32 -> 9203.14
+Melhor vizinho: 9194.17
+
+Sequencia inicial 33 -> 9194.17
+Melhor vizinho: 9176.33
+
+Sequencia inicial 34 -> 9176.33
+Melhor vizinho: 9163.96
+
+Sequencia inicial 35 -> 9163.96
+Melhor vizinho: 9161.24
+
+Sequencia inicial 36 -> 9161.24
+Melhor vizinho: 9158.59
+
+Sequencia inicial 37 -> 9158.59
+Melhor vizinho: 9156.01
+
+Sequencia inicial 38 -> 9156.01
+Melhor vizinho: 9151.24
+
+Sequencia inicial 39 -> 9151.24
+Melhor vizinho: 9147.55
+
+Sequencia inicial 40 -> 9147.55
+Melhor vizinho: 9145.48
+
+Sequencia inicial 41 -> 9145.48
+Melhor vizinho: 9142.72
+
+Sequencia inicial 42 -> 9142.72
+Melhor vizinho: 9139.62
+
+Sequencia inicial 43 -> 9139.62
+Melhor vizinho: 9136.43
+
+Sequencia inicial 44 -> 9136.43
+Melhor vizinho: 9134.6
+
+Sequencia inicial 45 -> 9134.6
+Melhor vizinho: 9132.27
+
+Sequencia inicial 46 -> 9132.27
+Melhor vizinho: 9129.02
+
+Sequencia inicial 47 -> 9129.02
+Melhor vizinho: 9126.05
+
+Sequencia inicial 48 -> 9126.05
+Melhor vizinho: 9124.4
+
+Sequencia inicial 49 -> 9124.4
+Melhor vizinho: 9122.81
+
+Sequencia inicial 50 -> 9122.81
+Melhor vizinho: 9121.78
+
+Sequencia inicial 51 -> 9121.78
+Melhor vizinho: 9117.72
+
+Sequencia inicial 52 -> 9117.72
+Melhor vizinho: 9116.62
+
+Sequencia inicial 53 -> 9116.62
+Melhor vizinho: 9115.43
+
+Sequencia inicial 54 -> 9115.43
+Melhor vizinho: 9114.53
+
+Sequencia inicial 55 -> 9114.53
+Melhor vizinho: 9113.52
+
+Sequencia inicial 56 -> 9113.52
+Melhor vizinho: 9112.66
+
+Sequencia inicial 57 -> 9112.66
+Melhor vizinho: 9111.92
+
+Sequencia inicial 58 -> 9111.92
+Melhor vizinho: 9111.26
+
+Sequencia inicial 59 -> 9111.26
+Melhor vizinho: 9110.35
+
+Sequencia inicial 60 -> 9110.35
+Melhor vizinho: 9108.34
+
+Sequencia inicial 61 -> 9108.34
+Melhor vizinho: 9105.81
+
+Sequencia inicial 62 -> 9105.81
+Melhor vizinho: 9105.08
+
+Sequencia inicial 63 -> 9105.08
+Melhor vizinho: 9104.16
+
+Sequencia inicial 64 -> 9104.16
+Melhor vizinho: 9103.4
+
+Sequencia inicial 65 -> 9103.4
+Melhor vizinho: 9102.82
+
+Sequencia inicial 66 -> 9102.82
+Melhor vizinho: 9101.78
+
+Sequencia inicial 67 -> 9101.78
+Melhor vizinho: 9100.69
+
+Sequencia inicial 68 -> 9100.69
+Melhor vizinho: 9097.89
+
+Sequencia inicial 69 -> 9097.89
+Melhor vizinho: 9097.31
+
+Sequencia inicial 70 -> 9097.31
+Melhor vizinho: 9094.16
+
+Sequencia inicial 71 -> 9094.16
+Melhor vizinho: 9093.67
+
+Sequencia inicial 72 -> 9093.67
+Melhor vizinho: 9093.24
+
+Sequencia inicial 73 -> 9093.24
+Melhor vizinho: 9092.84
+
+Sequencia inicial 74 -> 9092.84
+Melhor vizinho: 9092.06
+
+Sequencia inicial 75 -> 9092.06
+Melhor vizinho: 9090.65
+
+Sequencia inicial 76 -> 9090.65
+Melhor vizinho: 9090.17
+
+Sequencia inicial 77 -> 9090.17
+Melhor vizinho: 9089.78
+
+Sequencia inicial 78 -> 9089.78
+Melhor vizinho: 9089.47
+
+Sequencia inicial 79 -> 9089.47
+Melhor vizinho: 9088.71
+
+Sequencia inicial 80 -> 9088.71
+Melhor vizinho: 9088.49
+
+Sequencia inicial 81 -> 9088.49
+Melhor vizinho: 9088.17
+
+Sequencia inicial 82 -> 9088.17
+Melhor vizinho: 9087.98
+
+Sequencia inicial 83 -> 9087.98
+Melhor vizinho: 9086.83
+
+Sequencia inicial 84 -> 9086.83
+Melhor vizinho: 9086.59
+
+Sequencia inicial 85 -> 9086.59
+Melhor vizinho: 9085.08
+
+Sequencia inicial 86 -> 9085.08
+Melhor vizinho: 9084.94
+
+Sequencia inicial 87 -> 9084.94
+Melhor vizinho: 9084.79
+
+Sequencia inicial 88 -> 9084.79
+Melhor vizinho: 9084.47
+
+Sequencia inicial 89 -> 9084.47
+Melhor vizinho: 9084.19
+
+Sequencia inicial 90 -> 9084.19
+Melhor vizinho: 9083.73
+
+Sequencia inicial 91 -> 9083.73
+Melhor vizinho: 9083.62
+
+Sequencia inicial 92 -> 9083.62
+Melhor vizinho: 9083.46
+
+Sequencia inicial 93 -> 9083.46
+Melhor vizinho: 9083.31
+
+Sequencia inicial 94 -> 9083.31
+Melhor vizinho: 9083.25
+
+Sequencia inicial 95 -> 9083.25
+Melhor vizinho: 9083.12
+
+Sequencia inicial 96 -> 9083.12
+Melhor vizinho: 9082.99
+
+Sequencia inicial 97 -> 9082.99
+Melhor vizinho: 9082.87
+
+Sequencia inicial 98 -> 9082.87
+Melhor vizinho: 9082.81
+
+Sequencia inicial 99 -> 9082.81
+Melhor vizinho: 9082.72
+
+Sequencia inicial 100 -> 9082.72
+Melhor vizinho: 9082.53
+
+Sequencia inicial 101 -> 9082.53
+Melhor vizinho: 9082.48
+
+Sequencia inicial 102 -> 9082.48
+Melhor vizinho: 9082.38
+
+Sequencia inicial 103 -> 9082.38
+Melhor vizinho: 9082.32
+
+Sequencia inicial 104 -> 9082.32
+Melhor vizinho: 9082.26
+
+Sequencia inicial 105 -> 9082.26
+Melhor vizinho: 9082.01
+
+Sequencia inicial 106 -> 9082.01
+Melhor vizinho: 9081.96
+
+Sequencia inicial 107 -> 9081.96
+Melhor vizinho: 9081.9
+
+Sequencia inicial 108 -> 9081.9
+Melhor vizinho: 9081.84
+
+Sequencia inicial 109 -> 9081.84
+Melhor vizinho: 9081.7
+
+Sequencia inicial 110 -> 9081.7
+Melhor vizinho: 9081.66
+
+Sequencia inicial 111 -> 9081.66
+Melhor vizinho: 9081.62
+
+Sequencia inicial 112 -> 9081.62
+Melhor vizinho: 9081.58
+
+Sequencia inicial 113 -> 9081.58
+Melhor vizinho: 9081.52
+
+Sequencia inicial 114 -> 9081.52
+Melhor vizinho: 9081.5
+
+Sequencia inicial 115 -> 9081.5
+Melhor vizinho: 9081.39
+
+Sequencia inicial 116 -> 9081.39
+Melhor vizinho: 9081.37
+
+Sequencia inicial 117 -> 9081.37
+Melhor vizinho: 9081.32
+
+Sequencia inicial 118 -> 9081.32
+Melhor vizinho: 9081.3
+
+Sequencia inicial 119 -> 9081.3
+Melhor vizinho: 9081.27
+
+Sequencia inicial 120 -> 9081.27
+Melhor vizinho: 9081.27
+
+Sequencia inicial 121 -> 9081.27
+ITERAÇÃO: 14 - Atraso: 9058.45
+
+Sequencia inicial 1 -> 9515.52
+Melhor vizinho: 9490.17
+
+Sequencia inicial 2 -> 9490.17
+Melhor vizinho: 9470.14
+
+Sequencia inicial 3 -> 9470.14
+Melhor vizinho: 9449.05
+
+Sequencia inicial 4 -> 9449.05
+Melhor vizinho: 9430.47
+
+Sequencia inicial 5 -> 9430.47
+Melhor vizinho: 9417.12
+
+Sequencia inicial 6 -> 9417.12
+Melhor vizinho: 9404.82
+
+Sequencia inicial 7 -> 9404.82
+Melhor vizinho: 9392.66
+
+Sequencia inicial 8 -> 9392.66
+Melhor vizinho: 9384.26
+
+Sequencia inicial 9 -> 9384.26
+Melhor vizinho: 9370.82
+
+Sequencia inicial 10 -> 9370.82
+Melhor vizinho: 9362.01
+
+Sequencia inicial 11 -> 9362.01
+Melhor vizinho: 9349.98
+
+Sequencia inicial 12 -> 9349.98
+Melhor vizinho: 9343.43
+
+Sequencia inicial 13 -> 9343.43
+Melhor vizinho: 9334.85
+
+Sequencia inicial 14 -> 9334.85
+Melhor vizinho: 9325.09
+
+Sequencia inicial 15 -> 9325.09
+Melhor vizinho: 9319.07
+
+Sequencia inicial 16 -> 9319.07
+Melhor vizinho: 9314.05
+
+Sequencia inicial 17 -> 9314.05
+Melhor vizinho: 9305.96
+
+Sequencia inicial 18 -> 9305.96
+Melhor vizinho: 9298.54
+
+Sequencia inicial 19 -> 9298.54
+Melhor vizinho: 9294.1
+
+Sequencia inicial 20 -> 9294.1
+Melhor vizinho: 9289.23
+
+Sequencia inicial 21 -> 9289.23
+Melhor vizinho: 9284.67
+
+Sequencia inicial 22 -> 9284.67
+Melhor vizinho: 9274.51
+
+Sequencia inicial 23 -> 9274.51
+Melhor vizinho: 9270.76
+
+Sequencia inicial 24 -> 9270.76
+Melhor vizinho: 9267.09
+
+Sequencia inicial 25 -> 9267.09
+Melhor vizinho: 9260.84
+
+Sequencia inicial 26 -> 9260.84
+Melhor vizinho: 9251.86
+
+Sequencia inicial 27 -> 9251.86
+Melhor vizinho: 9216.58
+
+Sequencia inicial 28 -> 9216.58
+Melhor vizinho: 9207.29
+
+Sequencia inicial 29 -> 9207.29
+Melhor vizinho: 9200.13
+
+Sequencia inicial 30 -> 9200.13
+Melhor vizinho: 9186.92
+
+Sequencia inicial 31 -> 9186.92
+Melhor vizinho: 9183.17
+
+Sequencia inicial 32 -> 9183.17
+Melhor vizinho: 9177.59
+
+Sequencia inicial 33 -> 9177.59
+Melhor vizinho: 9173.37
+
+Sequencia inicial 34 -> 9173.37
+Melhor vizinho: 9169.83
+
+Sequencia inicial 35 -> 9169.83
+Melhor vizinho: 9165.81
+
+Sequencia inicial 36 -> 9165.81
+Melhor vizinho: 9162.23
+
+Sequencia inicial 37 -> 9162.23
+Melhor vizinho: 9157.32
+
+Sequencia inicial 38 -> 9157.32
+Melhor vizinho: 9153.93
+
+Sequencia inicial 39 -> 9153.93
+Melhor vizinho: 9147.73
+
+Sequencia inicial 40 -> 9147.73
+Melhor vizinho: 9144.46
+
+Sequencia inicial 41 -> 9144.46
+Melhor vizinho: 9140.95
+
+Sequencia inicial 42 -> 9140.95
+Melhor vizinho: 9138.38
+
+Sequencia inicial 43 -> 9138.38
+Melhor vizinho: 9134.49
+
+Sequencia inicial 44 -> 9134.49
+Melhor vizinho: 9132.81
+
+Sequencia inicial 45 -> 9132.81
+Melhor vizinho: 9127.43
+
+Sequencia inicial 46 -> 9127.43
+Melhor vizinho: 9125.89
+
+Sequencia inicial 47 -> 9125.89
+Melhor vizinho: 9122.23
+
+Sequencia inicial 48 -> 9122.23
+Melhor vizinho: 9120.78
+
+Sequencia inicial 49 -> 9120.78
+Melhor vizinho: 9118.18
+
+Sequencia inicial 50 -> 9118.18
+Melhor vizinho: 9116.8
+
+Sequencia inicial 51 -> 9116.8
+Melhor vizinho: 9115.2
+
+Sequencia inicial 52 -> 9115.2
+Melhor vizinho: 9113.96
+
+Sequencia inicial 53 -> 9113.96
+Melhor vizinho: 9109.67
+
+Sequencia inicial 54 -> 9109.67
+Melhor vizinho: 9108.89
+
+Sequencia inicial 55 -> 9108.89
+Melhor vizinho: 9108.18
+
+Sequencia inicial 56 -> 9108.18
+Melhor vizinho: 9105.47
+
+Sequencia inicial 57 -> 9105.47
+Melhor vizinho: 9104.78
+
+Sequencia inicial 58 -> 9104.78
+Melhor vizinho: 9100.67
+
+Sequencia inicial 59 -> 9100.67
+Melhor vizinho: 9099.97
+
+Sequencia inicial 60 -> 9099.97
+Melhor vizinho: 9098.1
+
+Sequencia inicial 61 -> 9098.1
+Melhor vizinho: 9097.58
+
+Sequencia inicial 62 -> 9097.58
+Melhor vizinho: 9096.83
+
+Sequencia inicial 63 -> 9096.83
+Melhor vizinho: 9096.35
+
+Sequencia inicial 64 -> 9096.35
+Melhor vizinho: 9095.45
+
+Sequencia inicial 65 -> 9095.45
+Melhor vizinho: 9094.86
+
+Sequencia inicial 66 -> 9094.86
+Melhor vizinho: 9093.35
+
+Sequencia inicial 67 -> 9093.35
+Melhor vizinho: 9092.89
+
+Sequencia inicial 68 -> 9092.89
+Melhor vizinho: 9092.32
+
+Sequencia inicial 69 -> 9092.32
+Melhor vizinho: 9091.92
+
+Sequencia inicial 70 -> 9091.92
+Melhor vizinho: 9091.55
+
+Sequencia inicial 71 -> 9091.55
+Melhor vizinho: 9091.09
+
+Sequencia inicial 72 -> 9091.09
+Melhor vizinho: 9090.74
+
+Sequencia inicial 73 -> 9090.74
+Melhor vizinho: 9090.4
+
+Sequencia inicial 74 -> 9090.4
+Melhor vizinho: 9089.72
+
+Sequencia inicial 75 -> 9089.72
+Melhor vizinho: 9089.39
+
+Sequencia inicial 76 -> 9089.39
+Melhor vizinho: 9089.15
+
+Sequencia inicial 77 -> 9089.15
+Melhor vizinho: 9088.79
+
+Sequencia inicial 78 -> 9088.79
+Melhor vizinho: 9087.86
+
+Sequencia inicial 79 -> 9087.86
+Melhor vizinho: 9087.47
+
+Sequencia inicial 80 -> 9087.47
+Melhor vizinho: 9087.26
+
+Sequencia inicial 81 -> 9087.26
+Melhor vizinho: 9086.27
+
+Sequencia inicial 82 -> 9086.27
+Melhor vizinho: 9085.96
+
+Sequencia inicial 83 -> 9085.96
+Melhor vizinho: 9085.43
+
+Sequencia inicial 84 -> 9085.43
+Melhor vizinho: 9085.21
+
+Sequencia inicial 85 -> 9085.21
+Melhor vizinho: 9084.78
+
+Sequencia inicial 86 -> 9084.78
+Melhor vizinho: 9084.54
+
+Sequencia inicial 87 -> 9084.54
+Melhor vizinho: 9083.98
+
+Sequencia inicial 88 -> 9083.98
+Melhor vizinho: 9083.78
+
+Sequencia inicial 89 -> 9083.78
+Melhor vizinho: 9083.43
+
+Sequencia inicial 90 -> 9083.43
+Melhor vizinho: 9083.01
+
+Sequencia inicial 91 -> 9083.01
+Melhor vizinho: 9082.43
+
+Sequencia inicial 92 -> 9082.43
+Melhor vizinho: 9082.01
+
+Sequencia inicial 93 -> 9082.01
+Melhor vizinho: 9081.52
+
+Sequencia inicial 94 -> 9081.52
+Melhor vizinho: 9081.34
+
+Sequencia inicial 95 -> 9081.34
+Melhor vizinho: 9081.18
+
+Sequencia inicial 96 -> 9081.18
+Melhor vizinho: 9081.02
+
+Sequencia inicial 97 -> 9081.02
+Melhor vizinho: 9080.87
+
+Sequencia inicial 98 -> 9080.87
+Melhor vizinho: 9080.66
+
+Sequencia inicial 99 -> 9080.66
+Melhor vizinho: 9080.5
+
+Sequencia inicial 100 -> 9080.5
+Melhor vizinho: 9080.22
+
+Sequencia inicial 101 -> 9080.22
+Melhor vizinho: 9080.07
+
+Sequencia inicial 102 -> 9080.07
+Melhor vizinho: 9079.94
+
+Sequencia inicial 103 -> 9079.94
+Melhor vizinho: 9079.13
+
+Sequencia inicial 104 -> 9079.13
+Melhor vizinho: 9079.01
+
+Sequencia inicial 105 -> 9079.01
+Melhor vizinho: 9078.87
+
+Sequencia inicial 106 -> 9078.87
+Melhor vizinho: 9078.78
+
+Sequencia inicial 107 -> 9078.78
+Melhor vizinho: 9078.12
+
+Sequencia inicial 108 -> 9078.12
+Melhor vizinho: 9078.02
+
+Sequencia inicial 109 -> 9078.02
+Melhor vizinho: 9077.58
+
+Sequencia inicial 110 -> 9077.58
+Melhor vizinho: 9077.46
+
+Sequencia inicial 111 -> 9077.46
+Melhor vizinho: 9077.39
+
+Sequencia inicial 112 -> 9077.39
+Melhor vizinho: 9077.33
+
+Sequencia inicial 113 -> 9077.33
+Melhor vizinho: 9077.25
+
+Sequencia inicial 114 -> 9077.25
+Melhor vizinho: 9077.2
+
+Sequencia inicial 115 -> 9077.2
+Melhor vizinho: 9077.09
+
+Sequencia inicial 116 -> 9077.09
+Melhor vizinho: 9077.07
+
+Sequencia inicial 117 -> 9077.07
+Melhor vizinho: 9077.04
+
+Sequencia inicial 118 -> 9077.04
+Melhor vizinho: 9077
+
+Sequencia inicial 119 -> 9077
+Melhor vizinho: 9076.97
+
+Sequencia inicial 120 -> 9076.97
+Melhor vizinho: 9076.54
+
+Sequencia inicial 121 -> 9076.54
+Melhor vizinho: 9076.36
+
+Sequencia inicial 122 -> 9076.36
+Melhor vizinho: 9076.18
+
+Sequencia inicial 123 -> 9076.18
+Melhor vizinho: 9076.16
+
+Sequencia inicial 124 -> 9076.16
+Melhor vizinho: 9076.06
+
+Sequencia inicial 125 -> 9076.06
+Melhor vizinho: 9076.04
+
+Sequencia inicial 126 -> 9076.04
+Melhor vizinho: 9075.98
+
+Sequencia inicial 127 -> 9075.98
+Melhor vizinho: 9075.94
+
+Sequencia inicial 128 -> 9075.94
+Melhor vizinho: 9075.66
+
+Sequencia inicial 129 -> 9075.66
+Melhor vizinho: 9075.66
+
+Sequencia inicial 130 -> 9075.66
+Melhor vizinho: 9075.62
+
+Sequencia inicial 131 -> 9075.62
+Melhor vizinho: 9075.61
+
+Sequencia inicial 132 -> 9075.61
+ITERAÇÃO: 15 - Atraso: 9058.45
+
+Sequencia inicial 1 -> 9524.2
+Melhor vizinho: 9485.83
+
+Sequencia inicial 2 -> 9485.83
+Melhor vizinho: 9427.27
+
+Sequencia inicial 3 -> 9427.27
+Melhor vizinho: 9400.81
+
+Sequencia inicial 4 -> 9400.81
+Melhor vizinho: 9380.44
+
+Sequencia inicial 5 -> 9380.44
+Melhor vizinho: 9358.18
+
+Sequencia inicial 6 -> 9358.18
+Melhor vizinho: 9341.18
+
+Sequencia inicial 7 -> 9341.18
+Melhor vizinho: 9328.82
+
+Sequencia inicial 8 -> 9328.82
+Melhor vizinho: 9316.64
+
+Sequencia inicial 9 -> 9316.64
+Melhor vizinho: 9303.26
+
+Sequencia inicial 10 -> 9303.26
+Melhor vizinho: 9295.08
+
+Sequencia inicial 11 -> 9295.08
+Melhor vizinho: 9285.62
+
+Sequencia inicial 12 -> 9285.62
+Melhor vizinho: 9275.4
+
+Sequencia inicial 13 -> 9275.4
+Melhor vizinho: 9267.21
+
+Sequencia inicial 14 -> 9267.21
+Melhor vizinho: 9257.79
+
+Sequencia inicial 15 -> 9257.79
+Melhor vizinho: 9251.02
+
+Sequencia inicial 16 -> 9251.02
+Melhor vizinho: 9244.2
+
+Sequencia inicial 17 -> 9244.2
+Melhor vizinho: 9234.08
+
+Sequencia inicial 18 -> 9234.08
+Melhor vizinho: 9227.69
+
+Sequencia inicial 19 -> 9227.69
+Melhor vizinho: 9222.21
+
+Sequencia inicial 20 -> 9222.21
+Melhor vizinho: 9218.06
+
+Sequencia inicial 21 -> 9218.06
+Melhor vizinho: 9209.6
+
+Sequencia inicial 22 -> 9209.6
+Melhor vizinho: 9205.75
+
+Sequencia inicial 23 -> 9205.75
+Melhor vizinho: 9200.01
+
+Sequencia inicial 24 -> 9200.01
+Melhor vizinho: 9194.94
+
+Sequencia inicial 25 -> 9194.94
+Melhor vizinho: 9190.2
+
+Sequencia inicial 26 -> 9190.2
+Melhor vizinho: 9186.89
+
+Sequencia inicial 27 -> 9186.89
+Melhor vizinho: 9183.39
+
+Sequencia inicial 28 -> 9183.39
+Melhor vizinho: 9180.64
+
+Sequencia inicial 29 -> 9180.64
+Melhor vizinho: 9176.34
+
+Sequencia inicial 30 -> 9176.34
+Melhor vizinho: 9172.45
+
+Sequencia inicial 31 -> 9172.45
+Melhor vizinho: 9165.34
+
+Sequencia inicial 32 -> 9165.34
+Melhor vizinho: 9163.13
+
+Sequencia inicial 33 -> 9163.13
+Melhor vizinho: 9160.42
+
+Sequencia inicial 34 -> 9160.42
+Melhor vizinho: 9159.06
+
+Sequencia inicial 35 -> 9159.06
+Melhor vizinho: 9153.8
+
+Sequencia inicial 36 -> 9153.8
+Melhor vizinho: 9151.97
+
+Sequencia inicial 37 -> 9151.97
+Melhor vizinho: 9148.32
+
+Sequencia inicial 38 -> 9148.32
+Melhor vizinho: 9147.2
+
+Sequencia inicial 39 -> 9147.2
+Melhor vizinho: 9145.85
+
+Sequencia inicial 40 -> 9145.85
+Melhor vizinho: 9144.09
+
+Sequencia inicial 41 -> 9144.09
+Melhor vizinho: 9143.08
+
+Sequencia inicial 42 -> 9143.08
+Melhor vizinho: 9139.56
+
+Sequencia inicial 43 -> 9139.56
+Melhor vizinho: 9137.3
+
+Sequencia inicial 44 -> 9137.3
+Melhor vizinho: 9133.87
+
+Sequencia inicial 45 -> 9133.87
+Melhor vizinho: 9133.02
+
+Sequencia inicial 46 -> 9133.02
+Melhor vizinho: 9131.1
+
+Sequencia inicial 47 -> 9131.1
+Melhor vizinho: 9130.43
+
+Sequencia inicial 48 -> 9130.43
+Melhor vizinho: 9129.86
+
+Sequencia inicial 49 -> 9129.86
+Melhor vizinho: 9129.1
+
+Sequencia inicial 50 -> 9129.1
+Melhor vizinho: 9128.28
+
+Sequencia inicial 51 -> 9128.28
+Melhor vizinho: 9126.87
+
+Sequencia inicial 52 -> 9126.87
+Melhor vizinho: 9126.23
+
+Sequencia inicial 53 -> 9126.23
+Melhor vizinho: 9123.65
+
+Sequencia inicial 54 -> 9123.65
+Melhor vizinho: 9122.52
+
+Sequencia inicial 55 -> 9122.52
+Melhor vizinho: 9122.03
+
+Sequencia inicial 56 -> 9122.03
+Melhor vizinho: 9121.56
+
+Sequencia inicial 57 -> 9121.56
+Melhor vizinho: 9121.11
+
+Sequencia inicial 58 -> 9121.11
+Melhor vizinho: 9119.29
+
+Sequencia inicial 59 -> 9119.29
+Melhor vizinho: 9118.79
+
+Sequencia inicial 60 -> 9118.79
+Melhor vizinho: 9115.7
+
+Sequencia inicial 61 -> 9115.7
+Melhor vizinho: 9115.25
+
+Sequencia inicial 62 -> 9115.25
+Melhor vizinho: 9114.61
+
+Sequencia inicial 63 -> 9114.61
+Melhor vizinho: 9114.17
+
+Sequencia inicial 64 -> 9114.17
+Melhor vizinho: 9113.76
+
+Sequencia inicial 65 -> 9113.76
+Melhor vizinho: 9113.37
+
+Sequencia inicial 66 -> 9113.37
+Melhor vizinho: 9111.43
+
+Sequencia inicial 67 -> 9111.43
+Melhor vizinho: 9110.83
+
+Sequencia inicial 68 -> 9110.83
+Melhor vizinho: 9110.45
+
+Sequencia inicial 69 -> 9110.45
+Melhor vizinho: 9109.82
+
+Sequencia inicial 70 -> 9109.82
+Melhor vizinho: 9109.52
+
+Sequencia inicial 71 -> 9109.52
+Melhor vizinho: 9109.15
+
+Sequencia inicial 72 -> 9109.15
+Melhor vizinho: 9108.89
+
+Sequencia inicial 73 -> 9108.89
+Melhor vizinho: 9108.62
+
+Sequencia inicial 74 -> 9108.62
+Melhor vizinho: 9108.32
+
+Sequencia inicial 75 -> 9108.32
+Melhor vizinho: 9108.14
+
+Sequencia inicial 76 -> 9108.14
+Melhor vizinho: 9105.65
+
+Sequencia inicial 77 -> 9105.65
+Melhor vizinho: 9105.39
+
+Sequencia inicial 78 -> 9105.39
+Melhor vizinho: 9105.19
+
+Sequencia inicial 79 -> 9105.19
+Melhor vizinho: 9104.76
+
+Sequencia inicial 80 -> 9104.76
+Melhor vizinho: 9104.41
+
+Sequencia inicial 81 -> 9104.41
+Melhor vizinho: 9102.58
+
+Sequencia inicial 82 -> 9102.58
+Melhor vizinho: 9101.81
+
+Sequencia inicial 83 -> 9101.81
+Melhor vizinho: 9100.83
+
+Sequencia inicial 84 -> 9100.83
+Melhor vizinho: 9100.65
+
+Sequencia inicial 85 -> 9100.65
+Melhor vizinho: 9097.93
+
+Sequencia inicial 86 -> 9097.93
+Melhor vizinho: 9092.83
+
+Sequencia inicial 87 -> 9092.83
+Melhor vizinho: 9089.4
+
+Sequencia inicial 88 -> 9089.4
+Melhor vizinho: 9085.04
+
+Sequencia inicial 89 -> 9085.04
+Melhor vizinho: 9084.14
+
+Sequencia inicial 90 -> 9084.14
+Melhor vizinho: 9080.78
+
+Sequencia inicial 91 -> 9080.78
+Melhor vizinho: 9080.54
+
+Sequencia inicial 92 -> 9080.54
+Melhor vizinho: 9080.12
+
+Sequencia inicial 93 -> 9080.12
+Melhor vizinho: 9079.98
+
+Sequencia inicial 94 -> 9079.98
+Melhor vizinho: 9079.85
+
+Sequencia inicial 95 -> 9079.85
+Melhor vizinho: 9079.56
+
+Sequencia inicial 96 -> 9079.56
+Melhor vizinho: 9079.32
+
+Sequencia inicial 97 -> 9079.32
+Melhor vizinho: 9078.93
+
+Sequencia inicial 98 -> 9078.93
+Melhor vizinho: 9078.54
+
+Sequencia inicial 99 -> 9078.54
+Melhor vizinho: 9078.35
+
+Sequencia inicial 100 -> 9078.35
+Melhor vizinho: 9078.22
+
+Sequencia inicial 101 -> 9078.22
+Melhor vizinho: 9078.08
+
+Sequencia inicial 102 -> 9078.08
+Melhor vizinho: 9077.86
+
+Sequencia inicial 103 -> 9077.86
+Melhor vizinho: 9077.75
+
+Sequencia inicial 104 -> 9077.75
+Melhor vizinho: 9076.12
+
+Sequencia inicial 105 -> 9076.12
+Melhor vizinho: 9075.88
+
+Sequencia inicial 106 -> 9075.88
+Melhor vizinho: 9075.8
+
+Sequencia inicial 107 -> 9075.8
+Melhor vizinho: 9074.98
+
+Sequencia inicial 108 -> 9074.98
+Melhor vizinho: 9073.89
+
+Sequencia inicial 109 -> 9073.89
+Melhor vizinho: 9073.79
+
+Sequencia inicial 110 -> 9073.79
+Melhor vizinho: 9073.69
+
+Sequencia inicial 111 -> 9073.69
+Melhor vizinho: 9072.8
+
+Sequencia inicial 112 -> 9072.8
+Melhor vizinho: 9072.58
+
+Sequencia inicial 113 -> 9072.58
+Melhor vizinho: 9072.5
+
+Sequencia inicial 114 -> 9072.5
+Melhor vizinho: 9072.38
+
+Sequencia inicial 115 -> 9072.38
+Melhor vizinho: 9071.69
+
+Sequencia inicial 116 -> 9071.69
+Melhor vizinho: 9071.64
+
+Sequencia inicial 117 -> 9071.64
+Melhor vizinho: 9071.61
+
+Sequencia inicial 118 -> 9071.61
+Melhor vizinho: 9071.59
+
+Sequencia inicial 119 -> 9071.59
+Melhor vizinho: 9070.62
+
+Sequencia inicial 120 -> 9070.62
+Melhor vizinho: 9070.58
+
+Sequencia inicial 121 -> 9070.58
+Melhor vizinho: 9070.51
+
+Sequencia inicial 122 -> 9070.51
+Melhor vizinho: 9070.36
+
+Sequencia inicial 123 -> 9070.36
+Melhor vizinho: 9070.32
+
+Sequencia inicial 124 -> 9070.32
+Melhor vizinho: 9070.31
+
+Sequencia inicial 125 -> 9070.31
+Melhor vizinho: 9070.3
+
+Sequencia inicial 126 -> 9070.3
+Melhor vizinho: 9070.23
+
+Sequencia inicial 127 -> 9070.23
+Melhor vizinho: 9070.18
+
+Sequencia inicial 128 -> 9070.18
+Melhor vizinho: 9070.18
+
+Sequencia inicial 129 -> 9070.18
+ITERAÇÃO: 16 - Atraso: 9058.45
+
+Sequencia inicial 1 -> 9613.83
+Melhor vizinho: 9545.34
+
+Sequencia inicial 2 -> 9545.34
+Melhor vizinho: 9511.67
+
+Sequencia inicial 3 -> 9511.67
+Melhor vizinho: 9486.89
+
+Sequencia inicial 4 -> 9486.89
+Melhor vizinho: 9463.47
+
+Sequencia inicial 5 -> 9463.47
+Melhor vizinho: 9445.55
+
+Sequencia inicial 6 -> 9445.55
+Melhor vizinho: 9431.82
+
+Sequencia inicial 7 -> 9431.82
+Melhor vizinho: 9420.35
+
+Sequencia inicial 8 -> 9420.35
+Melhor vizinho: 9409.81
+
+Sequencia inicial 9 -> 9409.81
+Melhor vizinho: 9401.64
+
+Sequencia inicial 10 -> 9401.64
+Melhor vizinho: 9384.91
+
+Sequencia inicial 11 -> 9384.91
+Melhor vizinho: 9376.5
+
+Sequencia inicial 12 -> 9376.5
+Melhor vizinho: 9365.24
+
+Sequencia inicial 13 -> 9365.24
+Melhor vizinho: 9355.37
+
+Sequencia inicial 14 -> 9355.37
+Melhor vizinho: 9349.83
+
+Sequencia inicial 15 -> 9349.83
+Melhor vizinho: 9343.51
+
+Sequencia inicial 16 -> 9343.51
+Melhor vizinho: 9335.17
+
+Sequencia inicial 17 -> 9335.17
+Melhor vizinho: 9308.7
+
+Sequencia inicial 18 -> 9308.7
+Melhor vizinho: 9299.78
+
+Sequencia inicial 19 -> 9299.78
+Melhor vizinho: 9257.89
+
+Sequencia inicial 20 -> 9257.89
+Melhor vizinho: 9236.89
+
+Sequencia inicial 21 -> 9236.89
+Melhor vizinho: 9227.36
+
+Sequencia inicial 22 -> 9227.36
+Melhor vizinho: 9211.1
+
+Sequencia inicial 23 -> 9211.1
+Melhor vizinho: 9206.89
+
+Sequencia inicial 24 -> 9206.89
+Melhor vizinho: 9200.9
+
+Sequencia inicial 25 -> 9200.9
+Melhor vizinho: 9192.65
+
+Sequencia inicial 26 -> 9192.65
+Melhor vizinho: 9188.74
+
+Sequencia inicial 27 -> 9188.74
+Melhor vizinho: 9181.36
+
+Sequencia inicial 28 -> 9181.36
+Melhor vizinho: 9173.93
+
+Sequencia inicial 29 -> 9173.93
+Melhor vizinho: 9170.27
+
+Sequencia inicial 30 -> 9170.27
+Melhor vizinho: 9165.76
+
+Sequencia inicial 31 -> 9165.76
+Melhor vizinho: 9161.97
+
+Sequencia inicial 32 -> 9161.97
+Melhor vizinho: 9158.14
+
+Sequencia inicial 33 -> 9158.14
+Melhor vizinho: 9154.9
+
+Sequencia inicial 34 -> 9154.9
+Melhor vizinho: 9152.07
+
+Sequencia inicial 35 -> 9152.07
+Melhor vizinho: 9145.84
+
+Sequencia inicial 36 -> 9145.84
+Melhor vizinho: 9143.04
+
+Sequencia inicial 37 -> 9143.04
+Melhor vizinho: 9140.92
+
+Sequencia inicial 38 -> 9140.92
+Melhor vizinho: 9139.27
+
+Sequencia inicial 39 -> 9139.27
+Melhor vizinho: 9136.73
+
+Sequencia inicial 40 -> 9136.73
+Melhor vizinho: 9134.76
+
+Sequencia inicial 41 -> 9134.76
+Melhor vizinho: 9132.01
+
+Sequencia inicial 42 -> 9132.01
+Melhor vizinho: 9129.68
+
+Sequencia inicial 43 -> 9129.68
+Melhor vizinho: 9125.54
+
+Sequencia inicial 44 -> 9125.54
+Melhor vizinho: 9124.18
+
+Sequencia inicial 45 -> 9124.18
+Melhor vizinho: 9122.93
+
+Sequencia inicial 46 -> 9122.93
+Melhor vizinho: 9121.58
+
+Sequencia inicial 47 -> 9121.58
+Melhor vizinho: 9120.49
+
+Sequencia inicial 48 -> 9120.49
+Melhor vizinho: 9119.28
+
+Sequencia inicial 49 -> 9119.28
+Melhor vizinho: 9118.03
+
+Sequencia inicial 50 -> 9118.03
+Melhor vizinho: 9116.93
+
+Sequencia inicial 51 -> 9116.93
+Melhor vizinho: 9115.78
+
+Sequencia inicial 52 -> 9115.78
+Melhor vizinho: 9113.87
+
+Sequencia inicial 53 -> 9113.87
+Melhor vizinho: 9112.59
+
+Sequencia inicial 54 -> 9112.59
+Melhor vizinho: 9110.81
+
+Sequencia inicial 55 -> 9110.81
+Melhor vizinho: 9110.06
+
+Sequencia inicial 56 -> 9110.06
+Melhor vizinho: 9109.38
+
+Sequencia inicial 57 -> 9109.38
+Melhor vizinho: 9108.78
+
+Sequencia inicial 58 -> 9108.78
+Melhor vizinho: 9108.13
+
+Sequencia inicial 59 -> 9108.13
+Melhor vizinho: 9107.01
+
+Sequencia inicial 60 -> 9107.01
+Melhor vizinho: 9106.52
+
+Sequencia inicial 61 -> 9106.52
+Melhor vizinho: 9103.76
+
+Sequencia inicial 62 -> 9103.76
+Melhor vizinho: 9103.07
+
+Sequencia inicial 63 -> 9103.07
+Melhor vizinho: 9102.62
+
+Sequencia inicial 64 -> 9102.62
+Melhor vizinho: 9102.24
+
+Sequencia inicial 65 -> 9102.24
+Melhor vizinho: 9101.35
+
+Sequencia inicial 66 -> 9101.35
+Melhor vizinho: 9100.95
+
+Sequencia inicial 67 -> 9100.95
+Melhor vizinho: 9100.58
+
+Sequencia inicial 68 -> 9100.58
+Melhor vizinho: 9100.28
+
+Sequencia inicial 69 -> 9100.28
+Melhor vizinho: 9099.54
+
+Sequencia inicial 70 -> 9099.54
+Melhor vizinho: 9099.21
+
+Sequencia inicial 71 -> 9099.21
+Melhor vizinho: 9097.85
+
+Sequencia inicial 72 -> 9097.85
+Melhor vizinho: 9097.55
+
+Sequencia inicial 73 -> 9097.55
+Melhor vizinho: 9096.31
+
+Sequencia inicial 74 -> 9096.31
+Melhor vizinho: 9096.04
+
+Sequencia inicial 75 -> 9096.04
+Melhor vizinho: 9095.79
+
+Sequencia inicial 76 -> 9095.79
+Melhor vizinho: 9094.66
+
+Sequencia inicial 77 -> 9094.66
+Melhor vizinho: 9093.32
+
+Sequencia inicial 78 -> 9093.32
+Melhor vizinho: 9092.73
+
+Sequencia inicial 79 -> 9092.73
+Melhor vizinho: 9092.27
+
+Sequencia inicial 80 -> 9092.27
+Melhor vizinho: 9091.73
+
+Sequencia inicial 81 -> 9091.73
+Melhor vizinho: 9091.25
+
+Sequencia inicial 82 -> 9091.25
+Melhor vizinho: 9091.06
+
+Sequencia inicial 83 -> 9091.06
+Melhor vizinho: 9090.89
+
+Sequencia inicial 84 -> 9090.89
+Melhor vizinho: 9090.54
+
+Sequencia inicial 85 -> 9090.54
+Melhor vizinho: 9090.39
+
+Sequencia inicial 86 -> 9090.39
+Melhor vizinho: 9090.23
+
+Sequencia inicial 87 -> 9090.23
+Melhor vizinho: 9088.16
+
+Sequencia inicial 88 -> 9088.16
+Melhor vizinho: 9087.8
+
+Sequencia inicial 89 -> 9087.8
+Melhor vizinho: 9085.2
+
+Sequencia inicial 90 -> 9085.2
+Melhor vizinho: 9084.96
+
+Sequencia inicial 91 -> 9084.96
+Melhor vizinho: 9084.77
+
+Sequencia inicial 92 -> 9084.77
+Melhor vizinho: 9084.48
+
+Sequencia inicial 93 -> 9084.48
+Melhor vizinho: 9083.59
+
+Sequencia inicial 94 -> 9083.59
+Melhor vizinho: 9083.39
+
+Sequencia inicial 95 -> 9083.39
+Melhor vizinho: 9083.21
+
+Sequencia inicial 96 -> 9083.21
+Melhor vizinho: 9082.46
+
+Sequencia inicial 97 -> 9082.46
+Melhor vizinho: 9082.29
+
+Sequencia inicial 98 -> 9082.29
+Melhor vizinho: 9082.13
+
+Sequencia inicial 99 -> 9082.13
+Melhor vizinho: 9082.04
+
+Sequencia inicial 100 -> 9082.04
+Melhor vizinho: 9081.9
+
+Sequencia inicial 101 -> 9081.9
+Melhor vizinho: 9080.56
+
+Sequencia inicial 102 -> 9080.56
+Melhor vizinho: 9080.5
+
+Sequencia inicial 103 -> 9080.5
+Melhor vizinho: 9079.29
+
+Sequencia inicial 104 -> 9079.29
+Melhor vizinho: 9079.23
+
+Sequencia inicial 105 -> 9079.23
+Melhor vizinho: 9079.17
+
+Sequencia inicial 106 -> 9079.17
+Melhor vizinho: 9079.05
+
+Sequencia inicial 107 -> 9079.05
+Melhor vizinho: 9078.98
+
+Sequencia inicial 108 -> 9078.98
+Melhor vizinho: 9078.81
+
+Sequencia inicial 109 -> 9078.81
+Melhor vizinho: 9078.67
+
+Sequencia inicial 110 -> 9078.67
+Melhor vizinho: 9077.95
+
+Sequencia inicial 111 -> 9077.95
+Melhor vizinho: 9077.89
+
+Sequencia inicial 112 -> 9077.89
+Melhor vizinho: 9076.37
+
+Sequencia inicial 113 -> 9076.37
+Melhor vizinho: 9076.27
+
+Sequencia inicial 114 -> 9076.27
+Melhor vizinho: 9076.22
+
+Sequencia inicial 115 -> 9076.22
+Melhor vizinho: 9075.04
+
+Sequencia inicial 116 -> 9075.04
+Melhor vizinho: 9075.01
+
+Sequencia inicial 117 -> 9075.01
+Melhor vizinho: 9074.03
+
+Sequencia inicial 118 -> 9074.03
+Melhor vizinho: 9074
+
+Sequencia inicial 119 -> 9074
+Melhor vizinho: 9073.95
+
+Sequencia inicial 120 -> 9073.95
+Melhor vizinho: 9073.6
+
+Sequencia inicial 121 -> 9073.6
+Melhor vizinho: 9073.43
+
+Sequencia inicial 122 -> 9073.43
+Melhor vizinho: 9073.29
+
+Sequencia inicial 123 -> 9073.29
+Melhor vizinho: 9073.23
+
+Sequencia inicial 124 -> 9073.23
+Melhor vizinho: 9073.1
+
+Sequencia inicial 125 -> 9073.1
+Melhor vizinho: 9073.06
+
+Sequencia inicial 126 -> 9073.06
+Melhor vizinho: 9073.04
+
+Sequencia inicial 127 -> 9073.04
+Melhor vizinho: 9072.98
+
+Sequencia inicial 128 -> 9072.98
+Melhor vizinho: 9072.96
+
+Sequencia inicial 129 -> 9072.96
+Melhor vizinho: 9072.94
+
+Sequencia inicial 130 -> 9072.94
+Melhor vizinho: 9072.92
+
+Sequencia inicial 131 -> 9072.92
+Melhor vizinho: 9072.89
+
+Sequencia inicial 132 -> 9072.89
+Melhor vizinho: 9072.87
+
+Sequencia inicial 133 -> 9072.87
+Melhor vizinho: 9072.83
+
+Sequencia inicial 134 -> 9072.83
+Melhor vizinho: 9072.79
+
+Sequencia inicial 135 -> 9072.79
+Melhor vizinho: 9072.76
+
+Sequencia inicial 136 -> 9072.76
+ITERAÇÃO: 17 - Atraso: 9058.45
+
+Sequencia inicial 1 -> 9505.82
+Melhor vizinho: 9439.89
+
+Sequencia inicial 2 -> 9439.89
+Melhor vizinho: 9412.95
+
+Sequencia inicial 3 -> 9412.95
+Melhor vizinho: 9389.9
+
+Sequencia inicial 4 -> 9389.9
+Melhor vizinho: 9371.37
+
+Sequencia inicial 5 -> 9371.37
+Melhor vizinho: 9356.88
+
+Sequencia inicial 6 -> 9356.88
+Melhor vizinho: 9344.04
+
+Sequencia inicial 7 -> 9344.04
+Melhor vizinho: 9325.73
+
+Sequencia inicial 8 -> 9325.73
+Melhor vizinho: 9315.83
+
+Sequencia inicial 9 -> 9315.83
+Melhor vizinho: 9303.71
+
+Sequencia inicial 10 -> 9303.71
+Melhor vizinho: 9294.99
+
+Sequencia inicial 11 -> 9294.99
+Melhor vizinho: 9284.74
+
+Sequencia inicial 12 -> 9284.74
+Melhor vizinho: 9276.09
+
+Sequencia inicial 13 -> 9276.09
+Melhor vizinho: 9268.87
+
+Sequencia inicial 14 -> 9268.87
+Melhor vizinho: 9261.12
+
+Sequencia inicial 15 -> 9261.12
+Melhor vizinho: 9253
+
+Sequencia inicial 16 -> 9253
+Melhor vizinho: 9244.46
+
+Sequencia inicial 17 -> 9244.46
+Melhor vizinho: 9238.27
+
+Sequencia inicial 18 -> 9238.27
+Melhor vizinho: 9232.23
+
+Sequencia inicial 19 -> 9232.23
+Melhor vizinho: 9227.02
+
+Sequencia inicial 20 -> 9227.02
+Melhor vizinho: 9220.02
+
+Sequencia inicial 21 -> 9220.02
+Melhor vizinho: 9215.34
+
+Sequencia inicial 22 -> 9215.34
+Melhor vizinho: 9210.96
+
+Sequencia inicial 23 -> 9210.96
+Melhor vizinho: 9206.86
+
+Sequencia inicial 24 -> 9206.86
+Melhor vizinho: 9203.01
+
+Sequencia inicial 25 -> 9203.01
+Melhor vizinho: 9199.67
+
+Sequencia inicial 26 -> 9199.67
+Melhor vizinho: 9196.4
+
+Sequencia inicial 27 -> 9196.4
+Melhor vizinho: 9193.06
+
+Sequencia inicial 28 -> 9193.06
+Melhor vizinho: 9185.06
+
+Sequencia inicial 29 -> 9185.06
+Melhor vizinho: 9180.35
+
+Sequencia inicial 30 -> 9180.35
+Melhor vizinho: 9177.62
+
+Sequencia inicial 31 -> 9177.62
+Melhor vizinho: 9175.24
+
+Sequencia inicial 32 -> 9175.24
+Melhor vizinho: 9170.4
+
+Sequencia inicial 33 -> 9170.4
+Melhor vizinho: 9167.84
+
+Sequencia inicial 34 -> 9167.84
+Melhor vizinho: 9164.22
+
+Sequencia inicial 35 -> 9164.22
+Melhor vizinho: 9161.28
+
+Sequencia inicial 36 -> 9161.28
+Melhor vizinho: 9157.84
+
+Sequencia inicial 37 -> 9157.84
+Melhor vizinho: 9155.63
+
+Sequencia inicial 38 -> 9155.63
+Melhor vizinho: 9147.83
+
+Sequencia inicial 39 -> 9147.83
+Melhor vizinho: 9145.89
+
+Sequencia inicial 40 -> 9145.89
+Melhor vizinho: 9141.71
+
+Sequencia inicial 41 -> 9141.71
+Melhor vizinho: 9138.71
+
+Sequencia inicial 42 -> 9138.71
+Melhor vizinho: 9132.99
+
+Sequencia inicial 43 -> 9132.99
+Melhor vizinho: 9131.1
+
+Sequencia inicial 44 -> 9131.1
+Melhor vizinho: 9129.25
+
+Sequencia inicial 45 -> 9129.25
+Melhor vizinho: 9125.23
+
+Sequencia inicial 46 -> 9125.23
+Melhor vizinho: 9123.44
+
+Sequencia inicial 47 -> 9123.44
+Melhor vizinho: 9121.62
+
+Sequencia inicial 48 -> 9121.62
+Melhor vizinho: 9120.34
+
+Sequencia inicial 49 -> 9120.34
+Melhor vizinho: 9118.1
+
+Sequencia inicial 50 -> 9118.1
+Melhor vizinho: 9117.23
+
+Sequencia inicial 51 -> 9117.23
+Melhor vizinho: 9111.84
+
+Sequencia inicial 52 -> 9111.84
+Melhor vizinho: 9111.18
+
+Sequencia inicial 53 -> 9111.18
+Melhor vizinho: 9110.08
+
+Sequencia inicial 54 -> 9110.08
+Melhor vizinho: 9109.38
+
+Sequencia inicial 55 -> 9109.38
+Melhor vizinho: 9107.78
+
+Sequencia inicial 56 -> 9107.78
+Melhor vizinho: 9107.32
+
+Sequencia inicial 57 -> 9107.32
+Melhor vizinho: 9106.88
+
+Sequencia inicial 58 -> 9106.88
+Melhor vizinho: 9106.46
+
+Sequencia inicial 59 -> 9106.46
+Melhor vizinho: 9104.91
+
+Sequencia inicial 60 -> 9104.91
+Melhor vizinho: 9104.36
+
+Sequencia inicial 61 -> 9104.36
+Melhor vizinho: 9103.96
+
+Sequencia inicial 62 -> 9103.96
+Melhor vizinho: 9103.63
+
+Sequencia inicial 63 -> 9103.63
+Melhor vizinho: 9103.3
+
+Sequencia inicial 64 -> 9103.3
+Melhor vizinho: 9103.04
+
+Sequencia inicial 65 -> 9103.04
+Melhor vizinho: 9102.27
+
+Sequencia inicial 66 -> 9102.27
+Melhor vizinho: 9101.98
+
+Sequencia inicial 67 -> 9101.98
+Melhor vizinho: 9100.36
+
+Sequencia inicial 68 -> 9100.36
+Melhor vizinho: 9100.06
+
+Sequencia inicial 69 -> 9100.06
+Melhor vizinho: 9099.67
+
+Sequencia inicial 70 -> 9099.67
+Melhor vizinho: 9099.46
+
+Sequencia inicial 71 -> 9099.46
+Melhor vizinho: 9099.26
+
+Sequencia inicial 72 -> 9099.26
+Melhor vizinho: 9099.05
+
+Sequencia inicial 73 -> 9099.05
+Melhor vizinho: 9098.84
+
+Sequencia inicial 74 -> 9098.84
+Melhor vizinho: 9098.64
+
+Sequencia inicial 75 -> 9098.64
+Melhor vizinho: 9098.44
+
+Sequencia inicial 76 -> 9098.44
+Melhor vizinho: 9098.28
+
+Sequencia inicial 77 -> 9098.28
+Melhor vizinho: 9098
+
+Sequencia inicial 78 -> 9098
+Melhor vizinho: 9097.81
+
+Sequencia inicial 79 -> 9097.81
+Melhor vizinho: 9097.65
+
+Sequencia inicial 80 -> 9097.65
+Melhor vizinho: 9097.52
+
+Sequencia inicial 81 -> 9097.52
+Melhor vizinho: 9097.41
+
+Sequencia inicial 82 -> 9097.41
+Melhor vizinho: 9097.01
+
+Sequencia inicial 83 -> 9097.01
+Melhor vizinho: 9096.86
+
+Sequencia inicial 84 -> 9096.86
+Melhor vizinho: 9096.77
+
+Sequencia inicial 85 -> 9096.77
+Melhor vizinho: 9096.62
+
+Sequencia inicial 86 -> 9096.62
+Melhor vizinho: 9094.07
+
+Sequencia inicial 87 -> 9094.07
+Melhor vizinho: 9093.9
+
+Sequencia inicial 88 -> 9093.9
+Melhor vizinho: 9093.27
+
+Sequencia inicial 89 -> 9093.27
+Melhor vizinho: 9093.13
+
+Sequencia inicial 90 -> 9093.13
+Melhor vizinho: 9093.03
+
+Sequencia inicial 91 -> 9093.03
+Melhor vizinho: 9092.92
+
+Sequencia inicial 92 -> 9092.92
+Melhor vizinho: 9092.8
+
+Sequencia inicial 93 -> 9092.8
+Melhor vizinho: 9092.69
+
+Sequencia inicial 94 -> 9092.69
+Melhor vizinho: 9092.62
+
+Sequencia inicial 95 -> 9092.62
+Melhor vizinho: 9092.54
+
+Sequencia inicial 96 -> 9092.54
+Melhor vizinho: 9092.5
+
+Sequencia inicial 97 -> 9092.5
+Melhor vizinho: 9091.6
+
+Sequencia inicial 98 -> 9091.6
+Melhor vizinho: 9091.39
+
+Sequencia inicial 99 -> 9091.39
+Melhor vizinho: 9091.21
+
+Sequencia inicial 100 -> 9091.21
+Melhor vizinho: 9091.16
+
+Sequencia inicial 101 -> 9091.16
+Melhor vizinho: 9091.12
+
+Sequencia inicial 102 -> 9091.12
+Melhor vizinho: 9091.07
+
+Sequencia inicial 103 -> 9091.07
+Melhor vizinho: 9091.04
+
+Sequencia inicial 104 -> 9091.04
+Melhor vizinho: 9089.42
+
+Sequencia inicial 105 -> 9089.42
+Melhor vizinho: 9089.38
+
+Sequencia inicial 106 -> 9089.38
+Melhor vizinho: 9088.56
+
+Sequencia inicial 107 -> 9088.56
+Melhor vizinho: 9088.25
+
+Sequencia inicial 108 -> 9088.25
+Melhor vizinho: 9088.2
+
+Sequencia inicial 109 -> 9088.2
+Melhor vizinho: 9087.97
+
+Sequencia inicial 110 -> 9087.97
+Melhor vizinho: 9087.86
+
+Sequencia inicial 111 -> 9087.86
+Melhor vizinho: 9087.6
+
+Sequencia inicial 112 -> 9087.6
+Melhor vizinho: 9087.33
+
+Sequencia inicial 113 -> 9087.33
+Melhor vizinho: 9087.32
+
+Sequencia inicial 114 -> 9087.32
+Melhor vizinho: 9087.31
+
+Sequencia inicial 115 -> 9087.31
+Melhor vizinho: 9087.29
+
+Sequencia inicial 116 -> 9087.29
+Melhor vizinho: 9087.26
+
+Sequencia inicial 117 -> 9087.26
+Melhor vizinho: 9087.17
+
+Sequencia inicial 118 -> 9087.17
+Melhor vizinho: 9087.04
+
+Sequencia inicial 119 -> 9087.04
+ITERAÇÃO: 18 - Atraso: 9058.45
+
+Sequencia inicial 1 -> 9450.2
+Melhor vizinho: 9426.88
+
+Sequencia inicial 2 -> 9426.88
+Melhor vizinho: 9404.53
+
+Sequencia inicial 3 -> 9404.53
+Melhor vizinho: 9391.74
+
+Sequencia inicial 4 -> 9391.74
+Melhor vizinho: 9379.48
+
+Sequencia inicial 5 -> 9379.48
+Melhor vizinho: 9368.78
+
+Sequencia inicial 6 -> 9368.78
+Melhor vizinho: 9358.37
+
+Sequencia inicial 7 -> 9358.37
+Melhor vizinho: 9348.3
+
+Sequencia inicial 8 -> 9348.3
+Melhor vizinho: 9338.59
+
+Sequencia inicial 9 -> 9338.59
+Melhor vizinho: 9329.81
+
+Sequencia inicial 10 -> 9329.81
+Melhor vizinho: 9321.98
+
+Sequencia inicial 11 -> 9321.98
+Melhor vizinho: 9313.95
+
+Sequencia inicial 12 -> 9313.95
+Melhor vizinho: 9304.3
+
+Sequencia inicial 13 -> 9304.3
+Melhor vizinho: 9293
+
+Sequencia inicial 14 -> 9293
+Melhor vizinho: 9284.97
+
+Sequencia inicial 15 -> 9284.97
+Melhor vizinho: 9278.69
+
+Sequencia inicial 16 -> 9278.69
+Melhor vizinho: 9268.61
+
+Sequencia inicial 17 -> 9268.61
+Melhor vizinho: 9263.22
+
+Sequencia inicial 18 -> 9263.22
+Melhor vizinho: 9256.56
+
+Sequencia inicial 19 -> 9256.56
+Melhor vizinho: 9250.61
+
+Sequencia inicial 20 -> 9250.61
+Melhor vizinho: 9243.05
+
+Sequencia inicial 21 -> 9243.05
+Melhor vizinho: 9236.28
+
+Sequencia inicial 22 -> 9236.28
+Melhor vizinho: 9230.16
+
+Sequencia inicial 23 -> 9230.16
+Melhor vizinho: 9225.58
+
+Sequencia inicial 24 -> 9225.58
+Melhor vizinho: 9220.41
+
+Sequencia inicial 25 -> 9220.41
+Melhor vizinho: 9217.1
+
+Sequencia inicial 26 -> 9217.1
+Melhor vizinho: 9211.11
+
+Sequencia inicial 27 -> 9211.11
+Melhor vizinho: 9208
+
+Sequencia inicial 28 -> 9208
+Melhor vizinho: 9205.11
+
+Sequencia inicial 29 -> 9205.11
+Melhor vizinho: 9196.92
+
+Sequencia inicial 30 -> 9196.92
+Melhor vizinho: 9192.42
+
+Sequencia inicial 31 -> 9192.42
+Melhor vizinho: 9189.89
+
+Sequencia inicial 32 -> 9189.89
+Melhor vizinho: 9186.89
+
+Sequencia inicial 33 -> 9186.89
+Melhor vizinho: 9184.43
+
+Sequencia inicial 34 -> 9184.43
+Melhor vizinho: 9181.66
+
+Sequencia inicial 35 -> 9181.66
+Melhor vizinho: 9179.65
+
+Sequencia inicial 36 -> 9179.65
+Melhor vizinho: 9175.85
+
+Sequencia inicial 37 -> 9175.85
+Melhor vizinho: 9172.99
+
+Sequencia inicial 38 -> 9172.99
+Melhor vizinho: 9170.35
+
+Sequencia inicial 39 -> 9170.35
+Melhor vizinho: 9168.56
+
+Sequencia inicial 40 -> 9168.56
+Melhor vizinho: 9161.25
+
+Sequencia inicial 41 -> 9161.25
+Melhor vizinho: 9159.5
+
+Sequencia inicial 42 -> 9159.5
+Melhor vizinho: 9158.03
+
+Sequencia inicial 43 -> 9158.03
+Melhor vizinho: 9153.88
+
+Sequencia inicial 44 -> 9153.88
+Melhor vizinho: 9152.66
+
+Sequencia inicial 45 -> 9152.66
+Melhor vizinho: 9150.16
+
+Sequencia inicial 46 -> 9150.16
+Melhor vizinho: 9149.09
+
+Sequencia inicial 47 -> 9149.09
+Melhor vizinho: 9145.85
+
+Sequencia inicial 48 -> 9145.85
+Melhor vizinho: 9144.24
+
+Sequencia inicial 49 -> 9144.24
+Melhor vizinho: 9140.35
+
+Sequencia inicial 50 -> 9140.35
+Melhor vizinho: 9139.2
+
+Sequencia inicial 51 -> 9139.2
+Melhor vizinho: 9138.3
+
+Sequencia inicial 52 -> 9138.3
+Melhor vizinho: 9137.44
+
+Sequencia inicial 53 -> 9137.44
+Melhor vizinho: 9134.97
+
+Sequencia inicial 54 -> 9134.97
+Melhor vizinho: 9134.27
+
+Sequencia inicial 55 -> 9134.27
+Melhor vizinho: 9133.57
+
+Sequencia inicial 56 -> 9133.57
+Melhor vizinho: 9132.04
+
+Sequencia inicial 57 -> 9132.04
+Melhor vizinho: 9131.42
+
+Sequencia inicial 58 -> 9131.42
+Melhor vizinho: 9130.81
+
+Sequencia inicial 59 -> 9130.81
+Melhor vizinho: 9129.71
+
+Sequencia inicial 60 -> 9129.71
+Melhor vizinho: 9128.88
+
+Sequencia inicial 61 -> 9128.88
+Melhor vizinho: 9126.36
+
+Sequencia inicial 62 -> 9126.36
+Melhor vizinho: 9125.73
+
+Sequencia inicial 63 -> 9125.73
+Melhor vizinho: 9121.32
+
+Sequencia inicial 64 -> 9121.32
+Melhor vizinho: 9120.86
+
+Sequencia inicial 65 -> 9120.86
+Melhor vizinho: 9120.31
+
+Sequencia inicial 66 -> 9120.31
+Melhor vizinho: 9119.89
+
+Sequencia inicial 67 -> 9119.89
+Melhor vizinho: 9119.46
+
+Sequencia inicial 68 -> 9119.46
+Melhor vizinho: 9117.04
+
+Sequencia inicial 69 -> 9117.04
+Melhor vizinho: 9116.64
+
+Sequencia inicial 70 -> 9116.64
+Melhor vizinho: 9116.37
+
+Sequencia inicial 71 -> 9116.37
+Melhor vizinho: 9116.09
+
+Sequencia inicial 72 -> 9116.09
+Melhor vizinho: 9115.31
+
+Sequencia inicial 73 -> 9115.31
+Melhor vizinho: 9114.91
+
+Sequencia inicial 74 -> 9114.91
+Melhor vizinho: 9114.64
+
+Sequencia inicial 75 -> 9114.64
+Melhor vizinho: 9114.38
+
+Sequencia inicial 76 -> 9114.38
+Melhor vizinho: 9114.22
+
+Sequencia inicial 77 -> 9114.22
+Melhor vizinho: 9114.01
+
+Sequencia inicial 78 -> 9114.01
+Melhor vizinho: 9113.32
+
+Sequencia inicial 79 -> 9113.32
+Melhor vizinho: 9113.16
+
+Sequencia inicial 80 -> 9113.16
+Melhor vizinho: 9113.03
+
+Sequencia inicial 81 -> 9113.03
+Melhor vizinho: 9112.83
+
+Sequencia inicial 82 -> 9112.83
+Melhor vizinho: 9112.43
+
+Sequencia inicial 83 -> 9112.43
+Melhor vizinho: 9112.26
+
+Sequencia inicial 84 -> 9112.26
+Melhor vizinho: 9112.08
+
+Sequencia inicial 85 -> 9112.08
+Melhor vizinho: 9111.97
+
+Sequencia inicial 86 -> 9111.97
+Melhor vizinho: 9111.33
+
+Sequencia inicial 87 -> 9111.33
+Melhor vizinho: 9111.02
+
+Sequencia inicial 88 -> 9111.02
+Melhor vizinho: 9109.74
+
+Sequencia inicial 89 -> 9109.74
+Melhor vizinho: 9109.63
+
+Sequencia inicial 90 -> 9109.63
+Melhor vizinho: 9109.38
+
+Sequencia inicial 91 -> 9109.38
+Melhor vizinho: 9109.12
+
+Sequencia inicial 92 -> 9109.12
+Melhor vizinho: 9109.04
+
+Sequencia inicial 93 -> 9109.04
+Melhor vizinho: 9108.75
+
+Sequencia inicial 94 -> 9108.75
+Melhor vizinho: 9108.62
+
+Sequencia inicial 95 -> 9108.62
+Melhor vizinho: 9108.56
+
+Sequencia inicial 96 -> 9108.56
+Melhor vizinho: 9108.47
+
+Sequencia inicial 97 -> 9108.47
+Melhor vizinho: 9108.42
+
+Sequencia inicial 98 -> 9108.42
+Melhor vizinho: 9108.21
+
+Sequencia inicial 99 -> 9108.21
+Melhor vizinho: 9108.01
+
+Sequencia inicial 100 -> 9108.01
+Melhor vizinho: 9107.65
+
+Sequencia inicial 101 -> 9107.65
+Melhor vizinho: 9107.25
+
+Sequencia inicial 102 -> 9107.25
+Melhor vizinho: 9106.54
+
+Sequencia inicial 103 -> 9106.54
+Melhor vizinho: 9105.67
+
+Sequencia inicial 104 -> 9105.67
+Melhor vizinho: 9105.58
+
+Sequencia inicial 105 -> 9105.58
+Melhor vizinho: 9105.54
+
+Sequencia inicial 106 -> 9105.54
+Melhor vizinho: 9105.52
+
+Sequencia inicial 107 -> 9105.52
+Melhor vizinho: 9105.11
+
+Sequencia inicial 108 -> 9105.11
+Melhor vizinho: 9104.92
+
+Sequencia inicial 109 -> 9104.92
+Melhor vizinho: 9104.6
+
+Sequencia inicial 110 -> 9104.6
+Melhor vizinho: 9104.46
+
+Sequencia inicial 111 -> 9104.46
+Melhor vizinho: 9104.35
+
+Sequencia inicial 112 -> 9104.35
+Melhor vizinho: 9104.32
+
+Sequencia inicial 113 -> 9104.32
+Melhor vizinho: 9103.98
+
+Sequencia inicial 114 -> 9103.98
+Melhor vizinho: 9103.98
+
+Sequencia inicial 115 -> 9103.98
+Melhor vizinho: 9103.88
+
+Sequencia inicial 116 -> 9103.88
+Melhor vizinho: 9103.74
+
+Sequencia inicial 117 -> 9103.74
+Melhor vizinho: 9103.7
+
+Sequencia inicial 118 -> 9103.7
+Melhor vizinho: 9103.69
+
+Sequencia inicial 119 -> 9103.69
+ITERAÇÃO: 19 - Atraso: 9058.45
+
+Sequencia inicial 1 -> 9469.9
+Melhor vizinho: 9436.56
+
+Sequencia inicial 2 -> 9436.56
+Melhor vizinho: 9418.05
+
+Sequencia inicial 3 -> 9418.05
+Melhor vizinho: 9401.65
+
+Sequencia inicial 4 -> 9401.65
+Melhor vizinho: 9385.75
+
+Sequencia inicial 5 -> 9385.75
+Melhor vizinho: 9370.78
+
+Sequencia inicial 6 -> 9370.78
+Melhor vizinho: 9357.7
+
+Sequencia inicial 7 -> 9357.7
+Melhor vizinho: 9347.08
+
+Sequencia inicial 8 -> 9347.08
+Melhor vizinho: 9324.59
+
+Sequencia inicial 9 -> 9324.59
+Melhor vizinho: 9310.49
+
+Sequencia inicial 10 -> 9310.49
+Melhor vizinho: 9300.4
+
+Sequencia inicial 11 -> 9300.4
+Melhor vizinho: 9291.56
+
+Sequencia inicial 12 -> 9291.56
+Melhor vizinho: 9284.23
+
+Sequencia inicial 13 -> 9284.23
+Melhor vizinho: 9273.18
+
+Sequencia inicial 14 -> 9273.18
+Melhor vizinho: 9266.16
+
+Sequencia inicial 15 -> 9266.16
+Melhor vizinho: 9259.61
+
+Sequencia inicial 16 -> 9259.61
+Melhor vizinho: 9249.26
+
+Sequencia inicial 17 -> 9249.26
+Melhor vizinho: 9243.09
+
+Sequencia inicial 18 -> 9243.09
+Melhor vizinho: 9235.31
+
+Sequencia inicial 19 -> 9235.31
+Melhor vizinho: 9229.87
+
+Sequencia inicial 20 -> 9229.87
+Melhor vizinho: 9224.54
+
+Sequencia inicial 21 -> 9224.54
+Melhor vizinho: 9217.83
+
+Sequencia inicial 22 -> 9217.83
+Melhor vizinho: 9207.43
+
+Sequencia inicial 23 -> 9207.43
+Melhor vizinho: 9204.63
+
+Sequencia inicial 24 -> 9204.63
+Melhor vizinho: 9201.63
+
+Sequencia inicial 25 -> 9201.63
+Melhor vizinho: 9198.03
+
+Sequencia inicial 26 -> 9198.03
+Melhor vizinho: 9192.26
+
+Sequencia inicial 27 -> 9192.26
+Melhor vizinho: 9185.96
+
+Sequencia inicial 28 -> 9185.96
+Melhor vizinho: 9183.47
+
+Sequencia inicial 29 -> 9183.47
+Melhor vizinho: 9181.03
+
+Sequencia inicial 30 -> 9181.03
+Melhor vizinho: 9175.05
+
+Sequencia inicial 31 -> 9175.05
+Melhor vizinho: 9172.84
+
+Sequencia inicial 32 -> 9172.84
+Melhor vizinho: 9170.05
+
+Sequencia inicial 33 -> 9170.05
+Melhor vizinho: 9167.69
+
+Sequencia inicial 34 -> 9167.69
+Melhor vizinho: 9163.37
+
+Sequencia inicial 35 -> 9163.37
+Melhor vizinho: 9161.32
+
+Sequencia inicial 36 -> 9161.32
+Melhor vizinho: 9159.43
+
+Sequencia inicial 37 -> 9159.43
+Melhor vizinho: 9157.06
+
+Sequencia inicial 38 -> 9157.06
+Melhor vizinho: 9151.98
+
+Sequencia inicial 39 -> 9151.98
+Melhor vizinho: 9150.46
+
+Sequencia inicial 40 -> 9150.46
+Melhor vizinho: 9145.99
+
+Sequencia inicial 41 -> 9145.99
+Melhor vizinho: 9144.71
+
+Sequencia inicial 42 -> 9144.71
+Melhor vizinho: 9143.48
+
+Sequencia inicial 43 -> 9143.48
+Melhor vizinho: 9141.65
+
+Sequencia inicial 44 -> 9141.65
+Melhor vizinho: 9140.3
+
+Sequencia inicial 45 -> 9140.3
+Melhor vizinho: 9136.52
+
+Sequencia inicial 46 -> 9136.52
+Melhor vizinho: 9135.2
+
+Sequencia inicial 47 -> 9135.2
+Melhor vizinho: 9131.08
+
+Sequencia inicial 48 -> 9131.08
+Melhor vizinho: 9129.48
+
+Sequencia inicial 49 -> 9129.48
+Melhor vizinho: 9127.38
+
+Sequencia inicial 50 -> 9127.38
+Melhor vizinho: 9126.3
+
+Sequencia inicial 51 -> 9126.3
+Melhor vizinho: 9123.39
+
+Sequencia inicial 52 -> 9123.39
+Melhor vizinho: 9122.37
+
+Sequencia inicial 53 -> 9122.37
+Melhor vizinho: 9120.03
+
+Sequencia inicial 54 -> 9120.03
+Melhor vizinho: 9118.84
+
+Sequencia inicial 55 -> 9118.84
+Melhor vizinho: 9114.65
+
+Sequencia inicial 56 -> 9114.65
+Melhor vizinho: 9113.26
+
+Sequencia inicial 57 -> 9113.26
+Melhor vizinho: 9111.02
+
+Sequencia inicial 58 -> 9111.02
+Melhor vizinho: 9110.33
+
+Sequencia inicial 59 -> 9110.33
+Melhor vizinho: 9109.33
+
+Sequencia inicial 60 -> 9109.33
+Melhor vizinho: 9108.53
+
+Sequencia inicial 61 -> 9108.53
+Melhor vizinho: 9107.69
+
+Sequencia inicial 62 -> 9107.69
+Melhor vizinho: 9106.98
+
+Sequencia inicial 63 -> 9106.98
+Melhor vizinho: 9105.61
+
+Sequencia inicial 64 -> 9105.61
+Melhor vizinho: 9104.61
+
+Sequencia inicial 65 -> 9104.61
+Melhor vizinho: 9103.97
+
+Sequencia inicial 66 -> 9103.97
+Melhor vizinho: 9103.49
+
+Sequencia inicial 67 -> 9103.49
+Melhor vizinho: 9102.99
+
+Sequencia inicial 68 -> 9102.99
+Melhor vizinho: 9102.44
+
+Sequencia inicial 69 -> 9102.44
+Melhor vizinho: 9101.84
+
+Sequencia inicial 70 -> 9101.84
+Melhor vizinho: 9100.62
+
+Sequencia inicial 71 -> 9100.62
+Melhor vizinho: 9100.01
+
+Sequencia inicial 72 -> 9100.01
+Melhor vizinho: 9098.62
+
+Sequencia inicial 73 -> 9098.62
+Melhor vizinho: 9097.88
+
+Sequencia inicial 74 -> 9097.88
+Melhor vizinho: 9094.01
+
+Sequencia inicial 75 -> 9094.01
+Melhor vizinho: 9093.34
+
+Sequencia inicial 76 -> 9093.34
+Melhor vizinho: 9092.52
+
+Sequencia inicial 77 -> 9092.52
+Melhor vizinho: 9092.09
+
+Sequencia inicial 78 -> 9092.09
+Melhor vizinho: 9090.76
+
+Sequencia inicial 79 -> 9090.76
+Melhor vizinho: 9090.32
+
+Sequencia inicial 80 -> 9090.32
+Melhor vizinho: 9090.06
+
+Sequencia inicial 81 -> 9090.06
+Melhor vizinho: 9089.47
+
+Sequencia inicial 82 -> 9089.47
+Melhor vizinho: 9089.1
+
+Sequencia inicial 83 -> 9089.1
+Melhor vizinho: 9088.9
+
+Sequencia inicial 84 -> 9088.9
+Melhor vizinho: 9088.62
+
+Sequencia inicial 85 -> 9088.62
+Melhor vizinho: 9087.75
+
+Sequencia inicial 86 -> 9087.75
+Melhor vizinho: 9087.57
+
+Sequencia inicial 87 -> 9087.57
+Melhor vizinho: 9087.41
+
+Sequencia inicial 88 -> 9087.41
+Melhor vizinho: 9087.24
+
+Sequencia inicial 89 -> 9087.24
+Melhor vizinho: 9087.07
+
+Sequencia inicial 90 -> 9087.07
+Melhor vizinho: 9086.79
+
+Sequencia inicial 91 -> 9086.79
+Melhor vizinho: 9086.63
+
+Sequencia inicial 92 -> 9086.63
+Melhor vizinho: 9086.08
+
+Sequencia inicial 93 -> 9086.08
+Melhor vizinho: 9085.72
+
+Sequencia inicial 94 -> 9085.72
+Melhor vizinho: 9085.29
+
+Sequencia inicial 95 -> 9085.29
+Melhor vizinho: 9085.14
+
+Sequencia inicial 96 -> 9085.14
+Melhor vizinho: 9085
+
+Sequencia inicial 97 -> 9085
+Melhor vizinho: 9084.84
+
+Sequencia inicial 98 -> 9084.84
+Melhor vizinho: 9084.44
+
+Sequencia inicial 99 -> 9084.44
+Melhor vizinho: 9084.35
+
+Sequencia inicial 100 -> 9084.35
+Melhor vizinho: 9084.26
+
+Sequencia inicial 101 -> 9084.26
+Melhor vizinho: 9084.16
+
+Sequencia inicial 102 -> 9084.16
+Melhor vizinho: 9084.05
+
+Sequencia inicial 103 -> 9084.05
+Melhor vizinho: 9083.67
+
+Sequencia inicial 104 -> 9083.67
+Melhor vizinho: 9083.58
+
+Sequencia inicial 105 -> 9083.58
+Melhor vizinho: 9083.47
+
+Sequencia inicial 106 -> 9083.47
+Melhor vizinho: 9083.35
+
+Sequencia inicial 107 -> 9083.35
+Melhor vizinho: 9083.19
+
+Sequencia inicial 108 -> 9083.19
+Melhor vizinho: 9083.04
+
+Sequencia inicial 109 -> 9083.04
+Melhor vizinho: 9082.9
+
+Sequencia inicial 110 -> 9082.9
+Melhor vizinho: 9082.66
+
+Sequencia inicial 111 -> 9082.66
+Melhor vizinho: 9082.56
+
+Sequencia inicial 112 -> 9082.56
+Melhor vizinho: 9082.48
+
+Sequencia inicial 113 -> 9082.48
+Melhor vizinho: 9082.32
+
+Sequencia inicial 114 -> 9082.32
+Melhor vizinho: 9081.86
+
+Sequencia inicial 115 -> 9081.86
+Melhor vizinho: 9081.82
+
+Sequencia inicial 116 -> 9081.82
+Melhor vizinho: 9081.79
+
+Sequencia inicial 117 -> 9081.79
+Melhor vizinho: 9081.7
+
+Sequencia inicial 118 -> 9081.7
+Melhor vizinho: 9081.4
+
+Sequencia inicial 119 -> 9081.4
+Melhor vizinho: 9081.36
+
+Sequencia inicial 120 -> 9081.36
+Melhor vizinho: 9080.91
+
+Sequencia inicial 121 -> 9080.91
+Melhor vizinho: 9080.8
+
+Sequencia inicial 122 -> 9080.8
+Melhor vizinho: 9080.74
+
+Sequencia inicial 123 -> 9080.74
+Melhor vizinho: 9080.68
+
+Sequencia inicial 124 -> 9080.68
+Melhor vizinho: 9080.66
+
+Sequencia inicial 125 -> 9080.66
+Melhor vizinho: 9080.6
+
+Sequencia inicial 126 -> 9080.6
+Melhor vizinho: 9080.59
+
+Sequencia inicial 127 -> 9080.59
+Melhor vizinho: 9080.16
+
+Sequencia inicial 128 -> 9080.16
+Melhor vizinho: 9080.08
+
+Sequencia inicial 129 -> 9080.08
+Melhor vizinho: 9080.06
+
+Sequencia inicial 130 -> 9080.06
+Melhor vizinho: 9079.66
+
+Sequencia inicial 131 -> 9079.66
+Melhor vizinho: 9079.66
+
+Sequencia inicial 132 -> 9079.66
+Melhor vizinho: 9079.61
+
+Sequencia inicial 133 -> 9079.61
+Melhor vizinho: 9079.53
+
+Sequencia inicial 134 -> 9079.53
+Melhor vizinho: 9079.52
+
+Sequencia inicial 135 -> 9079.52
+Melhor vizinho: 9079.52
+
+Sequencia inicial 136 -> 9079.52
+Melhor vizinho: 9079.24
+
+Sequencia inicial 137 -> 9079.24
+Melhor vizinho: 9079.23
+
+Sequencia inicial 138 -> 9079.23
+Melhor vizinho: 9079.22
+
+Sequencia inicial 139 -> 9079.22
+Melhor vizinho: 9079.16
+
+Sequencia inicial 140 -> 9079.16
+Melhor vizinho: 9079.13
+
+Sequencia inicial 141 -> 9079.13
+ITERAÇÃO: 20 - Atraso: 9058.45
+
+Sequencia inicial 1 -> 9455.01
+Melhor vizinho: 9438.17
+
+Sequencia inicial 2 -> 9438.17
+Melhor vizinho: 9423.15
+
+Sequencia inicial 3 -> 9423.15
+Melhor vizinho: 9407.72
+
+Sequencia inicial 4 -> 9407.72
+Melhor vizinho: 9393.21
+
+Sequencia inicial 5 -> 9393.21
+Melhor vizinho: 9383
+
+Sequencia inicial 6 -> 9383
+Melhor vizinho: 9374.12
+
+Sequencia inicial 7 -> 9374.12
+Melhor vizinho: 9365.91
+
+Sequencia inicial 8 -> 9365.91
+Melhor vizinho: 9357.87
+
+Sequencia inicial 9 -> 9357.87
+Melhor vizinho: 9347.85
+
+Sequencia inicial 10 -> 9347.85
+Melhor vizinho: 9340.8
+
+Sequencia inicial 11 -> 9340.8
+Melhor vizinho: 9329.26
+
+Sequencia inicial 12 -> 9329.26
+Melhor vizinho: 9311.09
+
+Sequencia inicial 13 -> 9311.09
+Melhor vizinho: 9295.38
+
+Sequencia inicial 14 -> 9295.38
+Melhor vizinho: 9289.36
+
+Sequencia inicial 15 -> 9289.36
+Melhor vizinho: 9277.2
+
+Sequencia inicial 16 -> 9277.2
+Melhor vizinho: 9269.96
+
+Sequencia inicial 17 -> 9269.96
+Melhor vizinho: 9258.43
+
+Sequencia inicial 18 -> 9258.43
+Melhor vizinho: 9251.96
+
+Sequencia inicial 19 -> 9251.96
+Melhor vizinho: 9246.7
+
+Sequencia inicial 20 -> 9246.7
+Melhor vizinho: 9238.4
+
+Sequencia inicial 21 -> 9238.4
+Melhor vizinho: 9232.94
+
+Sequencia inicial 22 -> 9232.94
+Melhor vizinho: 9228.09
+
+Sequencia inicial 23 -> 9228.09
+Melhor vizinho: 9221.87
+
+Sequencia inicial 24 -> 9221.87
+Melhor vizinho: 9217.82
+
+Sequencia inicial 25 -> 9217.82
+Melhor vizinho: 9212.68
+
+Sequencia inicial 26 -> 9212.68
+Melhor vizinho: 9209.58
+
+Sequencia inicial 27 -> 9209.58
+Melhor vizinho: 9205.54
+
+Sequencia inicial 28 -> 9205.54
+Melhor vizinho: 9202.56
+
+Sequencia inicial 29 -> 9202.56
+Melhor vizinho: 9199.97
+
+Sequencia inicial 30 -> 9199.97
+Melhor vizinho: 9195.31
+
+Sequencia inicial 31 -> 9195.31
+Melhor vizinho: 9193.26
+
+Sequencia inicial 32 -> 9193.26
+Melhor vizinho: 9189.77
+
+Sequencia inicial 33 -> 9189.77
+Melhor vizinho: 9187.39
+
+Sequencia inicial 34 -> 9187.39
+Melhor vizinho: 9182.29
+
+Sequencia inicial 35 -> 9182.29
+Melhor vizinho: 9180.25
+
+Sequencia inicial 36 -> 9180.25
+Melhor vizinho: 9175.8
+
+Sequencia inicial 37 -> 9175.8
+Melhor vizinho: 9171.71
+
+Sequencia inicial 38 -> 9171.71
+Melhor vizinho: 9168.3
+
+Sequencia inicial 39 -> 9168.3
+Melhor vizinho: 9165.64
+
+Sequencia inicial 40 -> 9165.64
+Melhor vizinho: 9163.44
+
+Sequencia inicial 41 -> 9163.44
+Melhor vizinho: 9161.26
+
+Sequencia inicial 42 -> 9161.26
+Melhor vizinho: 9159.13
+
+Sequencia inicial 43 -> 9159.13
+Melhor vizinho: 9152.28
+
+Sequencia inicial 44 -> 9152.28
+Melhor vizinho: 9146.46
+
+Sequencia inicial 45 -> 9146.46
+Melhor vizinho: 9143.77
+
+Sequencia inicial 46 -> 9143.77
+Melhor vizinho: 9141.8
+
+Sequencia inicial 47 -> 9141.8
+Melhor vizinho: 9139.23
+
+Sequencia inicial 48 -> 9139.23
+Melhor vizinho: 9137.45
+
+Sequencia inicial 49 -> 9137.45
+Melhor vizinho: 9133.18
+
+Sequencia inicial 50 -> 9133.18
+Melhor vizinho: 9131.76
+
+Sequencia inicial 51 -> 9131.76
+Melhor vizinho: 9129.51
+
+Sequencia inicial 52 -> 9129.51
+Melhor vizinho: 9127.69
+
+Sequencia inicial 53 -> 9127.69
+Melhor vizinho: 9124.24
+
+Sequencia inicial 54 -> 9124.24
+Melhor vizinho: 9122.91
+
+Sequencia inicial 55 -> 9122.91
+Melhor vizinho: 9118.74
+
+Sequencia inicial 56 -> 9118.74
+Melhor vizinho: 9117.33
+
+Sequencia inicial 57 -> 9117.33
+Melhor vizinho: 9110.59
+
+Sequencia inicial 58 -> 9110.59
+Melhor vizinho: 9109.27
+
+Sequencia inicial 59 -> 9109.27
+Melhor vizinho: 9106.87
+
+Sequencia inicial 60 -> 9106.87
+Melhor vizinho: 9105.95
+
+Sequencia inicial 61 -> 9105.95
+Melhor vizinho: 9104.51
+
+Sequencia inicial 62 -> 9104.51
+Melhor vizinho: 9103.69
+
+Sequencia inicial 63 -> 9103.69
+Melhor vizinho: 9102.61
+
+Sequencia inicial 64 -> 9102.61
+Melhor vizinho: 9101.83
+
+Sequencia inicial 65 -> 9101.83
+Melhor vizinho: 9101.12
+
+Sequencia inicial 66 -> 9101.12
+Melhor vizinho: 9099.25
+
+Sequencia inicial 67 -> 9099.25
+Melhor vizinho: 9098.42
+
+Sequencia inicial 68 -> 9098.42
+Melhor vizinho: 9097.26
+
+Sequencia inicial 69 -> 9097.26
+Melhor vizinho: 9096.36
+
+Sequencia inicial 70 -> 9096.36
+Melhor vizinho: 9095.53
+
+Sequencia inicial 71 -> 9095.53
+Melhor vizinho: 9094.92
+
+Sequencia inicial 72 -> 9094.92
+Melhor vizinho: 9094.42
+
+Sequencia inicial 73 -> 9094.42
+Melhor vizinho: 9093.93
+
+Sequencia inicial 74 -> 9093.93
+Melhor vizinho: 9093.27
+
+Sequencia inicial 75 -> 9093.27
+Melhor vizinho: 9092.38
+
+Sequencia inicial 76 -> 9092.38
+Melhor vizinho: 9091.55
+
+Sequencia inicial 77 -> 9091.55
+Melhor vizinho: 9090.17
+
+Sequencia inicial 78 -> 9090.17
+Melhor vizinho: 9084.28
+
+Sequencia inicial 79 -> 9084.28
+Melhor vizinho: 9083.62
+
+Sequencia inicial 80 -> 9083.62
+Melhor vizinho: 9083.2
+
+Sequencia inicial 81 -> 9083.2
+Melhor vizinho: 9082.57
+
+Sequencia inicial 82 -> 9082.57
+Melhor vizinho: 9082.16
+
+Sequencia inicial 83 -> 9082.16
+Melhor vizinho: 9078.88
+
+Sequencia inicial 84 -> 9078.88
+Melhor vizinho: 9078.52
+
+Sequencia inicial 85 -> 9078.52
+Melhor vizinho: 9077.96
+
+Sequencia inicial 86 -> 9077.96
+Melhor vizinho: 9077.65
+
+Sequencia inicial 87 -> 9077.65
+Melhor vizinho: 9077.23
+
+Sequencia inicial 88 -> 9077.23
+Melhor vizinho: 9076.87
+
+Sequencia inicial 89 -> 9076.87
+Melhor vizinho: 9075.98
+
+Sequencia inicial 90 -> 9075.98
+Melhor vizinho: 9075.51
+
+Sequencia inicial 91 -> 9075.51
+Melhor vizinho: 9075.07
+
+Sequencia inicial 92 -> 9075.07
+Melhor vizinho: 9074.89
+
+Sequencia inicial 93 -> 9074.89
+Melhor vizinho: 9074.51
+
+Sequencia inicial 94 -> 9074.51
+Melhor vizinho: 9074.19
+
+Sequencia inicial 95 -> 9074.19
+Melhor vizinho: 9073.98
+
+Sequencia inicial 96 -> 9073.98
+Melhor vizinho: 9073.85
+
+Sequencia inicial 97 -> 9073.85
+Melhor vizinho: 9073.74
+
+Sequencia inicial 98 -> 9073.74
+Melhor vizinho: 9073.65
+
+Sequencia inicial 99 -> 9073.65
+Melhor vizinho: 9073.38
+
+Sequencia inicial 100 -> 9073.38
+Melhor vizinho: 9072.95
+
+Sequencia inicial 101 -> 9072.95
+Melhor vizinho: 9072.36
+
+Sequencia inicial 102 -> 9072.36
+Melhor vizinho: 9072.24
+
+Sequencia inicial 103 -> 9072.24
+Melhor vizinho: 9072.12
+
+Sequencia inicial 104 -> 9072.12
+Melhor vizinho: 9072.03
+
+Sequencia inicial 105 -> 9072.03
+Melhor vizinho: 9071.83
+
+Sequencia inicial 106 -> 9071.83
+Melhor vizinho: 9071.58
+
+Sequencia inicial 107 -> 9071.58
+Melhor vizinho: 9071.55
+
+Sequencia inicial 108 -> 9071.55
+Melhor vizinho: 9071.49
+
+Sequencia inicial 109 -> 9071.49
+Melhor vizinho: 9071.31
+
+Sequencia inicial 110 -> 9071.31
+Melhor vizinho: 9070.88
+
+Sequencia inicial 111 -> 9070.88
+Melhor vizinho: 9070.73
+
+Sequencia inicial 112 -> 9070.73
+Melhor vizinho: 9070.6
+
+Sequencia inicial 113 -> 9070.6
+Melhor vizinho: 9070.57
+
+Sequencia inicial 114 -> 9070.57
+Melhor vizinho: 9070.36
+
+Sequencia inicial 115 -> 9070.36
+Melhor vizinho: 9070.28
+
+Sequencia inicial 116 -> 9070.28
+Melhor vizinho: 9070.19
+
+Sequencia inicial 117 -> 9070.19
+Melhor vizinho: 9070.09
+
+Sequencia inicial 118 -> 9070.09
+Melhor vizinho: 9070.07
+
+Sequencia inicial 119 -> 9070.07
+Melhor vizinho: 9069.94
+
+Sequencia inicial 120 -> 9069.94
+Melhor vizinho: 9069.87
+
+Sequencia inicial 121 -> 9069.87
+Melhor vizinho: 9069.48
+
+Sequencia inicial 122 -> 9069.48
+Melhor vizinho: 9069.39
+
+Sequencia inicial 123 -> 9069.39
+Melhor vizinho: 9069.34
+
+Sequencia inicial 124 -> 9069.34
+Melhor vizinho: 9069.24
+
+Sequencia inicial 125 -> 9069.24
+Melhor vizinho: 9069.19
+
+Sequencia inicial 126 -> 9069.19
+Melhor vizinho: 9069.11
+
+Sequencia inicial 127 -> 9069.11
+Melhor vizinho: 9069.03
+
+Sequencia inicial 128 -> 9069.03
+Melhor vizinho: 9068.96
+
+Sequencia inicial 129 -> 9068.96
+Melhor vizinho: 9068.94
+
+Sequencia inicial 130 -> 9068.94
+Atraso Máximo Iterated Greedy (IG): 9058.45
+Sequência de Tarefas - Solução Final IG
+24 59 49 117 141 111 145 81 135 77 75 96 50 92 20 102 47 101 7 133 21 136 12 91 65 108 71 40 28 6 107 15 109 128 76 98 42 10 45 147 46 80 36 43 27 121 62 30 131 119 115 48 64 132 116 2 51 110 70 14 137 88 61 94 66 105 26 149 150 41 72 93 67 148 3 89 4 73 134 39 68 104 56 13 33 55 125 146 22 11 63 139 37 53 69 130 143 44 144 19 126 123 58 78 16 142 86 9 82 90 32 57 138 34 79 5 18 87 124 60 83 31 29 140 100 54 106 84 17 85 38 23 95 120 8 103 118 74 35 113 129 52 1 97 122 114 112 99 127 25 
+Tempo: 4808.45 segundos

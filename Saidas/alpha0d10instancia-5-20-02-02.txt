@@ -1,0 +1,541 @@
+
+Calculando TP
+TP calculada
+Sequência de Tarefas - Solução Inicial EDD
+17 12 14 20 1 3 6 7 8 16 5 19 11 15 2 13 4 10 18 9 
+Atraso Máximo da solução inicial EDD: 353
+
+Sequência de Tarefas - Solução Inicial Tempos Medios
+12 4 6 20 14 11 10 19 8 1 15 7 5 2 9 18 13 3 17 16 
+Atraso Máximo da solução inicial Tempos Medios: 554
+
+Sequencia inicial 1 -> 554
+Melhor vizinho: 470
+
+Sequencia inicial 2 -> 470
+Melhor vizinho: 387
+
+Sequencia inicial 3 -> 387
+Melhor vizinho: 319
+
+Sequencia inicial 4 -> 319
+Melhor vizinho: 282
+
+Sequencia inicial 5 -> 282
+Melhor vizinho: 251
+
+Sequencia inicial 6 -> 251
+Melhor vizinho: 223
+
+Sequencia inicial 7 -> 223
+Melhor vizinho: 222
+
+Sequencia inicial 8 -> 222
+Melhor vizinho: 208
+
+Sequencia inicial 9 -> 208
+Melhor vizinho: 194
+
+Sequencia inicial 10 -> 194
+Melhor vizinho: 189
+
+Sequencia inicial 11 -> 189
+Melhor vizinho: 187
+
+Sequencia inicial 12 -> 187
+Melhor vizinho: 177
+
+Sequencia inicial 13 -> 177
+Melhor vizinho: 165
+
+Sequencia inicial 14 -> 165
+Melhor vizinho: 155
+
+Sequencia inicial 15 -> 155
+Melhor vizinho: 151
+
+Sequencia inicial 16 -> 151
+ITERAÇÃO: 1 - Atraso: 151
+
+Sequencia inicial 1 -> 153
+Melhor vizinho: 151
+
+Sequencia inicial 2 -> 151
+ITERAÇÃO: 2 - Atraso: 151
+
+Sequencia inicial 1 -> 163
+Melhor vizinho: 153
+
+Sequencia inicial 2 -> 153
+Melhor vizinho: 151
+
+Sequencia inicial 3 -> 151
+ITERAÇÃO: 3 - Atraso: 151
+
+Sequencia inicial 1 -> 214
+Melhor vizinho: 202
+
+Sequencia inicial 2 -> 202
+Melhor vizinho: 186
+
+Sequencia inicial 3 -> 186
+ITERAÇÃO: 4 - Atraso: 151
+
+Sequencia inicial 1 -> 213
+Melhor vizinho: 197
+
+Sequencia inicial 2 -> 197
+Melhor vizinho: 186
+
+Sequencia inicial 3 -> 186
+Melhor vizinho: 179
+
+Sequencia inicial 4 -> 179
+Melhor vizinho: 174
+
+Sequencia inicial 5 -> 174
+ITERAÇÃO: 5 - Atraso: 151
+
+Sequencia inicial 1 -> 241
+Melhor vizinho: 213
+
+Sequencia inicial 2 -> 213
+Melhor vizinho: 198
+
+Sequencia inicial 3 -> 198
+Melhor vizinho: 187
+
+Sequencia inicial 4 -> 187
+Melhor vizinho: 177
+
+Sequencia inicial 5 -> 177
+Melhor vizinho: 164
+
+Sequencia inicial 6 -> 164
+Melhor vizinho: 161
+
+Sequencia inicial 7 -> 161
+ITERAÇÃO: 6 - Atraso: 151
+
+Sequencia inicial 1 -> 286
+Melhor vizinho: 216
+
+Sequencia inicial 2 -> 216
+Melhor vizinho: 189
+
+Sequencia inicial 3 -> 189
+Melhor vizinho: 178
+
+Sequencia inicial 4 -> 178
+Melhor vizinho: 167
+
+Sequencia inicial 5 -> 167
+Melhor vizinho: 152
+
+Sequencia inicial 6 -> 152
+ITERAÇÃO: 7 - Atraso: 151
+
+Sequencia inicial 1 -> 280
+Melhor vizinho: 254
+
+Sequencia inicial 2 -> 254
+Melhor vizinho: 251
+
+Sequencia inicial 3 -> 251
+Melhor vizinho: 216
+
+Sequencia inicial 4 -> 216
+Melhor vizinho: 183
+
+Sequencia inicial 5 -> 183
+Melhor vizinho: 178
+
+Sequencia inicial 6 -> 178
+Melhor vizinho: 176
+
+Sequencia inicial 7 -> 176
+ITERAÇÃO: 8 - Atraso: 151
+
+Sequencia inicial 1 -> 314
+Melhor vizinho: 236
+
+Sequencia inicial 2 -> 236
+Melhor vizinho: 220
+
+Sequencia inicial 3 -> 220
+Melhor vizinho: 184
+
+Sequencia inicial 4 -> 184
+Melhor vizinho: 183
+
+Sequencia inicial 5 -> 183
+Melhor vizinho: 180
+
+Sequencia inicial 6 -> 180
+ITERAÇÃO: 9 - Atraso: 151
+
+Sequencia inicial 1 -> 314
+Melhor vizinho: 239
+
+Sequencia inicial 2 -> 239
+Melhor vizinho: 184
+
+Sequencia inicial 3 -> 184
+Melhor vizinho: 170
+
+Sequencia inicial 4 -> 170
+ITERAÇÃO: 10 - Atraso: 151
+
+Sequencia inicial 1 -> 315
+Melhor vizinho: 236
+
+Sequencia inicial 2 -> 236
+Melhor vizinho: 197
+
+Sequencia inicial 3 -> 197
+Melhor vizinho: 187
+
+Sequencia inicial 4 -> 187
+Melhor vizinho: 155
+
+Sequencia inicial 5 -> 155
+Melhor vizinho: 152
+
+Sequencia inicial 6 -> 152
+ITERAÇÃO: 11 - Atraso: 151
+
+Sequencia inicial 1 -> 247
+Melhor vizinho: 194
+
+Sequencia inicial 2 -> 194
+Melhor vizinho: 184
+
+Sequencia inicial 3 -> 184
+Melhor vizinho: 171
+
+Sequencia inicial 4 -> 171
+Melhor vizinho: 164
+
+Sequencia inicial 5 -> 164
+ITERAÇÃO: 12 - Atraso: 151
+
+Sequencia inicial 1 -> 194
+Melhor vizinho: 189
+
+Sequencia inicial 2 -> 189
+Melhor vizinho: 177
+
+Sequencia inicial 3 -> 177
+Melhor vizinho: 164
+
+Sequencia inicial 4 -> 164
+ITERAÇÃO: 13 - Atraso: 151
+
+Sequencia inicial 1 -> 227
+Melhor vizinho: 221
+
+Sequencia inicial 2 -> 221
+Melhor vizinho: 191
+
+Sequencia inicial 3 -> 191
+Melhor vizinho: 166
+
+Sequencia inicial 4 -> 166
+Melhor vizinho: 164
+
+Sequencia inicial 5 -> 164
+ITERAÇÃO: 14 - Atraso: 151
+
+Sequencia inicial 1 -> 203
+Melhor vizinho: 198
+
+Sequencia inicial 2 -> 198
+Melhor vizinho: 179
+
+Sequencia inicial 3 -> 179
+Melhor vizinho: 175
+
+Sequencia inicial 4 -> 175
+Melhor vizinho: 151
+
+Sequencia inicial 5 -> 151
+ITERAÇÃO: 15 - Atraso: 151
+
+Sequencia inicial 1 -> 185
+Melhor vizinho: 172
+
+Sequencia inicial 2 -> 172
+ITERAÇÃO: 16 - Atraso: 151
+
+Sequencia inicial 1 -> 170
+Melhor vizinho: 156
+
+Sequencia inicial 2 -> 156
+Melhor vizinho: 150
+
+Sequencia inicial 3 -> 150
+Melhor vizinho: 142
+
+Sequencia inicial 4 -> 142
+ITERAÇÃO: 1 - Atraso: 142
+
+Sequencia inicial 1 -> 142
+ITERAÇÃO: 2 - Atraso: 142
+
+Sequencia inicial 1 -> 142
+ITERAÇÃO: 3 - Atraso: 142
+
+Sequencia inicial 1 -> 260
+Melhor vizinho: 200
+
+Sequencia inicial 2 -> 200
+Melhor vizinho: 190
+
+Sequencia inicial 3 -> 190
+Melhor vizinho: 152
+
+Sequencia inicial 4 -> 152
+ITERAÇÃO: 4 - Atraso: 142
+
+Sequencia inicial 1 -> 260
+Melhor vizinho: 200
+
+Sequencia inicial 2 -> 200
+Melhor vizinho: 172
+
+Sequencia inicial 3 -> 172
+Melhor vizinho: 152
+
+Sequencia inicial 4 -> 152
+ITERAÇÃO: 5 - Atraso: 142
+
+Sequencia inicial 1 -> 260
+Melhor vizinho: 192
+
+Sequencia inicial 2 -> 192
+Melhor vizinho: 166
+
+Sequencia inicial 3 -> 166
+Melhor vizinho: 159
+
+Sequencia inicial 4 -> 159
+Melhor vizinho: 158
+
+Sequencia inicial 5 -> 158
+ITERAÇÃO: 6 - Atraso: 142
+
+Sequencia inicial 1 -> 260
+Melhor vizinho: 192
+
+Sequencia inicial 2 -> 192
+Melhor vizinho: 165
+
+Sequencia inicial 3 -> 165
+Melhor vizinho: 157
+
+Sequencia inicial 4 -> 157
+Melhor vizinho: 152
+
+Sequencia inicial 5 -> 152
+ITERAÇÃO: 7 - Atraso: 142
+
+Sequencia inicial 1 -> 245
+Melhor vizinho: 189
+
+Sequencia inicial 2 -> 189
+Melhor vizinho: 156
+
+Sequencia inicial 3 -> 156
+Melhor vizinho: 152
+
+Sequencia inicial 4 -> 152
+ITERAÇÃO: 8 - Atraso: 142
+
+Sequencia inicial 1 -> 183
+Melhor vizinho: 177
+
+Sequencia inicial 2 -> 177
+Melhor vizinho: 169
+
+Sequencia inicial 3 -> 169
+Melhor vizinho: 155
+
+Sequencia inicial 4 -> 155
+Melhor vizinho: 152
+
+Sequencia inicial 5 -> 152
+ITERAÇÃO: 9 - Atraso: 142
+
+Sequencia inicial 1 -> 177
+Melhor vizinho: 167
+
+Sequencia inicial 2 -> 167
+ITERAÇÃO: 10 - Atraso: 142
+
+Sequencia inicial 1 -> 220
+Melhor vizinho: 178
+
+Sequencia inicial 2 -> 178
+Melhor vizinho: 177
+
+Sequencia inicial 3 -> 177
+Melhor vizinho: 173
+
+Sequencia inicial 4 -> 173
+Melhor vizinho: 167
+
+Sequencia inicial 5 -> 167
+ITERAÇÃO: 11 - Atraso: 142
+
+Sequencia inicial 1 -> 265
+Melhor vizinho: 205
+
+Sequencia inicial 2 -> 205
+Melhor vizinho: 178
+
+Sequencia inicial 3 -> 178
+Melhor vizinho: 167
+
+Sequencia inicial 4 -> 167
+ITERAÇÃO: 12 - Atraso: 142
+
+Sequencia inicial 1 -> 281
+Melhor vizinho: 254
+
+Sequencia inicial 2 -> 254
+Melhor vizinho: 186
+
+Sequencia inicial 3 -> 186
+Melhor vizinho: 172
+
+Sequencia inicial 4 -> 172
+Melhor vizinho: 165
+
+Sequencia inicial 5 -> 165
+Melhor vizinho: 152
+
+Sequencia inicial 6 -> 152
+Melhor vizinho: 145
+
+Sequencia inicial 7 -> 145
+Melhor vizinho: 142
+
+Sequencia inicial 8 -> 142
+ITERAÇÃO: 13 - Atraso: 142
+
+Sequencia inicial 1 -> 293
+Melhor vizinho: 248
+
+Sequencia inicial 2 -> 248
+Melhor vizinho: 209
+
+Sequencia inicial 3 -> 209
+Melhor vizinho: 181
+
+Sequencia inicial 4 -> 181
+Melhor vizinho: 170
+
+Sequencia inicial 5 -> 170
+Melhor vizinho: 151
+
+Sequencia inicial 6 -> 151
+ITERAÇÃO: 14 - Atraso: 142
+
+Sequencia inicial 1 -> 292
+Melhor vizinho: 247
+
+Sequencia inicial 2 -> 247
+Melhor vizinho: 192
+
+Sequencia inicial 3 -> 192
+Melhor vizinho: 185
+
+Sequencia inicial 4 -> 185
+Melhor vizinho: 180
+
+Sequencia inicial 5 -> 180
+ITERAÇÃO: 15 - Atraso: 142
+
+Sequencia inicial 1 -> 256
+Melhor vizinho: 188
+
+Sequencia inicial 2 -> 188
+Melhor vizinho: 152
+
+Sequencia inicial 3 -> 152
+ITERAÇÃO: 16 - Atraso: 142
+
+Sequencia inicial 1 -> 275
+Melhor vizinho: 182
+
+Sequencia inicial 2 -> 182
+Melhor vizinho: 172
+
+Sequencia inicial 3 -> 172
+Melhor vizinho: 160
+
+Sequencia inicial 4 -> 160
+Melhor vizinho: 157
+
+Sequencia inicial 5 -> 157
+Melhor vizinho: 152
+
+Sequencia inicial 6 -> 152
+ITERAÇÃO: 17 - Atraso: 142
+
+Sequencia inicial 1 -> 247
+Melhor vizinho: 187
+
+Sequencia inicial 2 -> 187
+Melhor vizinho: 156
+
+Sequencia inicial 3 -> 156
+Melhor vizinho: 152
+
+Sequencia inicial 4 -> 152
+ITERAÇÃO: 18 - Atraso: 142
+
+Sequencia inicial 1 -> 247
+Melhor vizinho: 187
+
+Sequencia inicial 2 -> 187
+Melhor vizinho: 156
+
+Sequencia inicial 3 -> 156
+Melhor vizinho: 152
+
+Sequencia inicial 4 -> 152
+ITERAÇÃO: 19 - Atraso: 142
+
+Sequencia inicial 1 -> 261
+Melhor vizinho: 210
+
+Sequencia inicial 2 -> 210
+Melhor vizinho: 180
+
+Sequencia inicial 3 -> 180
+Melhor vizinho: 155
+
+Sequencia inicial 4 -> 155
+Melhor vizinho: 152
+
+Sequencia inicial 5 -> 152
+ITERAÇÃO: 20 - Atraso: 142
+
+Sequencia inicial 1 -> 265
+Melhor vizinho: 234
+
+Sequencia inicial 2 -> 234
+Melhor vizinho: 185
+
+Sequencia inicial 3 -> 185
+Melhor vizinho: 166
+
+Sequencia inicial 4 -> 166
+Melhor vizinho: 152
+
+Sequencia inicial 5 -> 152
+Atraso Máximo Iterated Greedy (IG): 142
+Sequência de Tarefas - Solução Final IG
+2 13 1 14 6 12 20 7 8 10 11 17 15 9 19 4 3 16 18 5 
+Tempo: 0.271021 segundos

@@ -1,0 +1,307 @@
+
+Calculando TP
+TP calculada
+Sequência de Tarefas - Solução Inicial EDD
+4 7 5 1 2 6 10 3 8 9 
+Atraso Máximo da solução inicial EDD: 4152.84
+
+Sequência de Tarefas - Solução Inicial Tempos Medios
+5 10 7 9 8 4 1 3 6 2 
+Atraso Máximo da solução inicial Tempos Medios: 3445.79
+
+Sequencia inicial 1 -> 3445.79
+Melhor vizinho: 3150.6
+
+Sequencia inicial 2 -> 3150.6
+Melhor vizinho: 3111.8
+
+Sequencia inicial 3 -> 3111.8
+Melhor vizinho: 3097.72
+
+Sequencia inicial 4 -> 3097.72
+Melhor vizinho: 3092.75
+
+Sequencia inicial 5 -> 3092.75
+Melhor vizinho: 3091.04
+
+Sequencia inicial 6 -> 3091.04
+ITERAÇÃO: 1 - Atraso: 3091.04
+
+Sequencia inicial 1 -> 3091.04
+ITERAÇÃO: 2 - Atraso: 3091.04
+
+Sequencia inicial 1 -> 3096.89
+Melhor vizinho: 3088.27
+
+Sequencia inicial 2 -> 3088.27
+Melhor vizinho: 3070.5
+
+Sequencia inicial 3 -> 3070.5
+Melhor vizinho: 3069.21
+
+Sequencia inicial 4 -> 3069.21
+ITERAÇÃO: 1 - Atraso: 3069.21
+
+Sequencia inicial 1 -> 3092.92
+Melhor vizinho: 3069.21
+
+Sequencia inicial 2 -> 3069.21
+ITERAÇÃO: 2 - Atraso: 3069.21
+
+Sequencia inicial 1 -> 3069.21
+ITERAÇÃO: 3 - Atraso: 3069.21
+
+Sequencia inicial 1 -> 3127.97
+Melhor vizinho: 3069.21
+
+Sequencia inicial 2 -> 3069.21
+ITERAÇÃO: 4 - Atraso: 3069.21
+
+Sequencia inicial 1 -> 3119.06
+Melhor vizinho: 3097.16
+
+Sequencia inicial 2 -> 3097.16
+Melhor vizinho: 3092.75
+
+Sequencia inicial 3 -> 3092.75
+Melhor vizinho: 3091.04
+
+Sequencia inicial 4 -> 3091.04
+ITERAÇÃO: 5 - Atraso: 3069.21
+
+Sequencia inicial 1 -> 3240.89
+Melhor vizinho: 3119.06
+
+Sequencia inicial 2 -> 3119.06
+Melhor vizinho: 3097.16
+
+Sequencia inicial 3 -> 3097.16
+Melhor vizinho: 3092.75
+
+Sequencia inicial 4 -> 3092.75
+Melhor vizinho: 3091.04
+
+Sequencia inicial 5 -> 3091.04
+ITERAÇÃO: 6 - Atraso: 3069.21
+
+Sequencia inicial 1 -> 3214.58
+Melhor vizinho: 3092.75
+
+Sequencia inicial 2 -> 3092.75
+Melhor vizinho: 3091.04
+
+Sequencia inicial 3 -> 3091.04
+ITERAÇÃO: 7 - Atraso: 3069.21
+
+Sequencia inicial 1 -> 3334.05
+Melhor vizinho: 3187.75
+
+Sequencia inicial 2 -> 3187.75
+Melhor vizinho: 3165.99
+
+Sequencia inicial 3 -> 3165.99
+Melhor vizinho: 3092.55
+
+Sequencia inicial 4 -> 3092.55
+ITERAÇÃO: 8 - Atraso: 3069.21
+
+Sequencia inicial 1 -> 3322.37
+Melhor vizinho: 3218.98
+
+Sequencia inicial 2 -> 3218.98
+Melhor vizinho: 3097.16
+
+Sequencia inicial 3 -> 3097.16
+Melhor vizinho: 3092.75
+
+Sequencia inicial 4 -> 3092.75
+Melhor vizinho: 3091.04
+
+Sequencia inicial 5 -> 3091.04
+ITERAÇÃO: 9 - Atraso: 3069.21
+
+Sequencia inicial 1 -> 3941.06
+Melhor vizinho: 3703.14
+
+Sequencia inicial 2 -> 3703.14
+Melhor vizinho: 3406.3
+
+Sequencia inicial 3 -> 3406.3
+Melhor vizinho: 3386.51
+
+Sequencia inicial 4 -> 3386.51
+ITERAÇÃO: 10 - Atraso: 3069.21
+
+Sequencia inicial 1 -> 3941.06
+Melhor vizinho: 3703.14
+
+Sequencia inicial 2 -> 3703.14
+Melhor vizinho: 3406.3
+
+Sequencia inicial 3 -> 3406.3
+Melhor vizinho: 3386.51
+
+Sequencia inicial 4 -> 3386.51
+ITERAÇÃO: 11 - Atraso: 3069.21
+
+Sequencia inicial 1 -> 3941.06
+Melhor vizinho: 3703.14
+
+Sequencia inicial 2 -> 3703.14
+Melhor vizinho: 3406.3
+
+Sequencia inicial 3 -> 3406.3
+Melhor vizinho: 3386.51
+
+Sequencia inicial 4 -> 3386.51
+ITERAÇÃO: 12 - Atraso: 3069.21
+
+Sequencia inicial 1 -> 3941.06
+Melhor vizinho: 3703.14
+
+Sequencia inicial 2 -> 3703.14
+Melhor vizinho: 3406.3
+
+Sequencia inicial 3 -> 3406.3
+Melhor vizinho: 3386.51
+
+Sequencia inicial 4 -> 3386.51
+ITERAÇÃO: 13 - Atraso: 3069.21
+
+Sequencia inicial 1 -> 3941.06
+Melhor vizinho: 3703.14
+
+Sequencia inicial 2 -> 3703.14
+Melhor vizinho: 3406.3
+
+Sequencia inicial 3 -> 3406.3
+Melhor vizinho: 3386.51
+
+Sequencia inicial 4 -> 3386.51
+ITERAÇÃO: 14 - Atraso: 3069.21
+
+Sequencia inicial 1 -> 3941.06
+Melhor vizinho: 3703.14
+
+Sequencia inicial 2 -> 3703.14
+Melhor vizinho: 3406.3
+
+Sequencia inicial 3 -> 3406.3
+Melhor vizinho: 3386.51
+
+Sequencia inicial 4 -> 3386.51
+ITERAÇÃO: 15 - Atraso: 3069.21
+
+Sequencia inicial 1 -> 3941.06
+Melhor vizinho: 3703.14
+
+Sequencia inicial 2 -> 3703.14
+Melhor vizinho: 3406.3
+
+Sequencia inicial 3 -> 3406.3
+Melhor vizinho: 3386.51
+
+Sequencia inicial 4 -> 3386.51
+ITERAÇÃO: 16 - Atraso: 3069.21
+
+Sequencia inicial 1 -> 3955.49
+Melhor vizinho: 3703.14
+
+Sequencia inicial 2 -> 3703.14
+Melhor vizinho: 3406.3
+
+Sequencia inicial 3 -> 3406.3
+Melhor vizinho: 3386.51
+
+Sequencia inicial 4 -> 3386.51
+ITERAÇÃO: 17 - Atraso: 3069.21
+
+Sequencia inicial 1 -> 3945.1
+Melhor vizinho: 3755.06
+
+Sequencia inicial 2 -> 3755.06
+Melhor vizinho: 3389.69
+
+Sequencia inicial 3 -> 3389.69
+Melhor vizinho: 3165.38
+
+Sequencia inicial 4 -> 3165.38
+Melhor vizinho: 3147.25
+
+Sequencia inicial 5 -> 3147.25
+Melhor vizinho: 3075.05
+
+Sequencia inicial 6 -> 3075.05
+Melhor vizinho: 3070.5
+
+Sequencia inicial 7 -> 3070.5
+Melhor vizinho: 3069.21
+
+Sequencia inicial 8 -> 3069.21
+ITERAÇÃO: 18 - Atraso: 3069.21
+
+Sequencia inicial 1 -> 3945.1
+Melhor vizinho: 3755.06
+
+Sequencia inicial 2 -> 3755.06
+Melhor vizinho: 3389.69
+
+Sequencia inicial 3 -> 3389.69
+Melhor vizinho: 3165.38
+
+Sequencia inicial 4 -> 3165.38
+Melhor vizinho: 3147.25
+
+Sequencia inicial 5 -> 3147.25
+Melhor vizinho: 3075.05
+
+Sequencia inicial 6 -> 3075.05
+Melhor vizinho: 3070.5
+
+Sequencia inicial 7 -> 3070.5
+Melhor vizinho: 3069.21
+
+Sequencia inicial 8 -> 3069.21
+ITERAÇÃO: 19 - Atraso: 3069.21
+
+Sequencia inicial 1 -> 3942.92
+Melhor vizinho: 3462.31
+
+Sequencia inicial 2 -> 3462.31
+Melhor vizinho: 3165.38
+
+Sequencia inicial 3 -> 3165.38
+Melhor vizinho: 3147.25
+
+Sequencia inicial 4 -> 3147.25
+Melhor vizinho: 3075.05
+
+Sequencia inicial 5 -> 3075.05
+Melhor vizinho: 3070.5
+
+Sequencia inicial 6 -> 3070.5
+Melhor vizinho: 3069.21
+
+Sequencia inicial 7 -> 3069.21
+ITERAÇÃO: 20 - Atraso: 3069.21
+
+Sequencia inicial 1 -> 3670.83
+Melhor vizinho: 3336.36
+
+Sequencia inicial 2 -> 3336.36
+Melhor vizinho: 3135.42
+
+Sequencia inicial 3 -> 3135.42
+Melhor vizinho: 3111.2
+
+Sequencia inicial 4 -> 3111.2
+Melhor vizinho: 3097.69
+
+Sequencia inicial 5 -> 3097.69
+Melhor vizinho: 3069.21
+
+Sequencia inicial 6 -> 3069.21
+Atraso Máximo Iterated Greedy (IG): 3069.21
+Sequência de Tarefas - Solução Final IG
+7 5 1 8 4 9 6 3 10 2 
+Tempo: 0.016973 segundos

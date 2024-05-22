@@ -1,0 +1,97 @@
+
+Calculando TP
+TP calculada
+Sequência de Tarefas - Solução Inicial EDD
+6 17 19 4 18 2 14 10 3 16 13 8 5 20 9 12 11 15 1 7 
+Atraso Máximo da solução inicial EDD: 445
+
+Sequência de Tarefas - Solução Inicial Tempos Medios
+19 3 6 5 18 10 4 17 13 12 15 9 16 2 8 14 1 7 20 11 
+Atraso Máximo da solução inicial Tempos Medios: 390
+
+Sequencia inicial 1 -> 390
+Melhor vizinho: 379
+
+Sequencia inicial 2 -> 379
+Melhor vizinho: 344
+
+Sequencia inicial 3 -> 344
+ITERAÇÃO: 1 - Atraso: 344
+
+Sequencia inicial 1 -> 344
+ITERAÇÃO: 2 - Atraso: 344
+
+Sequencia inicial 1 -> 344
+ITERAÇÃO: 3 - Atraso: 344
+
+Sequencia inicial 1 -> 344
+ITERAÇÃO: 4 - Atraso: 344
+
+Sequencia inicial 1 -> 344
+ITERAÇÃO: 5 - Atraso: 344
+
+Sequencia inicial 1 -> 344
+ITERAÇÃO: 6 - Atraso: 344
+
+Sequencia inicial 1 -> 344
+ITERAÇÃO: 7 - Atraso: 344
+
+Sequencia inicial 1 -> 344
+ITERAÇÃO: 8 - Atraso: 344
+
+Sequencia inicial 1 -> 386
+ITERAÇÃO: 9 - Atraso: 344
+
+Sequencia inicial 1 -> 386
+ITERAÇÃO: 10 - Atraso: 344
+
+Sequencia inicial 1 -> 386
+ITERAÇÃO: 11 - Atraso: 344
+
+Sequencia inicial 1 -> 390
+Melhor vizinho: 386
+
+Sequencia inicial 2 -> 386
+ITERAÇÃO: 12 - Atraso: 344
+
+Sequencia inicial 1 -> 390
+Melhor vizinho: 386
+
+Sequencia inicial 2 -> 386
+ITERAÇÃO: 13 - Atraso: 344
+
+Sequencia inicial 1 -> 390
+Melhor vizinho: 386
+
+Sequencia inicial 2 -> 386
+ITERAÇÃO: 14 - Atraso: 344
+
+Sequencia inicial 1 -> 386
+ITERAÇÃO: 15 - Atraso: 344
+
+Sequencia inicial 1 -> 386
+ITERAÇÃO: 16 - Atraso: 344
+
+Sequencia inicial 1 -> 386
+ITERAÇÃO: 17 - Atraso: 344
+
+Sequencia inicial 1 -> 407
+Melhor vizinho: 344
+
+Sequencia inicial 2 -> 344
+ITERAÇÃO: 18 - Atraso: 344
+
+Sequencia inicial 1 -> 407
+Melhor vizinho: 344
+
+Sequencia inicial 2 -> 344
+ITERAÇÃO: 19 - Atraso: 344
+
+Sequencia inicial 1 -> 344
+ITERAÇÃO: 20 - Atraso: 344
+
+Sequencia inicial 1 -> 344
+Atraso Máximo Iterated Greedy (IG): 344
+Sequência de Tarefas - Solução Final IG
+4 14 2 8 10 11 9 19 5 3 18 20 17 12 6 13 16 1 15 7 
+Tempo: 0.033355 segundos

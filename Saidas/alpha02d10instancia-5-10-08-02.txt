@@ -1,0 +1,289 @@
+
+Calculando TP
+TP calculada
+Sequência de Tarefas - Solução Inicial EDD
+2 8 4 7 5 1 9 10 6 3 
+Atraso Máximo da solução inicial EDD: 1299.09
+
+Sequência de Tarefas - Solução Inicial Tempos Medios
+8 5 9 7 10 4 2 1 3 6 
+Atraso Máximo da solução inicial Tempos Medios: 1140.16
+
+Sequencia inicial 1 -> 1140.16
+Melhor vizinho: 1124.17
+
+Sequencia inicial 2 -> 1124.17
+Melhor vizinho: 1110.22
+
+Sequencia inicial 3 -> 1110.22
+Melhor vizinho: 1104.17
+
+Sequencia inicial 4 -> 1104.17
+Melhor vizinho: 1098.47
+
+Sequencia inicial 5 -> 1098.47
+Melhor vizinho: 1097.77
+
+Sequencia inicial 6 -> 1097.77
+ITERAÇÃO: 1 - Atraso: 1097.77
+
+Sequencia inicial 1 -> 1102.79
+Melhor vizinho: 1099.62
+
+Sequencia inicial 2 -> 1099.62
+Melhor vizinho: 1097.77
+
+Sequencia inicial 3 -> 1097.77
+ITERAÇÃO: 2 - Atraso: 1097.77
+
+Sequencia inicial 1 -> 1201.07
+Melhor vizinho: 1167.51
+
+Sequencia inicial 2 -> 1167.51
+Melhor vizinho: 1100.25
+
+Sequencia inicial 3 -> 1100.25
+Melhor vizinho: 1098.69
+
+Sequencia inicial 4 -> 1098.69
+ITERAÇÃO: 3 - Atraso: 1097.77
+
+Sequencia inicial 1 -> 1199.63
+Melhor vizinho: 1120.3
+
+Sequencia inicial 2 -> 1120.3
+Melhor vizinho: 1100.25
+
+Sequencia inicial 3 -> 1100.25
+Melhor vizinho: 1098.69
+
+Sequencia inicial 4 -> 1098.69
+ITERAÇÃO: 4 - Atraso: 1097.77
+
+Sequencia inicial 1 -> 1195.77
+Melhor vizinho: 1161.46
+
+Sequencia inicial 2 -> 1161.46
+Melhor vizinho: 1095.58
+
+Sequencia inicial 3 -> 1095.58
+Melhor vizinho: 1094.99
+
+Sequencia inicial 4 -> 1094.99
+Melhor vizinho: 1094.69
+
+Sequencia inicial 5 -> 1094.69
+ITERAÇÃO: 1 - Atraso: 1094.69
+
+Sequencia inicial 1 -> 1094.69
+ITERAÇÃO: 2 - Atraso: 1094.69
+
+Sequencia inicial 1 -> 1108.68
+Melhor vizinho: 1096.95
+
+Sequencia inicial 2 -> 1096.95
+Melhor vizinho: 1095.29
+
+Sequencia inicial 3 -> 1095.29
+Melhor vizinho: 1094.69
+
+Sequencia inicial 4 -> 1094.69
+ITERAÇÃO: 3 - Atraso: 1094.69
+
+Sequencia inicial 1 -> 1210.09
+Melhor vizinho: 1168.6
+
+Sequencia inicial 2 -> 1168.6
+Melhor vizinho: 1106.57
+
+Sequencia inicial 3 -> 1106.57
+Melhor vizinho: 1101.48
+
+Sequencia inicial 4 -> 1101.48
+ITERAÇÃO: 4 - Atraso: 1094.69
+
+Sequencia inicial 1 -> 1200.78
+Melhor vizinho: 1167.22
+
+Sequencia inicial 2 -> 1167.22
+Melhor vizinho: 1099.96
+
+Sequencia inicial 3 -> 1099.96
+Melhor vizinho: 1098.18
+
+Sequencia inicial 4 -> 1098.18
+ITERAÇÃO: 5 - Atraso: 1094.69
+
+Sequencia inicial 1 -> 1199.34
+Melhor vizinho: 1157.85
+
+Sequencia inicial 2 -> 1157.85
+Melhor vizinho: 1115.98
+
+Sequencia inicial 3 -> 1115.98
+Melhor vizinho: 1096.95
+
+Sequencia inicial 4 -> 1096.95
+Melhor vizinho: 1095.29
+
+Sequencia inicial 5 -> 1095.29
+Melhor vizinho: 1094.69
+
+Sequencia inicial 6 -> 1094.69
+ITERAÇÃO: 6 - Atraso: 1094.69
+
+Sequencia inicial 1 -> 1209.91
+Melhor vizinho: 1176.34
+
+Sequencia inicial 2 -> 1176.34
+Melhor vizinho: 1109.08
+
+Sequencia inicial 3 -> 1109.08
+Melhor vizinho: 1099.96
+
+Sequencia inicial 4 -> 1099.96
+Melhor vizinho: 1098.18
+
+Sequencia inicial 5 -> 1098.18
+ITERAÇÃO: 7 - Atraso: 1094.69
+
+Sequencia inicial 1 -> 1209.91
+Melhor vizinho: 1176.34
+
+Sequencia inicial 2 -> 1176.34
+Melhor vizinho: 1109.08
+
+Sequencia inicial 3 -> 1109.08
+Melhor vizinho: 1099.96
+
+Sequencia inicial 4 -> 1099.96
+Melhor vizinho: 1098.18
+
+Sequencia inicial 5 -> 1098.18
+ITERAÇÃO: 8 - Atraso: 1094.69
+
+Sequencia inicial 1 -> 1138.78
+Melhor vizinho: 1110.03
+
+Sequencia inicial 2 -> 1110.03
+Melhor vizinho: 1105.23
+
+Sequencia inicial 3 -> 1105.23
+Melhor vizinho: 1103.48
+
+Sequencia inicial 4 -> 1103.48
+Melhor vizinho: 1094.99
+
+Sequencia inicial 5 -> 1094.99
+Melhor vizinho: 1094.69
+
+Sequencia inicial 6 -> 1094.69
+ITERAÇÃO: 9 - Atraso: 1094.69
+
+Sequencia inicial 1 -> 1136.28
+Melhor vizinho: 1110.83
+
+Sequencia inicial 2 -> 1110.83
+Melhor vizinho: 1105.09
+
+Sequencia inicial 3 -> 1105.09
+Melhor vizinho: 1103.81
+
+Sequencia inicial 4 -> 1103.81
+ITERAÇÃO: 10 - Atraso: 1094.69
+
+Sequencia inicial 1 -> 1129.45
+Melhor vizinho: 1114.32
+
+Sequencia inicial 2 -> 1114.32
+Melhor vizinho: 1098.7
+
+Sequencia inicial 3 -> 1098.7
+Melhor vizinho: 1097.97
+
+Sequencia inicial 4 -> 1097.97
+Melhor vizinho: 1095.29
+
+Sequencia inicial 5 -> 1095.29
+Melhor vizinho: 1094.69
+
+Sequencia inicial 6 -> 1094.69
+ITERAÇÃO: 11 - Atraso: 1094.69
+
+Sequencia inicial 1 -> 1228.12
+Melhor vizinho: 1226.28
+
+Sequencia inicial 2 -> 1226.28
+Melhor vizinho: 1225.44
+
+Sequencia inicial 3 -> 1225.44
+ITERAÇÃO: 12 - Atraso: 1094.69
+
+Sequencia inicial 1 -> 1228.12
+Melhor vizinho: 1226.28
+
+Sequencia inicial 2 -> 1226.28
+Melhor vizinho: 1225.44
+
+Sequencia inicial 3 -> 1225.44
+ITERAÇÃO: 13 - Atraso: 1094.69
+
+Sequencia inicial 1 -> 1228.12
+Melhor vizinho: 1226.28
+
+Sequencia inicial 2 -> 1226.28
+Melhor vizinho: 1225.44
+
+Sequencia inicial 3 -> 1225.44
+ITERAÇÃO: 14 - Atraso: 1094.69
+
+Sequencia inicial 1 -> 1156.8
+Melhor vizinho: 1098.7
+
+Sequencia inicial 2 -> 1098.7
+Melhor vizinho: 1097.97
+
+Sequencia inicial 3 -> 1097.97
+Melhor vizinho: 1095.29
+
+Sequencia inicial 4 -> 1095.29
+Melhor vizinho: 1094.69
+
+Sequencia inicial 5 -> 1094.69
+ITERAÇÃO: 15 - Atraso: 1094.69
+
+Sequencia inicial 1 -> 1156.07
+Melhor vizinho: 1095.29
+
+Sequencia inicial 2 -> 1095.29
+Melhor vizinho: 1094.69
+
+Sequencia inicial 3 -> 1094.69
+ITERAÇÃO: 16 - Atraso: 1094.69
+
+Sequencia inicial 1 -> 1156.07
+Melhor vizinho: 1095.29
+
+Sequencia inicial 2 -> 1095.29
+Melhor vizinho: 1094.69
+
+Sequencia inicial 3 -> 1094.69
+ITERAÇÃO: 17 - Atraso: 1094.69
+
+Sequencia inicial 1 -> 1095.29
+Melhor vizinho: 1094.69
+
+Sequencia inicial 2 -> 1094.69
+ITERAÇÃO: 18 - Atraso: 1094.69
+
+Sequencia inicial 1 -> 1094.69
+ITERAÇÃO: 19 - Atraso: 1094.69
+
+Sequencia inicial 1 -> 1094.69
+ITERAÇÃO: 20 - Atraso: 1094.69
+
+Sequencia inicial 1 -> 1094.69
+Atraso Máximo Iterated Greedy (IG): 1094.69
+Sequência de Tarefas - Solução Final IG
+10 7 5 3 9 8 4 1 2 6 
+Tempo: 0.019815 segundos

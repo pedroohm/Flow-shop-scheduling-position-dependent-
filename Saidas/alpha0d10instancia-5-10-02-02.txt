@@ -1,0 +1,121 @@
+
+Calculando TP
+TP calculada
+Sequência de Tarefas - Solução Inicial EDD
+4 7 5 1 2 6 10 3 8 9 
+Atraso Máximo da solução inicial EDD: 547
+
+Sequência de Tarefas - Solução Inicial Tempos Medios
+5 10 7 9 8 4 1 3 6 2 
+Atraso Máximo da solução inicial Tempos Medios: 528
+
+Sequencia inicial 1 -> 528
+Melhor vizinho: 487
+
+Sequencia inicial 2 -> 487
+Melhor vizinho: 485
+
+Sequencia inicial 3 -> 485
+Melhor vizinho: 470
+
+Sequencia inicial 4 -> 470
+Melhor vizinho: 452
+
+Sequencia inicial 5 -> 452
+ITERAÇÃO: 1 - Atraso: 452
+
+Sequencia inicial 1 -> 452
+ITERAÇÃO: 2 - Atraso: 452
+
+Sequencia inicial 1 -> 452
+ITERAÇÃO: 3 - Atraso: 452
+
+Sequencia inicial 1 -> 452
+ITERAÇÃO: 4 - Atraso: 452
+
+Sequencia inicial 1 -> 452
+ITERAÇÃO: 5 - Atraso: 452
+
+Sequencia inicial 1 -> 452
+ITERAÇÃO: 6 - Atraso: 452
+
+Sequencia inicial 1 -> 466
+Melhor vizinho: 452
+
+Sequencia inicial 2 -> 452
+ITERAÇÃO: 7 - Atraso: 452
+
+Sequencia inicial 1 -> 528
+Melhor vizinho: 466
+
+Sequencia inicial 2 -> 466
+Melhor vizinho: 453
+
+Sequencia inicial 3 -> 453
+Melhor vizinho: 452
+
+Sequencia inicial 4 -> 452
+ITERAÇÃO: 8 - Atraso: 452
+
+Sequencia inicial 1 -> 528
+Melhor vizinho: 466
+
+Sequencia inicial 2 -> 466
+Melhor vizinho: 453
+
+Sequencia inicial 3 -> 453
+Melhor vizinho: 452
+
+Sequencia inicial 4 -> 452
+ITERAÇÃO: 9 - Atraso: 452
+
+Sequencia inicial 1 -> 456
+ITERAÇÃO: 10 - Atraso: 452
+
+Sequencia inicial 1 -> 452
+ITERAÇÃO: 11 - Atraso: 452
+
+Sequencia inicial 1 -> 452
+ITERAÇÃO: 12 - Atraso: 452
+
+Sequencia inicial 1 -> 452
+ITERAÇÃO: 13 - Atraso: 452
+
+Sequencia inicial 1 -> 452
+ITERAÇÃO: 14 - Atraso: 452
+
+Sequencia inicial 1 -> 452
+ITERAÇÃO: 15 - Atraso: 452
+
+Sequencia inicial 1 -> 485
+Melhor vizinho: 452
+
+Sequencia inicial 2 -> 452
+ITERAÇÃO: 16 - Atraso: 452
+
+Sequencia inicial 1 -> 485
+Melhor vizinho: 452
+
+Sequencia inicial 2 -> 452
+ITERAÇÃO: 17 - Atraso: 452
+
+Sequencia inicial 1 -> 485
+Melhor vizinho: 478
+
+Sequencia inicial 2 -> 478
+Melhor vizinho: 452
+
+Sequencia inicial 3 -> 452
+ITERAÇÃO: 18 - Atraso: 452
+
+Sequencia inicial 1 -> 452
+ITERAÇÃO: 19 - Atraso: 452
+
+Sequencia inicial 1 -> 452
+ITERAÇÃO: 20 - Atraso: 452
+
+Sequencia inicial 1 -> 452
+Atraso Máximo Iterated Greedy (IG): 452
+Sequência de Tarefas - Solução Final IG
+10 2 9 5 1 7 3 8 4 6 
+Tempo: 0.008388 segundos

@@ -1,0 +1,664 @@
+
+Calculando TP
+TP calculada
+Sequência de Tarefas - Solução Inicial EDD
+8 35 113 34 111 124 72 101 23 58 96 94 6 114 69 98 146 115 73 53 99 56 50 57 48 52 70 32 88 149 107 10 95 123 54 21 3 145 77 143 42 25 102 125 9 79 106 126 118 17 109 64 49 67 18 81 137 78 84 59 41 47 24 127 142 11 83 2 104 117 43 4 86 16 134 44 45 55 122 66 92 133 116 136 119 130 7 93 100 144 33 80 14 62 103 39 30 148 150 15 63 110 75 76 138 12 65 91 26 139 37 36 141 90 19 27 74 121 29 85 131 5 40 28 87 135 147 46 38 13 60 31 132 82 51 20 140 22 89 108 1 112 97 120 71 129 61 128 68 105 
+Atraso Máximo da solução inicial EDD: 5929
+
+Sequência de Tarefas - Solução Inicial Tempos Medios
+34 115 6 21 48 72 57 50 3 41 111 67 49 69 32 102 53 10 124 149 2 70 59 113 54 35 7 52 23 18 94 77 125 42 107 96 58 114 43 8 44 51 25 117 98 126 45 73 26 136 88 101 47 4 75 81 79 62 146 145 137 66 99 110 116 134 11 12 132 64 27 24 127 74 65 15 30 36 148 55 108 37 86 92 9 80 46 93 61 135 29 100 144 14 5 33 17 68 104 103 56 123 95 85 143 19 109 139 13 131 119 60 105 31 40 128 118 91 121 142 130 133 20 71 83 97 28 147 141 112 89 39 150 63 76 1 84 16 22 38 78 87 82 90 138 140 129 106 122 120 
+Atraso Máximo da solução inicial Tempos Medios: 7091
+
+Sequencia inicial 1 -> 7091
+Melhor vizinho: 6850
+
+Sequencia inicial 2 -> 6850
+Melhor vizinho: 6752
+
+Sequencia inicial 3 -> 6752
+Melhor vizinho: 6656
+
+Sequencia inicial 4 -> 6656
+Melhor vizinho: 6562
+
+Sequencia inicial 5 -> 6562
+Melhor vizinho: 6469
+
+Sequencia inicial 6 -> 6469
+Melhor vizinho: 6376
+
+Sequencia inicial 7 -> 6376
+Melhor vizinho: 6291
+
+Sequencia inicial 8 -> 6291
+Melhor vizinho: 6208
+
+Sequencia inicial 9 -> 6208
+Melhor vizinho: 6126
+
+Sequencia inicial 10 -> 6126
+Melhor vizinho: 6049
+
+Sequencia inicial 11 -> 6049
+Melhor vizinho: 5977
+
+Sequencia inicial 12 -> 5977
+Melhor vizinho: 5909
+
+Sequencia inicial 13 -> 5909
+Melhor vizinho: 5854
+
+Sequencia inicial 14 -> 5854
+Melhor vizinho: 5796
+
+Sequencia inicial 15 -> 5796
+Melhor vizinho: 5757
+
+Sequencia inicial 16 -> 5757
+Melhor vizinho: 5700
+
+Sequencia inicial 17 -> 5700
+Melhor vizinho: 5693
+
+Sequencia inicial 18 -> 5693
+Melhor vizinho: 5687
+
+Sequencia inicial 19 -> 5687
+Melhor vizinho: 5673
+
+Sequencia inicial 20 -> 5673
+Melhor vizinho: 5641
+
+Sequencia inicial 21 -> 5641
+Melhor vizinho: 5614
+
+Sequencia inicial 22 -> 5614
+Melhor vizinho: 5606
+
+Sequencia inicial 23 -> 5606
+Melhor vizinho: 5574
+
+Sequencia inicial 24 -> 5574
+Melhor vizinho: 5535
+
+Sequencia inicial 25 -> 5535
+Melhor vizinho: 5534
+
+Sequencia inicial 26 -> 5534
+Melhor vizinho: 5530
+
+Sequencia inicial 27 -> 5530
+Melhor vizinho: 5520
+
+Sequencia inicial 28 -> 5520
+Melhor vizinho: 5497
+
+Sequencia inicial 29 -> 5497
+Melhor vizinho: 5490
+
+Sequencia inicial 30 -> 5490
+Melhor vizinho: 5486
+
+Sequencia inicial 31 -> 5486
+Melhor vizinho: 5472
+
+Sequencia inicial 32 -> 5472
+Melhor vizinho: 5433
+
+Sequencia inicial 33 -> 5433
+Melhor vizinho: 5413
+
+Sequencia inicial 34 -> 5413
+Melhor vizinho: 5405
+
+Sequencia inicial 35 -> 5405
+Melhor vizinho: 5388
+
+Sequencia inicial 36 -> 5388
+ITERAÇÃO: 1 - Atraso: 5388
+
+Sequencia inicial 1 -> 5394
+Melhor vizinho: 5372
+
+Sequencia inicial 2 -> 5372
+Melhor vizinho: 5357
+
+Sequencia inicial 3 -> 5357
+Melhor vizinho: 5348
+
+Sequencia inicial 4 -> 5348
+Melhor vizinho: 5344
+
+Sequencia inicial 5 -> 5344
+Melhor vizinho: 5342
+
+Sequencia inicial 6 -> 5342
+Melhor vizinho: 5341
+
+Sequencia inicial 7 -> 5341
+Melhor vizinho: 5337
+
+Sequencia inicial 8 -> 5337
+Melhor vizinho: 5328
+
+Sequencia inicial 9 -> 5328
+Melhor vizinho: 5326
+
+Sequencia inicial 10 -> 5326
+Melhor vizinho: 5317
+
+Sequencia inicial 11 -> 5317
+ITERAÇÃO: 1 - Atraso: 5317
+
+Sequencia inicial 1 -> 5338
+Melhor vizinho: 5328
+
+Sequencia inicial 2 -> 5328
+Melhor vizinho: 5317
+
+Sequencia inicial 3 -> 5317
+Melhor vizinho: 5314
+
+Sequencia inicial 4 -> 5314
+ITERAÇÃO: 1 - Atraso: 5314
+
+Sequencia inicial 1 -> 5399
+Melhor vizinho: 5356
+
+Sequencia inicial 2 -> 5356
+Melhor vizinho: 5336
+
+Sequencia inicial 3 -> 5336
+Melhor vizinho: 5332
+
+Sequencia inicial 4 -> 5332
+Melhor vizinho: 5314
+
+Sequencia inicial 5 -> 5314
+Melhor vizinho: 5313
+
+Sequencia inicial 6 -> 5313
+ITERAÇÃO: 1 - Atraso: 5313
+
+Sequencia inicial 1 -> 5344
+Melhor vizinho: 5313
+
+Sequencia inicial 2 -> 5313
+ITERAÇÃO: 2 - Atraso: 5313
+
+Sequencia inicial 1 -> 5314
+Melhor vizinho: 5313
+
+Sequencia inicial 2 -> 5313
+ITERAÇÃO: 3 - Atraso: 5313
+
+Sequencia inicial 1 -> 5324
+Melhor vizinho: 5314
+
+Sequencia inicial 2 -> 5314
+ITERAÇÃO: 4 - Atraso: 5313
+
+Sequencia inicial 1 -> 5316
+Melhor vizinho: 5314
+
+Sequencia inicial 2 -> 5314
+Melhor vizinho: 5313
+
+Sequencia inicial 3 -> 5313
+ITERAÇÃO: 5 - Atraso: 5313
+
+Sequencia inicial 1 -> 5355
+Melhor vizinho: 5314
+
+Sequencia inicial 2 -> 5314
+Melhor vizinho: 5313
+
+Sequencia inicial 3 -> 5313
+ITERAÇÃO: 6 - Atraso: 5313
+
+Sequencia inicial 1 -> 5313
+ITERAÇÃO: 7 - Atraso: 5313
+
+Sequencia inicial 1 -> 5313
+ITERAÇÃO: 8 - Atraso: 5313
+
+Sequencia inicial 1 -> 5313
+ITERAÇÃO: 9 - Atraso: 5313
+
+Sequencia inicial 1 -> 5314
+Melhor vizinho: 5313
+
+Sequencia inicial 2 -> 5313
+ITERAÇÃO: 10 - Atraso: 5313
+
+Sequencia inicial 1 -> 5333
+Melhor vizinho: 5320
+
+Sequencia inicial 2 -> 5320
+ITERAÇÃO: 11 - Atraso: 5313
+
+Sequencia inicial 1 -> 5314
+Melhor vizinho: 5313
+
+Sequencia inicial 2 -> 5313
+ITERAÇÃO: 12 - Atraso: 5313
+
+Sequencia inicial 1 -> 5324
+Melhor vizinho: 5317
+
+Sequencia inicial 2 -> 5317
+Melhor vizinho: 5313
+
+Sequencia inicial 3 -> 5313
+ITERAÇÃO: 13 - Atraso: 5313
+
+Sequencia inicial 1 -> 5333
+Melhor vizinho: 5329
+
+Sequencia inicial 2 -> 5329
+Melhor vizinho: 5323
+
+Sequencia inicial 3 -> 5323
+Melhor vizinho: 5317
+
+Sequencia inicial 4 -> 5317
+Melhor vizinho: 5314
+
+Sequencia inicial 5 -> 5314
+ITERAÇÃO: 14 - Atraso: 5313
+
+Sequencia inicial 1 -> 5340
+Melhor vizinho: 5332
+
+Sequencia inicial 2 -> 5332
+ITERAÇÃO: 15 - Atraso: 5313
+
+Sequencia inicial 1 -> 5374
+Melhor vizinho: 5340
+
+Sequencia inicial 2 -> 5340
+Melhor vizinho: 5334
+
+Sequencia inicial 3 -> 5334
+Melhor vizinho: 5332
+
+Sequencia inicial 4 -> 5332
+ITERAÇÃO: 16 - Atraso: 5313
+
+Sequencia inicial 1 -> 5388
+Melhor vizinho: 5355
+
+Sequencia inicial 2 -> 5355
+Melhor vizinho: 5329
+
+Sequencia inicial 3 -> 5329
+Melhor vizinho: 5328
+
+Sequencia inicial 4 -> 5328
+ITERAÇÃO: 17 - Atraso: 5313
+
+Sequencia inicial 1 -> 5366
+Melhor vizinho: 5333
+
+Sequencia inicial 2 -> 5333
+Melhor vizinho: 5332
+
+Sequencia inicial 3 -> 5332
+Melhor vizinho: 5328
+
+Sequencia inicial 4 -> 5328
+ITERAÇÃO: 18 - Atraso: 5313
+
+Sequencia inicial 1 -> 5366
+Melhor vizinho: 5341
+
+Sequencia inicial 2 -> 5341
+Melhor vizinho: 5333
+
+Sequencia inicial 3 -> 5333
+ITERAÇÃO: 19 - Atraso: 5313
+
+Sequencia inicial 1 -> 5366
+Melhor vizinho: 5346
+
+Sequencia inicial 2 -> 5346
+Melhor vizinho: 5338
+
+Sequencia inicial 3 -> 5338
+ITERAÇÃO: 20 - Atraso: 5313
+
+Sequencia inicial 1 -> 5374
+Melhor vizinho: 5357
+
+Sequencia inicial 2 -> 5357
+Melhor vizinho: 5350
+
+Sequencia inicial 3 -> 5350
+Melhor vizinho: 5341
+
+Sequencia inicial 4 -> 5341
+Melhor vizinho: 5333
+
+Sequencia inicial 5 -> 5333
+Melhor vizinho: 5326
+
+Sequencia inicial 6 -> 5326
+Melhor vizinho: 5309
+
+Sequencia inicial 7 -> 5309
+ITERAÇÃO: 1 - Atraso: 5309
+
+Sequencia inicial 1 -> 5350
+Melhor vizinho: 5309
+
+Sequencia inicial 2 -> 5309
+ITERAÇÃO: 2 - Atraso: 5309
+
+Sequencia inicial 1 -> 5380
+Melhor vizinho: 5378
+
+Sequencia inicial 2 -> 5378
+Melhor vizinho: 5375
+
+Sequencia inicial 3 -> 5375
+Melhor vizinho: 5349
+
+Sequencia inicial 4 -> 5349
+Melhor vizinho: 5337
+
+Sequencia inicial 5 -> 5337
+Melhor vizinho: 5328
+
+Sequencia inicial 6 -> 5328
+Melhor vizinho: 5312
+
+Sequencia inicial 7 -> 5312
+Melhor vizinho: 5311
+
+Sequencia inicial 8 -> 5311
+ITERAÇÃO: 3 - Atraso: 5309
+
+Sequencia inicial 1 -> 5330
+Melhor vizinho: 5309
+
+Sequencia inicial 2 -> 5309
+ITERAÇÃO: 4 - Atraso: 5309
+
+Sequencia inicial 1 -> 5311
+Melhor vizinho: 5309
+
+Sequencia inicial 2 -> 5309
+ITERAÇÃO: 5 - Atraso: 5309
+
+Sequencia inicial 1 -> 5323
+Melhor vizinho: 5307
+
+Sequencia inicial 2 -> 5307
+Melhor vizinho: 5304
+
+Sequencia inicial 3 -> 5304
+Melhor vizinho: 5303
+
+Sequencia inicial 4 -> 5303
+Melhor vizinho: 5302
+
+Sequencia inicial 5 -> 5302
+ITERAÇÃO: 1 - Atraso: 5302
+
+Sequencia inicial 1 -> 5343
+Melhor vizinho: 5303
+
+Sequencia inicial 2 -> 5303
+Melhor vizinho: 5302
+
+Sequencia inicial 3 -> 5302
+ITERAÇÃO: 2 - Atraso: 5302
+
+Sequencia inicial 1 -> 5323
+Melhor vizinho: 5317
+
+Sequencia inicial 2 -> 5317
+Melhor vizinho: 5296
+
+Sequencia inicial 3 -> 5296
+Melhor vizinho: 5295
+
+Sequencia inicial 4 -> 5295
+Melhor vizinho: 5291
+
+Sequencia inicial 5 -> 5291
+Melhor vizinho: 5289
+
+Sequencia inicial 6 -> 5289
+ITERAÇÃO: 1 - Atraso: 5289
+
+Sequencia inicial 1 -> 5291
+Melhor vizinho: 5289
+
+Sequencia inicial 2 -> 5289
+ITERAÇÃO: 2 - Atraso: 5289
+
+Sequencia inicial 1 -> 5296
+Melhor vizinho: 5290
+
+Sequencia inicial 2 -> 5290
+Melhor vizinho: 5289
+
+Sequencia inicial 3 -> 5289
+ITERAÇÃO: 3 - Atraso: 5289
+
+Sequencia inicial 1 -> 5354
+Melhor vizinho: 5308
+
+Sequencia inicial 2 -> 5308
+Melhor vizinho: 5289
+
+Sequencia inicial 3 -> 5289
+ITERAÇÃO: 4 - Atraso: 5289
+
+Sequencia inicial 1 -> 5310
+Melhor vizinho: 5289
+
+Sequencia inicial 2 -> 5289
+ITERAÇÃO: 5 - Atraso: 5289
+
+Sequencia inicial 1 -> 5289
+ITERAÇÃO: 6 - Atraso: 5289
+
+Sequencia inicial 1 -> 5292
+Melhor vizinho: 5289
+
+Sequencia inicial 2 -> 5289
+ITERAÇÃO: 7 - Atraso: 5289
+
+Sequencia inicial 1 -> 5321
+Melhor vizinho: 5294
+
+Sequencia inicial 2 -> 5294
+Melhor vizinho: 5293
+
+Sequencia inicial 3 -> 5293
+ITERAÇÃO: 8 - Atraso: 5289
+
+Sequencia inicial 1 -> 5289
+ITERAÇÃO: 9 - Atraso: 5289
+
+Sequencia inicial 1 -> 5292
+Melhor vizinho: 5289
+
+Sequencia inicial 2 -> 5289
+ITERAÇÃO: 10 - Atraso: 5289
+
+Sequencia inicial 1 -> 5330
+Melhor vizinho: 5307
+
+Sequencia inicial 2 -> 5307
+Melhor vizinho: 5294
+
+Sequencia inicial 3 -> 5294
+Melhor vizinho: 5289
+
+Sequencia inicial 4 -> 5289
+ITERAÇÃO: 11 - Atraso: 5289
+
+Sequencia inicial 1 -> 5399
+Melhor vizinho: 5355
+
+Sequencia inicial 2 -> 5355
+Melhor vizinho: 5334
+
+Sequencia inicial 3 -> 5334
+Melhor vizinho: 5322
+
+Sequencia inicial 4 -> 5322
+Melhor vizinho: 5318
+
+Sequencia inicial 5 -> 5318
+Melhor vizinho: 5313
+
+Sequencia inicial 6 -> 5313
+ITERAÇÃO: 12 - Atraso: 5289
+
+Sequencia inicial 1 -> 5406
+Melhor vizinho: 5391
+
+Sequencia inicial 2 -> 5391
+Melhor vizinho: 5383
+
+Sequencia inicial 3 -> 5383
+Melhor vizinho: 5377
+
+Sequencia inicial 4 -> 5377
+Melhor vizinho: 5370
+
+Sequencia inicial 5 -> 5370
+ITERAÇÃO: 13 - Atraso: 5289
+
+Sequencia inicial 1 -> 5381
+Melhor vizinho: 5333
+
+Sequencia inicial 2 -> 5333
+Melhor vizinho: 5325
+
+Sequencia inicial 3 -> 5325
+Melhor vizinho: 5314
+
+Sequencia inicial 4 -> 5314
+ITERAÇÃO: 14 - Atraso: 5289
+
+Sequencia inicial 1 -> 5430
+Melhor vizinho: 5417
+
+Sequencia inicial 2 -> 5417
+Melhor vizinho: 5415
+
+Sequencia inicial 3 -> 5415
+Melhor vizinho: 5392
+
+Sequencia inicial 4 -> 5392
+Melhor vizinho: 5353
+
+Sequencia inicial 5 -> 5353
+Melhor vizinho: 5349
+
+Sequencia inicial 6 -> 5349
+Melhor vizinho: 5342
+
+Sequencia inicial 7 -> 5342
+Melhor vizinho: 5333
+
+Sequencia inicial 8 -> 5333
+ITERAÇÃO: 15 - Atraso: 5289
+
+Sequencia inicial 1 -> 5411
+Melhor vizinho: 5393
+
+Sequencia inicial 2 -> 5393
+Melhor vizinho: 5365
+
+Sequencia inicial 3 -> 5365
+Melhor vizinho: 5347
+
+Sequencia inicial 4 -> 5347
+ITERAÇÃO: 16 - Atraso: 5289
+
+Sequencia inicial 1 -> 5403
+Melhor vizinho: 5396
+
+Sequencia inicial 2 -> 5396
+Melhor vizinho: 5394
+
+Sequencia inicial 3 -> 5394
+Melhor vizinho: 5313
+
+Sequencia inicial 4 -> 5313
+ITERAÇÃO: 17 - Atraso: 5289
+
+Sequencia inicial 1 -> 5397
+Melhor vizinho: 5394
+
+Sequencia inicial 2 -> 5394
+Melhor vizinho: 5371
+
+Sequencia inicial 3 -> 5371
+ITERAÇÃO: 18 - Atraso: 5289
+
+Sequencia inicial 1 -> 5397
+Melhor vizinho: 5396
+
+Sequencia inicial 2 -> 5396
+Melhor vizinho: 5395
+
+Sequencia inicial 3 -> 5395
+Melhor vizinho: 5322
+
+Sequencia inicial 4 -> 5322
+Melhor vizinho: 5318
+
+Sequencia inicial 5 -> 5318
+Melhor vizinho: 5313
+
+Sequencia inicial 6 -> 5313
+ITERAÇÃO: 19 - Atraso: 5289
+
+Sequencia inicial 1 -> 5400
+Melhor vizinho: 5380
+
+Sequencia inicial 2 -> 5380
+Melhor vizinho: 5360
+
+Sequencia inicial 3 -> 5360
+Melhor vizinho: 5352
+
+Sequencia inicial 4 -> 5352
+Melhor vizinho: 5341
+
+Sequencia inicial 5 -> 5341
+Melhor vizinho: 5332
+
+Sequencia inicial 6 -> 5332
+Melhor vizinho: 5313
+
+Sequencia inicial 7 -> 5313
+ITERAÇÃO: 20 - Atraso: 5289
+
+Sequencia inicial 1 -> 5396
+Melhor vizinho: 5395
+
+Sequencia inicial 2 -> 5395
+Melhor vizinho: 5374
+
+Sequencia inicial 3 -> 5374
+Melhor vizinho: 5338
+
+Sequencia inicial 4 -> 5338
+Melhor vizinho: 5334
+
+Sequencia inicial 5 -> 5334
+Melhor vizinho: 5314
+
+Sequencia inicial 6 -> 5314
+Atraso Máximo Iterated Greedy (IG): 5289
+Sequência de Tarefas - Solução Final IG
+120 28 84 94 27 8 135 59 54 32 116 51 10 146 33 34 13 129 145 130 1 80 12 144 133 124 83 121 93 57 87 23 69 98 109 26 86 76 79 126 72 45 50 143 56 100 21 53 149 123 88 55 141 117 115 30 75 148 114 119 2 9 65 49 137 105 106 101 111 99 35 81 77 96 52 16 78 74 7 92 102 91 44 39 58 127 17 103 40 62 4 41 42 20 138 60 147 11 47 150 37 24 64 139 71 113 18 97 25 73 48 125 118 134 6 15 70 19 3 110 142 107 5 90 95 67 63 46 66 122 43 136 104 36 68 112 14 85 82 128 29 38 131 108 140 132 31 22 89 61 
+Tempo: 356.216 segundos

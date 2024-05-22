@@ -1,0 +1,148 @@
+
+Calculando TP
+TP calculada
+Sequência de Tarefas - Solução Inicial EDD
+16 4 11 19 2 13 14 17 15 5 18 1 7 20 12 8 10 9 6 3 
+Atraso Máximo da solução inicial EDD: 854
+
+Sequência de Tarefas - Solução Inicial Tempos Medios
+13 19 16 4 5 14 12 20 8 10 6 15 1 9 18 3 11 2 7 17 
+Atraso Máximo da solução inicial Tempos Medios: 935
+
+Sequencia inicial 1 -> 935
+Melhor vizinho: 849
+
+Sequencia inicial 2 -> 849
+Melhor vizinho: 807
+
+Sequencia inicial 3 -> 807
+Melhor vizinho: 774
+
+Sequencia inicial 4 -> 774
+ITERAÇÃO: 1 - Atraso: 774
+
+Sequencia inicial 1 -> 779
+Melhor vizinho: 774
+
+Sequencia inicial 2 -> 774
+ITERAÇÃO: 2 - Atraso: 774
+
+Sequencia inicial 1 -> 775
+Melhor vizinho: 774
+
+Sequencia inicial 2 -> 774
+ITERAÇÃO: 3 - Atraso: 774
+
+Sequencia inicial 1 -> 774
+ITERAÇÃO: 4 - Atraso: 774
+
+Sequencia inicial 1 -> 774
+ITERAÇÃO: 5 - Atraso: 774
+
+Sequencia inicial 1 -> 774
+ITERAÇÃO: 6 - Atraso: 774
+
+Sequencia inicial 1 -> 774
+ITERAÇÃO: 7 - Atraso: 774
+
+Sequencia inicial 1 -> 805
+Melhor vizinho: 774
+
+Sequencia inicial 2 -> 774
+ITERAÇÃO: 8 - Atraso: 774
+
+Sequencia inicial 1 -> 805
+Melhor vizinho: 774
+
+Sequencia inicial 2 -> 774
+ITERAÇÃO: 9 - Atraso: 774
+
+Sequencia inicial 1 -> 820
+Melhor vizinho: 805
+
+Sequencia inicial 2 -> 805
+Melhor vizinho: 774
+
+Sequencia inicial 3 -> 774
+ITERAÇÃO: 10 - Atraso: 774
+
+Sequencia inicial 1 -> 806
+Melhor vizinho: 774
+
+Sequencia inicial 2 -> 774
+ITERAÇÃO: 11 - Atraso: 774
+
+Sequencia inicial 1 -> 805
+Melhor vizinho: 774
+
+Sequencia inicial 2 -> 774
+ITERAÇÃO: 12 - Atraso: 774
+
+Sequencia inicial 1 -> 805
+Melhor vizinho: 774
+
+Sequencia inicial 2 -> 774
+ITERAÇÃO: 13 - Atraso: 774
+
+Sequencia inicial 1 -> 805
+Melhor vizinho: 774
+
+Sequencia inicial 2 -> 774
+ITERAÇÃO: 14 - Atraso: 774
+
+Sequencia inicial 1 -> 805
+Melhor vizinho: 774
+
+Sequencia inicial 2 -> 774
+ITERAÇÃO: 15 - Atraso: 774
+
+Sequencia inicial 1 -> 805
+Melhor vizinho: 774
+
+Sequencia inicial 2 -> 774
+ITERAÇÃO: 16 - Atraso: 774
+
+Sequencia inicial 1 -> 805
+Melhor vizinho: 774
+
+Sequencia inicial 2 -> 774
+ITERAÇÃO: 17 - Atraso: 774
+
+Sequencia inicial 1 -> 805
+Melhor vizinho: 786
+
+Sequencia inicial 2 -> 786
+Melhor vizinho: 774
+
+Sequencia inicial 3 -> 774
+ITERAÇÃO: 18 - Atraso: 774
+
+Sequencia inicial 1 -> 805
+Melhor vizinho: 786
+
+Sequencia inicial 2 -> 786
+Melhor vizinho: 774
+
+Sequencia inicial 3 -> 774
+ITERAÇÃO: 19 - Atraso: 774
+
+Sequencia inicial 1 -> 851
+Melhor vizinho: 798
+
+Sequencia inicial 2 -> 798
+Melhor vizinho: 774
+
+Sequencia inicial 3 -> 774
+ITERAÇÃO: 20 - Atraso: 774
+
+Sequencia inicial 1 -> 851
+Melhor vizinho: 798
+
+Sequencia inicial 2 -> 798
+Melhor vizinho: 774
+
+Sequencia inicial 3 -> 774
+Atraso Máximo Iterated Greedy (IG): 774
+Sequência de Tarefas - Solução Final IG
+1 15 11 6 4 16 17 13 20 5 8 3 12 10 18 19 9 7 2 14 
+Tempo: 0.053375 segundos

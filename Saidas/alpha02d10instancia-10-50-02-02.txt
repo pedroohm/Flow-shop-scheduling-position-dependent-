@@ -1,0 +1,1516 @@
+
+Calculando TP
+TP calculada
+Sequência de Tarefas - Solução Inicial EDD
+34 14 7 13 39 20 27 40 44 38 32 17 23 25 37 12 21 28 43 24 36 18 46 49 11 2 19 31 30 16 1 33 42 22 45 26 6 41 5 29 15 8 3 35 9 50 4 48 10 47 
+Atraso Máximo da solução inicial EDD: 4467.73
+
+Sequência de Tarefas - Solução Inicial Tempos Medios
+7 16 28 18 20 25 27 13 36 43 9 29 40 42 6 49 30 1 37 15 44 26 21 38 50 12 41 32 17 31 39 45 46 11 8 2 35 48 14 34 10 47 3 5 23 4 22 19 24 33 
+Atraso Máximo da solução inicial Tempos Medios: 4168.37
+
+Sequencia inicial 1 -> 4168.37
+Melhor vizinho: 4101.32
+
+Sequencia inicial 2 -> 4101.32
+Melhor vizinho: 4004.95
+
+Sequencia inicial 3 -> 4004.95
+Melhor vizinho: 3932.56
+
+Sequencia inicial 4 -> 3932.56
+Melhor vizinho: 3872.69
+
+Sequencia inicial 5 -> 3872.69
+Melhor vizinho: 3817.3
+
+Sequencia inicial 6 -> 3817.3
+Melhor vizinho: 3779.47
+
+Sequencia inicial 7 -> 3779.47
+Melhor vizinho: 3754.6
+
+Sequencia inicial 8 -> 3754.6
+Melhor vizinho: 3725.83
+
+Sequencia inicial 9 -> 3725.83
+Melhor vizinho: 3704.56
+
+Sequencia inicial 10 -> 3704.56
+Melhor vizinho: 3691.31
+
+Sequencia inicial 11 -> 3691.31
+Melhor vizinho: 3681.83
+
+Sequencia inicial 12 -> 3681.83
+Melhor vizinho: 3652.69
+
+Sequencia inicial 13 -> 3652.69
+Melhor vizinho: 3641.89
+
+Sequencia inicial 14 -> 3641.89
+Melhor vizinho: 3594.36
+
+Sequencia inicial 15 -> 3594.36
+Melhor vizinho: 3567.16
+
+Sequencia inicial 16 -> 3567.16
+Melhor vizinho: 3540.23
+
+Sequencia inicial 17 -> 3540.23
+Melhor vizinho: 3479.42
+
+Sequencia inicial 18 -> 3479.42
+Melhor vizinho: 3465.88
+
+Sequencia inicial 19 -> 3465.88
+Melhor vizinho: 3436.67
+
+Sequencia inicial 20 -> 3436.67
+Melhor vizinho: 3430.71
+
+Sequencia inicial 21 -> 3430.71
+Melhor vizinho: 3406.11
+
+Sequencia inicial 22 -> 3406.11
+Melhor vizinho: 3395.7
+
+Sequencia inicial 23 -> 3395.7
+Melhor vizinho: 3385.43
+
+Sequencia inicial 24 -> 3385.43
+Melhor vizinho: 3378.55
+
+Sequencia inicial 25 -> 3378.55
+Melhor vizinho: 3361.9
+
+Sequencia inicial 26 -> 3361.9
+Melhor vizinho: 3357.41
+
+Sequencia inicial 27 -> 3357.41
+Melhor vizinho: 3350.81
+
+Sequencia inicial 28 -> 3350.81
+Melhor vizinho: 3333.18
+
+Sequencia inicial 29 -> 3333.18
+Melhor vizinho: 3323.47
+
+Sequencia inicial 30 -> 3323.47
+Melhor vizinho: 3318.84
+
+Sequencia inicial 31 -> 3318.84
+Melhor vizinho: 3315.53
+
+Sequencia inicial 32 -> 3315.53
+Melhor vizinho: 3302.78
+
+Sequencia inicial 33 -> 3302.78
+Melhor vizinho: 3295.85
+
+Sequencia inicial 34 -> 3295.85
+Melhor vizinho: 3289.06
+
+Sequencia inicial 35 -> 3289.06
+Melhor vizinho: 3275.28
+
+Sequencia inicial 36 -> 3275.28
+Melhor vizinho: 3268.56
+
+Sequencia inicial 37 -> 3268.56
+Melhor vizinho: 3265.97
+
+Sequencia inicial 38 -> 3265.97
+Melhor vizinho: 3264.56
+
+Sequencia inicial 39 -> 3264.56
+Melhor vizinho: 3263.83
+
+Sequencia inicial 40 -> 3263.83
+Melhor vizinho: 3260.98
+
+Sequencia inicial 41 -> 3260.98
+ITERAÇÃO: 1 - Atraso: 3260.98
+
+Sequencia inicial 1 -> 3349.86
+Melhor vizinho: 3318.76
+
+Sequencia inicial 2 -> 3318.76
+Melhor vizinho: 3307.6
+
+Sequencia inicial 3 -> 3307.6
+Melhor vizinho: 3303.93
+
+Sequencia inicial 4 -> 3303.93
+Melhor vizinho: 3298.62
+
+Sequencia inicial 5 -> 3298.62
+Melhor vizinho: 3275.3
+
+Sequencia inicial 6 -> 3275.3
+Melhor vizinho: 3272.75
+
+Sequencia inicial 7 -> 3272.75
+Melhor vizinho: 3249.04
+
+Sequencia inicial 8 -> 3249.04
+Melhor vizinho: 3233.63
+
+Sequencia inicial 9 -> 3233.63
+Melhor vizinho: 3226.28
+
+Sequencia inicial 10 -> 3226.28
+Melhor vizinho: 3224.75
+
+Sequencia inicial 11 -> 3224.75
+Melhor vizinho: 3223.54
+
+Sequencia inicial 12 -> 3223.54
+ITERAÇÃO: 1 - Atraso: 3223.54
+
+Sequencia inicial 1 -> 3316.53
+Melhor vizinho: 3290.2
+
+Sequencia inicial 2 -> 3290.2
+Melhor vizinho: 3283.04
+
+Sequencia inicial 3 -> 3283.04
+Melhor vizinho: 3274.63
+
+Sequencia inicial 4 -> 3274.63
+Melhor vizinho: 3265.06
+
+Sequencia inicial 5 -> 3265.06
+Melhor vizinho: 3261.08
+
+Sequencia inicial 6 -> 3261.08
+Melhor vizinho: 3257.96
+
+Sequencia inicial 7 -> 3257.96
+Melhor vizinho: 3253.79
+
+Sequencia inicial 8 -> 3253.79
+Melhor vizinho: 3246.89
+
+Sequencia inicial 9 -> 3246.89
+Melhor vizinho: 3242.83
+
+Sequencia inicial 10 -> 3242.83
+Melhor vizinho: 3240.56
+
+Sequencia inicial 11 -> 3240.56
+Melhor vizinho: 3237.37
+
+Sequencia inicial 12 -> 3237.37
+Melhor vizinho: 3236.13
+
+Sequencia inicial 13 -> 3236.13
+Melhor vizinho: 3234.83
+
+Sequencia inicial 14 -> 3234.83
+Melhor vizinho: 3234.52
+
+Sequencia inicial 15 -> 3234.52
+Melhor vizinho: 3234.27
+
+Sequencia inicial 16 -> 3234.27
+Melhor vizinho: 3234.11
+
+Sequencia inicial 17 -> 3234.11
+Melhor vizinho: 3233.97
+
+Sequencia inicial 18 -> 3233.97
+Melhor vizinho: 3233.63
+
+Sequencia inicial 19 -> 3233.63
+ITERAÇÃO: 2 - Atraso: 3223.54
+
+Sequencia inicial 1 -> 3320.1
+Melhor vizinho: 3288.85
+
+Sequencia inicial 2 -> 3288.85
+Melhor vizinho: 3278.29
+
+Sequencia inicial 3 -> 3278.29
+Melhor vizinho: 3271.24
+
+Sequencia inicial 4 -> 3271.24
+Melhor vizinho: 3259.95
+
+Sequencia inicial 5 -> 3259.95
+Melhor vizinho: 3233.94
+
+Sequencia inicial 6 -> 3233.94
+Melhor vizinho: 3218.44
+
+Sequencia inicial 7 -> 3218.44
+Melhor vizinho: 3206.93
+
+Sequencia inicial 8 -> 3206.93
+Melhor vizinho: 3203.34
+
+Sequencia inicial 9 -> 3203.34
+Melhor vizinho: 3200.5
+
+Sequencia inicial 10 -> 3200.5
+Melhor vizinho: 3192.82
+
+Sequencia inicial 11 -> 3192.82
+Melhor vizinho: 3191.85
+
+Sequencia inicial 12 -> 3191.85
+Melhor vizinho: 3191.63
+
+Sequencia inicial 13 -> 3191.63
+Melhor vizinho: 3191.42
+
+Sequencia inicial 14 -> 3191.42
+Melhor vizinho: 3190.3
+
+Sequencia inicial 15 -> 3190.3
+Melhor vizinho: 3186.89
+
+Sequencia inicial 16 -> 3186.89
+Melhor vizinho: 3185.17
+
+Sequencia inicial 17 -> 3185.17
+Melhor vizinho: 3183.91
+
+Sequencia inicial 18 -> 3183.91
+Melhor vizinho: 3182.76
+
+Sequencia inicial 19 -> 3182.76
+Melhor vizinho: 3180.69
+
+Sequencia inicial 20 -> 3180.69
+Melhor vizinho: 3179.82
+
+Sequencia inicial 21 -> 3179.82
+Melhor vizinho: 3177.82
+
+Sequencia inicial 22 -> 3177.82
+Melhor vizinho: 3177.6
+
+Sequencia inicial 23 -> 3177.6
+Melhor vizinho: 3177.45
+
+Sequencia inicial 24 -> 3177.45
+Melhor vizinho: 3175.8
+
+Sequencia inicial 25 -> 3175.8
+ITERAÇÃO: 1 - Atraso: 3175.8
+
+Sequencia inicial 1 -> 3298.61
+Melhor vizinho: 3290.98
+
+Sequencia inicial 2 -> 3290.98
+Melhor vizinho: 3289.27
+
+Sequencia inicial 3 -> 3289.27
+Melhor vizinho: 3288.58
+
+Sequencia inicial 4 -> 3288.58
+Melhor vizinho: 3288.16
+
+Sequencia inicial 5 -> 3288.16
+Melhor vizinho: 3285.72
+
+Sequencia inicial 6 -> 3285.72
+Melhor vizinho: 3284.43
+
+Sequencia inicial 7 -> 3284.43
+Melhor vizinho: 3284.16
+
+Sequencia inicial 8 -> 3284.16
+Melhor vizinho: 3280.21
+
+Sequencia inicial 9 -> 3280.21
+Melhor vizinho: 3279.46
+
+Sequencia inicial 10 -> 3279.46
+Melhor vizinho: 3279.21
+
+Sequencia inicial 11 -> 3279.21
+Melhor vizinho: 3279.2
+
+Sequencia inicial 12 -> 3279.2
+ITERAÇÃO: 2 - Atraso: 3175.8
+
+Sequencia inicial 1 -> 3353.92
+Melhor vizinho: 3327.25
+
+Sequencia inicial 2 -> 3327.25
+Melhor vizinho: 3325.09
+
+Sequencia inicial 3 -> 3325.09
+Melhor vizinho: 3320.68
+
+Sequencia inicial 4 -> 3320.68
+Melhor vizinho: 3301.04
+
+Sequencia inicial 5 -> 3301.04
+Melhor vizinho: 3290.05
+
+Sequencia inicial 6 -> 3290.05
+Melhor vizinho: 3283.55
+
+Sequencia inicial 7 -> 3283.55
+Melhor vizinho: 3277.5
+
+Sequencia inicial 8 -> 3277.5
+ITERAÇÃO: 3 - Atraso: 3175.8
+
+Sequencia inicial 1 -> 3356.56
+Melhor vizinho: 3347.14
+
+Sequencia inicial 2 -> 3347.14
+Melhor vizinho: 3342.27
+
+Sequencia inicial 3 -> 3342.27
+Melhor vizinho: 3337.3
+
+Sequencia inicial 4 -> 3337.3
+Melhor vizinho: 3333.94
+
+Sequencia inicial 5 -> 3333.94
+Melhor vizinho: 3330.29
+
+Sequencia inicial 6 -> 3330.29
+Melhor vizinho: 3328.7
+
+Sequencia inicial 7 -> 3328.7
+Melhor vizinho: 3322.36
+
+Sequencia inicial 8 -> 3322.36
+Melhor vizinho: 3314.57
+
+Sequencia inicial 9 -> 3314.57
+Melhor vizinho: 3310.06
+
+Sequencia inicial 10 -> 3310.06
+Melhor vizinho: 3309.15
+
+Sequencia inicial 11 -> 3309.15
+Melhor vizinho: 3307.68
+
+Sequencia inicial 12 -> 3307.68
+Melhor vizinho: 3307.2
+
+Sequencia inicial 13 -> 3307.2
+Melhor vizinho: 3306.08
+
+Sequencia inicial 14 -> 3306.08
+Melhor vizinho: 3302.99
+
+Sequencia inicial 15 -> 3302.99
+Melhor vizinho: 3302.46
+
+Sequencia inicial 16 -> 3302.46
+Melhor vizinho: 3300.96
+
+Sequencia inicial 17 -> 3300.96
+Melhor vizinho: 3300.52
+
+Sequencia inicial 18 -> 3300.52
+ITERAÇÃO: 4 - Atraso: 3175.8
+
+Sequencia inicial 1 -> 3446.21
+Melhor vizinho: 3430.08
+
+Sequencia inicial 2 -> 3430.08
+Melhor vizinho: 3414.17
+
+Sequencia inicial 3 -> 3414.17
+Melhor vizinho: 3392.73
+
+Sequencia inicial 4 -> 3392.73
+Melhor vizinho: 3379.28
+
+Sequencia inicial 5 -> 3379.28
+Melhor vizinho: 3372.09
+
+Sequencia inicial 6 -> 3372.09
+Melhor vizinho: 3367.61
+
+Sequencia inicial 7 -> 3367.61
+Melhor vizinho: 3357.53
+
+Sequencia inicial 8 -> 3357.53
+Melhor vizinho: 3351.2
+
+Sequencia inicial 9 -> 3351.2
+Melhor vizinho: 3347.48
+
+Sequencia inicial 10 -> 3347.48
+Melhor vizinho: 3331.85
+
+Sequencia inicial 11 -> 3331.85
+Melhor vizinho: 3325.59
+
+Sequencia inicial 12 -> 3325.59
+Melhor vizinho: 3322.6
+
+Sequencia inicial 13 -> 3322.6
+Melhor vizinho: 3317.34
+
+Sequencia inicial 14 -> 3317.34
+Melhor vizinho: 3316.91
+
+Sequencia inicial 15 -> 3316.91
+Melhor vizinho: 3316.65
+
+Sequencia inicial 16 -> 3316.65
+Melhor vizinho: 3312.76
+
+Sequencia inicial 17 -> 3312.76
+Melhor vizinho: 3311.83
+
+Sequencia inicial 18 -> 3311.83
+Melhor vizinho: 3311.05
+
+Sequencia inicial 19 -> 3311.05
+Melhor vizinho: 3310.2
+
+Sequencia inicial 20 -> 3310.2
+Melhor vizinho: 3309.41
+
+Sequencia inicial 21 -> 3309.41
+ITERAÇÃO: 5 - Atraso: 3175.8
+
+Sequencia inicial 1 -> 3563.76
+Melhor vizinho: 3497.66
+
+Sequencia inicial 2 -> 3497.66
+Melhor vizinho: 3456.6
+
+Sequencia inicial 3 -> 3456.6
+Melhor vizinho: 3448.42
+
+Sequencia inicial 4 -> 3448.42
+Melhor vizinho: 3439.83
+
+Sequencia inicial 5 -> 3439.83
+Melhor vizinho: 3413.86
+
+Sequencia inicial 6 -> 3413.86
+Melhor vizinho: 3407.8
+
+Sequencia inicial 7 -> 3407.8
+Melhor vizinho: 3401.2
+
+Sequencia inicial 8 -> 3401.2
+Melhor vizinho: 3376.22
+
+Sequencia inicial 9 -> 3376.22
+Melhor vizinho: 3358.89
+
+Sequencia inicial 10 -> 3358.89
+Melhor vizinho: 3347.22
+
+Sequencia inicial 11 -> 3347.22
+Melhor vizinho: 3345.22
+
+Sequencia inicial 12 -> 3345.22
+Melhor vizinho: 3343.28
+
+Sequencia inicial 13 -> 3343.28
+Melhor vizinho: 3341.4
+
+Sequencia inicial 14 -> 3341.4
+Melhor vizinho: 3338.96
+
+Sequencia inicial 15 -> 3338.96
+Melhor vizinho: 3318.69
+
+Sequencia inicial 16 -> 3318.69
+Melhor vizinho: 3309.28
+
+Sequencia inicial 17 -> 3309.28
+Melhor vizinho: 3290.2
+
+Sequencia inicial 18 -> 3290.2
+Melhor vizinho: 3279.09
+
+Sequencia inicial 19 -> 3279.09
+Melhor vizinho: 3271.5
+
+Sequencia inicial 20 -> 3271.5
+Melhor vizinho: 3269.25
+
+Sequencia inicial 21 -> 3269.25
+Melhor vizinho: 3268.97
+
+Sequencia inicial 22 -> 3268.97
+Melhor vizinho: 3266.61
+
+Sequencia inicial 23 -> 3266.61
+Melhor vizinho: 3265.36
+
+Sequencia inicial 24 -> 3265.36
+Melhor vizinho: 3264.72
+
+Sequencia inicial 25 -> 3264.72
+Melhor vizinho: 3264.36
+
+Sequencia inicial 26 -> 3264.36
+ITERAÇÃO: 6 - Atraso: 3175.8
+
+Sequencia inicial 1 -> 3600.14
+Melhor vizinho: 3551.03
+
+Sequencia inicial 2 -> 3551.03
+Melhor vizinho: 3472.18
+
+Sequencia inicial 3 -> 3472.18
+Melhor vizinho: 3450.99
+
+Sequencia inicial 4 -> 3450.99
+Melhor vizinho: 3438.43
+
+Sequencia inicial 5 -> 3438.43
+Melhor vizinho: 3379.65
+
+Sequencia inicial 6 -> 3379.65
+Melhor vizinho: 3363.98
+
+Sequencia inicial 7 -> 3363.98
+Melhor vizinho: 3357.27
+
+Sequencia inicial 8 -> 3357.27
+Melhor vizinho: 3348.52
+
+Sequencia inicial 9 -> 3348.52
+Melhor vizinho: 3342.27
+
+Sequencia inicial 10 -> 3342.27
+Melhor vizinho: 3326.69
+
+Sequencia inicial 11 -> 3326.69
+Melhor vizinho: 3318.47
+
+Sequencia inicial 12 -> 3318.47
+Melhor vizinho: 3302.24
+
+Sequencia inicial 13 -> 3302.24
+Melhor vizinho: 3281.8
+
+Sequencia inicial 14 -> 3281.8
+Melhor vizinho: 3274.1
+
+Sequencia inicial 15 -> 3274.1
+Melhor vizinho: 3272.3
+
+Sequencia inicial 16 -> 3272.3
+Melhor vizinho: 3264.64
+
+Sequencia inicial 17 -> 3264.64
+Melhor vizinho: 3262.67
+
+Sequencia inicial 18 -> 3262.67
+Melhor vizinho: 3256.66
+
+Sequencia inicial 19 -> 3256.66
+Melhor vizinho: 3255.12
+
+Sequencia inicial 20 -> 3255.12
+Melhor vizinho: 3253.72
+
+Sequencia inicial 21 -> 3253.72
+Melhor vizinho: 3253.36
+
+Sequencia inicial 22 -> 3253.36
+Melhor vizinho: 3251.96
+
+Sequencia inicial 23 -> 3251.96
+Melhor vizinho: 3251.12
+
+Sequencia inicial 24 -> 3251.12
+Melhor vizinho: 3250.57
+
+Sequencia inicial 25 -> 3250.57
+Melhor vizinho: 3250.48
+
+Sequencia inicial 26 -> 3250.48
+Melhor vizinho: 3250.2
+
+Sequencia inicial 27 -> 3250.2
+Melhor vizinho: 3248.42
+
+Sequencia inicial 28 -> 3248.42
+Melhor vizinho: 3247.52
+
+Sequencia inicial 29 -> 3247.52
+ITERAÇÃO: 7 - Atraso: 3175.8
+
+Sequencia inicial 1 -> 3584.93
+Melhor vizinho: 3499.11
+
+Sequencia inicial 2 -> 3499.11
+Melhor vizinho: 3442.31
+
+Sequencia inicial 3 -> 3442.31
+Melhor vizinho: 3424.33
+
+Sequencia inicial 4 -> 3424.33
+Melhor vizinho: 3380.86
+
+Sequencia inicial 5 -> 3380.86
+Melhor vizinho: 3372.37
+
+Sequencia inicial 6 -> 3372.37
+Melhor vizinho: 3350.69
+
+Sequencia inicial 7 -> 3350.69
+Melhor vizinho: 3343.34
+
+Sequencia inicial 8 -> 3343.34
+Melhor vizinho: 3336.44
+
+Sequencia inicial 9 -> 3336.44
+Melhor vizinho: 3331.82
+
+Sequencia inicial 10 -> 3331.82
+Melhor vizinho: 3329.45
+
+Sequencia inicial 11 -> 3329.45
+Melhor vizinho: 3326.83
+
+Sequencia inicial 12 -> 3326.83
+Melhor vizinho: 3325.64
+
+Sequencia inicial 13 -> 3325.64
+Melhor vizinho: 3325.46
+
+Sequencia inicial 14 -> 3325.46
+Melhor vizinho: 3323.9
+
+Sequencia inicial 15 -> 3323.9
+Melhor vizinho: 3322.58
+
+Sequencia inicial 16 -> 3322.58
+Melhor vizinho: 3321.96
+
+Sequencia inicial 17 -> 3321.96
+Melhor vizinho: 3319.15
+
+Sequencia inicial 18 -> 3319.15
+Melhor vizinho: 3300.41
+
+Sequencia inicial 19 -> 3300.41
+Melhor vizinho: 3298.63
+
+Sequencia inicial 20 -> 3298.63
+Melhor vizinho: 3298.03
+
+Sequencia inicial 21 -> 3298.03
+ITERAÇÃO: 8 - Atraso: 3175.8
+
+Sequencia inicial 1 -> 3494.41
+Melhor vizinho: 3401.44
+
+Sequencia inicial 2 -> 3401.44
+Melhor vizinho: 3362.73
+
+Sequencia inicial 3 -> 3362.73
+Melhor vizinho: 3341.08
+
+Sequencia inicial 4 -> 3341.08
+Melhor vizinho: 3336.1
+
+Sequencia inicial 5 -> 3336.1
+Melhor vizinho: 3332.28
+
+Sequencia inicial 6 -> 3332.28
+Melhor vizinho: 3312.45
+
+Sequencia inicial 7 -> 3312.45
+Melhor vizinho: 3303.82
+
+Sequencia inicial 8 -> 3303.82
+Melhor vizinho: 3285.67
+
+Sequencia inicial 9 -> 3285.67
+Melhor vizinho: 3273.93
+
+Sequencia inicial 10 -> 3273.93
+Melhor vizinho: 3268.84
+
+Sequencia inicial 11 -> 3268.84
+Melhor vizinho: 3266.62
+
+Sequencia inicial 12 -> 3266.62
+Melhor vizinho: 3261.74
+
+Sequencia inicial 13 -> 3261.74
+Melhor vizinho: 3261.06
+
+Sequencia inicial 14 -> 3261.06
+Melhor vizinho: 3260.4
+
+Sequencia inicial 15 -> 3260.4
+Melhor vizinho: 3259.36
+
+Sequencia inicial 16 -> 3259.36
+Melhor vizinho: 3255.63
+
+Sequencia inicial 17 -> 3255.63
+Melhor vizinho: 3255.23
+
+Sequencia inicial 18 -> 3255.23
+Melhor vizinho: 3254.12
+
+Sequencia inicial 19 -> 3254.12
+Melhor vizinho: 3253.18
+
+Sequencia inicial 20 -> 3253.18
+Melhor vizinho: 3251.43
+
+Sequencia inicial 21 -> 3251.43
+Melhor vizinho: 3251.27
+
+Sequencia inicial 22 -> 3251.27
+Melhor vizinho: 3250.82
+
+Sequencia inicial 23 -> 3250.82
+ITERAÇÃO: 9 - Atraso: 3175.8
+
+Sequencia inicial 1 -> 3392.23
+Melhor vizinho: 3353.52
+
+Sequencia inicial 2 -> 3353.52
+Melhor vizinho: 3315.85
+
+Sequencia inicial 3 -> 3315.85
+Melhor vizinho: 3299.39
+
+Sequencia inicial 4 -> 3299.39
+Melhor vizinho: 3279.31
+
+Sequencia inicial 5 -> 3279.31
+Melhor vizinho: 3254.42
+
+Sequencia inicial 6 -> 3254.42
+Melhor vizinho: 3244.1
+
+Sequencia inicial 7 -> 3244.1
+Melhor vizinho: 3239.32
+
+Sequencia inicial 8 -> 3239.32
+Melhor vizinho: 3236.25
+
+Sequencia inicial 9 -> 3236.25
+Melhor vizinho: 3233.51
+
+Sequencia inicial 10 -> 3233.51
+Melhor vizinho: 3222.97
+
+Sequencia inicial 11 -> 3222.97
+Melhor vizinho: 3210.03
+
+Sequencia inicial 12 -> 3210.03
+Melhor vizinho: 3190.93
+
+Sequencia inicial 13 -> 3190.93
+Melhor vizinho: 3188.69
+
+Sequencia inicial 14 -> 3188.69
+Melhor vizinho: 3187.22
+
+Sequencia inicial 15 -> 3187.22
+Melhor vizinho: 3185.95
+
+Sequencia inicial 16 -> 3185.95
+Melhor vizinho: 3185.2
+
+Sequencia inicial 17 -> 3185.2
+Melhor vizinho: 3184.42
+
+Sequencia inicial 18 -> 3184.42
+Melhor vizinho: 3184.02
+
+Sequencia inicial 19 -> 3184.02
+Melhor vizinho: 3183.45
+
+Sequencia inicial 20 -> 3183.45
+Melhor vizinho: 3183.06
+
+Sequencia inicial 21 -> 3183.06
+ITERAÇÃO: 10 - Atraso: 3175.8
+
+Sequencia inicial 1 -> 3438.15
+Melhor vizinho: 3400.84
+
+Sequencia inicial 2 -> 3400.84
+Melhor vizinho: 3363.69
+
+Sequencia inicial 3 -> 3363.69
+Melhor vizinho: 3353.8
+
+Sequencia inicial 4 -> 3353.8
+Melhor vizinho: 3345.68
+
+Sequencia inicial 5 -> 3345.68
+Melhor vizinho: 3298.55
+
+Sequencia inicial 6 -> 3298.55
+Melhor vizinho: 3259.52
+
+Sequencia inicial 7 -> 3259.52
+Melhor vizinho: 3240.09
+
+Sequencia inicial 8 -> 3240.09
+Melhor vizinho: 3232.5
+
+Sequencia inicial 9 -> 3232.5
+Melhor vizinho: 3226.3
+
+Sequencia inicial 10 -> 3226.3
+Melhor vizinho: 3218.79
+
+Sequencia inicial 11 -> 3218.79
+Melhor vizinho: 3213.11
+
+Sequencia inicial 12 -> 3213.11
+Melhor vizinho: 3209.18
+
+Sequencia inicial 13 -> 3209.18
+Melhor vizinho: 3207.44
+
+Sequencia inicial 14 -> 3207.44
+Melhor vizinho: 3205.21
+
+Sequencia inicial 15 -> 3205.21
+Melhor vizinho: 3204.6
+
+Sequencia inicial 16 -> 3204.6
+Melhor vizinho: 3204.28
+
+Sequencia inicial 17 -> 3204.28
+Melhor vizinho: 3203.05
+
+Sequencia inicial 18 -> 3203.05
+Melhor vizinho: 3202.11
+
+Sequencia inicial 19 -> 3202.11
+Melhor vizinho: 3201.18
+
+Sequencia inicial 20 -> 3201.18
+Melhor vizinho: 3196.83
+
+Sequencia inicial 21 -> 3196.83
+Melhor vizinho: 3196.28
+
+Sequencia inicial 22 -> 3196.28
+Melhor vizinho: 3195.8
+
+Sequencia inicial 23 -> 3195.8
+ITERAÇÃO: 11 - Atraso: 3175.8
+
+Sequencia inicial 1 -> 3373.95
+Melhor vizinho: 3315.78
+
+Sequencia inicial 2 -> 3315.78
+Melhor vizinho: 3307.89
+
+Sequencia inicial 3 -> 3307.89
+Melhor vizinho: 3304.5
+
+Sequencia inicial 4 -> 3304.5
+Melhor vizinho: 3300.42
+
+Sequencia inicial 5 -> 3300.42
+Melhor vizinho: 3297.87
+
+Sequencia inicial 6 -> 3297.87
+Melhor vizinho: 3296.42
+
+Sequencia inicial 7 -> 3296.42
+Melhor vizinho: 3295.94
+
+Sequencia inicial 8 -> 3295.94
+Melhor vizinho: 3295.81
+
+Sequencia inicial 9 -> 3295.81
+Melhor vizinho: 3293.53
+
+Sequencia inicial 10 -> 3293.53
+Melhor vizinho: 3291.88
+
+Sequencia inicial 11 -> 3291.88
+Melhor vizinho: 3290.59
+
+Sequencia inicial 12 -> 3290.59
+Melhor vizinho: 3290.5
+
+Sequencia inicial 13 -> 3290.5
+Melhor vizinho: 3288.2
+
+Sequencia inicial 14 -> 3288.2
+Melhor vizinho: 3287.45
+
+Sequencia inicial 15 -> 3287.45
+Melhor vizinho: 3287.36
+
+Sequencia inicial 16 -> 3287.36
+Melhor vizinho: 3264.32
+
+Sequencia inicial 17 -> 3264.32
+Melhor vizinho: 3233.08
+
+Sequencia inicial 18 -> 3233.08
+Melhor vizinho: 3231.88
+
+Sequencia inicial 19 -> 3231.88
+Melhor vizinho: 3227.81
+
+Sequencia inicial 20 -> 3227.81
+Melhor vizinho: 3226.43
+
+Sequencia inicial 21 -> 3226.43
+Melhor vizinho: 3225.58
+
+Sequencia inicial 22 -> 3225.58
+Melhor vizinho: 3224.65
+
+Sequencia inicial 23 -> 3224.65
+ITERAÇÃO: 12 - Atraso: 3175.8
+
+Sequencia inicial 1 -> 3320.59
+Melhor vizinho: 3288.86
+
+Sequencia inicial 2 -> 3288.86
+Melhor vizinho: 3262.72
+
+Sequencia inicial 3 -> 3262.72
+Melhor vizinho: 3249.53
+
+Sequencia inicial 4 -> 3249.53
+Melhor vizinho: 3240.26
+
+Sequencia inicial 5 -> 3240.26
+Melhor vizinho: 3235.06
+
+Sequencia inicial 6 -> 3235.06
+Melhor vizinho: 3228.73
+
+Sequencia inicial 7 -> 3228.73
+Melhor vizinho: 3224.49
+
+Sequencia inicial 8 -> 3224.49
+Melhor vizinho: 3223.11
+
+Sequencia inicial 9 -> 3223.11
+Melhor vizinho: 3222.3
+
+Sequencia inicial 10 -> 3222.3
+Melhor vizinho: 3221.81
+
+Sequencia inicial 11 -> 3221.81
+Melhor vizinho: 3218.4
+
+Sequencia inicial 12 -> 3218.4
+Melhor vizinho: 3218.03
+
+Sequencia inicial 13 -> 3218.03
+Melhor vizinho: 3218
+
+Sequencia inicial 14 -> 3218
+Melhor vizinho: 3216.64
+
+Sequencia inicial 15 -> 3216.64
+Melhor vizinho: 3214.25
+
+Sequencia inicial 16 -> 3214.25
+Melhor vizinho: 3213.51
+
+Sequencia inicial 17 -> 3213.51
+Melhor vizinho: 3212.51
+
+Sequencia inicial 18 -> 3212.51
+Melhor vizinho: 3212.5
+
+Sequencia inicial 19 -> 3212.5
+Melhor vizinho: 3207.32
+
+Sequencia inicial 20 -> 3207.32
+Melhor vizinho: 3206.77
+
+Sequencia inicial 21 -> 3206.77
+ITERAÇÃO: 13 - Atraso: 3175.8
+
+Sequencia inicial 1 -> 3447.81
+Melhor vizinho: 3428.01
+
+Sequencia inicial 2 -> 3428.01
+Melhor vizinho: 3399.18
+
+Sequencia inicial 3 -> 3399.18
+Melhor vizinho: 3390.25
+
+Sequencia inicial 4 -> 3390.25
+Melhor vizinho: 3382.91
+
+Sequencia inicial 5 -> 3382.91
+Melhor vizinho: 3378.6
+
+Sequencia inicial 6 -> 3378.6
+Melhor vizinho: 3317.46
+
+Sequencia inicial 7 -> 3317.46
+Melhor vizinho: 3303.17
+
+Sequencia inicial 8 -> 3303.17
+Melhor vizinho: 3300.7
+
+Sequencia inicial 9 -> 3300.7
+Melhor vizinho: 3296.36
+
+Sequencia inicial 10 -> 3296.36
+Melhor vizinho: 3289.56
+
+Sequencia inicial 11 -> 3289.56
+Melhor vizinho: 3283.32
+
+Sequencia inicial 12 -> 3283.32
+Melhor vizinho: 3281.1
+
+Sequencia inicial 13 -> 3281.1
+Melhor vizinho: 3278.32
+
+Sequencia inicial 14 -> 3278.32
+Melhor vizinho: 3274.79
+
+Sequencia inicial 15 -> 3274.79
+ITERAÇÃO: 14 - Atraso: 3175.8
+
+Sequencia inicial 1 -> 3654.94
+Melhor vizinho: 3549.05
+
+Sequencia inicial 2 -> 3549.05
+Melhor vizinho: 3534.28
+
+Sequencia inicial 3 -> 3534.28
+Melhor vizinho: 3507.71
+
+Sequencia inicial 4 -> 3507.71
+Melhor vizinho: 3459.27
+
+Sequencia inicial 5 -> 3459.27
+Melhor vizinho: 3421.24
+
+Sequencia inicial 6 -> 3421.24
+Melhor vizinho: 3409.07
+
+Sequencia inicial 7 -> 3409.07
+Melhor vizinho: 3388.06
+
+Sequencia inicial 8 -> 3388.06
+Melhor vizinho: 3375.76
+
+Sequencia inicial 9 -> 3375.76
+Melhor vizinho: 3368.45
+
+Sequencia inicial 10 -> 3368.45
+Melhor vizinho: 3362.06
+
+Sequencia inicial 11 -> 3362.06
+Melhor vizinho: 3355.78
+
+Sequencia inicial 12 -> 3355.78
+Melhor vizinho: 3353.6
+
+Sequencia inicial 13 -> 3353.6
+Melhor vizinho: 3331.27
+
+Sequencia inicial 14 -> 3331.27
+Melhor vizinho: 3314.65
+
+Sequencia inicial 15 -> 3314.65
+Melhor vizinho: 3309.99
+
+Sequencia inicial 16 -> 3309.99
+Melhor vizinho: 3306.71
+
+Sequencia inicial 17 -> 3306.71
+Melhor vizinho: 3302.4
+
+Sequencia inicial 18 -> 3302.4
+Melhor vizinho: 3298.13
+
+Sequencia inicial 19 -> 3298.13
+Melhor vizinho: 3286.2
+
+Sequencia inicial 20 -> 3286.2
+Melhor vizinho: 3282.71
+
+Sequencia inicial 21 -> 3282.71
+Melhor vizinho: 3280.91
+
+Sequencia inicial 22 -> 3280.91
+ITERAÇÃO: 15 - Atraso: 3175.8
+
+Sequencia inicial 1 -> 3640.67
+Melhor vizinho: 3586.13
+
+Sequencia inicial 2 -> 3586.13
+Melhor vizinho: 3533.29
+
+Sequencia inicial 3 -> 3533.29
+Melhor vizinho: 3487.74
+
+Sequencia inicial 4 -> 3487.74
+Melhor vizinho: 3470.66
+
+Sequencia inicial 5 -> 3470.66
+Melhor vizinho: 3441.23
+
+Sequencia inicial 6 -> 3441.23
+Melhor vizinho: 3429.93
+
+Sequencia inicial 7 -> 3429.93
+Melhor vizinho: 3415.12
+
+Sequencia inicial 8 -> 3415.12
+Melhor vizinho: 3409.15
+
+Sequencia inicial 9 -> 3409.15
+Melhor vizinho: 3386.81
+
+Sequencia inicial 10 -> 3386.81
+Melhor vizinho: 3369.49
+
+Sequencia inicial 11 -> 3369.49
+Melhor vizinho: 3358.43
+
+Sequencia inicial 12 -> 3358.43
+Melhor vizinho: 3350.36
+
+Sequencia inicial 13 -> 3350.36
+Melhor vizinho: 3347.86
+
+Sequencia inicial 14 -> 3347.86
+Melhor vizinho: 3344.51
+
+Sequencia inicial 15 -> 3344.51
+Melhor vizinho: 3325.57
+
+Sequencia inicial 16 -> 3325.57
+Melhor vizinho: 3324.76
+
+Sequencia inicial 17 -> 3324.76
+Melhor vizinho: 3324.1
+
+Sequencia inicial 18 -> 3324.1
+Melhor vizinho: 3321.13
+
+Sequencia inicial 19 -> 3321.13
+Melhor vizinho: 3318.79
+
+Sequencia inicial 20 -> 3318.79
+Melhor vizinho: 3303.53
+
+Sequencia inicial 21 -> 3303.53
+Melhor vizinho: 3299.95
+
+Sequencia inicial 22 -> 3299.95
+Melhor vizinho: 3298.66
+
+Sequencia inicial 23 -> 3298.66
+Melhor vizinho: 3297.49
+
+Sequencia inicial 24 -> 3297.49
+Melhor vizinho: 3291.67
+
+Sequencia inicial 25 -> 3291.67
+Melhor vizinho: 3289.4
+
+Sequencia inicial 26 -> 3289.4
+Melhor vizinho: 3288.77
+
+Sequencia inicial 27 -> 3288.77
+Melhor vizinho: 3288.4
+
+Sequencia inicial 28 -> 3288.4
+Melhor vizinho: 3287.84
+
+Sequencia inicial 29 -> 3287.84
+Melhor vizinho: 3265.99
+
+Sequencia inicial 30 -> 3265.99
+Melhor vizinho: 3264.17
+
+Sequencia inicial 31 -> 3264.17
+ITERAÇÃO: 16 - Atraso: 3175.8
+
+Sequencia inicial 1 -> 3577.83
+Melhor vizinho: 3478.32
+
+Sequencia inicial 2 -> 3478.32
+Melhor vizinho: 3445.68
+
+Sequencia inicial 3 -> 3445.68
+Melhor vizinho: 3414.1
+
+Sequencia inicial 4 -> 3414.1
+Melhor vizinho: 3397.82
+
+Sequencia inicial 5 -> 3397.82
+Melhor vizinho: 3363.81
+
+Sequencia inicial 6 -> 3363.81
+Melhor vizinho: 3335.02
+
+Sequencia inicial 7 -> 3335.02
+Melhor vizinho: 3321.64
+
+Sequencia inicial 8 -> 3321.64
+Melhor vizinho: 3314.37
+
+Sequencia inicial 9 -> 3314.37
+Melhor vizinho: 3302.91
+
+Sequencia inicial 10 -> 3302.91
+Melhor vizinho: 3284.7
+
+Sequencia inicial 11 -> 3284.7
+Melhor vizinho: 3275.69
+
+Sequencia inicial 12 -> 3275.69
+Melhor vizinho: 3266.44
+
+Sequencia inicial 13 -> 3266.44
+Melhor vizinho: 3263.95
+
+Sequencia inicial 14 -> 3263.95
+Melhor vizinho: 3262.16
+
+Sequencia inicial 15 -> 3262.16
+Melhor vizinho: 3260.6
+
+Sequencia inicial 16 -> 3260.6
+Melhor vizinho: 3259.49
+
+Sequencia inicial 17 -> 3259.49
+Melhor vizinho: 3258.46
+
+Sequencia inicial 18 -> 3258.46
+Melhor vizinho: 3254.63
+
+Sequencia inicial 19 -> 3254.63
+Melhor vizinho: 3253.44
+
+Sequencia inicial 20 -> 3253.44
+Melhor vizinho: 3252.62
+
+Sequencia inicial 21 -> 3252.62
+Melhor vizinho: 3252.36
+
+Sequencia inicial 22 -> 3252.36
+Melhor vizinho: 3248.99
+
+Sequencia inicial 23 -> 3248.99
+Melhor vizinho: 3248.9
+
+Sequencia inicial 24 -> 3248.9
+ITERAÇÃO: 17 - Atraso: 3175.8
+
+Sequencia inicial 1 -> 3607.66
+Melhor vizinho: 3562.43
+
+Sequencia inicial 2 -> 3562.43
+Melhor vizinho: 3528.13
+
+Sequencia inicial 3 -> 3528.13
+Melhor vizinho: 3514.9
+
+Sequencia inicial 4 -> 3514.9
+Melhor vizinho: 3505.58
+
+Sequencia inicial 5 -> 3505.58
+Melhor vizinho: 3440.85
+
+Sequencia inicial 6 -> 3440.85
+Melhor vizinho: 3400.81
+
+Sequencia inicial 7 -> 3400.81
+Melhor vizinho: 3387.55
+
+Sequencia inicial 8 -> 3387.55
+Melhor vizinho: 3383.82
+
+Sequencia inicial 9 -> 3383.82
+Melhor vizinho: 3364.15
+
+Sequencia inicial 10 -> 3364.15
+Melhor vizinho: 3353.92
+
+Sequencia inicial 11 -> 3353.92
+Melhor vizinho: 3342.12
+
+Sequencia inicial 12 -> 3342.12
+Melhor vizinho: 3335.5
+
+Sequencia inicial 13 -> 3335.5
+Melhor vizinho: 3333.9
+
+Sequencia inicial 14 -> 3333.9
+Melhor vizinho: 3328.77
+
+Sequencia inicial 15 -> 3328.77
+Melhor vizinho: 3325.38
+
+Sequencia inicial 16 -> 3325.38
+Melhor vizinho: 3323.86
+
+Sequencia inicial 17 -> 3323.86
+ITERAÇÃO: 18 - Atraso: 3175.8
+
+Sequencia inicial 1 -> 3701.33
+Melhor vizinho: 3660.05
+
+Sequencia inicial 2 -> 3660.05
+Melhor vizinho: 3638.79
+
+Sequencia inicial 3 -> 3638.79
+Melhor vizinho: 3621.8
+
+Sequencia inicial 4 -> 3621.8
+Melhor vizinho: 3567.78
+
+Sequencia inicial 5 -> 3567.78
+Melhor vizinho: 3550.88
+
+Sequencia inicial 6 -> 3550.88
+Melhor vizinho: 3530.01
+
+Sequencia inicial 7 -> 3530.01
+Melhor vizinho: 3513.97
+
+Sequencia inicial 8 -> 3513.97
+Melhor vizinho: 3510.19
+
+Sequencia inicial 9 -> 3510.19
+Melhor vizinho: 3471.31
+
+Sequencia inicial 10 -> 3471.31
+Melhor vizinho: 3470.47
+
+Sequencia inicial 11 -> 3470.47
+Melhor vizinho: 3453.24
+
+Sequencia inicial 12 -> 3453.24
+Melhor vizinho: 3449.76
+
+Sequencia inicial 13 -> 3449.76
+Melhor vizinho: 3444.71
+
+Sequencia inicial 14 -> 3444.71
+Melhor vizinho: 3441.77
+
+Sequencia inicial 15 -> 3441.77
+Melhor vizinho: 3439.54
+
+Sequencia inicial 16 -> 3439.54
+Melhor vizinho: 3437.47
+
+Sequencia inicial 17 -> 3437.47
+Melhor vizinho: 3427.63
+
+Sequencia inicial 18 -> 3427.63
+Melhor vizinho: 3426.52
+
+Sequencia inicial 19 -> 3426.52
+Melhor vizinho: 3425.63
+
+Sequencia inicial 20 -> 3425.63
+Melhor vizinho: 3418.09
+
+Sequencia inicial 21 -> 3418.09
+Melhor vizinho: 3399.23
+
+Sequencia inicial 22 -> 3399.23
+Melhor vizinho: 3398.67
+
+Sequencia inicial 23 -> 3398.67
+ITERAÇÃO: 19 - Atraso: 3175.8
+
+Sequencia inicial 1 -> 3627.3
+Melhor vizinho: 3570.28
+
+Sequencia inicial 2 -> 3570.28
+Melhor vizinho: 3503.32
+
+Sequencia inicial 3 -> 3503.32
+Melhor vizinho: 3478.63
+
+Sequencia inicial 4 -> 3478.63
+Melhor vizinho: 3472.43
+
+Sequencia inicial 5 -> 3472.43
+Melhor vizinho: 3458.34
+
+Sequencia inicial 6 -> 3458.34
+Melhor vizinho: 3443.86
+
+Sequencia inicial 7 -> 3443.86
+Melhor vizinho: 3437.19
+
+Sequencia inicial 8 -> 3437.19
+Melhor vizinho: 3425.71
+
+Sequencia inicial 9 -> 3425.71
+Melhor vizinho: 3418.26
+
+Sequencia inicial 10 -> 3418.26
+Melhor vizinho: 3418.03
+
+Sequencia inicial 11 -> 3418.03
+Melhor vizinho: 3417.09
+
+Sequencia inicial 12 -> 3417.09
+Melhor vizinho: 3416.72
+
+Sequencia inicial 13 -> 3416.72
+Melhor vizinho: 3416.42
+
+Sequencia inicial 14 -> 3416.42
+ITERAÇÃO: 20 - Atraso: 3175.8
+
+Sequencia inicial 1 -> 3582.64
+Melhor vizinho: 3445.7
+
+Sequencia inicial 2 -> 3445.7
+Melhor vizinho: 3399.86
+
+Sequencia inicial 3 -> 3399.86
+Melhor vizinho: 3371.34
+
+Sequencia inicial 4 -> 3371.34
+Melhor vizinho: 3358.24
+
+Sequencia inicial 5 -> 3358.24
+Melhor vizinho: 3340.15
+
+Sequencia inicial 6 -> 3340.15
+Melhor vizinho: 3331.25
+
+Sequencia inicial 7 -> 3331.25
+Melhor vizinho: 3328.64
+
+Sequencia inicial 8 -> 3328.64
+Melhor vizinho: 3327.41
+
+Sequencia inicial 9 -> 3327.41
+Melhor vizinho: 3326.33
+
+Sequencia inicial 10 -> 3326.33
+Melhor vizinho: 3326.12
+
+Sequencia inicial 11 -> 3326.12
+Melhor vizinho: 3325.92
+
+Sequencia inicial 12 -> 3325.92
+Atraso Máximo Iterated Greedy (IG): 3175.8
+Sequência de Tarefas - Solução Final IG
+37 40 49 6 50 29 19 7 22 3 10 18 24 33 1 13 42 39 17 45 27 28 32 23 46 4 11 43 14 12 38 2 5 31 41 36 35 26 21 34 16 44 20 25 30 15 47 48 8 9 
+Tempo: 12.0962 segundos

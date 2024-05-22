@@ -1,0 +1,121 @@
+
+Calculando TP
+TP calculada
+Sequência de Tarefas - Solução Inicial EDD
+5 3 2 1 4 
+Atraso Máximo da solução inicial EDD: 430.413
+
+Sequência de Tarefas - Solução Inicial Tempos Medios
+5 2 3 1 4 
+Atraso Máximo da solução inicial Tempos Medios: 437.399
+
+Sequencia inicial 1 -> 437.399
+Melhor vizinho: 390.635
+
+Sequencia inicial 2 -> 390.635
+Melhor vizinho: 383.648
+
+Sequencia inicial 3 -> 383.648
+ITERAÇÃO: 1 - Atraso: 383.648
+
+Sequencia inicial 1 -> 383.648
+ITERAÇÃO: 2 - Atraso: 383.648
+
+Sequencia inicial 1 -> 430.413
+Melhor vizinho: 383.648
+
+Sequencia inicial 2 -> 383.648
+ITERAÇÃO: 3 - Atraso: 383.648
+
+Sequencia inicial 1 -> 376.749
+ITERAÇÃO: 1 - Atraso: 376.749
+
+Sequencia inicial 1 -> 376.749
+ITERAÇÃO: 2 - Atraso: 376.749
+
+Sequencia inicial 1 -> 509.371
+ITERAÇÃO: 3 - Atraso: 376.749
+
+Sequencia inicial 1 -> 379.797
+ITERAÇÃO: 4 - Atraso: 376.749
+
+Sequencia inicial 1 -> 379.797
+ITERAÇÃO: 5 - Atraso: 376.749
+
+Sequencia inicial 1 -> 390.613
+Melhor vizinho: 379.797
+
+Sequencia inicial 2 -> 379.797
+ITERAÇÃO: 6 - Atraso: 376.749
+
+Sequencia inicial 1 -> 390.613
+Melhor vizinho: 379.797
+
+Sequencia inicial 2 -> 379.797
+ITERAÇÃO: 7 - Atraso: 376.749
+
+Sequencia inicial 1 -> 381.691
+Melhor vizinho: 381.249
+
+Sequencia inicial 2 -> 381.249
+Melhor vizinho: 376.749
+
+Sequencia inicial 3 -> 376.749
+ITERAÇÃO: 8 - Atraso: 376.749
+
+Sequencia inicial 1 -> 381.691
+Melhor vizinho: 381.249
+
+Sequencia inicial 2 -> 381.249
+Melhor vizinho: 376.749
+
+Sequencia inicial 3 -> 376.749
+ITERAÇÃO: 9 - Atraso: 376.749
+
+Sequencia inicial 1 -> 381.691
+Melhor vizinho: 381.249
+
+Sequencia inicial 2 -> 381.249
+Melhor vizinho: 376.749
+
+Sequencia inicial 3 -> 376.749
+ITERAÇÃO: 10 - Atraso: 376.749
+
+Sequencia inicial 1 -> 422.833
+Melhor vizinho: 379.797
+
+Sequencia inicial 2 -> 379.797
+ITERAÇÃO: 11 - Atraso: 376.749
+
+Sequencia inicial 1 -> 379.797
+ITERAÇÃO: 12 - Atraso: 376.749
+
+Sequencia inicial 1 -> 379.797
+ITERAÇÃO: 13 - Atraso: 376.749
+
+Sequencia inicial 1 -> 379.797
+ITERAÇÃO: 14 - Atraso: 376.749
+
+Sequencia inicial 1 -> 379.797
+ITERAÇÃO: 15 - Atraso: 376.749
+
+Sequencia inicial 1 -> 379.797
+ITERAÇÃO: 16 - Atraso: 376.749
+
+Sequencia inicial 1 -> 379.797
+ITERAÇÃO: 17 - Atraso: 376.749
+
+Sequencia inicial 1 -> 379.797
+ITERAÇÃO: 18 - Atraso: 376.749
+
+Sequencia inicial 1 -> 379.797
+ITERAÇÃO: 19 - Atraso: 376.749
+
+Sequencia inicial 1 -> 379.797
+ITERAÇÃO: 20 - Atraso: 376.749
+
+Sequencia inicial 1 -> 379.797
+Atraso Máximo Iterated Greedy (IG): 376.749
+Sequência de Tarefas - Solução Final IG
+2 4 5 1 3 
+Tempo: 0.00054 segundos

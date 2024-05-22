@@ -1,0 +1,5386 @@
+
+Calculando TP
+TP calculada
+Sequência de Tarefas - Solução Inicial EDD
+8 35 113 34 111 124 72 101 23 58 96 94 6 114 69 98 146 115 73 53 99 56 50 57 48 52 70 32 88 149 107 10 95 123 54 21 3 145 77 143 42 25 102 125 9 79 106 126 118 17 109 64 49 67 18 81 137 78 84 59 41 47 24 127 142 11 83 2 104 117 43 4 86 16 134 44 45 55 122 66 92 133 116 136 119 130 7 93 100 144 33 80 14 62 103 39 30 148 150 15 63 110 75 76 138 12 65 91 26 139 37 36 141 90 19 27 74 121 29 85 131 5 40 28 87 135 147 46 38 13 60 31 132 82 51 20 140 22 89 108 1 112 97 120 71 129 61 128 68 105 
+Atraso Máximo da solução inicial EDD: 256792
+
+Sequência de Tarefas - Solução Inicial Tempos Medios
+34 115 6 21 48 72 57 50 3 41 111 67 49 69 32 102 53 10 124 149 2 70 59 113 54 35 7 52 23 18 94 77 125 42 107 96 58 114 43 8 44 51 25 117 98 126 45 73 26 136 88 101 47 4 75 81 79 62 146 145 137 66 99 110 116 134 11 12 132 64 27 24 127 74 65 15 30 36 148 55 108 37 86 92 9 80 46 93 61 135 29 100 144 14 5 33 17 68 104 103 56 123 95 85 143 19 109 139 13 131 119 60 105 31 40 128 118 91 121 142 130 133 20 71 83 97 28 147 141 112 89 39 150 63 76 1 84 16 22 38 78 87 82 90 138 140 129 106 122 120 
+Atraso Máximo da solução inicial Tempos Medios: 230005
+
+Sequencia inicial 1 -> 230005
+Melhor vizinho: 227522
+
+Sequencia inicial 2 -> 227522
+Melhor vizinho: 226238
+
+Sequencia inicial 3 -> 226238
+Melhor vizinho: 225126
+
+Sequencia inicial 4 -> 225126
+Melhor vizinho: 224352
+
+Sequencia inicial 5 -> 224352
+Melhor vizinho: 223698
+
+Sequencia inicial 6 -> 223698
+Melhor vizinho: 222668
+
+Sequencia inicial 7 -> 222668
+Melhor vizinho: 221811
+
+Sequencia inicial 8 -> 221811
+Melhor vizinho: 221281
+
+Sequencia inicial 9 -> 221281
+Melhor vizinho: 220618
+
+Sequencia inicial 10 -> 220618
+Melhor vizinho: 219639
+
+Sequencia inicial 11 -> 219639
+Melhor vizinho: 219094
+
+Sequencia inicial 12 -> 219094
+Melhor vizinho: 218554
+
+Sequencia inicial 13 -> 218554
+Melhor vizinho: 217933
+
+Sequencia inicial 14 -> 217933
+Melhor vizinho: 217348
+
+Sequencia inicial 15 -> 217348
+Melhor vizinho: 216849
+
+Sequencia inicial 16 -> 216849
+Melhor vizinho: 216257
+
+Sequencia inicial 17 -> 216257
+Melhor vizinho: 215211
+
+Sequencia inicial 18 -> 215211
+Melhor vizinho: 214339
+
+Sequencia inicial 19 -> 214339
+Melhor vizinho: 213886
+
+Sequencia inicial 20 -> 213886
+Melhor vizinho: 213478
+
+Sequencia inicial 21 -> 213478
+Melhor vizinho: 212926
+
+Sequencia inicial 22 -> 212926
+Melhor vizinho: 212342
+
+Sequencia inicial 23 -> 212342
+Melhor vizinho: 211830
+
+Sequencia inicial 24 -> 211830
+Melhor vizinho: 211324
+
+Sequencia inicial 25 -> 211324
+Melhor vizinho: 210864
+
+Sequencia inicial 26 -> 210864
+Melhor vizinho: 210359
+
+Sequencia inicial 27 -> 210359
+Melhor vizinho: 209844
+
+Sequencia inicial 28 -> 209844
+Melhor vizinho: 209440
+
+Sequencia inicial 29 -> 209440
+Melhor vizinho: 208949
+
+Sequencia inicial 30 -> 208949
+Melhor vizinho: 208542
+
+Sequencia inicial 31 -> 208542
+Melhor vizinho: 208166
+
+Sequencia inicial 32 -> 208166
+Melhor vizinho: 207778
+
+Sequencia inicial 33 -> 207778
+Melhor vizinho: 207108
+
+Sequencia inicial 34 -> 207108
+Melhor vizinho: 206468
+
+Sequencia inicial 35 -> 206468
+Melhor vizinho: 206112
+
+Sequencia inicial 36 -> 206112
+Melhor vizinho: 205715
+
+Sequencia inicial 37 -> 205715
+Melhor vizinho: 205382
+
+Sequencia inicial 38 -> 205382
+Melhor vizinho: 204898
+
+Sequencia inicial 39 -> 204898
+Melhor vizinho: 204600
+
+Sequencia inicial 40 -> 204600
+Melhor vizinho: 204000
+
+Sequencia inicial 41 -> 204000
+Melhor vizinho: 203642
+
+Sequencia inicial 42 -> 203642
+Melhor vizinho: 203425
+
+Sequencia inicial 43 -> 203425
+Melhor vizinho: 203209
+
+Sequencia inicial 44 -> 203209
+Melhor vizinho: 202768
+
+Sequencia inicial 45 -> 202768
+Melhor vizinho: 202432
+
+Sequencia inicial 46 -> 202432
+Melhor vizinho: 202203
+
+Sequencia inicial 47 -> 202203
+Melhor vizinho: 201822
+
+Sequencia inicial 48 -> 201822
+Melhor vizinho: 201636
+
+Sequencia inicial 49 -> 201636
+Melhor vizinho: 201297
+
+Sequencia inicial 50 -> 201297
+Melhor vizinho: 201110
+
+Sequencia inicial 51 -> 201110
+Melhor vizinho: 200982
+
+Sequencia inicial 52 -> 200982
+Melhor vizinho: 200854
+
+Sequencia inicial 53 -> 200854
+Melhor vizinho: 200788
+
+Sequencia inicial 54 -> 200788
+Melhor vizinho: 200680
+
+Sequencia inicial 55 -> 200680
+Melhor vizinho: 200621
+
+Sequencia inicial 56 -> 200621
+Melhor vizinho: 200561
+
+Sequencia inicial 57 -> 200561
+Melhor vizinho: 200456
+
+Sequencia inicial 58 -> 200456
+Melhor vizinho: 200341
+
+Sequencia inicial 59 -> 200341
+Melhor vizinho: 200291
+
+Sequencia inicial 60 -> 200291
+Melhor vizinho: 200244
+
+Sequencia inicial 61 -> 200244
+Melhor vizinho: 200187
+
+Sequencia inicial 62 -> 200187
+Melhor vizinho: 200152
+
+Sequencia inicial 63 -> 200152
+Melhor vizinho: 200118
+
+Sequencia inicial 64 -> 200118
+Melhor vizinho: 200053
+
+Sequencia inicial 65 -> 200053
+Melhor vizinho: 200034
+
+Sequencia inicial 66 -> 200034
+Melhor vizinho: 199926
+
+Sequencia inicial 67 -> 199926
+Melhor vizinho: 199875
+
+Sequencia inicial 68 -> 199875
+Melhor vizinho: 199833
+
+Sequencia inicial 69 -> 199833
+Melhor vizinho: 199812
+
+Sequencia inicial 70 -> 199812
+Melhor vizinho: 199792
+
+Sequencia inicial 71 -> 199792
+Melhor vizinho: 199772
+
+Sequencia inicial 72 -> 199772
+Melhor vizinho: 199755
+
+Sequencia inicial 73 -> 199755
+Melhor vizinho: 199674
+
+Sequencia inicial 74 -> 199674
+Melhor vizinho: 199606
+
+Sequencia inicial 75 -> 199606
+Melhor vizinho: 199595
+
+Sequencia inicial 76 -> 199595
+Melhor vizinho: 199542
+
+Sequencia inicial 77 -> 199542
+Melhor vizinho: 199517
+
+Sequencia inicial 78 -> 199517
+Melhor vizinho: 199509
+
+Sequencia inicial 79 -> 199509
+Melhor vizinho: 199497
+
+Sequencia inicial 80 -> 199497
+Melhor vizinho: 199489
+
+Sequencia inicial 81 -> 199489
+Melhor vizinho: 199471
+
+Sequencia inicial 82 -> 199471
+Melhor vizinho: 199450
+
+Sequencia inicial 83 -> 199450
+Melhor vizinho: 199441
+
+Sequencia inicial 84 -> 199441
+Melhor vizinho: 199433
+
+Sequencia inicial 85 -> 199433
+Melhor vizinho: 199424
+
+Sequencia inicial 86 -> 199424
+Melhor vizinho: 199419
+
+Sequencia inicial 87 -> 199419
+Melhor vizinho: 199413
+
+Sequencia inicial 88 -> 199413
+Melhor vizinho: 199394
+
+Sequencia inicial 89 -> 199394
+Melhor vizinho: 199381
+
+Sequencia inicial 90 -> 199381
+Melhor vizinho: 199352
+
+Sequencia inicial 91 -> 199352
+Melhor vizinho: 199320
+
+Sequencia inicial 92 -> 199320
+Melhor vizinho: 199310
+
+Sequencia inicial 93 -> 199310
+Melhor vizinho: 199300
+
+Sequencia inicial 94 -> 199300
+Melhor vizinho: 199288
+
+Sequencia inicial 95 -> 199288
+Melhor vizinho: 199258
+
+Sequencia inicial 96 -> 199258
+Melhor vizinho: 199240
+
+Sequencia inicial 97 -> 199240
+Melhor vizinho: 199230
+
+Sequencia inicial 98 -> 199230
+Melhor vizinho: 199224
+
+Sequencia inicial 99 -> 199224
+Melhor vizinho: 199218
+
+Sequencia inicial 100 -> 199218
+Melhor vizinho: 199213
+
+Sequencia inicial 101 -> 199213
+Melhor vizinho: 199211
+
+Sequencia inicial 102 -> 199211
+Melhor vizinho: 199207
+
+Sequencia inicial 103 -> 199207
+Melhor vizinho: 199171
+
+Sequencia inicial 104 -> 199171
+Melhor vizinho: 199155
+
+Sequencia inicial 105 -> 199155
+Melhor vizinho: 199150
+
+Sequencia inicial 106 -> 199150
+Melhor vizinho: 199144
+
+Sequencia inicial 107 -> 199144
+Melhor vizinho: 199139
+
+Sequencia inicial 108 -> 199139
+Melhor vizinho: 199055
+
+Sequencia inicial 109 -> 199055
+Melhor vizinho: 198972
+
+Sequencia inicial 110 -> 198972
+Melhor vizinho: 198907
+
+Sequencia inicial 111 -> 198907
+Melhor vizinho: 198901
+
+Sequencia inicial 112 -> 198901
+Melhor vizinho: 198895
+
+Sequencia inicial 113 -> 198895
+Melhor vizinho: 198880
+
+Sequencia inicial 114 -> 198880
+Melhor vizinho: 198869
+
+Sequencia inicial 115 -> 198869
+Melhor vizinho: 198853
+
+Sequencia inicial 116 -> 198853
+Melhor vizinho: 198849
+
+Sequencia inicial 117 -> 198849
+Melhor vizinho: 198847
+
+Sequencia inicial 118 -> 198847
+Melhor vizinho: 198836
+
+Sequencia inicial 119 -> 198836
+Melhor vizinho: 198821
+
+Sequencia inicial 120 -> 198821
+Melhor vizinho: 198808
+
+Sequencia inicial 121 -> 198808
+Melhor vizinho: 198803
+
+Sequencia inicial 122 -> 198803
+Melhor vizinho: 198801
+
+Sequencia inicial 123 -> 198801
+Melhor vizinho: 198793
+
+Sequencia inicial 124 -> 198793
+Melhor vizinho: 198789
+
+Sequencia inicial 125 -> 198789
+Melhor vizinho: 198787
+
+Sequencia inicial 126 -> 198787
+Melhor vizinho: 198786
+
+Sequencia inicial 127 -> 198786
+Melhor vizinho: 198785
+
+Sequencia inicial 128 -> 198785
+ITERAÇÃO: 1 - Atraso: 198785
+
+Sequencia inicial 1 -> 200598
+Melhor vizinho: 200369
+
+Sequencia inicial 2 -> 200369
+Melhor vizinho: 200228
+
+Sequencia inicial 3 -> 200228
+Melhor vizinho: 200173
+
+Sequencia inicial 4 -> 200173
+Melhor vizinho: 200129
+
+Sequencia inicial 5 -> 200129
+Melhor vizinho: 199743
+
+Sequencia inicial 6 -> 199743
+Melhor vizinho: 199550
+
+Sequencia inicial 7 -> 199550
+Melhor vizinho: 199396
+
+Sequencia inicial 8 -> 199396
+Melhor vizinho: 199348
+
+Sequencia inicial 9 -> 199348
+Melhor vizinho: 199301
+
+Sequencia inicial 10 -> 199301
+Melhor vizinho: 199256
+
+Sequencia inicial 11 -> 199256
+Melhor vizinho: 199183
+
+Sequencia inicial 12 -> 199183
+Melhor vizinho: 199152
+
+Sequencia inicial 13 -> 199152
+Melhor vizinho: 199133
+
+Sequencia inicial 14 -> 199133
+Melhor vizinho: 199078
+
+Sequencia inicial 15 -> 199078
+Melhor vizinho: 199048
+
+Sequencia inicial 16 -> 199048
+Melhor vizinho: 199018
+
+Sequencia inicial 17 -> 199018
+Melhor vizinho: 198983
+
+Sequencia inicial 18 -> 198983
+Melhor vizinho: 198934
+
+Sequencia inicial 19 -> 198934
+Melhor vizinho: 198922
+
+Sequencia inicial 20 -> 198922
+Melhor vizinho: 198886
+
+Sequencia inicial 21 -> 198886
+Melhor vizinho: 198853
+
+Sequencia inicial 22 -> 198853
+Melhor vizinho: 198827
+
+Sequencia inicial 23 -> 198827
+Melhor vizinho: 198786
+
+Sequencia inicial 24 -> 198786
+Melhor vizinho: 198772
+
+Sequencia inicial 25 -> 198772
+Melhor vizinho: 198763
+
+Sequencia inicial 26 -> 198763
+Melhor vizinho: 198744
+
+Sequencia inicial 27 -> 198744
+Melhor vizinho: 198707
+
+Sequencia inicial 28 -> 198707
+Melhor vizinho: 198553
+
+Sequencia inicial 29 -> 198553
+Melhor vizinho: 198463
+
+Sequencia inicial 30 -> 198463
+Melhor vizinho: 198452
+
+Sequencia inicial 31 -> 198452
+Melhor vizinho: 198449
+
+Sequencia inicial 32 -> 198449
+Melhor vizinho: 198442
+
+Sequencia inicial 33 -> 198442
+Melhor vizinho: 198317
+
+Sequencia inicial 34 -> 198317
+Melhor vizinho: 198231
+
+Sequencia inicial 35 -> 198231
+Melhor vizinho: 198166
+
+Sequencia inicial 36 -> 198166
+Melhor vizinho: 198138
+
+Sequencia inicial 37 -> 198138
+Melhor vizinho: 198137
+
+Sequencia inicial 38 -> 198137
+Melhor vizinho: 198122
+
+Sequencia inicial 39 -> 198122
+Melhor vizinho: 198116
+
+Sequencia inicial 40 -> 198116
+Melhor vizinho: 198098
+
+Sequencia inicial 41 -> 198098
+Melhor vizinho: 198092
+
+Sequencia inicial 42 -> 198092
+Melhor vizinho: 198083
+
+Sequencia inicial 43 -> 198083
+Melhor vizinho: 198081
+
+Sequencia inicial 44 -> 198081
+Melhor vizinho: 198079
+
+Sequencia inicial 45 -> 198079
+ITERAÇÃO: 1 - Atraso: 198079
+
+Sequencia inicial 1 -> 201488
+Melhor vizinho: 200741
+
+Sequencia inicial 2 -> 200741
+Melhor vizinho: 200441
+
+Sequencia inicial 3 -> 200441
+Melhor vizinho: 200151
+
+Sequencia inicial 4 -> 200151
+Melhor vizinho: 199993
+
+Sequencia inicial 5 -> 199993
+Melhor vizinho: 199829
+
+Sequencia inicial 6 -> 199829
+Melhor vizinho: 199765
+
+Sequencia inicial 7 -> 199765
+Melhor vizinho: 199707
+
+Sequencia inicial 8 -> 199707
+Melhor vizinho: 199663
+
+Sequencia inicial 9 -> 199663
+Melhor vizinho: 199617
+
+Sequencia inicial 10 -> 199617
+Melhor vizinho: 199545
+
+Sequencia inicial 11 -> 199545
+Melhor vizinho: 199524
+
+Sequencia inicial 12 -> 199524
+Melhor vizinho: 199501
+
+Sequencia inicial 13 -> 199501
+Melhor vizinho: 199483
+
+Sequencia inicial 14 -> 199483
+Melhor vizinho: 199446
+
+Sequencia inicial 15 -> 199446
+Melhor vizinho: 199438
+
+Sequencia inicial 16 -> 199438
+Melhor vizinho: 199424
+
+Sequencia inicial 17 -> 199424
+Melhor vizinho: 199408
+
+Sequencia inicial 18 -> 199408
+Melhor vizinho: 199391
+
+Sequencia inicial 19 -> 199391
+Melhor vizinho: 199375
+
+Sequencia inicial 20 -> 199375
+Melhor vizinho: 199361
+
+Sequencia inicial 21 -> 199361
+Melhor vizinho: 199289
+
+Sequencia inicial 22 -> 199289
+Melhor vizinho: 199234
+
+Sequencia inicial 23 -> 199234
+Melhor vizinho: 199201
+
+Sequencia inicial 24 -> 199201
+Melhor vizinho: 199185
+
+Sequencia inicial 25 -> 199185
+Melhor vizinho: 199171
+
+Sequencia inicial 26 -> 199171
+Melhor vizinho: 199166
+
+Sequencia inicial 27 -> 199166
+Melhor vizinho: 199084
+
+Sequencia inicial 28 -> 199084
+Melhor vizinho: 199077
+
+Sequencia inicial 29 -> 199077
+Melhor vizinho: 199066
+
+Sequencia inicial 30 -> 199066
+Melhor vizinho: 199063
+
+Sequencia inicial 31 -> 199063
+Melhor vizinho: 199059
+
+Sequencia inicial 32 -> 199059
+Melhor vizinho: 199056
+
+Sequencia inicial 33 -> 199056
+Melhor vizinho: 199047
+
+Sequencia inicial 34 -> 199047
+ITERAÇÃO: 2 - Atraso: 198079
+
+Sequencia inicial 1 -> 202393
+Melhor vizinho: 201972
+
+Sequencia inicial 2 -> 201972
+Melhor vizinho: 201680
+
+Sequencia inicial 3 -> 201680
+Melhor vizinho: 201479
+
+Sequencia inicial 4 -> 201479
+Melhor vizinho: 200923
+
+Sequencia inicial 5 -> 200923
+Melhor vizinho: 200742
+
+Sequencia inicial 6 -> 200742
+Melhor vizinho: 200394
+
+Sequencia inicial 7 -> 200394
+Melhor vizinho: 200213
+
+Sequencia inicial 8 -> 200213
+Melhor vizinho: 200154
+
+Sequencia inicial 9 -> 200154
+Melhor vizinho: 200070
+
+Sequencia inicial 10 -> 200070
+Melhor vizinho: 200003
+
+Sequencia inicial 11 -> 200003
+Melhor vizinho: 199966
+
+Sequencia inicial 12 -> 199966
+Melhor vizinho: 199921
+
+Sequencia inicial 13 -> 199921
+Melhor vizinho: 199795
+
+Sequencia inicial 14 -> 199795
+Melhor vizinho: 199759
+
+Sequencia inicial 15 -> 199759
+Melhor vizinho: 199722
+
+Sequencia inicial 16 -> 199722
+Melhor vizinho: 199679
+
+Sequencia inicial 17 -> 199679
+Melhor vizinho: 199650
+
+Sequencia inicial 18 -> 199650
+Melhor vizinho: 199624
+
+Sequencia inicial 19 -> 199624
+Melhor vizinho: 199572
+
+Sequencia inicial 20 -> 199572
+Melhor vizinho: 199549
+
+Sequencia inicial 21 -> 199549
+Melhor vizinho: 199528
+
+Sequencia inicial 22 -> 199528
+Melhor vizinho: 199469
+
+Sequencia inicial 23 -> 199469
+Melhor vizinho: 199456
+
+Sequencia inicial 24 -> 199456
+Melhor vizinho: 199441
+
+Sequencia inicial 25 -> 199441
+Melhor vizinho: 199404
+
+Sequencia inicial 26 -> 199404
+Melhor vizinho: 199375
+
+Sequencia inicial 27 -> 199375
+Melhor vizinho: 199348
+
+Sequencia inicial 28 -> 199348
+Melhor vizinho: 199335
+
+Sequencia inicial 29 -> 199335
+Melhor vizinho: 199286
+
+Sequencia inicial 30 -> 199286
+Melhor vizinho: 199261
+
+Sequencia inicial 31 -> 199261
+Melhor vizinho: 199253
+
+Sequencia inicial 32 -> 199253
+Melhor vizinho: 199245
+
+Sequencia inicial 33 -> 199245
+Melhor vizinho: 199245
+
+Sequencia inicial 34 -> 199245
+Melhor vizinho: 199243
+
+Sequencia inicial 35 -> 199243
+Melhor vizinho: 199226
+
+Sequencia inicial 36 -> 199226
+Melhor vizinho: 199226
+
+Sequencia inicial 37 -> 199226
+Melhor vizinho: 199224
+
+Sequencia inicial 38 -> 199224
+Melhor vizinho: 199224
+
+Sequencia inicial 39 -> 199224
+Melhor vizinho: 199222
+
+Sequencia inicial 40 -> 199222
+ITERAÇÃO: 3 - Atraso: 198079
+
+Sequencia inicial 1 -> 204473
+Melhor vizinho: 204198
+
+Sequencia inicial 2 -> 204198
+Melhor vizinho: 203808
+
+Sequencia inicial 3 -> 203808
+Melhor vizinho: 203592
+
+Sequencia inicial 4 -> 203592
+Melhor vizinho: 203376
+
+Sequencia inicial 5 -> 203376
+Melhor vizinho: 203216
+
+Sequencia inicial 6 -> 203216
+Melhor vizinho: 203119
+
+Sequencia inicial 7 -> 203119
+Melhor vizinho: 202986
+
+Sequencia inicial 8 -> 202986
+Melhor vizinho: 202699
+
+Sequencia inicial 9 -> 202699
+Melhor vizinho: 202491
+
+Sequencia inicial 10 -> 202491
+Melhor vizinho: 202341
+
+Sequencia inicial 11 -> 202341
+Melhor vizinho: 202111
+
+Sequencia inicial 12 -> 202111
+Melhor vizinho: 202037
+
+Sequencia inicial 13 -> 202037
+Melhor vizinho: 201977
+
+Sequencia inicial 14 -> 201977
+Melhor vizinho: 201933
+
+Sequencia inicial 15 -> 201933
+Melhor vizinho: 201838
+
+Sequencia inicial 16 -> 201838
+Melhor vizinho: 201803
+
+Sequencia inicial 17 -> 201803
+Melhor vizinho: 201685
+
+Sequencia inicial 18 -> 201685
+Melhor vizinho: 201623
+
+Sequencia inicial 19 -> 201623
+Melhor vizinho: 201604
+
+Sequencia inicial 20 -> 201604
+Melhor vizinho: 201586
+
+Sequencia inicial 21 -> 201586
+Melhor vizinho: 201570
+
+Sequencia inicial 22 -> 201570
+Melhor vizinho: 201565
+
+Sequencia inicial 23 -> 201565
+Melhor vizinho: 201542
+
+Sequencia inicial 24 -> 201542
+Melhor vizinho: 201539
+
+Sequencia inicial 25 -> 201539
+Melhor vizinho: 201491
+
+Sequencia inicial 26 -> 201491
+Melhor vizinho: 201221
+
+Sequencia inicial 27 -> 201221
+Melhor vizinho: 201067
+
+Sequencia inicial 28 -> 201067
+Melhor vizinho: 200992
+
+Sequencia inicial 29 -> 200992
+Melhor vizinho: 200945
+
+Sequencia inicial 30 -> 200945
+Melhor vizinho: 200857
+
+Sequencia inicial 31 -> 200857
+Melhor vizinho: 200823
+
+Sequencia inicial 32 -> 200823
+Melhor vizinho: 200801
+
+Sequencia inicial 33 -> 200801
+Melhor vizinho: 200734
+
+Sequencia inicial 34 -> 200734
+Melhor vizinho: 200718
+
+Sequencia inicial 35 -> 200718
+Melhor vizinho: 200694
+
+Sequencia inicial 36 -> 200694
+Melhor vizinho: 200680
+
+Sequencia inicial 37 -> 200680
+Melhor vizinho: 200660
+
+Sequencia inicial 38 -> 200660
+Melhor vizinho: 200647
+
+Sequencia inicial 39 -> 200647
+Melhor vizinho: 200640
+
+Sequencia inicial 40 -> 200640
+Melhor vizinho: 200633
+
+Sequencia inicial 41 -> 200633
+Melhor vizinho: 200625
+
+Sequencia inicial 42 -> 200625
+Melhor vizinho: 200623
+
+Sequencia inicial 43 -> 200623
+Melhor vizinho: 200617
+
+Sequencia inicial 44 -> 200617
+Melhor vizinho: 200615
+
+Sequencia inicial 45 -> 200615
+Melhor vizinho: 200599
+
+Sequencia inicial 46 -> 200599
+Melhor vizinho: 200592
+
+Sequencia inicial 47 -> 200592
+Melhor vizinho: 200574
+
+Sequencia inicial 48 -> 200574
+Melhor vizinho: 200550
+
+Sequencia inicial 49 -> 200550
+Melhor vizinho: 200547
+
+Sequencia inicial 50 -> 200547
+ITERAÇÃO: 4 - Atraso: 198079
+
+Sequencia inicial 1 -> 204984
+Melhor vizinho: 204431
+
+Sequencia inicial 2 -> 204431
+Melhor vizinho: 204119
+
+Sequencia inicial 3 -> 204119
+Melhor vizinho: 203820
+
+Sequencia inicial 4 -> 203820
+Melhor vizinho: 203598
+
+Sequencia inicial 5 -> 203598
+Melhor vizinho: 203382
+
+Sequencia inicial 6 -> 203382
+Melhor vizinho: 203173
+
+Sequencia inicial 7 -> 203173
+Melhor vizinho: 202940
+
+Sequencia inicial 8 -> 202940
+Melhor vizinho: 202721
+
+Sequencia inicial 9 -> 202721
+Melhor vizinho: 202610
+
+Sequencia inicial 10 -> 202610
+Melhor vizinho: 202431
+
+Sequencia inicial 11 -> 202431
+Melhor vizinho: 202259
+
+Sequencia inicial 12 -> 202259
+Melhor vizinho: 202131
+
+Sequencia inicial 13 -> 202131
+Melhor vizinho: 202049
+
+Sequencia inicial 14 -> 202049
+Melhor vizinho: 201903
+
+Sequencia inicial 15 -> 201903
+Melhor vizinho: 201856
+
+Sequencia inicial 16 -> 201856
+Melhor vizinho: 201750
+
+Sequencia inicial 17 -> 201750
+Melhor vizinho: 201637
+
+Sequencia inicial 18 -> 201637
+Melhor vizinho: 201545
+
+Sequencia inicial 19 -> 201545
+Melhor vizinho: 201454
+
+Sequencia inicial 20 -> 201454
+Melhor vizinho: 201370
+
+Sequencia inicial 21 -> 201370
+Melhor vizinho: 201333
+
+Sequencia inicial 22 -> 201333
+Melhor vizinho: 201291
+
+Sequencia inicial 23 -> 201291
+Melhor vizinho: 201124
+
+Sequencia inicial 24 -> 201124
+Melhor vizinho: 201012
+
+Sequencia inicial 25 -> 201012
+Melhor vizinho: 200980
+
+Sequencia inicial 26 -> 200980
+Melhor vizinho: 200962
+
+Sequencia inicial 27 -> 200962
+Melhor vizinho: 200947
+
+Sequencia inicial 28 -> 200947
+Melhor vizinho: 200938
+
+Sequencia inicial 29 -> 200938
+Melhor vizinho: 200932
+
+Sequencia inicial 30 -> 200932
+Melhor vizinho: 200912
+
+Sequencia inicial 31 -> 200912
+Melhor vizinho: 200903
+
+Sequencia inicial 32 -> 200903
+Melhor vizinho: 200895
+
+Sequencia inicial 33 -> 200895
+Melhor vizinho: 200888
+
+Sequencia inicial 34 -> 200888
+Melhor vizinho: 200816
+
+Sequencia inicial 35 -> 200816
+Melhor vizinho: 200797
+
+Sequencia inicial 36 -> 200797
+Melhor vizinho: 200778
+
+Sequencia inicial 37 -> 200778
+Melhor vizinho: 200768
+
+Sequencia inicial 38 -> 200768
+Melhor vizinho: 200766
+
+Sequencia inicial 39 -> 200766
+Melhor vizinho: 200763
+
+Sequencia inicial 40 -> 200763
+Melhor vizinho: 200757
+
+Sequencia inicial 41 -> 200757
+Melhor vizinho: 200754
+
+Sequencia inicial 42 -> 200754
+Melhor vizinho: 200746
+
+Sequencia inicial 43 -> 200746
+Melhor vizinho: 200714
+
+Sequencia inicial 44 -> 200714
+Melhor vizinho: 200695
+
+Sequencia inicial 45 -> 200695
+Melhor vizinho: 200652
+
+Sequencia inicial 46 -> 200652
+Melhor vizinho: 200539
+
+Sequencia inicial 47 -> 200539
+Melhor vizinho: 200509
+
+Sequencia inicial 48 -> 200509
+Melhor vizinho: 200494
+
+Sequencia inicial 49 -> 200494
+Melhor vizinho: 200475
+
+Sequencia inicial 50 -> 200475
+Melhor vizinho: 200451
+
+Sequencia inicial 51 -> 200451
+Melhor vizinho: 200447
+
+Sequencia inicial 52 -> 200447
+Melhor vizinho: 200445
+
+Sequencia inicial 53 -> 200445
+Melhor vizinho: 200437
+
+Sequencia inicial 54 -> 200437
+Melhor vizinho: 200436
+
+Sequencia inicial 55 -> 200436
+ITERAÇÃO: 5 - Atraso: 198079
+
+Sequencia inicial 1 -> 205044
+Melhor vizinho: 204406
+
+Sequencia inicial 2 -> 204406
+Melhor vizinho: 204155
+
+Sequencia inicial 3 -> 204155
+Melhor vizinho: 203844
+
+Sequencia inicial 4 -> 203844
+Melhor vizinho: 203612
+
+Sequencia inicial 5 -> 203612
+Melhor vizinho: 203435
+
+Sequencia inicial 6 -> 203435
+Melhor vizinho: 203315
+
+Sequencia inicial 7 -> 203315
+Melhor vizinho: 203208
+
+Sequencia inicial 8 -> 203208
+Melhor vizinho: 202965
+
+Sequencia inicial 9 -> 202965
+Melhor vizinho: 202854
+
+Sequencia inicial 10 -> 202854
+Melhor vizinho: 202814
+
+Sequencia inicial 11 -> 202814
+Melhor vizinho: 202671
+
+Sequencia inicial 12 -> 202671
+Melhor vizinho: 202551
+
+Sequencia inicial 13 -> 202551
+Melhor vizinho: 202405
+
+Sequencia inicial 14 -> 202405
+Melhor vizinho: 202296
+
+Sequencia inicial 15 -> 202296
+Melhor vizinho: 202190
+
+Sequencia inicial 16 -> 202190
+Melhor vizinho: 202115
+
+Sequencia inicial 17 -> 202115
+Melhor vizinho: 201955
+
+Sequencia inicial 18 -> 201955
+Melhor vizinho: 201890
+
+Sequencia inicial 19 -> 201890
+Melhor vizinho: 201859
+
+Sequencia inicial 20 -> 201859
+Melhor vizinho: 201831
+
+Sequencia inicial 21 -> 201831
+Melhor vizinho: 201772
+
+Sequencia inicial 22 -> 201772
+Melhor vizinho: 201729
+
+Sequencia inicial 23 -> 201729
+Melhor vizinho: 201672
+
+Sequencia inicial 24 -> 201672
+Melhor vizinho: 201643
+
+Sequencia inicial 25 -> 201643
+Melhor vizinho: 201617
+
+Sequencia inicial 26 -> 201617
+Melhor vizinho: 201589
+
+Sequencia inicial 27 -> 201589
+Melhor vizinho: 201574
+
+Sequencia inicial 28 -> 201574
+Melhor vizinho: 201568
+
+Sequencia inicial 29 -> 201568
+Melhor vizinho: 201534
+
+Sequencia inicial 30 -> 201534
+Melhor vizinho: 201512
+
+Sequencia inicial 31 -> 201512
+Melhor vizinho: 201500
+
+Sequencia inicial 32 -> 201500
+Melhor vizinho: 201479
+
+Sequencia inicial 33 -> 201479
+Melhor vizinho: 201470
+
+Sequencia inicial 34 -> 201470
+Melhor vizinho: 201462
+
+Sequencia inicial 35 -> 201462
+Melhor vizinho: 201458
+
+Sequencia inicial 36 -> 201458
+Melhor vizinho: 201452
+
+Sequencia inicial 37 -> 201452
+Melhor vizinho: 201421
+
+Sequencia inicial 38 -> 201421
+Melhor vizinho: 201398
+
+Sequencia inicial 39 -> 201398
+Melhor vizinho: 201373
+
+Sequencia inicial 40 -> 201373
+Melhor vizinho: 201349
+
+Sequencia inicial 41 -> 201349
+Melhor vizinho: 201337
+
+Sequencia inicial 42 -> 201337
+Melhor vizinho: 201333
+
+Sequencia inicial 43 -> 201333
+Melhor vizinho: 201308
+
+Sequencia inicial 44 -> 201308
+Melhor vizinho: 201299
+
+Sequencia inicial 45 -> 201299
+Melhor vizinho: 201233
+
+Sequencia inicial 46 -> 201233
+Melhor vizinho: 201229
+
+Sequencia inicial 47 -> 201229
+Melhor vizinho: 201209
+
+Sequencia inicial 48 -> 201209
+Melhor vizinho: 201204
+
+Sequencia inicial 49 -> 201204
+Melhor vizinho: 201192
+
+Sequencia inicial 50 -> 201192
+Melhor vizinho: 201179
+
+Sequencia inicial 51 -> 201179
+Melhor vizinho: 201167
+
+Sequencia inicial 52 -> 201167
+Melhor vizinho: 201161
+
+Sequencia inicial 53 -> 201161
+Melhor vizinho: 201160
+
+Sequencia inicial 54 -> 201160
+Melhor vizinho: 201144
+
+Sequencia inicial 55 -> 201144
+ITERAÇÃO: 6 - Atraso: 198079
+
+Sequencia inicial 1 -> 205894
+Melhor vizinho: 205426
+
+Sequencia inicial 2 -> 205426
+Melhor vizinho: 205092
+
+Sequencia inicial 3 -> 205092
+Melhor vizinho: 204805
+
+Sequencia inicial 4 -> 204805
+Melhor vizinho: 204538
+
+Sequencia inicial 5 -> 204538
+Melhor vizinho: 204274
+
+Sequencia inicial 6 -> 204274
+Melhor vizinho: 203957
+
+Sequencia inicial 7 -> 203957
+Melhor vizinho: 203673
+
+Sequencia inicial 8 -> 203673
+Melhor vizinho: 203499
+
+Sequencia inicial 9 -> 203499
+Melhor vizinho: 203275
+
+Sequencia inicial 10 -> 203275
+Melhor vizinho: 203138
+
+Sequencia inicial 11 -> 203138
+Melhor vizinho: 203068
+
+Sequencia inicial 12 -> 203068
+Melhor vizinho: 202896
+
+Sequencia inicial 13 -> 202896
+Melhor vizinho: 202826
+
+Sequencia inicial 14 -> 202826
+Melhor vizinho: 202701
+
+Sequencia inicial 15 -> 202701
+Melhor vizinho: 202596
+
+Sequencia inicial 16 -> 202596
+Melhor vizinho: 202562
+
+Sequencia inicial 17 -> 202562
+Melhor vizinho: 202511
+
+Sequencia inicial 18 -> 202511
+Melhor vizinho: 202492
+
+Sequencia inicial 19 -> 202492
+Melhor vizinho: 202465
+
+Sequencia inicial 20 -> 202465
+Melhor vizinho: 202435
+
+Sequencia inicial 21 -> 202435
+Melhor vizinho: 202401
+
+Sequencia inicial 22 -> 202401
+Melhor vizinho: 202363
+
+Sequencia inicial 23 -> 202363
+Melhor vizinho: 202241
+
+Sequencia inicial 24 -> 202241
+Melhor vizinho: 202192
+
+Sequencia inicial 25 -> 202192
+Melhor vizinho: 202161
+
+Sequencia inicial 26 -> 202161
+Melhor vizinho: 202060
+
+Sequencia inicial 27 -> 202060
+Melhor vizinho: 202039
+
+Sequencia inicial 28 -> 202039
+Melhor vizinho: 202027
+
+Sequencia inicial 29 -> 202027
+Melhor vizinho: 202009
+
+Sequencia inicial 30 -> 202009
+Melhor vizinho: 201990
+
+Sequencia inicial 31 -> 201990
+Melhor vizinho: 201978
+
+Sequencia inicial 32 -> 201978
+Melhor vizinho: 201969
+
+Sequencia inicial 33 -> 201969
+Melhor vizinho: 201965
+
+Sequencia inicial 34 -> 201965
+Melhor vizinho: 201928
+
+Sequencia inicial 35 -> 201928
+Melhor vizinho: 201912
+
+Sequencia inicial 36 -> 201912
+Melhor vizinho: 201901
+
+Sequencia inicial 37 -> 201901
+Melhor vizinho: 201877
+
+Sequencia inicial 38 -> 201877
+Melhor vizinho: 201874
+
+Sequencia inicial 39 -> 201874
+Melhor vizinho: 201766
+
+Sequencia inicial 40 -> 201766
+Melhor vizinho: 201685
+
+Sequencia inicial 41 -> 201685
+Melhor vizinho: 201619
+
+Sequencia inicial 42 -> 201619
+Melhor vizinho: 201608
+
+Sequencia inicial 43 -> 201608
+Melhor vizinho: 201540
+
+Sequencia inicial 44 -> 201540
+Melhor vizinho: 201529
+
+Sequencia inicial 45 -> 201529
+Melhor vizinho: 201515
+
+Sequencia inicial 46 -> 201515
+Melhor vizinho: 201489
+
+Sequencia inicial 47 -> 201489
+Melhor vizinho: 201475
+
+Sequencia inicial 48 -> 201475
+Melhor vizinho: 201463
+
+Sequencia inicial 49 -> 201463
+Melhor vizinho: 201462
+
+Sequencia inicial 50 -> 201462
+Melhor vizinho: 201450
+
+Sequencia inicial 51 -> 201450
+Melhor vizinho: 201446
+
+Sequencia inicial 52 -> 201446
+Melhor vizinho: 201440
+
+Sequencia inicial 53 -> 201440
+Melhor vizinho: 201417
+
+Sequencia inicial 54 -> 201417
+Melhor vizinho: 201414
+
+Sequencia inicial 55 -> 201414
+Melhor vizinho: 201379
+
+Sequencia inicial 56 -> 201379
+Melhor vizinho: 201373
+
+Sequencia inicial 57 -> 201373
+Melhor vizinho: 201357
+
+Sequencia inicial 58 -> 201357
+Melhor vizinho: 201342
+
+Sequencia inicial 59 -> 201342
+Melhor vizinho: 201299
+
+Sequencia inicial 60 -> 201299
+Melhor vizinho: 201278
+
+Sequencia inicial 61 -> 201278
+Melhor vizinho: 201258
+
+Sequencia inicial 62 -> 201258
+Melhor vizinho: 201244
+
+Sequencia inicial 63 -> 201244
+Melhor vizinho: 201235
+
+Sequencia inicial 64 -> 201235
+Melhor vizinho: 201199
+
+Sequencia inicial 65 -> 201199
+Melhor vizinho: 201147
+
+Sequencia inicial 66 -> 201147
+Melhor vizinho: 201113
+
+Sequencia inicial 67 -> 201113
+Melhor vizinho: 201080
+
+Sequencia inicial 68 -> 201080
+Melhor vizinho: 201068
+
+Sequencia inicial 69 -> 201068
+Melhor vizinho: 201065
+
+Sequencia inicial 70 -> 201065
+Melhor vizinho: 201056
+
+Sequencia inicial 71 -> 201056
+Melhor vizinho: 201041
+
+Sequencia inicial 72 -> 201041
+Melhor vizinho: 201035
+
+Sequencia inicial 73 -> 201035
+Melhor vizinho: 201025
+
+Sequencia inicial 74 -> 201025
+Melhor vizinho: 200998
+
+Sequencia inicial 75 -> 200998
+Melhor vizinho: 200975
+
+Sequencia inicial 76 -> 200975
+Melhor vizinho: 200953
+
+Sequencia inicial 77 -> 200953
+Melhor vizinho: 200905
+
+Sequencia inicial 78 -> 200905
+Melhor vizinho: 200890
+
+Sequencia inicial 79 -> 200890
+Melhor vizinho: 200870
+
+Sequencia inicial 80 -> 200870
+Melhor vizinho: 200864
+
+Sequencia inicial 81 -> 200864
+Melhor vizinho: 200863
+
+Sequencia inicial 82 -> 200863
+Melhor vizinho: 200860
+
+Sequencia inicial 83 -> 200860
+Melhor vizinho: 200849
+
+Sequencia inicial 84 -> 200849
+Melhor vizinho: 200847
+
+Sequencia inicial 85 -> 200847
+Melhor vizinho: 200845
+
+Sequencia inicial 86 -> 200845
+Melhor vizinho: 200812
+
+Sequencia inicial 87 -> 200812
+Melhor vizinho: 200810
+
+Sequencia inicial 88 -> 200810
+Melhor vizinho: 200808
+
+Sequencia inicial 89 -> 200808
+Melhor vizinho: 200807
+
+Sequencia inicial 90 -> 200807
+Melhor vizinho: 200807
+
+Sequencia inicial 91 -> 200807
+ITERAÇÃO: 7 - Atraso: 198079
+
+Sequencia inicial 1 -> 207553
+Melhor vizinho: 206880
+
+Sequencia inicial 2 -> 206880
+Melhor vizinho: 206489
+
+Sequencia inicial 3 -> 206489
+Melhor vizinho: 206146
+
+Sequencia inicial 4 -> 206146
+Melhor vizinho: 205746
+
+Sequencia inicial 5 -> 205746
+Melhor vizinho: 205538
+
+Sequencia inicial 6 -> 205538
+Melhor vizinho: 205411
+
+Sequencia inicial 7 -> 205411
+Melhor vizinho: 205130
+
+Sequencia inicial 8 -> 205130
+Melhor vizinho: 204732
+
+Sequencia inicial 9 -> 204732
+Melhor vizinho: 204491
+
+Sequencia inicial 10 -> 204491
+Melhor vizinho: 204302
+
+Sequencia inicial 11 -> 204302
+Melhor vizinho: 204183
+
+Sequencia inicial 12 -> 204183
+Melhor vizinho: 204076
+
+Sequencia inicial 13 -> 204076
+Melhor vizinho: 203965
+
+Sequencia inicial 14 -> 203965
+Melhor vizinho: 203855
+
+Sequencia inicial 15 -> 203855
+Melhor vizinho: 203780
+
+Sequencia inicial 16 -> 203780
+Melhor vizinho: 203552
+
+Sequencia inicial 17 -> 203552
+Melhor vizinho: 203512
+
+Sequencia inicial 18 -> 203512
+Melhor vizinho: 203417
+
+Sequencia inicial 19 -> 203417
+Melhor vizinho: 203311
+
+Sequencia inicial 20 -> 203311
+Melhor vizinho: 203139
+
+Sequencia inicial 21 -> 203139
+Melhor vizinho: 203112
+
+Sequencia inicial 22 -> 203112
+Melhor vizinho: 203077
+
+Sequencia inicial 23 -> 203077
+Melhor vizinho: 203049
+
+Sequencia inicial 24 -> 203049
+Melhor vizinho: 202905
+
+Sequencia inicial 25 -> 202905
+Melhor vizinho: 202802
+
+Sequencia inicial 26 -> 202802
+Melhor vizinho: 202702
+
+Sequencia inicial 27 -> 202702
+Melhor vizinho: 202655
+
+Sequencia inicial 28 -> 202655
+Melhor vizinho: 202617
+
+Sequencia inicial 29 -> 202617
+Melhor vizinho: 202529
+
+Sequencia inicial 30 -> 202529
+Melhor vizinho: 202505
+
+Sequencia inicial 31 -> 202505
+Melhor vizinho: 202482
+
+Sequencia inicial 32 -> 202482
+Melhor vizinho: 202404
+
+Sequencia inicial 33 -> 202404
+Melhor vizinho: 202359
+
+Sequencia inicial 34 -> 202359
+Melhor vizinho: 202319
+
+Sequencia inicial 35 -> 202319
+Melhor vizinho: 202278
+
+Sequencia inicial 36 -> 202278
+Melhor vizinho: 202252
+
+Sequencia inicial 37 -> 202252
+Melhor vizinho: 202226
+
+Sequencia inicial 38 -> 202226
+Melhor vizinho: 202197
+
+Sequencia inicial 39 -> 202197
+Melhor vizinho: 202152
+
+Sequencia inicial 40 -> 202152
+Melhor vizinho: 202138
+
+Sequencia inicial 41 -> 202138
+Melhor vizinho: 202007
+
+Sequencia inicial 42 -> 202007
+Melhor vizinho: 201988
+
+Sequencia inicial 43 -> 201988
+Melhor vizinho: 201973
+
+Sequencia inicial 44 -> 201973
+Melhor vizinho: 201956
+
+Sequencia inicial 45 -> 201956
+Melhor vizinho: 201932
+
+Sequencia inicial 46 -> 201932
+Melhor vizinho: 201921
+
+Sequencia inicial 47 -> 201921
+Melhor vizinho: 201910
+
+Sequencia inicial 48 -> 201910
+Melhor vizinho: 201898
+
+Sequencia inicial 49 -> 201898
+Melhor vizinho: 201888
+
+Sequencia inicial 50 -> 201888
+Melhor vizinho: 201875
+
+Sequencia inicial 51 -> 201875
+Melhor vizinho: 201859
+
+Sequencia inicial 52 -> 201859
+Melhor vizinho: 201850
+
+Sequencia inicial 53 -> 201850
+Melhor vizinho: 201839
+
+Sequencia inicial 54 -> 201839
+Melhor vizinho: 201804
+
+Sequencia inicial 55 -> 201804
+Melhor vizinho: 201775
+
+Sequencia inicial 56 -> 201775
+Melhor vizinho: 201736
+
+Sequencia inicial 57 -> 201736
+Melhor vizinho: 201720
+
+Sequencia inicial 58 -> 201720
+Melhor vizinho: 201675
+
+Sequencia inicial 59 -> 201675
+Melhor vizinho: 201626
+
+Sequencia inicial 60 -> 201626
+Melhor vizinho: 201602
+
+Sequencia inicial 61 -> 201602
+Melhor vizinho: 201588
+
+Sequencia inicial 62 -> 201588
+Melhor vizinho: 201576
+
+Sequencia inicial 63 -> 201576
+Melhor vizinho: 201566
+
+Sequencia inicial 64 -> 201566
+Melhor vizinho: 201555
+
+Sequencia inicial 65 -> 201555
+Melhor vizinho: 201551
+
+Sequencia inicial 66 -> 201551
+Melhor vizinho: 201550
+
+Sequencia inicial 67 -> 201550
+Melhor vizinho: 201541
+
+Sequencia inicial 68 -> 201541
+Melhor vizinho: 201535
+
+Sequencia inicial 69 -> 201535
+Melhor vizinho: 201527
+
+Sequencia inicial 70 -> 201527
+ITERAÇÃO: 8 - Atraso: 198079
+
+Sequencia inicial 1 -> 208666
+Melhor vizinho: 208214
+
+Sequencia inicial 2 -> 208214
+Melhor vizinho: 207800
+
+Sequencia inicial 3 -> 207800
+Melhor vizinho: 207512
+
+Sequencia inicial 4 -> 207512
+Melhor vizinho: 207287
+
+Sequencia inicial 5 -> 207287
+Melhor vizinho: 206992
+
+Sequencia inicial 6 -> 206992
+Melhor vizinho: 206627
+
+Sequencia inicial 7 -> 206627
+Melhor vizinho: 206420
+
+Sequencia inicial 8 -> 206420
+Melhor vizinho: 206270
+
+Sequencia inicial 9 -> 206270
+Melhor vizinho: 206026
+
+Sequencia inicial 10 -> 206026
+Melhor vizinho: 205893
+
+Sequencia inicial 11 -> 205893
+Melhor vizinho: 205771
+
+Sequencia inicial 12 -> 205771
+Melhor vizinho: 205648
+
+Sequencia inicial 13 -> 205648
+Melhor vizinho: 205455
+
+Sequencia inicial 14 -> 205455
+Melhor vizinho: 205144
+
+Sequencia inicial 15 -> 205144
+Melhor vizinho: 204944
+
+Sequencia inicial 16 -> 204944
+Melhor vizinho: 204778
+
+Sequencia inicial 17 -> 204778
+Melhor vizinho: 204692
+
+Sequencia inicial 18 -> 204692
+Melhor vizinho: 204473
+
+Sequencia inicial 19 -> 204473
+Melhor vizinho: 204393
+
+Sequencia inicial 20 -> 204393
+Melhor vizinho: 204223
+
+Sequencia inicial 21 -> 204223
+Melhor vizinho: 204076
+
+Sequencia inicial 22 -> 204076
+Melhor vizinho: 203984
+
+Sequencia inicial 23 -> 203984
+Melhor vizinho: 203913
+
+Sequencia inicial 24 -> 203913
+Melhor vizinho: 203809
+
+Sequencia inicial 25 -> 203809
+Melhor vizinho: 203750
+
+Sequencia inicial 26 -> 203750
+Melhor vizinho: 203694
+
+Sequencia inicial 27 -> 203694
+Melhor vizinho: 203640
+
+Sequencia inicial 28 -> 203640
+Melhor vizinho: 203543
+
+Sequencia inicial 29 -> 203543
+Melhor vizinho: 203478
+
+Sequencia inicial 30 -> 203478
+Melhor vizinho: 203312
+
+Sequencia inicial 31 -> 203312
+Melhor vizinho: 203264
+
+Sequencia inicial 32 -> 203264
+Melhor vizinho: 203221
+
+Sequencia inicial 33 -> 203221
+Melhor vizinho: 203190
+
+Sequencia inicial 34 -> 203190
+Melhor vizinho: 203162
+
+Sequencia inicial 35 -> 203162
+Melhor vizinho: 203059
+
+Sequencia inicial 36 -> 203059
+Melhor vizinho: 203012
+
+Sequencia inicial 37 -> 203012
+Melhor vizinho: 202980
+
+Sequencia inicial 38 -> 202980
+Melhor vizinho: 202935
+
+Sequencia inicial 39 -> 202935
+Melhor vizinho: 202880
+
+Sequencia inicial 40 -> 202880
+Melhor vizinho: 202828
+
+Sequencia inicial 41 -> 202828
+Melhor vizinho: 202776
+
+Sequencia inicial 42 -> 202776
+Melhor vizinho: 202741
+
+Sequencia inicial 43 -> 202741
+Melhor vizinho: 202699
+
+Sequencia inicial 44 -> 202699
+Melhor vizinho: 202674
+
+Sequencia inicial 45 -> 202674
+Melhor vizinho: 202654
+
+Sequencia inicial 46 -> 202654
+Melhor vizinho: 202605
+
+Sequencia inicial 47 -> 202605
+Melhor vizinho: 202589
+
+Sequencia inicial 48 -> 202589
+Melhor vizinho: 202547
+
+Sequencia inicial 49 -> 202547
+Melhor vizinho: 202532
+
+Sequencia inicial 50 -> 202532
+Melhor vizinho: 202495
+
+Sequencia inicial 51 -> 202495
+Melhor vizinho: 202466
+
+Sequencia inicial 52 -> 202466
+Melhor vizinho: 202457
+
+Sequencia inicial 53 -> 202457
+Melhor vizinho: 202444
+
+Sequencia inicial 54 -> 202444
+Melhor vizinho: 202432
+
+Sequencia inicial 55 -> 202432
+Melhor vizinho: 202348
+
+Sequencia inicial 56 -> 202348
+Melhor vizinho: 202277
+
+Sequencia inicial 57 -> 202277
+Melhor vizinho: 202210
+
+Sequencia inicial 58 -> 202210
+Melhor vizinho: 202184
+
+Sequencia inicial 59 -> 202184
+Melhor vizinho: 202173
+
+Sequencia inicial 60 -> 202173
+Melhor vizinho: 202161
+
+Sequencia inicial 61 -> 202161
+Melhor vizinho: 202148
+
+Sequencia inicial 62 -> 202148
+Melhor vizinho: 202137
+
+Sequencia inicial 63 -> 202137
+Melhor vizinho: 202127
+
+Sequencia inicial 64 -> 202127
+Melhor vizinho: 202120
+
+Sequencia inicial 65 -> 202120
+Melhor vizinho: 202095
+
+Sequencia inicial 66 -> 202095
+Melhor vizinho: 202092
+
+Sequencia inicial 67 -> 202092
+Melhor vizinho: 202085
+
+Sequencia inicial 68 -> 202085
+Melhor vizinho: 202054
+
+Sequencia inicial 69 -> 202054
+Melhor vizinho: 202049
+
+Sequencia inicial 70 -> 202049
+Melhor vizinho: 202042
+
+Sequencia inicial 71 -> 202042
+Melhor vizinho: 202029
+
+Sequencia inicial 72 -> 202029
+Melhor vizinho: 202005
+
+Sequencia inicial 73 -> 202005
+Melhor vizinho: 201992
+
+Sequencia inicial 74 -> 201992
+Melhor vizinho: 201960
+
+Sequencia inicial 75 -> 201960
+Melhor vizinho: 201954
+
+Sequencia inicial 76 -> 201954
+Melhor vizinho: 201948
+
+Sequencia inicial 77 -> 201948
+ITERAÇÃO: 9 - Atraso: 198079
+
+Sequencia inicial 1 -> 207654
+Melhor vizinho: 207220
+
+Sequencia inicial 2 -> 207220
+Melhor vizinho: 206899
+
+Sequencia inicial 3 -> 206899
+Melhor vizinho: 206517
+
+Sequencia inicial 4 -> 206517
+Melhor vizinho: 206238
+
+Sequencia inicial 5 -> 206238
+Melhor vizinho: 206040
+
+Sequencia inicial 6 -> 206040
+Melhor vizinho: 205805
+
+Sequencia inicial 7 -> 205805
+Melhor vizinho: 205618
+
+Sequencia inicial 8 -> 205618
+Melhor vizinho: 205500
+
+Sequencia inicial 9 -> 205500
+Melhor vizinho: 205354
+
+Sequencia inicial 10 -> 205354
+Melhor vizinho: 205164
+
+Sequencia inicial 11 -> 205164
+Melhor vizinho: 205025
+
+Sequencia inicial 12 -> 205025
+Melhor vizinho: 204891
+
+Sequencia inicial 13 -> 204891
+Melhor vizinho: 204529
+
+Sequencia inicial 14 -> 204529
+Melhor vizinho: 204419
+
+Sequencia inicial 15 -> 204419
+Melhor vizinho: 204277
+
+Sequencia inicial 16 -> 204277
+Melhor vizinho: 204166
+
+Sequencia inicial 17 -> 204166
+Melhor vizinho: 204011
+
+Sequencia inicial 18 -> 204011
+Melhor vizinho: 203945
+
+Sequencia inicial 19 -> 203945
+Melhor vizinho: 203831
+
+Sequencia inicial 20 -> 203831
+Melhor vizinho: 203751
+
+Sequencia inicial 21 -> 203751
+Melhor vizinho: 203633
+
+Sequencia inicial 22 -> 203633
+Melhor vizinho: 203581
+
+Sequencia inicial 23 -> 203581
+Melhor vizinho: 203490
+
+Sequencia inicial 24 -> 203490
+Melhor vizinho: 203439
+
+Sequencia inicial 25 -> 203439
+Melhor vizinho: 203396
+
+Sequencia inicial 26 -> 203396
+Melhor vizinho: 203344
+
+Sequencia inicial 27 -> 203344
+Melhor vizinho: 203213
+
+Sequencia inicial 28 -> 203213
+Melhor vizinho: 203166
+
+Sequencia inicial 29 -> 203166
+Melhor vizinho: 203087
+
+Sequencia inicial 30 -> 203087
+Melhor vizinho: 203001
+
+Sequencia inicial 31 -> 203001
+Melhor vizinho: 202961
+
+Sequencia inicial 32 -> 202961
+Melhor vizinho: 202884
+
+Sequencia inicial 33 -> 202884
+Melhor vizinho: 202845
+
+Sequencia inicial 34 -> 202845
+Melhor vizinho: 202794
+
+Sequencia inicial 35 -> 202794
+Melhor vizinho: 202761
+
+Sequencia inicial 36 -> 202761
+Melhor vizinho: 202734
+
+Sequencia inicial 37 -> 202734
+Melhor vizinho: 202687
+
+Sequencia inicial 38 -> 202687
+Melhor vizinho: 202668
+
+Sequencia inicial 39 -> 202668
+Melhor vizinho: 202654
+
+Sequencia inicial 40 -> 202654
+Melhor vizinho: 202599
+
+Sequencia inicial 41 -> 202599
+Melhor vizinho: 202574
+
+Sequencia inicial 42 -> 202574
+Melhor vizinho: 202560
+
+Sequencia inicial 43 -> 202560
+Melhor vizinho: 202513
+
+Sequencia inicial 44 -> 202513
+Melhor vizinho: 202466
+
+Sequencia inicial 45 -> 202466
+Melhor vizinho: 202455
+
+Sequencia inicial 46 -> 202455
+Melhor vizinho: 202432
+
+Sequencia inicial 47 -> 202432
+Melhor vizinho: 202409
+
+Sequencia inicial 48 -> 202409
+Melhor vizinho: 202390
+
+Sequencia inicial 49 -> 202390
+Melhor vizinho: 202347
+
+Sequencia inicial 50 -> 202347
+Melhor vizinho: 202332
+
+Sequencia inicial 51 -> 202332
+Melhor vizinho: 202314
+
+Sequencia inicial 52 -> 202314
+Melhor vizinho: 202303
+
+Sequencia inicial 53 -> 202303
+Melhor vizinho: 202280
+
+Sequencia inicial 54 -> 202280
+Melhor vizinho: 202265
+
+Sequencia inicial 55 -> 202265
+Melhor vizinho: 202254
+
+Sequencia inicial 56 -> 202254
+Melhor vizinho: 202170
+
+Sequencia inicial 57 -> 202170
+Melhor vizinho: 202085
+
+Sequencia inicial 58 -> 202085
+Melhor vizinho: 202048
+
+Sequencia inicial 59 -> 202048
+Melhor vizinho: 202012
+
+Sequencia inicial 60 -> 202012
+Melhor vizinho: 201997
+
+Sequencia inicial 61 -> 201997
+Melhor vizinho: 201994
+
+Sequencia inicial 62 -> 201994
+Melhor vizinho: 201983
+
+Sequencia inicial 63 -> 201983
+Melhor vizinho: 201945
+
+Sequencia inicial 64 -> 201945
+Melhor vizinho: 201937
+
+Sequencia inicial 65 -> 201937
+Melhor vizinho: 201908
+
+Sequencia inicial 66 -> 201908
+Melhor vizinho: 201900
+
+Sequencia inicial 67 -> 201900
+Melhor vizinho: 201891
+
+Sequencia inicial 68 -> 201891
+Melhor vizinho: 201861
+
+Sequencia inicial 69 -> 201861
+Melhor vizinho: 201814
+
+Sequencia inicial 70 -> 201814
+Melhor vizinho: 201801
+
+Sequencia inicial 71 -> 201801
+Melhor vizinho: 201793
+
+Sequencia inicial 72 -> 201793
+Melhor vizinho: 201776
+
+Sequencia inicial 73 -> 201776
+Melhor vizinho: 201775
+
+Sequencia inicial 74 -> 201775
+Melhor vizinho: 201753
+
+Sequencia inicial 75 -> 201753
+Melhor vizinho: 201741
+
+Sequencia inicial 76 -> 201741
+Melhor vizinho: 201728
+
+Sequencia inicial 77 -> 201728
+Melhor vizinho: 201721
+
+Sequencia inicial 78 -> 201721
+Melhor vizinho: 201719
+
+Sequencia inicial 79 -> 201719
+Melhor vizinho: 201711
+
+Sequencia inicial 80 -> 201711
+Melhor vizinho: 201707
+
+Sequencia inicial 81 -> 201707
+Melhor vizinho: 201700
+
+Sequencia inicial 82 -> 201700
+Melhor vizinho: 201693
+
+Sequencia inicial 83 -> 201693
+Melhor vizinho: 201678
+
+Sequencia inicial 84 -> 201678
+Melhor vizinho: 201674
+
+Sequencia inicial 85 -> 201674
+Melhor vizinho: 201674
+
+Sequencia inicial 86 -> 201674
+Melhor vizinho: 201672
+
+Sequencia inicial 87 -> 201672
+Melhor vizinho: 201670
+
+Sequencia inicial 88 -> 201670
+Melhor vizinho: 201652
+
+Sequencia inicial 89 -> 201652
+Melhor vizinho: 201649
+
+Sequencia inicial 90 -> 201649
+Melhor vizinho: 201633
+
+Sequencia inicial 91 -> 201633
+Melhor vizinho: 201628
+
+Sequencia inicial 92 -> 201628
+Melhor vizinho: 201625
+
+Sequencia inicial 93 -> 201625
+Melhor vizinho: 201625
+
+Sequencia inicial 94 -> 201625
+Melhor vizinho: 201612
+
+Sequencia inicial 95 -> 201612
+Melhor vizinho: 201599
+
+Sequencia inicial 96 -> 201599
+ITERAÇÃO: 10 - Atraso: 198079
+
+Sequencia inicial 1 -> 208678
+Melhor vizinho: 208225
+
+Sequencia inicial 2 -> 208225
+Melhor vizinho: 207784
+
+Sequencia inicial 3 -> 207784
+Melhor vizinho: 207398
+
+Sequencia inicial 4 -> 207398
+Melhor vizinho: 207110
+
+Sequencia inicial 5 -> 207110
+Melhor vizinho: 206870
+
+Sequencia inicial 6 -> 206870
+Melhor vizinho: 206545
+
+Sequencia inicial 7 -> 206545
+Melhor vizinho: 206326
+
+Sequencia inicial 8 -> 206326
+Melhor vizinho: 206161
+
+Sequencia inicial 9 -> 206161
+Melhor vizinho: 206022
+
+Sequencia inicial 10 -> 206022
+Melhor vizinho: 205841
+
+Sequencia inicial 11 -> 205841
+Melhor vizinho: 205659
+
+Sequencia inicial 12 -> 205659
+Melhor vizinho: 205429
+
+Sequencia inicial 13 -> 205429
+Melhor vizinho: 205269
+
+Sequencia inicial 14 -> 205269
+Melhor vizinho: 205139
+
+Sequencia inicial 15 -> 205139
+Melhor vizinho: 204962
+
+Sequencia inicial 16 -> 204962
+Melhor vizinho: 204688
+
+Sequencia inicial 17 -> 204688
+Melhor vizinho: 204580
+
+Sequencia inicial 18 -> 204580
+Melhor vizinho: 204471
+
+Sequencia inicial 19 -> 204471
+Melhor vizinho: 204365
+
+Sequencia inicial 20 -> 204365
+Melhor vizinho: 204291
+
+Sequencia inicial 21 -> 204291
+Melhor vizinho: 204194
+
+Sequencia inicial 22 -> 204194
+Melhor vizinho: 204141
+
+Sequencia inicial 23 -> 204141
+Melhor vizinho: 204076
+
+Sequencia inicial 24 -> 204076
+Melhor vizinho: 203888
+
+Sequencia inicial 25 -> 203888
+Melhor vizinho: 203797
+
+Sequencia inicial 26 -> 203797
+Melhor vizinho: 203760
+
+Sequencia inicial 27 -> 203760
+Melhor vizinho: 203645
+
+Sequencia inicial 28 -> 203645
+Melhor vizinho: 203566
+
+Sequencia inicial 29 -> 203566
+Melhor vizinho: 203530
+
+Sequencia inicial 30 -> 203530
+Melhor vizinho: 203432
+
+Sequencia inicial 31 -> 203432
+Melhor vizinho: 203387
+
+Sequencia inicial 32 -> 203387
+Melhor vizinho: 203358
+
+Sequencia inicial 33 -> 203358
+Melhor vizinho: 203220
+
+Sequencia inicial 34 -> 203220
+Melhor vizinho: 203153
+
+Sequencia inicial 35 -> 203153
+Melhor vizinho: 203127
+
+Sequencia inicial 36 -> 203127
+Melhor vizinho: 203059
+
+Sequencia inicial 37 -> 203059
+Melhor vizinho: 203029
+
+Sequencia inicial 38 -> 203029
+Melhor vizinho: 202983
+
+Sequencia inicial 39 -> 202983
+Melhor vizinho: 202946
+
+Sequencia inicial 40 -> 202946
+Melhor vizinho: 202833
+
+Sequencia inicial 41 -> 202833
+Melhor vizinho: 202773
+
+Sequencia inicial 42 -> 202773
+Melhor vizinho: 202754
+
+Sequencia inicial 43 -> 202754
+Melhor vizinho: 202734
+
+Sequencia inicial 44 -> 202734
+Melhor vizinho: 202721
+
+Sequencia inicial 45 -> 202721
+Melhor vizinho: 202708
+
+Sequencia inicial 46 -> 202708
+Melhor vizinho: 202699
+
+Sequencia inicial 47 -> 202699
+Melhor vizinho: 202675
+
+Sequencia inicial 48 -> 202675
+Melhor vizinho: 202662
+
+Sequencia inicial 49 -> 202662
+Melhor vizinho: 202650
+
+Sequencia inicial 50 -> 202650
+Melhor vizinho: 202643
+
+Sequencia inicial 51 -> 202643
+Melhor vizinho: 202620
+
+Sequencia inicial 52 -> 202620
+Melhor vizinho: 202566
+
+Sequencia inicial 53 -> 202566
+Melhor vizinho: 202548
+
+Sequencia inicial 54 -> 202548
+Melhor vizinho: 202539
+
+Sequencia inicial 55 -> 202539
+Melhor vizinho: 202508
+
+Sequencia inicial 56 -> 202508
+Melhor vizinho: 202474
+
+Sequencia inicial 57 -> 202474
+Melhor vizinho: 202465
+
+Sequencia inicial 58 -> 202465
+Melhor vizinho: 202435
+
+Sequencia inicial 59 -> 202435
+Melhor vizinho: 202429
+
+Sequencia inicial 60 -> 202429
+Melhor vizinho: 202414
+
+Sequencia inicial 61 -> 202414
+Melhor vizinho: 202408
+
+Sequencia inicial 62 -> 202408
+Melhor vizinho: 202392
+
+Sequencia inicial 63 -> 202392
+Melhor vizinho: 202387
+
+Sequencia inicial 64 -> 202387
+Melhor vizinho: 202380
+
+Sequencia inicial 65 -> 202380
+Melhor vizinho: 202373
+
+Sequencia inicial 66 -> 202373
+Melhor vizinho: 202337
+
+Sequencia inicial 67 -> 202337
+Melhor vizinho: 202315
+
+Sequencia inicial 68 -> 202315
+Melhor vizinho: 202309
+
+Sequencia inicial 69 -> 202309
+Melhor vizinho: 202291
+
+Sequencia inicial 70 -> 202291
+Melhor vizinho: 202286
+
+Sequencia inicial 71 -> 202286
+Melhor vizinho: 202280
+
+Sequencia inicial 72 -> 202280
+Melhor vizinho: 202269
+
+Sequencia inicial 73 -> 202269
+Melhor vizinho: 202253
+
+Sequencia inicial 74 -> 202253
+Melhor vizinho: 202189
+
+Sequencia inicial 75 -> 202189
+Melhor vizinho: 202161
+
+Sequencia inicial 76 -> 202161
+Melhor vizinho: 202155
+
+Sequencia inicial 77 -> 202155
+Melhor vizinho: 202142
+
+Sequencia inicial 78 -> 202142
+Melhor vizinho: 202131
+
+Sequencia inicial 79 -> 202131
+Melhor vizinho: 202120
+
+Sequencia inicial 80 -> 202120
+Melhor vizinho: 202102
+
+Sequencia inicial 81 -> 202102
+Melhor vizinho: 202101
+
+Sequencia inicial 82 -> 202101
+Melhor vizinho: 202098
+
+Sequencia inicial 83 -> 202098
+Melhor vizinho: 202090
+
+Sequencia inicial 84 -> 202090
+Melhor vizinho: 202074
+
+Sequencia inicial 85 -> 202074
+Melhor vizinho: 202067
+
+Sequencia inicial 86 -> 202067
+Melhor vizinho: 202063
+
+Sequencia inicial 87 -> 202063
+Melhor vizinho: 202039
+
+Sequencia inicial 88 -> 202039
+Melhor vizinho: 202028
+
+Sequencia inicial 89 -> 202028
+Melhor vizinho: 202021
+
+Sequencia inicial 90 -> 202021
+Melhor vizinho: 202018
+
+Sequencia inicial 91 -> 202018
+Melhor vizinho: 202016
+
+Sequencia inicial 92 -> 202016
+Melhor vizinho: 202014
+
+Sequencia inicial 93 -> 202014
+Melhor vizinho: 202008
+
+Sequencia inicial 94 -> 202008
+Melhor vizinho: 202006
+
+Sequencia inicial 95 -> 202006
+Melhor vizinho: 201983
+
+Sequencia inicial 96 -> 201983
+Melhor vizinho: 201981
+
+Sequencia inicial 97 -> 201981
+Melhor vizinho: 201931
+
+Sequencia inicial 98 -> 201931
+Melhor vizinho: 201921
+
+Sequencia inicial 99 -> 201921
+Melhor vizinho: 201918
+
+Sequencia inicial 100 -> 201918
+Melhor vizinho: 201914
+
+Sequencia inicial 101 -> 201914
+ITERAÇÃO: 11 - Atraso: 198079
+
+Sequencia inicial 1 -> 209678
+Melhor vizinho: 209132
+
+Sequencia inicial 2 -> 209132
+Melhor vizinho: 208676
+
+Sequencia inicial 3 -> 208676
+Melhor vizinho: 208414
+
+Sequencia inicial 4 -> 208414
+Melhor vizinho: 208127
+
+Sequencia inicial 5 -> 208127
+Melhor vizinho: 207805
+
+Sequencia inicial 6 -> 207805
+Melhor vizinho: 207500
+
+Sequencia inicial 7 -> 207500
+Melhor vizinho: 207331
+
+Sequencia inicial 8 -> 207331
+Melhor vizinho: 207178
+
+Sequencia inicial 9 -> 207178
+Melhor vizinho: 207018
+
+Sequencia inicial 10 -> 207018
+Melhor vizinho: 206674
+
+Sequencia inicial 11 -> 206674
+Melhor vizinho: 206547
+
+Sequencia inicial 12 -> 206547
+Melhor vizinho: 206422
+
+Sequencia inicial 13 -> 206422
+Melhor vizinho: 206235
+
+Sequencia inicial 14 -> 206235
+Melhor vizinho: 206024
+
+Sequencia inicial 15 -> 206024
+Melhor vizinho: 205595
+
+Sequencia inicial 16 -> 205595
+Melhor vizinho: 205339
+
+Sequencia inicial 17 -> 205339
+Melhor vizinho: 205217
+
+Sequencia inicial 18 -> 205217
+Melhor vizinho: 205056
+
+Sequencia inicial 19 -> 205056
+Melhor vizinho: 204950
+
+Sequencia inicial 20 -> 204950
+Melhor vizinho: 204893
+
+Sequencia inicial 21 -> 204893
+Melhor vizinho: 204815
+
+Sequencia inicial 22 -> 204815
+Melhor vizinho: 204774
+
+Sequencia inicial 23 -> 204774
+Melhor vizinho: 204595
+
+Sequencia inicial 24 -> 204595
+Melhor vizinho: 204395
+
+Sequencia inicial 25 -> 204395
+Melhor vizinho: 204338
+
+Sequencia inicial 26 -> 204338
+Melhor vizinho: 204290
+
+Sequencia inicial 27 -> 204290
+Melhor vizinho: 204248
+
+Sequencia inicial 28 -> 204248
+Melhor vizinho: 204039
+
+Sequencia inicial 29 -> 204039
+Melhor vizinho: 203972
+
+Sequencia inicial 30 -> 203972
+Melhor vizinho: 203870
+
+Sequencia inicial 31 -> 203870
+Melhor vizinho: 203790
+
+Sequencia inicial 32 -> 203790
+Melhor vizinho: 203704
+
+Sequencia inicial 33 -> 203704
+Melhor vizinho: 203672
+
+Sequencia inicial 34 -> 203672
+Melhor vizinho: 203612
+
+Sequencia inicial 35 -> 203612
+Melhor vizinho: 203588
+
+Sequencia inicial 36 -> 203588
+Melhor vizinho: 203441
+
+Sequencia inicial 37 -> 203441
+Melhor vizinho: 203405
+
+Sequencia inicial 38 -> 203405
+Melhor vizinho: 203375
+
+Sequencia inicial 39 -> 203375
+Melhor vizinho: 203299
+
+Sequencia inicial 40 -> 203299
+Melhor vizinho: 203246
+
+Sequencia inicial 41 -> 203246
+Melhor vizinho: 203195
+
+Sequencia inicial 42 -> 203195
+Melhor vizinho: 203121
+
+Sequencia inicial 43 -> 203121
+Melhor vizinho: 203106
+
+Sequencia inicial 44 -> 203106
+Melhor vizinho: 203054
+
+Sequencia inicial 45 -> 203054
+Melhor vizinho: 203043
+
+Sequencia inicial 46 -> 203043
+Melhor vizinho: 203029
+
+Sequencia inicial 47 -> 203029
+Melhor vizinho: 202995
+
+Sequencia inicial 48 -> 202995
+Melhor vizinho: 202960
+
+Sequencia inicial 49 -> 202960
+Melhor vizinho: 202937
+
+Sequencia inicial 50 -> 202937
+Melhor vizinho: 202924
+
+Sequencia inicial 51 -> 202924
+Melhor vizinho: 202918
+
+Sequencia inicial 52 -> 202918
+Melhor vizinho: 202911
+
+Sequencia inicial 53 -> 202911
+Melhor vizinho: 202866
+
+Sequencia inicial 54 -> 202866
+Melhor vizinho: 202846
+
+Sequencia inicial 55 -> 202846
+Melhor vizinho: 202808
+
+Sequencia inicial 56 -> 202808
+Melhor vizinho: 202776
+
+Sequencia inicial 57 -> 202776
+Melhor vizinho: 202764
+
+Sequencia inicial 58 -> 202764
+Melhor vizinho: 202744
+
+Sequencia inicial 59 -> 202744
+Melhor vizinho: 202734
+
+Sequencia inicial 60 -> 202734
+Melhor vizinho: 202730
+
+Sequencia inicial 61 -> 202730
+Melhor vizinho: 202685
+
+Sequencia inicial 62 -> 202685
+Melhor vizinho: 202682
+
+Sequencia inicial 63 -> 202682
+Melhor vizinho: 202645
+
+Sequencia inicial 64 -> 202645
+Melhor vizinho: 202615
+
+Sequencia inicial 65 -> 202615
+Melhor vizinho: 202586
+
+Sequencia inicial 66 -> 202586
+Melhor vizinho: 202577
+
+Sequencia inicial 67 -> 202577
+Melhor vizinho: 202562
+
+Sequencia inicial 68 -> 202562
+Melhor vizinho: 202558
+
+Sequencia inicial 69 -> 202558
+Melhor vizinho: 202552
+
+Sequencia inicial 70 -> 202552
+Melhor vizinho: 202550
+
+Sequencia inicial 71 -> 202550
+Melhor vizinho: 202526
+
+Sequencia inicial 72 -> 202526
+Melhor vizinho: 202515
+
+Sequencia inicial 73 -> 202515
+Melhor vizinho: 202510
+
+Sequencia inicial 74 -> 202510
+Melhor vizinho: 202506
+
+Sequencia inicial 75 -> 202506
+Melhor vizinho: 202489
+
+Sequencia inicial 76 -> 202489
+Melhor vizinho: 202484
+
+Sequencia inicial 77 -> 202484
+Melhor vizinho: 202475
+
+Sequencia inicial 78 -> 202475
+Melhor vizinho: 202469
+
+Sequencia inicial 79 -> 202469
+Melhor vizinho: 202465
+
+Sequencia inicial 80 -> 202465
+Melhor vizinho: 202460
+
+Sequencia inicial 81 -> 202460
+Melhor vizinho: 202453
+
+Sequencia inicial 82 -> 202453
+Melhor vizinho: 202452
+
+Sequencia inicial 83 -> 202452
+Melhor vizinho: 202449
+
+Sequencia inicial 84 -> 202449
+Melhor vizinho: 202440
+
+Sequencia inicial 85 -> 202440
+Melhor vizinho: 202414
+
+Sequencia inicial 86 -> 202414
+Melhor vizinho: 202399
+
+Sequencia inicial 87 -> 202399
+Melhor vizinho: 202394
+
+Sequencia inicial 88 -> 202394
+Melhor vizinho: 202393
+
+Sequencia inicial 89 -> 202393
+Melhor vizinho: 202379
+
+Sequencia inicial 90 -> 202379
+Melhor vizinho: 202379
+
+Sequencia inicial 91 -> 202379
+ITERAÇÃO: 12 - Atraso: 198079
+
+Sequencia inicial 1 -> 210265
+Melhor vizinho: 209641
+
+Sequencia inicial 2 -> 209641
+Melhor vizinho: 209119
+
+Sequencia inicial 3 -> 209119
+Melhor vizinho: 208617
+
+Sequencia inicial 4 -> 208617
+Melhor vizinho: 208207
+
+Sequencia inicial 5 -> 208207
+Melhor vizinho: 207918
+
+Sequencia inicial 6 -> 207918
+Melhor vizinho: 207592
+
+Sequencia inicial 7 -> 207592
+Melhor vizinho: 207288
+
+Sequencia inicial 8 -> 207288
+Melhor vizinho: 206940
+
+Sequencia inicial 9 -> 206940
+Melhor vizinho: 206732
+
+Sequencia inicial 10 -> 206732
+Melhor vizinho: 206515
+
+Sequencia inicial 11 -> 206515
+Melhor vizinho: 206225
+
+Sequencia inicial 12 -> 206225
+Melhor vizinho: 206024
+
+Sequencia inicial 13 -> 206024
+Melhor vizinho: 205865
+
+Sequencia inicial 14 -> 205865
+Melhor vizinho: 205660
+
+Sequencia inicial 15 -> 205660
+Melhor vizinho: 205502
+
+Sequencia inicial 16 -> 205502
+Melhor vizinho: 205343
+
+Sequencia inicial 17 -> 205343
+Melhor vizinho: 205196
+
+Sequencia inicial 18 -> 205196
+Melhor vizinho: 204996
+
+Sequencia inicial 19 -> 204996
+Melhor vizinho: 204876
+
+Sequencia inicial 20 -> 204876
+Melhor vizinho: 204776
+
+Sequencia inicial 21 -> 204776
+Melhor vizinho: 204689
+
+Sequencia inicial 22 -> 204689
+Melhor vizinho: 204609
+
+Sequencia inicial 23 -> 204609
+Melhor vizinho: 204364
+
+Sequencia inicial 24 -> 204364
+Melhor vizinho: 204297
+
+Sequencia inicial 25 -> 204297
+Melhor vizinho: 204170
+
+Sequencia inicial 26 -> 204170
+Melhor vizinho: 204051
+
+Sequencia inicial 27 -> 204051
+Melhor vizinho: 203883
+
+Sequencia inicial 28 -> 203883
+Melhor vizinho: 203838
+
+Sequencia inicial 29 -> 203838
+Melhor vizinho: 203802
+
+Sequencia inicial 30 -> 203802
+Melhor vizinho: 203664
+
+Sequencia inicial 31 -> 203664
+Melhor vizinho: 203595
+
+Sequencia inicial 32 -> 203595
+Melhor vizinho: 203535
+
+Sequencia inicial 33 -> 203535
+Melhor vizinho: 203498
+
+Sequencia inicial 34 -> 203498
+Melhor vizinho: 203449
+
+Sequencia inicial 35 -> 203449
+Melhor vizinho: 203388
+
+Sequencia inicial 36 -> 203388
+Melhor vizinho: 203357
+
+Sequencia inicial 37 -> 203357
+Melhor vizinho: 203306
+
+Sequencia inicial 38 -> 203306
+Melhor vizinho: 203269
+
+Sequencia inicial 39 -> 203269
+Melhor vizinho: 203209
+
+Sequencia inicial 40 -> 203209
+Melhor vizinho: 203120
+
+Sequencia inicial 41 -> 203120
+Melhor vizinho: 203010
+
+Sequencia inicial 42 -> 203010
+Melhor vizinho: 202969
+
+Sequencia inicial 43 -> 202969
+Melhor vizinho: 202956
+
+Sequencia inicial 44 -> 202956
+Melhor vizinho: 202907
+
+Sequencia inicial 45 -> 202907
+Melhor vizinho: 202891
+
+Sequencia inicial 46 -> 202891
+Melhor vizinho: 202782
+
+Sequencia inicial 47 -> 202782
+Melhor vizinho: 202549
+
+Sequencia inicial 48 -> 202549
+Melhor vizinho: 202447
+
+Sequencia inicial 49 -> 202447
+Melhor vizinho: 202416
+
+Sequencia inicial 50 -> 202416
+Melhor vizinho: 202371
+
+Sequencia inicial 51 -> 202371
+Melhor vizinho: 202349
+
+Sequencia inicial 52 -> 202349
+Melhor vizinho: 202331
+
+Sequencia inicial 53 -> 202331
+Melhor vizinho: 202317
+
+Sequencia inicial 54 -> 202317
+Melhor vizinho: 202288
+
+Sequencia inicial 55 -> 202288
+Melhor vizinho: 202257
+
+Sequencia inicial 56 -> 202257
+Melhor vizinho: 202234
+
+Sequencia inicial 57 -> 202234
+Melhor vizinho: 202215
+
+Sequencia inicial 58 -> 202215
+Melhor vizinho: 202182
+
+Sequencia inicial 59 -> 202182
+Melhor vizinho: 202158
+
+Sequencia inicial 60 -> 202158
+Melhor vizinho: 202145
+
+Sequencia inicial 61 -> 202145
+Melhor vizinho: 202128
+
+Sequencia inicial 62 -> 202128
+Melhor vizinho: 202086
+
+Sequencia inicial 63 -> 202086
+Melhor vizinho: 202033
+
+Sequencia inicial 64 -> 202033
+Melhor vizinho: 202019
+
+Sequencia inicial 65 -> 202019
+Melhor vizinho: 202003
+
+Sequencia inicial 66 -> 202003
+Melhor vizinho: 201995
+
+Sequencia inicial 67 -> 201995
+Melhor vizinho: 201984
+
+Sequencia inicial 68 -> 201984
+Melhor vizinho: 201975
+
+Sequencia inicial 69 -> 201975
+Melhor vizinho: 201966
+
+Sequencia inicial 70 -> 201966
+Melhor vizinho: 201956
+
+Sequencia inicial 71 -> 201956
+Melhor vizinho: 201927
+
+Sequencia inicial 72 -> 201927
+Melhor vizinho: 201900
+
+Sequencia inicial 73 -> 201900
+Melhor vizinho: 201880
+
+Sequencia inicial 74 -> 201880
+Melhor vizinho: 201868
+
+Sequencia inicial 75 -> 201868
+Melhor vizinho: 201865
+
+Sequencia inicial 76 -> 201865
+Melhor vizinho: 201856
+
+Sequencia inicial 77 -> 201856
+Melhor vizinho: 201842
+
+Sequencia inicial 78 -> 201842
+Melhor vizinho: 201841
+
+Sequencia inicial 79 -> 201841
+Melhor vizinho: 201831
+
+Sequencia inicial 80 -> 201831
+Melhor vizinho: 201819
+
+Sequencia inicial 81 -> 201819
+Melhor vizinho: 201791
+
+Sequencia inicial 82 -> 201791
+Melhor vizinho: 201785
+
+Sequencia inicial 83 -> 201785
+Melhor vizinho: 201785
+
+Sequencia inicial 84 -> 201785
+Melhor vizinho: 201782
+
+Sequencia inicial 85 -> 201782
+Melhor vizinho: 201766
+
+Sequencia inicial 86 -> 201766
+Melhor vizinho: 201758
+
+Sequencia inicial 87 -> 201758
+Melhor vizinho: 201755
+
+Sequencia inicial 88 -> 201755
+ITERAÇÃO: 13 - Atraso: 198079
+
+Sequencia inicial 1 -> 210504
+Melhor vizinho: 210051
+
+Sequencia inicial 2 -> 210051
+Melhor vizinho: 209633
+
+Sequencia inicial 3 -> 209633
+Melhor vizinho: 209201
+
+Sequencia inicial 4 -> 209201
+Melhor vizinho: 208805
+
+Sequencia inicial 5 -> 208805
+Melhor vizinho: 208436
+
+Sequencia inicial 6 -> 208436
+Melhor vizinho: 208194
+
+Sequencia inicial 7 -> 208194
+Melhor vizinho: 207936
+
+Sequencia inicial 8 -> 207936
+Melhor vizinho: 207634
+
+Sequencia inicial 9 -> 207634
+Melhor vizinho: 207416
+
+Sequencia inicial 10 -> 207416
+Melhor vizinho: 207179
+
+Sequencia inicial 11 -> 207179
+Melhor vizinho: 207001
+
+Sequencia inicial 12 -> 207001
+Melhor vizinho: 206755
+
+Sequencia inicial 13 -> 206755
+Melhor vizinho: 206585
+
+Sequencia inicial 14 -> 206585
+Melhor vizinho: 206358
+
+Sequencia inicial 15 -> 206358
+Melhor vizinho: 205999
+
+Sequencia inicial 16 -> 205999
+Melhor vizinho: 205833
+
+Sequencia inicial 17 -> 205833
+Melhor vizinho: 205562
+
+Sequencia inicial 18 -> 205562
+Melhor vizinho: 205382
+
+Sequencia inicial 19 -> 205382
+Melhor vizinho: 205293
+
+Sequencia inicial 20 -> 205293
+Melhor vizinho: 205130
+
+Sequencia inicial 21 -> 205130
+Melhor vizinho: 205078
+
+Sequencia inicial 22 -> 205078
+Melhor vizinho: 204735
+
+Sequencia inicial 23 -> 204735
+Melhor vizinho: 204691
+
+Sequencia inicial 24 -> 204691
+Melhor vizinho: 204537
+
+Sequencia inicial 25 -> 204537
+Melhor vizinho: 204488
+
+Sequencia inicial 26 -> 204488
+Melhor vizinho: 204395
+
+Sequencia inicial 27 -> 204395
+Melhor vizinho: 204352
+
+Sequencia inicial 28 -> 204352
+Melhor vizinho: 204322
+
+Sequencia inicial 29 -> 204322
+Melhor vizinho: 204283
+
+Sequencia inicial 30 -> 204283
+Melhor vizinho: 204226
+
+Sequencia inicial 31 -> 204226
+Melhor vizinho: 204133
+
+Sequencia inicial 32 -> 204133
+Melhor vizinho: 204019
+
+Sequencia inicial 33 -> 204019
+Melhor vizinho: 203884
+
+Sequencia inicial 34 -> 203884
+Melhor vizinho: 203864
+
+Sequencia inicial 35 -> 203864
+Melhor vizinho: 203845
+
+Sequencia inicial 36 -> 203845
+Melhor vizinho: 203825
+
+Sequencia inicial 37 -> 203825
+Melhor vizinho: 203808
+
+Sequencia inicial 38 -> 203808
+Melhor vizinho: 203779
+
+Sequencia inicial 39 -> 203779
+Melhor vizinho: 203517
+
+Sequencia inicial 40 -> 203517
+Melhor vizinho: 203366
+
+Sequencia inicial 41 -> 203366
+Melhor vizinho: 203250
+
+Sequencia inicial 42 -> 203250
+Melhor vizinho: 203181
+
+Sequencia inicial 43 -> 203181
+Melhor vizinho: 203170
+
+Sequencia inicial 44 -> 203170
+Melhor vizinho: 203164
+
+Sequencia inicial 45 -> 203164
+Melhor vizinho: 203084
+
+Sequencia inicial 46 -> 203084
+Melhor vizinho: 202963
+
+Sequencia inicial 47 -> 202963
+Melhor vizinho: 202877
+
+Sequencia inicial 48 -> 202877
+Melhor vizinho: 202817
+
+Sequencia inicial 49 -> 202817
+Melhor vizinho: 202805
+
+Sequencia inicial 50 -> 202805
+Melhor vizinho: 202793
+
+Sequencia inicial 51 -> 202793
+Melhor vizinho: 202759
+
+Sequencia inicial 52 -> 202759
+Melhor vizinho: 202686
+
+Sequencia inicial 53 -> 202686
+Melhor vizinho: 202679
+
+Sequencia inicial 54 -> 202679
+Melhor vizinho: 202651
+
+Sequencia inicial 55 -> 202651
+Melhor vizinho: 202643
+
+Sequencia inicial 56 -> 202643
+Melhor vizinho: 202622
+
+Sequencia inicial 57 -> 202622
+Melhor vizinho: 202602
+
+Sequencia inicial 58 -> 202602
+Melhor vizinho: 202578
+
+Sequencia inicial 59 -> 202578
+Melhor vizinho: 202492
+
+Sequencia inicial 60 -> 202492
+Melhor vizinho: 202466
+
+Sequencia inicial 61 -> 202466
+Melhor vizinho: 202403
+
+Sequencia inicial 62 -> 202403
+Melhor vizinho: 202376
+
+Sequencia inicial 63 -> 202376
+Melhor vizinho: 202333
+
+Sequencia inicial 64 -> 202333
+Melhor vizinho: 202312
+
+Sequencia inicial 65 -> 202312
+Melhor vizinho: 202284
+
+Sequencia inicial 66 -> 202284
+Melhor vizinho: 202235
+
+Sequencia inicial 67 -> 202235
+Melhor vizinho: 202157
+
+Sequencia inicial 68 -> 202157
+Melhor vizinho: 202127
+
+Sequencia inicial 69 -> 202127
+Melhor vizinho: 202116
+
+Sequencia inicial 70 -> 202116
+Melhor vizinho: 202057
+
+Sequencia inicial 71 -> 202057
+Melhor vizinho: 201971
+
+Sequencia inicial 72 -> 201971
+Melhor vizinho: 201914
+
+Sequencia inicial 73 -> 201914
+Melhor vizinho: 201887
+
+Sequencia inicial 74 -> 201887
+Melhor vizinho: 201878
+
+Sequencia inicial 75 -> 201878
+Melhor vizinho: 201870
+
+Sequencia inicial 76 -> 201870
+Melhor vizinho: 201861
+
+Sequencia inicial 77 -> 201861
+Melhor vizinho: 201839
+
+Sequencia inicial 78 -> 201839
+Melhor vizinho: 201760
+
+Sequencia inicial 79 -> 201760
+Melhor vizinho: 201746
+
+Sequencia inicial 80 -> 201746
+Melhor vizinho: 201717
+
+Sequencia inicial 81 -> 201717
+Melhor vizinho: 201696
+
+Sequencia inicial 82 -> 201696
+Melhor vizinho: 201664
+
+Sequencia inicial 83 -> 201664
+Melhor vizinho: 201662
+
+Sequencia inicial 84 -> 201662
+Melhor vizinho: 201659
+
+Sequencia inicial 85 -> 201659
+Melhor vizinho: 201654
+
+Sequencia inicial 86 -> 201654
+Melhor vizinho: 201653
+
+Sequencia inicial 87 -> 201653
+Melhor vizinho: 201647
+
+Sequencia inicial 88 -> 201647
+Melhor vizinho: 201621
+
+Sequencia inicial 89 -> 201621
+Melhor vizinho: 201611
+
+Sequencia inicial 90 -> 201611
+ITERAÇÃO: 14 - Atraso: 198079
+
+Sequencia inicial 1 -> 210176
+Melhor vizinho: 209585
+
+Sequencia inicial 2 -> 209585
+Melhor vizinho: 209061
+
+Sequencia inicial 3 -> 209061
+Melhor vizinho: 208602
+
+Sequencia inicial 4 -> 208602
+Melhor vizinho: 208182
+
+Sequencia inicial 5 -> 208182
+Melhor vizinho: 207887
+
+Sequencia inicial 6 -> 207887
+Melhor vizinho: 207629
+
+Sequencia inicial 7 -> 207629
+Melhor vizinho: 207419
+
+Sequencia inicial 8 -> 207419
+Melhor vizinho: 207233
+
+Sequencia inicial 9 -> 207233
+Melhor vizinho: 206917
+
+Sequencia inicial 10 -> 206917
+Melhor vizinho: 206707
+
+Sequencia inicial 11 -> 206707
+Melhor vizinho: 206533
+
+Sequencia inicial 12 -> 206533
+Melhor vizinho: 206297
+
+Sequencia inicial 13 -> 206297
+Melhor vizinho: 205868
+
+Sequencia inicial 14 -> 205868
+Melhor vizinho: 205618
+
+Sequencia inicial 15 -> 205618
+Melhor vizinho: 205471
+
+Sequencia inicial 16 -> 205471
+Melhor vizinho: 205217
+
+Sequencia inicial 17 -> 205217
+Melhor vizinho: 205093
+
+Sequencia inicial 18 -> 205093
+Melhor vizinho: 204916
+
+Sequencia inicial 19 -> 204916
+Melhor vizinho: 204800
+
+Sequencia inicial 20 -> 204800
+Melhor vizinho: 204611
+
+Sequencia inicial 21 -> 204611
+Melhor vizinho: 204496
+
+Sequencia inicial 22 -> 204496
+Melhor vizinho: 204440
+
+Sequencia inicial 23 -> 204440
+Melhor vizinho: 204375
+
+Sequencia inicial 24 -> 204375
+Melhor vizinho: 204214
+
+Sequencia inicial 25 -> 204214
+Melhor vizinho: 204122
+
+Sequencia inicial 26 -> 204122
+Melhor vizinho: 204010
+
+Sequencia inicial 27 -> 204010
+Melhor vizinho: 203919
+
+Sequencia inicial 28 -> 203919
+Melhor vizinho: 203884
+
+Sequencia inicial 29 -> 203884
+Melhor vizinho: 203775
+
+Sequencia inicial 30 -> 203775
+Melhor vizinho: 203733
+
+Sequencia inicial 31 -> 203733
+Melhor vizinho: 203608
+
+Sequencia inicial 32 -> 203608
+Melhor vizinho: 203562
+
+Sequencia inicial 33 -> 203562
+Melhor vizinho: 203388
+
+Sequencia inicial 34 -> 203388
+Melhor vizinho: 203369
+
+Sequencia inicial 35 -> 203369
+Melhor vizinho: 203324
+
+Sequencia inicial 36 -> 203324
+Melhor vizinho: 203199
+
+Sequencia inicial 37 -> 203199
+Melhor vizinho: 203162
+
+Sequencia inicial 38 -> 203162
+Melhor vizinho: 203142
+
+Sequencia inicial 39 -> 203142
+Melhor vizinho: 203109
+
+Sequencia inicial 40 -> 203109
+Melhor vizinho: 203046
+
+Sequencia inicial 41 -> 203046
+Melhor vizinho: 203019
+
+Sequencia inicial 42 -> 203019
+Melhor vizinho: 202970
+
+Sequencia inicial 43 -> 202970
+Melhor vizinho: 202953
+
+Sequencia inicial 44 -> 202953
+Melhor vizinho: 202937
+
+Sequencia inicial 45 -> 202937
+Melhor vizinho: 202769
+
+Sequencia inicial 46 -> 202769
+Melhor vizinho: 202742
+
+Sequencia inicial 47 -> 202742
+Melhor vizinho: 202707
+
+Sequencia inicial 48 -> 202707
+Melhor vizinho: 202599
+
+Sequencia inicial 49 -> 202599
+Melhor vizinho: 202460
+
+Sequencia inicial 50 -> 202460
+Melhor vizinho: 202414
+
+Sequencia inicial 51 -> 202414
+Melhor vizinho: 202406
+
+Sequencia inicial 52 -> 202406
+Melhor vizinho: 202399
+
+Sequencia inicial 53 -> 202399
+Melhor vizinho: 202387
+
+Sequencia inicial 54 -> 202387
+Melhor vizinho: 202360
+
+Sequencia inicial 55 -> 202360
+Melhor vizinho: 202353
+
+Sequencia inicial 56 -> 202353
+Melhor vizinho: 202229
+
+Sequencia inicial 57 -> 202229
+Melhor vizinho: 202153
+
+Sequencia inicial 58 -> 202153
+Melhor vizinho: 202126
+
+Sequencia inicial 59 -> 202126
+Melhor vizinho: 202115
+
+Sequencia inicial 60 -> 202115
+Melhor vizinho: 202111
+
+Sequencia inicial 61 -> 202111
+Melhor vizinho: 202106
+
+Sequencia inicial 62 -> 202106
+Melhor vizinho: 202086
+
+Sequencia inicial 63 -> 202086
+Melhor vizinho: 202055
+
+Sequencia inicial 64 -> 202055
+Melhor vizinho: 202042
+
+Sequencia inicial 65 -> 202042
+Melhor vizinho: 202024
+
+Sequencia inicial 66 -> 202024
+Melhor vizinho: 201932
+
+Sequencia inicial 67 -> 201932
+Melhor vizinho: 201924
+
+Sequencia inicial 68 -> 201924
+Melhor vizinho: 201910
+
+Sequencia inicial 69 -> 201910
+Melhor vizinho: 201878
+
+Sequencia inicial 70 -> 201878
+Melhor vizinho: 201837
+
+Sequencia inicial 71 -> 201837
+Melhor vizinho: 201807
+
+Sequencia inicial 72 -> 201807
+Melhor vizinho: 201759
+
+Sequencia inicial 73 -> 201759
+Melhor vizinho: 201738
+
+Sequencia inicial 74 -> 201738
+Melhor vizinho: 201729
+
+Sequencia inicial 75 -> 201729
+Melhor vizinho: 201723
+
+Sequencia inicial 76 -> 201723
+ITERAÇÃO: 15 - Atraso: 198079
+
+Sequencia inicial 1 -> 210416
+Melhor vizinho: 209692
+
+Sequencia inicial 2 -> 209692
+Melhor vizinho: 209250
+
+Sequencia inicial 3 -> 209250
+Melhor vizinho: 208832
+
+Sequencia inicial 4 -> 208832
+Melhor vizinho: 208547
+
+Sequencia inicial 5 -> 208547
+Melhor vizinho: 208242
+
+Sequencia inicial 6 -> 208242
+Melhor vizinho: 208013
+
+Sequencia inicial 7 -> 208013
+Melhor vizinho: 207815
+
+Sequencia inicial 8 -> 207815
+Melhor vizinho: 207624
+
+Sequencia inicial 9 -> 207624
+Melhor vizinho: 207306
+
+Sequencia inicial 10 -> 207306
+Melhor vizinho: 207014
+
+Sequencia inicial 11 -> 207014
+Melhor vizinho: 206700
+
+Sequencia inicial 12 -> 206700
+Melhor vizinho: 206482
+
+Sequencia inicial 13 -> 206482
+Melhor vizinho: 206308
+
+Sequencia inicial 14 -> 206308
+Melhor vizinho: 206058
+
+Sequencia inicial 15 -> 206058
+Melhor vizinho: 205649
+
+Sequencia inicial 16 -> 205649
+Melhor vizinho: 205387
+
+Sequencia inicial 17 -> 205387
+Melhor vizinho: 205176
+
+Sequencia inicial 18 -> 205176
+Melhor vizinho: 204887
+
+Sequencia inicial 19 -> 204887
+Melhor vizinho: 204702
+
+Sequencia inicial 20 -> 204702
+Melhor vizinho: 204429
+
+Sequencia inicial 21 -> 204429
+Melhor vizinho: 204270
+
+Sequencia inicial 22 -> 204270
+Melhor vizinho: 204006
+
+Sequencia inicial 23 -> 204006
+Melhor vizinho: 203954
+
+Sequencia inicial 24 -> 203954
+Melhor vizinho: 203894
+
+Sequencia inicial 25 -> 203894
+Melhor vizinho: 203819
+
+Sequencia inicial 26 -> 203819
+Melhor vizinho: 203688
+
+Sequencia inicial 27 -> 203688
+Melhor vizinho: 203627
+
+Sequencia inicial 28 -> 203627
+Melhor vizinho: 203484
+
+Sequencia inicial 29 -> 203484
+Melhor vizinho: 203444
+
+Sequencia inicial 30 -> 203444
+Melhor vizinho: 203308
+
+Sequencia inicial 31 -> 203308
+Melhor vizinho: 203212
+
+Sequencia inicial 32 -> 203212
+Melhor vizinho: 203097
+
+Sequencia inicial 33 -> 203097
+Melhor vizinho: 202991
+
+Sequencia inicial 34 -> 202991
+Melhor vizinho: 202889
+
+Sequencia inicial 35 -> 202889
+Melhor vizinho: 202826
+
+Sequencia inicial 36 -> 202826
+Melhor vizinho: 202749
+
+Sequencia inicial 37 -> 202749
+Melhor vizinho: 202695
+
+Sequencia inicial 38 -> 202695
+Melhor vizinho: 202659
+
+Sequencia inicial 39 -> 202659
+Melhor vizinho: 202522
+
+Sequencia inicial 40 -> 202522
+Melhor vizinho: 202485
+
+Sequencia inicial 41 -> 202485
+Melhor vizinho: 202458
+
+Sequencia inicial 42 -> 202458
+Melhor vizinho: 202361
+
+Sequencia inicial 43 -> 202361
+Melhor vizinho: 202310
+
+Sequencia inicial 44 -> 202310
+Melhor vizinho: 202279
+
+Sequencia inicial 45 -> 202279
+Melhor vizinho: 202237
+
+Sequencia inicial 46 -> 202237
+Melhor vizinho: 202206
+
+Sequencia inicial 47 -> 202206
+Melhor vizinho: 202179
+
+Sequencia inicial 48 -> 202179
+Melhor vizinho: 202132
+
+Sequencia inicial 49 -> 202132
+Melhor vizinho: 202092
+
+Sequencia inicial 50 -> 202092
+Melhor vizinho: 202069
+
+Sequencia inicial 51 -> 202069
+Melhor vizinho: 202031
+
+Sequencia inicial 52 -> 202031
+Melhor vizinho: 201999
+
+Sequencia inicial 53 -> 201999
+Melhor vizinho: 201959
+
+Sequencia inicial 54 -> 201959
+Melhor vizinho: 201922
+
+Sequencia inicial 55 -> 201922
+Melhor vizinho: 201909
+
+Sequencia inicial 56 -> 201909
+Melhor vizinho: 201888
+
+Sequencia inicial 57 -> 201888
+Melhor vizinho: 201817
+
+Sequencia inicial 58 -> 201817
+Melhor vizinho: 201769
+
+Sequencia inicial 59 -> 201769
+Melhor vizinho: 201749
+
+Sequencia inicial 60 -> 201749
+Melhor vizinho: 201733
+
+Sequencia inicial 61 -> 201733
+Melhor vizinho: 201726
+
+Sequencia inicial 62 -> 201726
+Melhor vizinho: 201715
+
+Sequencia inicial 63 -> 201715
+Melhor vizinho: 201701
+
+Sequencia inicial 64 -> 201701
+Melhor vizinho: 201668
+
+Sequencia inicial 65 -> 201668
+Melhor vizinho: 201655
+
+Sequencia inicial 66 -> 201655
+Melhor vizinho: 201642
+
+Sequencia inicial 67 -> 201642
+Melhor vizinho: 201598
+
+Sequencia inicial 68 -> 201598
+Melhor vizinho: 201550
+
+Sequencia inicial 69 -> 201550
+Melhor vizinho: 201545
+
+Sequencia inicial 70 -> 201545
+Melhor vizinho: 201540
+
+Sequencia inicial 71 -> 201540
+Melhor vizinho: 201532
+
+Sequencia inicial 72 -> 201532
+Melhor vizinho: 201525
+
+Sequencia inicial 73 -> 201525
+Melhor vizinho: 201522
+
+Sequencia inicial 74 -> 201522
+Melhor vizinho: 201518
+
+Sequencia inicial 75 -> 201518
+Melhor vizinho: 201516
+
+Sequencia inicial 76 -> 201516
+Melhor vizinho: 201497
+
+Sequencia inicial 77 -> 201497
+Melhor vizinho: 201464
+
+Sequencia inicial 78 -> 201464
+Melhor vizinho: 201457
+
+Sequencia inicial 79 -> 201457
+Melhor vizinho: 201455
+
+Sequencia inicial 80 -> 201455
+Melhor vizinho: 201437
+
+Sequencia inicial 81 -> 201437
+Melhor vizinho: 201428
+
+Sequencia inicial 82 -> 201428
+Melhor vizinho: 201405
+
+Sequencia inicial 83 -> 201405
+Melhor vizinho: 201390
+
+Sequencia inicial 84 -> 201390
+Melhor vizinho: 201385
+
+Sequencia inicial 85 -> 201385
+Melhor vizinho: 201358
+
+Sequencia inicial 86 -> 201358
+Melhor vizinho: 201341
+
+Sequencia inicial 87 -> 201341
+Melhor vizinho: 201328
+
+Sequencia inicial 88 -> 201328
+Melhor vizinho: 201321
+
+Sequencia inicial 89 -> 201321
+Melhor vizinho: 201247
+
+Sequencia inicial 90 -> 201247
+Melhor vizinho: 201243
+
+Sequencia inicial 91 -> 201243
+Melhor vizinho: 201238
+
+Sequencia inicial 92 -> 201238
+Melhor vizinho: 201231
+
+Sequencia inicial 93 -> 201231
+Melhor vizinho: 201225
+
+Sequencia inicial 94 -> 201225
+Melhor vizinho: 201224
+
+Sequencia inicial 95 -> 201224
+Melhor vizinho: 201218
+
+Sequencia inicial 96 -> 201218
+Melhor vizinho: 201218
+
+Sequencia inicial 97 -> 201218
+Melhor vizinho: 201204
+
+Sequencia inicial 98 -> 201204
+Melhor vizinho: 201191
+
+Sequencia inicial 99 -> 201191
+Melhor vizinho: 201189
+
+Sequencia inicial 100 -> 201189
+Melhor vizinho: 201183
+
+Sequencia inicial 101 -> 201183
+Melhor vizinho: 201165
+
+Sequencia inicial 102 -> 201165
+Melhor vizinho: 201128
+
+Sequencia inicial 103 -> 201128
+ITERAÇÃO: 16 - Atraso: 198079
+
+Sequencia inicial 1 -> 211667
+Melhor vizinho: 211094
+
+Sequencia inicial 2 -> 211094
+Melhor vizinho: 210482
+
+Sequencia inicial 3 -> 210482
+Melhor vizinho: 210103
+
+Sequencia inicial 4 -> 210103
+Melhor vizinho: 209752
+
+Sequencia inicial 5 -> 209752
+Melhor vizinho: 209413
+
+Sequencia inicial 6 -> 209413
+Melhor vizinho: 209183
+
+Sequencia inicial 7 -> 209183
+Melhor vizinho: 208932
+
+Sequencia inicial 8 -> 208932
+Melhor vizinho: 208699
+
+Sequencia inicial 9 -> 208699
+Melhor vizinho: 208410
+
+Sequencia inicial 10 -> 208410
+Melhor vizinho: 208191
+
+Sequencia inicial 11 -> 208191
+Melhor vizinho: 207985
+
+Sequencia inicial 12 -> 207985
+Melhor vizinho: 207797
+
+Sequencia inicial 13 -> 207797
+Melhor vizinho: 207365
+
+Sequencia inicial 14 -> 207365
+Melhor vizinho: 207201
+
+Sequencia inicial 15 -> 207201
+Melhor vizinho: 206781
+
+Sequencia inicial 16 -> 206781
+Melhor vizinho: 206490
+
+Sequencia inicial 17 -> 206490
+Melhor vizinho: 206323
+
+Sequencia inicial 18 -> 206323
+Melhor vizinho: 206013
+
+Sequencia inicial 19 -> 206013
+Melhor vizinho: 205488
+
+Sequencia inicial 20 -> 205488
+Melhor vizinho: 205046
+
+Sequencia inicial 21 -> 205046
+Melhor vizinho: 204820
+
+Sequencia inicial 22 -> 204820
+Melhor vizinho: 204688
+
+Sequencia inicial 23 -> 204688
+Melhor vizinho: 204546
+
+Sequencia inicial 24 -> 204546
+Melhor vizinho: 204314
+
+Sequencia inicial 25 -> 204314
+Melhor vizinho: 204237
+
+Sequencia inicial 26 -> 204237
+Melhor vizinho: 204156
+
+Sequencia inicial 27 -> 204156
+Melhor vizinho: 204107
+
+Sequencia inicial 28 -> 204107
+Melhor vizinho: 203891
+
+Sequencia inicial 29 -> 203891
+Melhor vizinho: 203849
+
+Sequencia inicial 30 -> 203849
+Melhor vizinho: 203796
+
+Sequencia inicial 31 -> 203796
+Melhor vizinho: 203775
+
+Sequencia inicial 32 -> 203775
+Melhor vizinho: 203495
+
+Sequencia inicial 33 -> 203495
+Melhor vizinho: 203348
+
+Sequencia inicial 34 -> 203348
+Melhor vizinho: 203229
+
+Sequencia inicial 35 -> 203229
+Melhor vizinho: 203097
+
+Sequencia inicial 36 -> 203097
+Melhor vizinho: 203025
+
+Sequencia inicial 37 -> 203025
+Melhor vizinho: 202928
+
+Sequencia inicial 38 -> 202928
+Melhor vizinho: 202890
+
+Sequencia inicial 39 -> 202890
+Melhor vizinho: 202874
+
+Sequencia inicial 40 -> 202874
+Melhor vizinho: 202850
+
+Sequencia inicial 41 -> 202850
+Melhor vizinho: 202831
+
+Sequencia inicial 42 -> 202831
+Melhor vizinho: 202817
+
+Sequencia inicial 43 -> 202817
+Melhor vizinho: 202775
+
+Sequencia inicial 44 -> 202775
+Melhor vizinho: 202752
+
+Sequencia inicial 45 -> 202752
+Melhor vizinho: 202737
+
+Sequencia inicial 46 -> 202737
+Melhor vizinho: 202724
+
+Sequencia inicial 47 -> 202724
+Melhor vizinho: 202683
+
+Sequencia inicial 48 -> 202683
+Melhor vizinho: 202655
+
+Sequencia inicial 49 -> 202655
+Melhor vizinho: 202623
+
+Sequencia inicial 50 -> 202623
+Melhor vizinho: 202566
+
+Sequencia inicial 51 -> 202566
+Melhor vizinho: 202551
+
+Sequencia inicial 52 -> 202551
+Melhor vizinho: 202540
+
+Sequencia inicial 53 -> 202540
+Melhor vizinho: 202496
+
+Sequencia inicial 54 -> 202496
+Melhor vizinho: 202438
+
+Sequencia inicial 55 -> 202438
+Melhor vizinho: 202422
+
+Sequencia inicial 56 -> 202422
+Melhor vizinho: 202371
+
+Sequencia inicial 57 -> 202371
+Melhor vizinho: 202347
+
+Sequencia inicial 58 -> 202347
+Melhor vizinho: 202337
+
+Sequencia inicial 59 -> 202337
+Melhor vizinho: 202308
+
+Sequencia inicial 60 -> 202308
+Melhor vizinho: 202299
+
+Sequencia inicial 61 -> 202299
+Melhor vizinho: 202291
+
+Sequencia inicial 62 -> 202291
+Melhor vizinho: 202285
+
+Sequencia inicial 63 -> 202285
+Melhor vizinho: 202281
+
+Sequencia inicial 64 -> 202281
+Melhor vizinho: 202271
+
+Sequencia inicial 65 -> 202271
+Melhor vizinho: 202254
+
+Sequencia inicial 66 -> 202254
+Melhor vizinho: 202163
+
+Sequencia inicial 67 -> 202163
+Melhor vizinho: 202116
+
+Sequencia inicial 68 -> 202116
+Melhor vizinho: 202077
+
+Sequencia inicial 69 -> 202077
+Melhor vizinho: 202058
+
+Sequencia inicial 70 -> 202058
+Melhor vizinho: 202002
+
+Sequencia inicial 71 -> 202002
+Melhor vizinho: 201999
+
+Sequencia inicial 72 -> 201999
+Melhor vizinho: 201943
+
+Sequencia inicial 73 -> 201943
+Melhor vizinho: 201936
+
+Sequencia inicial 74 -> 201936
+Melhor vizinho: 201930
+
+Sequencia inicial 75 -> 201930
+Melhor vizinho: 201928
+
+Sequencia inicial 76 -> 201928
+Melhor vizinho: 201925
+
+Sequencia inicial 77 -> 201925
+Melhor vizinho: 201852
+
+Sequencia inicial 78 -> 201852
+Melhor vizinho: 201836
+
+Sequencia inicial 79 -> 201836
+Melhor vizinho: 201834
+
+Sequencia inicial 80 -> 201834
+Melhor vizinho: 201830
+
+Sequencia inicial 81 -> 201830
+Melhor vizinho: 201818
+
+Sequencia inicial 82 -> 201818
+Melhor vizinho: 201768
+
+Sequencia inicial 83 -> 201768
+Melhor vizinho: 201673
+
+Sequencia inicial 84 -> 201673
+Melhor vizinho: 201664
+
+Sequencia inicial 85 -> 201664
+Melhor vizinho: 201654
+
+Sequencia inicial 86 -> 201654
+Melhor vizinho: 201647
+
+Sequencia inicial 87 -> 201647
+Melhor vizinho: 201638
+
+Sequencia inicial 88 -> 201638
+Melhor vizinho: 201580
+
+Sequencia inicial 89 -> 201580
+Melhor vizinho: 201573
+
+Sequencia inicial 90 -> 201573
+Melhor vizinho: 201560
+
+Sequencia inicial 91 -> 201560
+Melhor vizinho: 201555
+
+Sequencia inicial 92 -> 201555
+Melhor vizinho: 201513
+
+Sequencia inicial 93 -> 201513
+Melhor vizinho: 201499
+
+Sequencia inicial 94 -> 201499
+Melhor vizinho: 201461
+
+Sequencia inicial 95 -> 201461
+Melhor vizinho: 201416
+
+Sequencia inicial 96 -> 201416
+Melhor vizinho: 201396
+
+Sequencia inicial 97 -> 201396
+Melhor vizinho: 201393
+
+Sequencia inicial 98 -> 201393
+Melhor vizinho: 201385
+
+Sequencia inicial 99 -> 201385
+Melhor vizinho: 201374
+
+Sequencia inicial 100 -> 201374
+Melhor vizinho: 201370
+
+Sequencia inicial 101 -> 201370
+Melhor vizinho: 201355
+
+Sequencia inicial 102 -> 201355
+Melhor vizinho: 201343
+
+Sequencia inicial 103 -> 201343
+Melhor vizinho: 201338
+
+Sequencia inicial 104 -> 201338
+Melhor vizinho: 201334
+
+Sequencia inicial 105 -> 201334
+Melhor vizinho: 201333
+
+Sequencia inicial 106 -> 201333
+Melhor vizinho: 201331
+
+Sequencia inicial 107 -> 201331
+Melhor vizinho: 201326
+
+Sequencia inicial 108 -> 201326
+Melhor vizinho: 201311
+
+Sequencia inicial 109 -> 201311
+Melhor vizinho: 201310
+
+Sequencia inicial 110 -> 201310
+Melhor vizinho: 201295
+
+Sequencia inicial 111 -> 201295
+ITERAÇÃO: 17 - Atraso: 198079
+
+Sequencia inicial 1 -> 208523
+Melhor vizinho: 208010
+
+Sequencia inicial 2 -> 208010
+Melhor vizinho: 207597
+
+Sequencia inicial 3 -> 207597
+Melhor vizinho: 207178
+
+Sequencia inicial 4 -> 207178
+Melhor vizinho: 206958
+
+Sequencia inicial 5 -> 206958
+Melhor vizinho: 206712
+
+Sequencia inicial 6 -> 206712
+Melhor vizinho: 206463
+
+Sequencia inicial 7 -> 206463
+Melhor vizinho: 206120
+
+Sequencia inicial 8 -> 206120
+Melhor vizinho: 205868
+
+Sequencia inicial 9 -> 205868
+Melhor vizinho: 205420
+
+Sequencia inicial 10 -> 205420
+Melhor vizinho: 205155
+
+Sequencia inicial 11 -> 205155
+Melhor vizinho: 204966
+
+Sequencia inicial 12 -> 204966
+Melhor vizinho: 204758
+
+Sequencia inicial 13 -> 204758
+Melhor vizinho: 204542
+
+Sequencia inicial 14 -> 204542
+Melhor vizinho: 204325
+
+Sequencia inicial 15 -> 204325
+Melhor vizinho: 203937
+
+Sequencia inicial 16 -> 203937
+Melhor vizinho: 203781
+
+Sequencia inicial 17 -> 203781
+Melhor vizinho: 203562
+
+Sequencia inicial 18 -> 203562
+Melhor vizinho: 203373
+
+Sequencia inicial 19 -> 203373
+Melhor vizinho: 203238
+
+Sequencia inicial 20 -> 203238
+Melhor vizinho: 203167
+
+Sequencia inicial 21 -> 203167
+Melhor vizinho: 202970
+
+Sequencia inicial 22 -> 202970
+Melhor vizinho: 202881
+
+Sequencia inicial 23 -> 202881
+Melhor vizinho: 202760
+
+Sequencia inicial 24 -> 202760
+Melhor vizinho: 202569
+
+Sequencia inicial 25 -> 202569
+Melhor vizinho: 202486
+
+Sequencia inicial 26 -> 202486
+Melhor vizinho: 202420
+
+Sequencia inicial 27 -> 202420
+Melhor vizinho: 202390
+
+Sequencia inicial 28 -> 202390
+Melhor vizinho: 202325
+
+Sequencia inicial 29 -> 202325
+Melhor vizinho: 202278
+
+Sequencia inicial 30 -> 202278
+Melhor vizinho: 202156
+
+Sequencia inicial 31 -> 202156
+Melhor vizinho: 202030
+
+Sequencia inicial 32 -> 202030
+Melhor vizinho: 202003
+
+Sequencia inicial 33 -> 202003
+Melhor vizinho: 201980
+
+Sequencia inicial 34 -> 201980
+Melhor vizinho: 201953
+
+Sequencia inicial 35 -> 201953
+Melhor vizinho: 201935
+
+Sequencia inicial 36 -> 201935
+Melhor vizinho: 201918
+
+Sequencia inicial 37 -> 201918
+Melhor vizinho: 201882
+
+Sequencia inicial 38 -> 201882
+Melhor vizinho: 201789
+
+Sequencia inicial 39 -> 201789
+Melhor vizinho: 201763
+
+Sequencia inicial 40 -> 201763
+Melhor vizinho: 201745
+
+Sequencia inicial 41 -> 201745
+Melhor vizinho: 201714
+
+Sequencia inicial 42 -> 201714
+Melhor vizinho: 201702
+
+Sequencia inicial 43 -> 201702
+Melhor vizinho: 201694
+
+Sequencia inicial 44 -> 201694
+Melhor vizinho: 201674
+
+Sequencia inicial 45 -> 201674
+Melhor vizinho: 201606
+
+Sequencia inicial 46 -> 201606
+Melhor vizinho: 201551
+
+Sequencia inicial 47 -> 201551
+Melhor vizinho: 201502
+
+Sequencia inicial 48 -> 201502
+Melhor vizinho: 201481
+
+Sequencia inicial 49 -> 201481
+Melhor vizinho: 201468
+
+Sequencia inicial 50 -> 201468
+Melhor vizinho: 201463
+
+Sequencia inicial 51 -> 201463
+Melhor vizinho: 201457
+
+Sequencia inicial 52 -> 201457
+Melhor vizinho: 201433
+
+Sequencia inicial 53 -> 201433
+Melhor vizinho: 201420
+
+Sequencia inicial 54 -> 201420
+Melhor vizinho: 201348
+
+Sequencia inicial 55 -> 201348
+Melhor vizinho: 201346
+
+Sequencia inicial 56 -> 201346
+Melhor vizinho: 201338
+
+Sequencia inicial 57 -> 201338
+Melhor vizinho: 201314
+
+Sequencia inicial 58 -> 201314
+Melhor vizinho: 201304
+
+Sequencia inicial 59 -> 201304
+Melhor vizinho: 201240
+
+Sequencia inicial 60 -> 201240
+Melhor vizinho: 201231
+
+Sequencia inicial 61 -> 201231
+Melhor vizinho: 201223
+
+Sequencia inicial 62 -> 201223
+Melhor vizinho: 201216
+
+Sequencia inicial 63 -> 201216
+Melhor vizinho: 201180
+
+Sequencia inicial 64 -> 201180
+Melhor vizinho: 201168
+
+Sequencia inicial 65 -> 201168
+Melhor vizinho: 201165
+
+Sequencia inicial 66 -> 201165
+Melhor vizinho: 201159
+
+Sequencia inicial 67 -> 201159
+Melhor vizinho: 201152
+
+Sequencia inicial 68 -> 201152
+Melhor vizinho: 201132
+
+Sequencia inicial 69 -> 201132
+Melhor vizinho: 201114
+
+Sequencia inicial 70 -> 201114
+Melhor vizinho: 201096
+
+Sequencia inicial 71 -> 201096
+Melhor vizinho: 201073
+
+Sequencia inicial 72 -> 201073
+Melhor vizinho: 201062
+
+Sequencia inicial 73 -> 201062
+Melhor vizinho: 201058
+
+Sequencia inicial 74 -> 201058
+Melhor vizinho: 201056
+
+Sequencia inicial 75 -> 201056
+Melhor vizinho: 201051
+
+Sequencia inicial 76 -> 201051
+Melhor vizinho: 201041
+
+Sequencia inicial 77 -> 201041
+Melhor vizinho: 201028
+
+Sequencia inicial 78 -> 201028
+Melhor vizinho: 201024
+
+Sequencia inicial 79 -> 201024
+Melhor vizinho: 201014
+
+Sequencia inicial 80 -> 201014
+Melhor vizinho: 201012
+
+Sequencia inicial 81 -> 201012
+Melhor vizinho: 200997
+
+Sequencia inicial 82 -> 200997
+Melhor vizinho: 200967
+
+Sequencia inicial 83 -> 200967
+Melhor vizinho: 200906
+
+Sequencia inicial 84 -> 200906
+Melhor vizinho: 200838
+
+Sequencia inicial 85 -> 200838
+Melhor vizinho: 200632
+
+Sequencia inicial 86 -> 200632
+Melhor vizinho: 200543
+
+Sequencia inicial 87 -> 200543
+Melhor vizinho: 200528
+
+Sequencia inicial 88 -> 200528
+Melhor vizinho: 200501
+
+Sequencia inicial 89 -> 200501
+Melhor vizinho: 200462
+
+Sequencia inicial 90 -> 200462
+Melhor vizinho: 200438
+
+Sequencia inicial 91 -> 200438
+Melhor vizinho: 200430
+
+Sequencia inicial 92 -> 200430
+Melhor vizinho: 200424
+
+Sequencia inicial 93 -> 200424
+Melhor vizinho: 200417
+
+Sequencia inicial 94 -> 200417
+ITERAÇÃO: 18 - Atraso: 198079
+
+Sequencia inicial 1 -> 210308
+Melhor vizinho: 209803
+
+Sequencia inicial 2 -> 209803
+Melhor vizinho: 209376
+
+Sequencia inicial 3 -> 209376
+Melhor vizinho: 209018
+
+Sequencia inicial 4 -> 209018
+Melhor vizinho: 208769
+
+Sequencia inicial 5 -> 208769
+Melhor vizinho: 208500
+
+Sequencia inicial 6 -> 208500
+Melhor vizinho: 208312
+
+Sequencia inicial 7 -> 208312
+Melhor vizinho: 208038
+
+Sequencia inicial 8 -> 208038
+Melhor vizinho: 207713
+
+Sequencia inicial 9 -> 207713
+Melhor vizinho: 207507
+
+Sequencia inicial 10 -> 207507
+Melhor vizinho: 206978
+
+Sequencia inicial 11 -> 206978
+Melhor vizinho: 206733
+
+Sequencia inicial 12 -> 206733
+Melhor vizinho: 206455
+
+Sequencia inicial 13 -> 206455
+Melhor vizinho: 206262
+
+Sequencia inicial 14 -> 206262
+Melhor vizinho: 206071
+
+Sequencia inicial 15 -> 206071
+Melhor vizinho: 205814
+
+Sequencia inicial 16 -> 205814
+Melhor vizinho: 205712
+
+Sequencia inicial 17 -> 205712
+Melhor vizinho: 205482
+
+Sequencia inicial 18 -> 205482
+Melhor vizinho: 205377
+
+Sequencia inicial 19 -> 205377
+Melhor vizinho: 205194
+
+Sequencia inicial 20 -> 205194
+Melhor vizinho: 205084
+
+Sequencia inicial 21 -> 205084
+Melhor vizinho: 204922
+
+Sequencia inicial 22 -> 204922
+Melhor vizinho: 204822
+
+Sequencia inicial 23 -> 204822
+Melhor vizinho: 204604
+
+Sequencia inicial 24 -> 204604
+Melhor vizinho: 204546
+
+Sequencia inicial 25 -> 204546
+Melhor vizinho: 204506
+
+Sequencia inicial 26 -> 204506
+Melhor vizinho: 204483
+
+Sequencia inicial 27 -> 204483
+Melhor vizinho: 204445
+
+Sequencia inicial 28 -> 204445
+Melhor vizinho: 204418
+
+Sequencia inicial 29 -> 204418
+Melhor vizinho: 204376
+
+Sequencia inicial 30 -> 204376
+Melhor vizinho: 204346
+
+Sequencia inicial 31 -> 204346
+Melhor vizinho: 204322
+
+Sequencia inicial 32 -> 204322
+Melhor vizinho: 204250
+
+Sequencia inicial 33 -> 204250
+Melhor vizinho: 204234
+
+Sequencia inicial 34 -> 204234
+Melhor vizinho: 204220
+
+Sequencia inicial 35 -> 204220
+Melhor vizinho: 204179
+
+Sequencia inicial 36 -> 204179
+Melhor vizinho: 204142
+
+Sequencia inicial 37 -> 204142
+Melhor vizinho: 204107
+
+Sequencia inicial 38 -> 204107
+Melhor vizinho: 204099
+
+Sequencia inicial 39 -> 204099
+Melhor vizinho: 204087
+
+Sequencia inicial 40 -> 204087
+Melhor vizinho: 204068
+
+Sequencia inicial 41 -> 204068
+Melhor vizinho: 204017
+
+Sequencia inicial 42 -> 204017
+Melhor vizinho: 203982
+
+Sequencia inicial 43 -> 203982
+Melhor vizinho: 203959
+
+Sequencia inicial 44 -> 203959
+Melhor vizinho: 203934
+
+Sequencia inicial 45 -> 203934
+Melhor vizinho: 203900
+
+Sequencia inicial 46 -> 203900
+Melhor vizinho: 203874
+
+Sequencia inicial 47 -> 203874
+Melhor vizinho: 203820
+
+Sequencia inicial 48 -> 203820
+Melhor vizinho: 203760
+
+Sequencia inicial 49 -> 203760
+Melhor vizinho: 203742
+
+Sequencia inicial 50 -> 203742
+Melhor vizinho: 203715
+
+Sequencia inicial 51 -> 203715
+Melhor vizinho: 203694
+
+Sequencia inicial 52 -> 203694
+Melhor vizinho: 203682
+
+Sequencia inicial 53 -> 203682
+Melhor vizinho: 203604
+
+Sequencia inicial 54 -> 203604
+Melhor vizinho: 203584
+
+Sequencia inicial 55 -> 203584
+Melhor vizinho: 203533
+
+Sequencia inicial 56 -> 203533
+Melhor vizinho: 203495
+
+Sequencia inicial 57 -> 203495
+Melhor vizinho: 203471
+
+Sequencia inicial 58 -> 203471
+Melhor vizinho: 203447
+
+Sequencia inicial 59 -> 203447
+Melhor vizinho: 203431
+
+Sequencia inicial 60 -> 203431
+Melhor vizinho: 203410
+
+Sequencia inicial 61 -> 203410
+Melhor vizinho: 203394
+
+Sequencia inicial 62 -> 203394
+Melhor vizinho: 203389
+
+Sequencia inicial 63 -> 203389
+Melhor vizinho: 203383
+
+Sequencia inicial 64 -> 203383
+Melhor vizinho: 203352
+
+Sequencia inicial 65 -> 203352
+Melhor vizinho: 203351
+
+Sequencia inicial 66 -> 203351
+Melhor vizinho: 203344
+
+Sequencia inicial 67 -> 203344
+Melhor vizinho: 203343
+
+Sequencia inicial 68 -> 203343
+Melhor vizinho: 203335
+
+Sequencia inicial 69 -> 203335
+Melhor vizinho: 203315
+
+Sequencia inicial 70 -> 203315
+Melhor vizinho: 203266
+
+Sequencia inicial 71 -> 203266
+Melhor vizinho: 203258
+
+Sequencia inicial 72 -> 203258
+Melhor vizinho: 203233
+
+Sequencia inicial 73 -> 203233
+Melhor vizinho: 203201
+
+Sequencia inicial 74 -> 203201
+Melhor vizinho: 203145
+
+Sequencia inicial 75 -> 203145
+Melhor vizinho: 203034
+
+Sequencia inicial 76 -> 203034
+Melhor vizinho: 202886
+
+Sequencia inicial 77 -> 202886
+Melhor vizinho: 202822
+
+Sequencia inicial 78 -> 202822
+Melhor vizinho: 202763
+
+Sequencia inicial 79 -> 202763
+Melhor vizinho: 202666
+
+Sequencia inicial 80 -> 202666
+Melhor vizinho: 202589
+
+Sequencia inicial 81 -> 202589
+Melhor vizinho: 202559
+
+Sequencia inicial 82 -> 202559
+Melhor vizinho: 202545
+
+Sequencia inicial 83 -> 202545
+Melhor vizinho: 202535
+
+Sequencia inicial 84 -> 202535
+Melhor vizinho: 202496
+
+Sequencia inicial 85 -> 202496
+Melhor vizinho: 202487
+
+Sequencia inicial 86 -> 202487
+Melhor vizinho: 202481
+
+Sequencia inicial 87 -> 202481
+Melhor vizinho: 202463
+
+Sequencia inicial 88 -> 202463
+Melhor vizinho: 202415
+
+Sequencia inicial 89 -> 202415
+Melhor vizinho: 202408
+
+Sequencia inicial 90 -> 202408
+Melhor vizinho: 202406
+
+Sequencia inicial 91 -> 202406
+Melhor vizinho: 202397
+
+Sequencia inicial 92 -> 202397
+Melhor vizinho: 202394
+
+Sequencia inicial 93 -> 202394
+Melhor vizinho: 202393
+
+Sequencia inicial 94 -> 202393
+Melhor vizinho: 202383
+
+Sequencia inicial 95 -> 202383
+Melhor vizinho: 202335
+
+Sequencia inicial 96 -> 202335
+Melhor vizinho: 202300
+
+Sequencia inicial 97 -> 202300
+Melhor vizinho: 202266
+
+Sequencia inicial 98 -> 202266
+Melhor vizinho: 202260
+
+Sequencia inicial 99 -> 202260
+Melhor vizinho: 202254
+
+Sequencia inicial 100 -> 202254
+Melhor vizinho: 202245
+
+Sequencia inicial 101 -> 202245
+Melhor vizinho: 202244
+
+Sequencia inicial 102 -> 202244
+Melhor vizinho: 202243
+
+Sequencia inicial 103 -> 202243
+ITERAÇÃO: 19 - Atraso: 198079
+
+Sequencia inicial 1 -> 210764
+Melhor vizinho: 210183
+
+Sequencia inicial 2 -> 210183
+Melhor vizinho: 209634
+
+Sequencia inicial 3 -> 209634
+Melhor vizinho: 209126
+
+Sequencia inicial 4 -> 209126
+Melhor vizinho: 208779
+
+Sequencia inicial 5 -> 208779
+Melhor vizinho: 208474
+
+Sequencia inicial 6 -> 208474
+Melhor vizinho: 208250
+
+Sequencia inicial 7 -> 208250
+Melhor vizinho: 208003
+
+Sequencia inicial 8 -> 208003
+Melhor vizinho: 207785
+
+Sequencia inicial 9 -> 207785
+Melhor vizinho: 207616
+
+Sequencia inicial 10 -> 207616
+Melhor vizinho: 207337
+
+Sequencia inicial 11 -> 207337
+Melhor vizinho: 207000
+
+Sequencia inicial 12 -> 207000
+Melhor vizinho: 206770
+
+Sequencia inicial 13 -> 206770
+Melhor vizinho: 206596
+
+Sequencia inicial 14 -> 206596
+Melhor vizinho: 206468
+
+Sequencia inicial 15 -> 206468
+Melhor vizinho: 206216
+
+Sequencia inicial 16 -> 206216
+Melhor vizinho: 206064
+
+Sequencia inicial 17 -> 206064
+Melhor vizinho: 205891
+
+Sequencia inicial 18 -> 205891
+Melhor vizinho: 205791
+
+Sequencia inicial 19 -> 205791
+Melhor vizinho: 205712
+
+Sequencia inicial 20 -> 205712
+Melhor vizinho: 205659
+
+Sequencia inicial 21 -> 205659
+Melhor vizinho: 205634
+
+Sequencia inicial 22 -> 205634
+Melhor vizinho: 205598
+
+Sequencia inicial 23 -> 205598
+Melhor vizinho: 205577
+
+Sequencia inicial 24 -> 205577
+Melhor vizinho: 205521
+
+Sequencia inicial 25 -> 205521
+Melhor vizinho: 205476
+
+Sequencia inicial 26 -> 205476
+Melhor vizinho: 205451
+
+Sequencia inicial 27 -> 205451
+Melhor vizinho: 205389
+
+Sequencia inicial 28 -> 205389
+Melhor vizinho: 205369
+
+Sequencia inicial 29 -> 205369
+Melhor vizinho: 205325
+
+Sequencia inicial 30 -> 205325
+Melhor vizinho: 205307
+
+Sequencia inicial 31 -> 205307
+Melhor vizinho: 205292
+
+Sequencia inicial 32 -> 205292
+Melhor vizinho: 205273
+
+Sequencia inicial 33 -> 205273
+Melhor vizinho: 205250
+
+Sequencia inicial 34 -> 205250
+Melhor vizinho: 205218
+
+Sequencia inicial 35 -> 205218
+Melhor vizinho: 205166
+
+Sequencia inicial 36 -> 205166
+Melhor vizinho: 205150
+
+Sequencia inicial 37 -> 205150
+Melhor vizinho: 205043
+
+Sequencia inicial 38 -> 205043
+Melhor vizinho: 205026
+
+Sequencia inicial 39 -> 205026
+Melhor vizinho: 204976
+
+Sequencia inicial 40 -> 204976
+Melhor vizinho: 204958
+
+Sequencia inicial 41 -> 204958
+Melhor vizinho: 204897
+
+Sequencia inicial 42 -> 204897
+Melhor vizinho: 204868
+
+Sequencia inicial 43 -> 204868
+Melhor vizinho: 204833
+
+Sequencia inicial 44 -> 204833
+Melhor vizinho: 204819
+
+Sequencia inicial 45 -> 204819
+Melhor vizinho: 204807
+
+Sequencia inicial 46 -> 204807
+Melhor vizinho: 204796
+
+Sequencia inicial 47 -> 204796
+Melhor vizinho: 204772
+
+Sequencia inicial 48 -> 204772
+Melhor vizinho: 204758
+
+Sequencia inicial 49 -> 204758
+Melhor vizinho: 204681
+
+Sequencia inicial 50 -> 204681
+Melhor vizinho: 204659
+
+Sequencia inicial 51 -> 204659
+Melhor vizinho: 204641
+
+Sequencia inicial 52 -> 204641
+Melhor vizinho: 204627
+
+Sequencia inicial 53 -> 204627
+Melhor vizinho: 204606
+
+Sequencia inicial 54 -> 204606
+Melhor vizinho: 204569
+
+Sequencia inicial 55 -> 204569
+Melhor vizinho: 204548
+
+Sequencia inicial 56 -> 204548
+Melhor vizinho: 204523
+
+Sequencia inicial 57 -> 204523
+Melhor vizinho: 204501
+
+Sequencia inicial 58 -> 204501
+Melhor vizinho: 204387
+
+Sequencia inicial 59 -> 204387
+Melhor vizinho: 204365
+
+Sequencia inicial 60 -> 204365
+Melhor vizinho: 204339
+
+Sequencia inicial 61 -> 204339
+Melhor vizinho: 204219
+
+Sequencia inicial 62 -> 204219
+Melhor vizinho: 204207
+
+Sequencia inicial 63 -> 204207
+Melhor vizinho: 204194
+
+Sequencia inicial 64 -> 204194
+Melhor vizinho: 204189
+
+Sequencia inicial 65 -> 204189
+Melhor vizinho: 204153
+
+Sequencia inicial 66 -> 204153
+Melhor vizinho: 204139
+
+Sequencia inicial 67 -> 204139
+Melhor vizinho: 204134
+
+Sequencia inicial 68 -> 204134
+Melhor vizinho: 204111
+
+Sequencia inicial 69 -> 204111
+Melhor vizinho: 204108
+
+Sequencia inicial 70 -> 204108
+Melhor vizinho: 204094
+
+Sequencia inicial 71 -> 204094
+Melhor vizinho: 204047
+
+Sequencia inicial 72 -> 204047
+Melhor vizinho: 203811
+
+Sequencia inicial 73 -> 203811
+Melhor vizinho: 203795
+
+Sequencia inicial 74 -> 203795
+Melhor vizinho: 203790
+
+Sequencia inicial 75 -> 203790
+Melhor vizinho: 203788
+
+Sequencia inicial 76 -> 203788
+Melhor vizinho: 203788
+
+Sequencia inicial 77 -> 203788
+Melhor vizinho: 203781
+
+Sequencia inicial 78 -> 203781
+Melhor vizinho: 203775
+
+Sequencia inicial 79 -> 203775
+Melhor vizinho: 203759
+
+Sequencia inicial 80 -> 203759
+Melhor vizinho: 203710
+
+Sequencia inicial 81 -> 203710
+Melhor vizinho: 203603
+
+Sequencia inicial 82 -> 203603
+Melhor vizinho: 203545
+
+Sequencia inicial 83 -> 203545
+Melhor vizinho: 203445
+
+Sequencia inicial 84 -> 203445
+Melhor vizinho: 203420
+
+Sequencia inicial 85 -> 203420
+Melhor vizinho: 203323
+
+Sequencia inicial 86 -> 203323
+Melhor vizinho: 203282
+
+Sequencia inicial 87 -> 203282
+Melhor vizinho: 203245
+
+Sequencia inicial 88 -> 203245
+Melhor vizinho: 203233
+
+Sequencia inicial 89 -> 203233
+Melhor vizinho: 203225
+
+Sequencia inicial 90 -> 203225
+Melhor vizinho: 203173
+
+Sequencia inicial 91 -> 203173
+Melhor vizinho: 203143
+
+Sequencia inicial 92 -> 203143
+Melhor vizinho: 203130
+
+Sequencia inicial 93 -> 203130
+Melhor vizinho: 203039
+
+Sequencia inicial 94 -> 203039
+Melhor vizinho: 203001
+
+Sequencia inicial 95 -> 203001
+Melhor vizinho: 202991
+
+Sequencia inicial 96 -> 202991
+Melhor vizinho: 202985
+
+Sequencia inicial 97 -> 202985
+Melhor vizinho: 202971
+
+Sequencia inicial 98 -> 202971
+Melhor vizinho: 202955
+
+Sequencia inicial 99 -> 202955
+Melhor vizinho: 202943
+
+Sequencia inicial 100 -> 202943
+Melhor vizinho: 202851
+
+Sequencia inicial 101 -> 202851
+Melhor vizinho: 202763
+
+Sequencia inicial 102 -> 202763
+Melhor vizinho: 202747
+
+Sequencia inicial 103 -> 202747
+Melhor vizinho: 202739
+
+Sequencia inicial 104 -> 202739
+Melhor vizinho: 202728
+
+Sequencia inicial 105 -> 202728
+Melhor vizinho: 202710
+
+Sequencia inicial 106 -> 202710
+Melhor vizinho: 202699
+
+Sequencia inicial 107 -> 202699
+Melhor vizinho: 202694
+
+Sequencia inicial 108 -> 202694
+Melhor vizinho: 202669
+
+Sequencia inicial 109 -> 202669
+Melhor vizinho: 202662
+
+Sequencia inicial 110 -> 202662
+Melhor vizinho: 202661
+
+Sequencia inicial 111 -> 202661
+Melhor vizinho: 202652
+
+Sequencia inicial 112 -> 202652
+Melhor vizinho: 202644
+
+Sequencia inicial 113 -> 202644
+Melhor vizinho: 202640
+
+Sequencia inicial 114 -> 202640
+Melhor vizinho: 202616
+
+Sequencia inicial 115 -> 202616
+Melhor vizinho: 202615
+
+Sequencia inicial 116 -> 202615
+ITERAÇÃO: 20 - Atraso: 198079
+
+Sequencia inicial 1 -> 209606
+Melhor vizinho: 208893
+
+Sequencia inicial 2 -> 208893
+Melhor vizinho: 208381
+
+Sequencia inicial 3 -> 208381
+Melhor vizinho: 207877
+
+Sequencia inicial 4 -> 207877
+Melhor vizinho: 207553
+
+Sequencia inicial 5 -> 207553
+Melhor vizinho: 207285
+
+Sequencia inicial 6 -> 207285
+Melhor vizinho: 206939
+
+Sequencia inicial 7 -> 206939
+Melhor vizinho: 206573
+
+Sequencia inicial 8 -> 206573
+Melhor vizinho: 206308
+
+Sequencia inicial 9 -> 206308
+Melhor vizinho: 206115
+
+Sequencia inicial 10 -> 206115
+Melhor vizinho: 205893
+
+Sequencia inicial 11 -> 205893
+Melhor vizinho: 205655
+
+Sequencia inicial 12 -> 205655
+Melhor vizinho: 205395
+
+Sequencia inicial 13 -> 205395
+Melhor vizinho: 205209
+
+Sequencia inicial 14 -> 205209
+Melhor vizinho: 204948
+
+Sequencia inicial 15 -> 204948
+Melhor vizinho: 204699
+
+Sequencia inicial 16 -> 204699
+Melhor vizinho: 204554
+
+Sequencia inicial 17 -> 204554
+Melhor vizinho: 204408
+
+Sequencia inicial 18 -> 204408
+Melhor vizinho: 204256
+
+Sequencia inicial 19 -> 204256
+Melhor vizinho: 204136
+
+Sequencia inicial 20 -> 204136
+Melhor vizinho: 204008
+
+Sequencia inicial 21 -> 204008
+Melhor vizinho: 203892
+
+Sequencia inicial 22 -> 203892
+Melhor vizinho: 203793
+
+Sequencia inicial 23 -> 203793
+Melhor vizinho: 203646
+
+Sequencia inicial 24 -> 203646
+Melhor vizinho: 203547
+
+Sequencia inicial 25 -> 203547
+Melhor vizinho: 203487
+
+Sequencia inicial 26 -> 203487
+Melhor vizinho: 203328
+
+Sequencia inicial 27 -> 203328
+Melhor vizinho: 203257
+
+Sequencia inicial 28 -> 203257
+Melhor vizinho: 203141
+
+Sequencia inicial 29 -> 203141
+Melhor vizinho: 203047
+
+Sequencia inicial 30 -> 203047
+Melhor vizinho: 202921
+
+Sequencia inicial 31 -> 202921
+Melhor vizinho: 202888
+
+Sequencia inicial 32 -> 202888
+Melhor vizinho: 202868
+
+Sequencia inicial 33 -> 202868
+Melhor vizinho: 202844
+
+Sequencia inicial 34 -> 202844
+Melhor vizinho: 202822
+
+Sequencia inicial 35 -> 202822
+Melhor vizinho: 202807
+
+Sequencia inicial 36 -> 202807
+Melhor vizinho: 202769
+
+Sequencia inicial 37 -> 202769
+Melhor vizinho: 202743
+
+Sequencia inicial 38 -> 202743
+Melhor vizinho: 202732
+
+Sequencia inicial 39 -> 202732
+Melhor vizinho: 202721
+
+Sequencia inicial 40 -> 202721
+Melhor vizinho: 202700
+
+Sequencia inicial 41 -> 202700
+Melhor vizinho: 202684
+
+Sequencia inicial 42 -> 202684
+Melhor vizinho: 202671
+
+Sequencia inicial 43 -> 202671
+Melhor vizinho: 202647
+
+Sequencia inicial 44 -> 202647
+Melhor vizinho: 202637
+
+Sequencia inicial 45 -> 202637
+Melhor vizinho: 202629
+
+Sequencia inicial 46 -> 202629
+Melhor vizinho: 202620
+
+Sequencia inicial 47 -> 202620
+Melhor vizinho: 202609
+
+Sequencia inicial 48 -> 202609
+Melhor vizinho: 202561
+
+Sequencia inicial 49 -> 202561
+Melhor vizinho: 202398
+
+Sequencia inicial 50 -> 202398
+Melhor vizinho: 202377
+
+Sequencia inicial 51 -> 202377
+Melhor vizinho: 202371
+
+Sequencia inicial 52 -> 202371
+Melhor vizinho: 202365
+
+Sequencia inicial 53 -> 202365
+Melhor vizinho: 202353
+
+Sequencia inicial 54 -> 202353
+Melhor vizinho: 202347
+
+Sequencia inicial 55 -> 202347
+Melhor vizinho: 202339
+
+Sequencia inicial 56 -> 202339
+Melhor vizinho: 202328
+
+Sequencia inicial 57 -> 202328
+Melhor vizinho: 202314
+
+Sequencia inicial 58 -> 202314
+Melhor vizinho: 202310
+
+Sequencia inicial 59 -> 202310
+Melhor vizinho: 202305
+
+Sequencia inicial 60 -> 202305
+Melhor vizinho: 202294
+
+Sequencia inicial 61 -> 202294
+Melhor vizinho: 202273
+
+Sequencia inicial 62 -> 202273
+Melhor vizinho: 202256
+
+Sequencia inicial 63 -> 202256
+Melhor vizinho: 202251
+
+Sequencia inicial 64 -> 202251
+Melhor vizinho: 202231
+
+Sequencia inicial 65 -> 202231
+Melhor vizinho: 202183
+
+Sequencia inicial 66 -> 202183
+Melhor vizinho: 202160
+
+Sequencia inicial 67 -> 202160
+Melhor vizinho: 202131
+
+Sequencia inicial 68 -> 202131
+Melhor vizinho: 202082
+
+Sequencia inicial 69 -> 202082
+Melhor vizinho: 202054
+
+Sequencia inicial 70 -> 202054
+Melhor vizinho: 202051
+
+Sequencia inicial 71 -> 202051
+Melhor vizinho: 202050
+
+Sequencia inicial 72 -> 202050
+Melhor vizinho: 202043
+
+Sequencia inicial 73 -> 202043
+Melhor vizinho: 202037
+
+Sequencia inicial 74 -> 202037
+Melhor vizinho: 201997
+
+Sequencia inicial 75 -> 201997
+Melhor vizinho: 201987
+
+Sequencia inicial 76 -> 201987
+Melhor vizinho: 201966
+
+Sequencia inicial 77 -> 201966
+Atraso Máximo Iterated Greedy (IG): 198079
+Sequência de Tarefas - Solução Final IG
+67 75 51 110 65 148 12 115 102 6 24 59 36 117 91 108 30 21 125 39 119 131 62 111 15 116 81 114 107 43 100 54 61 150 96 34 135 25 82 139 134 73 48 98 26 69 2 118 47 37 77 136 40 66 80 31 85 121 132 142 46 99 10 79 42 127 145 89 3 109 27 4 20 72 19 7 88 13 57 64 149 71 128 45 55 11 126 93 50 33 113 144 41 14 101 44 137 68 86 53 92 104 124 28 63 141 133 18 94 8 60 95 105 49 147 143 32 78 123 70 22 1 130 35 103 29 23 74 97 146 87 106 58 90 138 17 52 38 84 16 129 122 56 9 76 5 83 112 140 120 
+Tempo: 3378.01 segundos

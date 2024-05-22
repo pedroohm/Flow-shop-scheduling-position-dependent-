@@ -1,0 +1,370 @@
+
+Calculando TP
+TP calculada
+Sequência de Tarefas - Solução Inicial EDD
+19 11 10 9 7 20 1 6 12 2 18 14 17 13 3 15 8 16 5 4 
+Atraso Máximo da solução inicial EDD: 1066
+
+Sequência de Tarefas - Solução Inicial Tempos Medios
+11 19 10 12 20 6 9 14 7 4 1 2 18 15 8 13 5 3 17 16 
+Atraso Máximo da solução inicial Tempos Medios: 1221
+
+Sequencia inicial 1 -> 1221
+Melhor vizinho: 1168
+
+Sequencia inicial 2 -> 1168
+Melhor vizinho: 1141
+
+Sequencia inicial 3 -> 1141
+Melhor vizinho: 1114
+
+Sequencia inicial 4 -> 1114
+Melhor vizinho: 1091
+
+Sequencia inicial 5 -> 1091
+Melhor vizinho: 1085
+
+Sequencia inicial 6 -> 1085
+Melhor vizinho: 1081
+
+Sequencia inicial 7 -> 1081
+Melhor vizinho: 1076
+
+Sequencia inicial 8 -> 1076
+Melhor vizinho: 1067
+
+Sequencia inicial 9 -> 1067
+Melhor vizinho: 1058
+
+Sequencia inicial 10 -> 1058
+Melhor vizinho: 1054
+
+Sequencia inicial 11 -> 1054
+ITERAÇÃO: 1 - Atraso: 1054
+
+Sequencia inicial 1 -> 1079
+Melhor vizinho: 1076
+
+Sequencia inicial 2 -> 1076
+Melhor vizinho: 1067
+
+Sequencia inicial 3 -> 1067
+Melhor vizinho: 1054
+
+Sequencia inicial 4 -> 1054
+Melhor vizinho: 1049
+
+Sequencia inicial 5 -> 1049
+Melhor vizinho: 1040
+
+Sequencia inicial 6 -> 1040
+ITERAÇÃO: 1 - Atraso: 1040
+
+Sequencia inicial 1 -> 1040
+Melhor vizinho: 1039
+
+Sequencia inicial 2 -> 1039
+Melhor vizinho: 1033
+
+Sequencia inicial 3 -> 1033
+Melhor vizinho: 1031
+
+Sequencia inicial 4 -> 1031
+Melhor vizinho: 1028
+
+Sequencia inicial 5 -> 1028
+Melhor vizinho: 1024
+
+Sequencia inicial 6 -> 1024
+ITERAÇÃO: 1 - Atraso: 1024
+
+Sequencia inicial 1 -> 1047
+Melhor vizinho: 1040
+
+Sequencia inicial 2 -> 1040
+Melhor vizinho: 1039
+
+Sequencia inicial 3 -> 1039
+Melhor vizinho: 1038
+
+Sequencia inicial 4 -> 1038
+Melhor vizinho: 1033
+
+Sequencia inicial 5 -> 1033
+Melhor vizinho: 1032
+
+Sequencia inicial 6 -> 1032
+Melhor vizinho: 1028
+
+Sequencia inicial 7 -> 1028
+Melhor vizinho: 1005
+
+Sequencia inicial 8 -> 1005
+ITERAÇÃO: 1 - Atraso: 1005
+
+Sequencia inicial 1 -> 1036
+Melhor vizinho: 1020
+
+Sequencia inicial 2 -> 1020
+Melhor vizinho: 1007
+
+Sequencia inicial 3 -> 1007
+Melhor vizinho: 1005
+
+Sequencia inicial 4 -> 1005
+ITERAÇÃO: 2 - Atraso: 1005
+
+Sequencia inicial 1 -> 1045
+Melhor vizinho: 1020
+
+Sequencia inicial 2 -> 1020
+Melhor vizinho: 1007
+
+Sequencia inicial 3 -> 1007
+Melhor vizinho: 1005
+
+Sequencia inicial 4 -> 1005
+ITERAÇÃO: 3 - Atraso: 1005
+
+Sequencia inicial 1 -> 1036
+Melhor vizinho: 1020
+
+Sequencia inicial 2 -> 1020
+Melhor vizinho: 1007
+
+Sequencia inicial 3 -> 1007
+Melhor vizinho: 1005
+
+Sequencia inicial 4 -> 1005
+ITERAÇÃO: 4 - Atraso: 1005
+
+Sequencia inicial 1 -> 1064
+Melhor vizinho: 1041
+
+Sequencia inicial 2 -> 1041
+Melhor vizinho: 1031
+
+Sequencia inicial 3 -> 1031
+Melhor vizinho: 1021
+
+Sequencia inicial 4 -> 1021
+ITERAÇÃO: 5 - Atraso: 1005
+
+Sequencia inicial 1 -> 1072
+Melhor vizinho: 1041
+
+Sequencia inicial 2 -> 1041
+Melhor vizinho: 1031
+
+Sequencia inicial 3 -> 1031
+ITERAÇÃO: 6 - Atraso: 1005
+
+Sequencia inicial 1 -> 1054
+Melhor vizinho: 1041
+
+Sequencia inicial 2 -> 1041
+Melhor vizinho: 1040
+
+Sequencia inicial 3 -> 1040
+Melhor vizinho: 1031
+
+Sequencia inicial 4 -> 1031
+Melhor vizinho: 1026
+
+Sequencia inicial 5 -> 1026
+Melhor vizinho: 1021
+
+Sequencia inicial 6 -> 1021
+ITERAÇÃO: 7 - Atraso: 1005
+
+Sequencia inicial 1 -> 1031
+Melhor vizinho: 1026
+
+Sequencia inicial 2 -> 1026
+Melhor vizinho: 1020
+
+Sequencia inicial 3 -> 1020
+Melhor vizinho: 1017
+
+Sequencia inicial 4 -> 1017
+Melhor vizinho: 1009
+
+Sequencia inicial 5 -> 1009
+ITERAÇÃO: 8 - Atraso: 1005
+
+Sequencia inicial 1 -> 1074
+Melhor vizinho: 1065
+
+Sequencia inicial 2 -> 1065
+Melhor vizinho: 1062
+
+Sequencia inicial 3 -> 1062
+Melhor vizinho: 1061
+
+Sequencia inicial 4 -> 1061
+Melhor vizinho: 1052
+
+Sequencia inicial 5 -> 1052
+Melhor vizinho: 1038
+
+Sequencia inicial 6 -> 1038
+Melhor vizinho: 1034
+
+Sequencia inicial 7 -> 1034
+Melhor vizinho: 1033
+
+Sequencia inicial 8 -> 1033
+Melhor vizinho: 1031
+
+Sequencia inicial 9 -> 1031
+ITERAÇÃO: 9 - Atraso: 1005
+
+Sequencia inicial 1 -> 1076
+Melhor vizinho: 1049
+
+Sequencia inicial 2 -> 1049
+ITERAÇÃO: 10 - Atraso: 1005
+
+Sequencia inicial 1 -> 1049
+ITERAÇÃO: 11 - Atraso: 1005
+
+Sequencia inicial 1 -> 1049
+ITERAÇÃO: 12 - Atraso: 1005
+
+Sequencia inicial 1 -> 1049
+ITERAÇÃO: 13 - Atraso: 1005
+
+Sequencia inicial 1 -> 1049
+Melhor vizinho: 1042
+
+Sequencia inicial 2 -> 1042
+Melhor vizinho: 1021
+
+Sequencia inicial 3 -> 1021
+Melhor vizinho: 1018
+
+Sequencia inicial 4 -> 1018
+Melhor vizinho: 1012
+
+Sequencia inicial 5 -> 1012
+Melhor vizinho: 1009
+
+Sequencia inicial 6 -> 1009
+ITERAÇÃO: 14 - Atraso: 1005
+
+Sequencia inicial 1 -> 1088
+Melhor vizinho: 1051
+
+Sequencia inicial 2 -> 1051
+Melhor vizinho: 1038
+
+Sequencia inicial 3 -> 1038
+Melhor vizinho: 1033
+
+Sequencia inicial 4 -> 1033
+Melhor vizinho: 1021
+
+Sequencia inicial 5 -> 1021
+Melhor vizinho: 1019
+
+Sequencia inicial 6 -> 1019
+ITERAÇÃO: 15 - Atraso: 1005
+
+Sequencia inicial 1 -> 1059
+Melhor vizinho: 1040
+
+Sequencia inicial 2 -> 1040
+Melhor vizinho: 1024
+
+Sequencia inicial 3 -> 1024
+Melhor vizinho: 1019
+
+Sequencia inicial 4 -> 1019
+Melhor vizinho: 1009
+
+Sequencia inicial 5 -> 1009
+ITERAÇÃO: 16 - Atraso: 1005
+
+Sequencia inicial 1 -> 1117
+Melhor vizinho: 1072
+
+Sequencia inicial 2 -> 1072
+Melhor vizinho: 1059
+
+Sequencia inicial 3 -> 1059
+Melhor vizinho: 1049
+
+Sequencia inicial 4 -> 1049
+ITERAÇÃO: 17 - Atraso: 1005
+
+Sequencia inicial 1 -> 1095
+Melhor vizinho: 1081
+
+Sequencia inicial 2 -> 1081
+Melhor vizinho: 1077
+
+Sequencia inicial 3 -> 1077
+Melhor vizinho: 1075
+
+Sequencia inicial 4 -> 1075
+Melhor vizinho: 1068
+
+Sequencia inicial 5 -> 1068
+Melhor vizinho: 1042
+
+Sequencia inicial 6 -> 1042
+Melhor vizinho: 1024
+
+Sequencia inicial 7 -> 1024
+Melhor vizinho: 1005
+
+Sequencia inicial 8 -> 1005
+ITERAÇÃO: 18 - Atraso: 1005
+
+Sequencia inicial 1 -> 1094
+Melhor vizinho: 1058
+
+Sequencia inicial 2 -> 1058
+Melhor vizinho: 1040
+
+Sequencia inicial 3 -> 1040
+ITERAÇÃO: 19 - Atraso: 1005
+
+Sequencia inicial 1 -> 1085
+Melhor vizinho: 1063
+
+Sequencia inicial 2 -> 1063
+Melhor vizinho: 1057
+
+Sequencia inicial 3 -> 1057
+Melhor vizinho: 1054
+
+Sequencia inicial 4 -> 1054
+Melhor vizinho: 1049
+
+Sequencia inicial 5 -> 1049
+Melhor vizinho: 1024
+
+Sequencia inicial 6 -> 1024
+Melhor vizinho: 1023
+
+Sequencia inicial 7 -> 1023
+Melhor vizinho: 1019
+
+Sequencia inicial 8 -> 1019
+Melhor vizinho: 1005
+
+Sequencia inicial 9 -> 1005
+ITERAÇÃO: 20 - Atraso: 1005
+
+Sequencia inicial 1 -> 1075
+Melhor vizinho: 1065
+
+Sequencia inicial 2 -> 1065
+Melhor vizinho: 1049
+
+Sequencia inicial 3 -> 1049
+Atraso Máximo Iterated Greedy (IG): 1005
+Sequência de Tarefas - Solução Final IG
+7 8 1 20 19 11 2 15 3 10 13 9 17 4 6 12 14 18 5 16 
+Tempo: 0.190992 segundos

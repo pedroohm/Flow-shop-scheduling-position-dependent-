@@ -1,0 +1,169 @@
+
+Calculando TP
+TP calculada
+Sequência de Tarefas - Solução Inicial EDD
+2 19 11 16 14 17 3 15 4 8 12 5 10 7 1 6 13 9 18 20 
+Atraso Máximo da solução inicial EDD: 373
+
+Sequência de Tarefas - Solução Inicial Tempos Medios
+13 5 19 12 8 6 10 20 4 14 16 15 9 1 3 18 7 2 17 11 
+Atraso Máximo da solução inicial Tempos Medios: 440
+
+Sequencia inicial 1 -> 440
+Melhor vizinho: 391
+
+Sequencia inicial 2 -> 391
+Melhor vizinho: 344
+
+Sequencia inicial 3 -> 344
+Melhor vizinho: 299
+
+Sequencia inicial 4 -> 299
+Melhor vizinho: 270
+
+Sequencia inicial 5 -> 270
+Melhor vizinho: 247
+
+Sequencia inicial 6 -> 247
+Melhor vizinho: 231
+
+Sequencia inicial 7 -> 231
+ITERAÇÃO: 1 - Atraso: 231
+
+Sequencia inicial 1 -> 231
+ITERAÇÃO: 2 - Atraso: 231
+
+Sequencia inicial 1 -> 231
+ITERAÇÃO: 3 - Atraso: 231
+
+Sequencia inicial 1 -> 231
+ITERAÇÃO: 4 - Atraso: 231
+
+Sequencia inicial 1 -> 244
+Melhor vizinho: 240
+
+Sequencia inicial 2 -> 240
+Melhor vizinho: 237
+
+Sequencia inicial 3 -> 237
+Melhor vizinho: 231
+
+Sequencia inicial 4 -> 231
+ITERAÇÃO: 5 - Atraso: 231
+
+Sequencia inicial 1 -> 242
+Melhor vizinho: 231
+
+Sequencia inicial 2 -> 231
+ITERAÇÃO: 6 - Atraso: 231
+
+Sequencia inicial 1 -> 231
+ITERAÇÃO: 7 - Atraso: 231
+
+Sequencia inicial 1 -> 231
+ITERAÇÃO: 8 - Atraso: 231
+
+Sequencia inicial 1 -> 238
+Melhor vizinho: 231
+
+Sequencia inicial 2 -> 231
+ITERAÇÃO: 9 - Atraso: 231
+
+Sequencia inicial 1 -> 231
+ITERAÇÃO: 10 - Atraso: 231
+
+Sequencia inicial 1 -> 258
+ITERAÇÃO: 11 - Atraso: 231
+
+Sequencia inicial 1 -> 258
+ITERAÇÃO: 12 - Atraso: 231
+
+Sequencia inicial 1 -> 258
+ITERAÇÃO: 13 - Atraso: 231
+
+Sequencia inicial 1 -> 258
+ITERAÇÃO: 14 - Atraso: 231
+
+Sequencia inicial 1 -> 275
+Melhor vizinho: 274
+
+Sequencia inicial 2 -> 274
+Melhor vizinho: 263
+
+Sequencia inicial 3 -> 263
+ITERAÇÃO: 15 - Atraso: 231
+
+Sequencia inicial 1 -> 275
+Melhor vizinho: 268
+
+Sequencia inicial 2 -> 268
+Melhor vizinho: 263
+
+Sequencia inicial 3 -> 263
+ITERAÇÃO: 16 - Atraso: 231
+
+Sequencia inicial 1 -> 275
+Melhor vizinho: 268
+
+Sequencia inicial 2 -> 268
+Melhor vizinho: 263
+
+Sequencia inicial 3 -> 263
+ITERAÇÃO: 17 - Atraso: 231
+
+Sequencia inicial 1 -> 296
+ITERAÇÃO: 18 - Atraso: 231
+
+Sequencia inicial 1 -> 296
+Melhor vizinho: 290
+
+Sequencia inicial 2 -> 290
+Melhor vizinho: 257
+
+Sequencia inicial 3 -> 257
+Melhor vizinho: 253
+
+Sequencia inicial 4 -> 253
+Melhor vizinho: 240
+
+Sequencia inicial 5 -> 240
+Melhor vizinho: 232
+
+Sequencia inicial 6 -> 232
+Melhor vizinho: 231
+
+Sequencia inicial 7 -> 231
+ITERAÇÃO: 19 - Atraso: 231
+
+Sequencia inicial 1 -> 296
+Melhor vizinho: 295
+
+Sequencia inicial 2 -> 295
+Melhor vizinho: 273
+
+Sequencia inicial 3 -> 273
+Melhor vizinho: 257
+
+Sequencia inicial 4 -> 257
+Melhor vizinho: 256
+
+Sequencia inicial 5 -> 256
+Melhor vizinho: 241
+
+Sequencia inicial 6 -> 241
+Melhor vizinho: 231
+
+Sequencia inicial 7 -> 231
+ITERAÇÃO: 20 - Atraso: 231
+
+Sequencia inicial 1 -> 305
+Melhor vizinho: 270
+
+Sequencia inicial 2 -> 270
+Melhor vizinho: 231
+
+Sequencia inicial 3 -> 231
+Atraso Máximo Iterated Greedy (IG): 231
+Sequência de Tarefas - Solução Final IG
+19 16 13 12 8 20 5 7 11 14 4 2 6 9 10 17 15 3 1 18 
+Tempo: 0.057541 segundos

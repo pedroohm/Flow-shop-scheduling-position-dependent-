@@ -1,0 +1,133 @@
+
+Calculando TP
+TP calculada
+Sequência de Tarefas - Solução Inicial EDD
+5 3 2 1 4 
+Atraso Máximo da solução inicial EDD: 313
+
+Sequência de Tarefas - Solução Inicial Tempos Medios
+5 2 3 1 4 
+Atraso Máximo da solução inicial Tempos Medios: 312
+
+Sequencia inicial 1 -> 312
+Melhor vizinho: 286
+
+Sequencia inicial 2 -> 286
+Melhor vizinho: 275
+
+Sequencia inicial 3 -> 275
+ITERAÇÃO: 1 - Atraso: 275
+
+Sequencia inicial 1 -> 287
+ITERAÇÃO: 2 - Atraso: 275
+
+Sequencia inicial 1 -> 287
+ITERAÇÃO: 3 - Atraso: 275
+
+Sequencia inicial 1 -> 287
+ITERAÇÃO: 4 - Atraso: 275
+
+Sequencia inicial 1 -> 287
+ITERAÇÃO: 5 - Atraso: 275
+
+Sequencia inicial 1 -> 287
+ITERAÇÃO: 6 - Atraso: 275
+
+Sequencia inicial 1 -> 287
+ITERAÇÃO: 7 - Atraso: 275
+
+Sequencia inicial 1 -> 287
+ITERAÇÃO: 8 - Atraso: 275
+
+Sequencia inicial 1 -> 285
+Melhor vizinho: 284
+
+Sequencia inicial 2 -> 284
+Melhor vizinho: 275
+
+Sequencia inicial 3 -> 275
+ITERAÇÃO: 9 - Atraso: 275
+
+Sequencia inicial 1 -> 285
+Melhor vizinho: 284
+
+Sequencia inicial 2 -> 284
+Melhor vizinho: 275
+
+Sequencia inicial 3 -> 275
+ITERAÇÃO: 10 - Atraso: 275
+
+Sequencia inicial 1 -> 285
+Melhor vizinho: 284
+
+Sequencia inicial 2 -> 284
+Melhor vizinho: 275
+
+Sequencia inicial 3 -> 275
+ITERAÇÃO: 11 - Atraso: 275
+
+Sequencia inicial 1 -> 285
+Melhor vizinho: 284
+
+Sequencia inicial 2 -> 284
+Melhor vizinho: 275
+
+Sequencia inicial 3 -> 275
+ITERAÇÃO: 12 - Atraso: 275
+
+Sequencia inicial 1 -> 285
+Melhor vizinho: 284
+
+Sequencia inicial 2 -> 284
+Melhor vizinho: 275
+
+Sequencia inicial 3 -> 275
+ITERAÇÃO: 13 - Atraso: 275
+
+Sequencia inicial 1 -> 285
+Melhor vizinho: 284
+
+Sequencia inicial 2 -> 284
+Melhor vizinho: 275
+
+Sequencia inicial 3 -> 275
+ITERAÇÃO: 14 - Atraso: 275
+
+Sequencia inicial 1 -> 285
+Melhor vizinho: 284
+
+Sequencia inicial 2 -> 284
+Melhor vizinho: 275
+
+Sequencia inicial 3 -> 275
+ITERAÇÃO: 15 - Atraso: 275
+
+Sequencia inicial 1 -> 285
+Melhor vizinho: 284
+
+Sequencia inicial 2 -> 284
+Melhor vizinho: 275
+
+Sequencia inicial 3 -> 275
+ITERAÇÃO: 16 - Atraso: 275
+
+Sequencia inicial 1 -> 275
+ITERAÇÃO: 17 - Atraso: 275
+
+Sequencia inicial 1 -> 275
+ITERAÇÃO: 18 - Atraso: 275
+
+Sequencia inicial 1 -> 275
+ITERAÇÃO: 19 - Atraso: 275
+
+Sequencia inicial 1 -> 312
+Melhor vizinho: 275
+
+Sequencia inicial 2 -> 275
+ITERAÇÃO: 20 - Atraso: 275
+
+Sequencia inicial 1 -> 275
+Atraso Máximo Iterated Greedy (IG): 275
+Sequência de Tarefas - Solução Final IG
+2 3 5 4 1 
+Tempo: 0.00076 segundos
