@@ -53,12 +53,23 @@ void calculaCompletionTime(const int n, const int m, const std::vector<int> &seq
 
 float atrasoMaximo(const int n, const int m, const std::vector<int> &sequenciaTarefas, const std::vector<std::vector<float>> &compTime, const std::vector<int> &dueDates){
     float atraso = 0;
-    for(int k=0; k<n; k++){
-        float newAtraso = compTime[k+1][m] - dueDates[sequenciaTarefas[k]];
+    int tarefa, indice;
+    for(int k=1; k<=n; k++){
+        float newAtraso = compTime[k][m] - dueDates[sequenciaTarefas[k-1]];
         if (newAtraso > atraso)
             atraso = newAtraso;
+            tarefa = sequenciaTarefas[k-1];
+            indice = k-1;
     }
+    std::cout << "\nMaior atraso da tarefa " << tarefa << "pois " << compTime[indice][m] << "-" << dueDates[sequenciaTarefas[indice]] << "\n";
     return atraso;
+}
+
+void imprimeCompletionTime(int n, int m, std::vector<std::vector<float>> compTime){
+    std::cout << "\n Ultima linha da completion time:\n";
+    for(int k=0; k<n; k++){         
+        std::cout << compTime[k+1][m] << " ";
+    }
 }
 
 std::vector<std::pair<float, int>> ordemTarefas(const int n, const int m, std::vector<int> &dueDates, std::vector<std::vector<int>> &processingTimes, const int param){
@@ -83,9 +94,7 @@ std::vector<std::pair<float, int>> ordemTarefas(const int n, const int m, std::v
 
 std::pair<std::vector<int>, float> destructConstruct(std::vector<int> &sequencia, std::vector<std::vector<float>> &completionTime, int d, int n, int m, std::vector<int> dueDates, const std::vector<std::vector<int>> &processingTimes, const std::vector<std::vector<std::vector<float>>> &TP, float alpha){
     std::vector<int> deletados;
-    //std::cout << "\nEntrando na destruct construct";
 
-    //utilizar 
     int size = sequencia.size();
 
     // Processo de destruição
@@ -103,9 +112,11 @@ std::pair<std::vector<int>, float> destructConstruct(std::vector<int> &sequencia
 
     // Processo de construção
     float menorAtraso;
+    float atrasoAux;
+    int pos;
     for(int i=0; i<deletados.size(); i++){
         menorAtraso = INT_MAX;
-        int pos = 0;
+        pos = 0;
         std::vector<int> seqParcial;
         for(int j=0; j<sequencia.size(); j++){
             seqParcial = sequencia;
@@ -113,7 +124,7 @@ std::pair<std::vector<int>, float> destructConstruct(std::vector<int> &sequencia
             completionTime.resize(seqParcial.size()+1, std::vector<float>(m+1, 0));
             calculaCompletionTime(seqParcial.size(), m, seqParcial, TP, completionTime);
                     
-            float atrasoAux = atrasoMaximo(seqParcial.size(), m, seqParcial, completionTime, dueDates);
+            atrasoAux = atrasoMaximo(seqParcial.size(), m, seqParcial, completionTime, dueDates);
             if(atrasoAux < menorAtraso){
                 menorAtraso = atrasoAux;
                 pos = j;
@@ -134,8 +145,7 @@ std::pair<std::vector<int>, float> generateNeighbors(const std::vector<int> &seq
     int distancia;
 
     if (n<50) distancia = n/2;
-    else if (n<200) distancia = n/4;
-    else distancia = n/8; 
+    else distancia = n/4; 
 
     //std::cout << "\nVizinhos:\n";
 
@@ -217,26 +227,11 @@ std::pair<std::vector<int>, float> iteratedGreedy(std::vector<int> initialSoluti
         i++;
         std::cout << "\nITERAÇÃO: " << i << " - Atraso: " << atrasoPi << "\n";
 
-        /*
-        std::cout << "\nSequencia a ser destruida - ";
-        imprimeSequencia(pi);
-        std::cout << " -> " << atrasoPi;
-        */
-
-        //chamada de constructDestruct removendo d% das tarefas
+        //chamada de constructDestruct removendo d das tarefas
         std::pair<std::vector<int>, float> sequenceTmaxPi1 = destructConstruct(pi, completionTime, d, n, m, dueDates, processingTimes, TP, alpha);
         std::vector<int> pi1(sequenceTmaxPi1.first);
         float atrasoPi1 = sequenceTmaxPi1.second;
 
-        /*
-        std::cout << "\nResultado destruct construct - ";
-        imprimeSequencia(pi1);
-        std::cout << " -> " << atrasoPi1;
-        std::cout << "\n";
-        */
-
-
-        
         std::pair<std::vector<int>, float> sequenceTmaxPi2 = buscaLocal(pi1, atrasoPi1, n, m, completionTime, dueDates, processingTimes, TP);
         std::vector<int> pi2(sequenceTmaxPi2.first);
         float atrasoPi2 = sequenceTmaxPi2.second;
@@ -246,18 +241,6 @@ std::pair<std::vector<int>, float> iteratedGreedy(std::vector<int> initialSoluti
             atrasoPi = atrasoPi2;
             i = 0;         
         }
-        //std::cout << "\nIteração: " << i << " - Atraso: " << atrasoPi << "\n";
-    
-        /*
-       if (atrasoPi1 < atrasoPi){
-            pi = pi1;
-            atrasoPi = atrasoPi1;
-            i = 0;
-            std::cout << "\nIteração: " << i << " - Atraso: " << atrasoPi << "\n";
-       }
-        std::cout << "\nIteração: " << i << " - Atraso: " << atrasoPi << "\n";
-        */
-
     }
 
     return std::make_pair(pi, atrasoPi);
@@ -284,7 +267,7 @@ int main(int argc, char *argv[]){
 
     std::cin>>m>>n>>T>>R;
 
-    int d = n * porcentagem; //Porcentagem de tarefas a serem removidas
+    int d = n * porcentagem; //quantidade de tarefas a serem removidas
 
     arquivo << alpha << "," << porcentagem << "," << m << "," << n << "," << T << "," << R << ",";
     
@@ -312,6 +295,7 @@ int main(int argc, char *argv[]){
     //   caso ela esteja na posição k
     //  TP[j][i][k] = processingTimes[i][j] * k^alpha;
     std::vector<std::vector<std::vector<float>>> TP(n, std::vector<std::vector<float>>(m, std::vector<float>(n)));
+    
     std::cout << "\nCalculando TP";
     calculaTP(n, m, processingTimes, TP, alpha);
     std::cout << "\nTP calculada";
@@ -330,7 +314,7 @@ int main(int argc, char *argv[]){
     // Armazenando a sequência de tarefas
     for(int j=0; j<n; j++) {
         solucao[j] = temposMedios[j].second;
-        //std::cout << temposMedios[j].first << " - " << temposMedios[j].second << "\n";
+        std::cout << temposMedios[j].first << " - " << temposMedios[j].second << "\n";
     }
      
     //Calculo do completion time para a solução inicial
@@ -338,6 +322,7 @@ int main(int argc, char *argv[]){
     calculaCompletionTime(n, m, solucao, TP, compTime);
     std::cout<<"\nSequência de Tarefas - Solução Inicial EDD";
     imprimeSequencia(solucao);
+
     //Calculo do atraso máximo para a solução inicial
     float atraso_maximo = atrasoMaximo(n, m, solucao, compTime, dueDates);
     std::cout << "\nAtraso Máximo da solução inicial EDD: " << atraso_maximo << "\n";

@@ -18,10 +18,7 @@ Melhor vizinho: 568.609
 Sequencia inicial 3 -> 568.609
 ITERAÇÃO: 1 - Atraso: 568.609
 
-Sequencia inicial 1 -> 570.739
-Melhor vizinho: 568.609
-
-Sequencia inicial 2 -> 568.609
+Sequencia inicial 1 -> 568.609
 ITERAÇÃO: 2 - Atraso: 568.609
 
 Sequencia inicial 1 -> 570.739
@@ -36,11 +33,29 @@ Melhor vizinho: 568.609
 Sequencia inicial 2 -> 568.609
 ITERAÇÃO: 4 - Atraso: 568.609
 
+Sequencia inicial 1 -> 568.609
+ITERAÇÃO: 5 - Atraso: 568.609
+
+Sequencia inicial 1 -> 568.609
+ITERAÇÃO: 6 - Atraso: 568.609
+
 Sequencia inicial 1 -> 570.739
 Melhor vizinho: 568.609
 
 Sequencia inicial 2 -> 568.609
-ITERAÇÃO: 5 - Atraso: 568.609
+ITERAÇÃO: 7 - Atraso: 568.609
+
+Sequencia inicial 1 -> 570.739
+Melhor vizinho: 568.609
+
+Sequencia inicial 2 -> 568.609
+ITERAÇÃO: 8 - Atraso: 568.609
+
+Sequencia inicial 1 -> 570.739
+Melhor vizinho: 568.609
+
+Sequencia inicial 2 -> 568.609
+ITERAÇÃO: 9 - Atraso: 568.609
 
 Sequencia inicial 1 -> 567.846
 ITERAÇÃO: 1 - Atraso: 567.846
@@ -54,25 +69,37 @@ ITERAÇÃO: 3 - Atraso: 567.846
 Sequencia inicial 1 -> 567.846
 ITERAÇÃO: 4 - Atraso: 567.846
 
-Sequencia inicial 1 -> 567.846
+Sequencia inicial 1 -> 569.438
+Melhor vizinho: 567.846
+
+Sequencia inicial 2 -> 567.846
 ITERAÇÃO: 5 - Atraso: 567.846
-
-Sequencia inicial 1 -> 567.846
-ITERAÇÃO: 6 - Atraso: 567.846
-
-Sequencia inicial 1 -> 567.846
-ITERAÇÃO: 7 - Atraso: 567.846
-
-Sequencia inicial 1 -> 567.846
-ITERAÇÃO: 8 - Atraso: 567.846
-
-Sequencia inicial 1 -> 567.846
-ITERAÇÃO: 9 - Atraso: 567.846
 
 Sequencia inicial 1 -> 569.438
 Melhor vizinho: 567.846
 
 Sequencia inicial 2 -> 567.846
+ITERAÇÃO: 6 - Atraso: 567.846
+
+Sequencia inicial 1 -> 569.438
+Melhor vizinho: 567.846
+
+Sequencia inicial 2 -> 567.846
+ITERAÇÃO: 7 - Atraso: 567.846
+
+Sequencia inicial 1 -> 569.438
+Melhor vizinho: 567.846
+
+Sequencia inicial 2 -> 567.846
+ITERAÇÃO: 8 - Atraso: 567.846
+
+Sequencia inicial 1 -> 569.438
+Melhor vizinho: 567.846
+
+Sequencia inicial 2 -> 567.846
+ITERAÇÃO: 9 - Atraso: 567.846
+
+Sequencia inicial 1 -> 567.846
 ITERAÇÃO: 10 - Atraso: 567.846
 
 Sequencia inicial 1 -> 567.846
@@ -84,7 +111,10 @@ Melhor vizinho: 567.846
 Sequencia inicial 2 -> 567.846
 ITERAÇÃO: 12 - Atraso: 567.846
 
-Sequencia inicial 1 -> 567.846
+Sequencia inicial 1 -> 569.438
+Melhor vizinho: 567.846
+
+Sequencia inicial 2 -> 567.846
 ITERAÇÃO: 13 - Atraso: 567.846
 
 Sequencia inicial 1 -> 569.438
@@ -93,26 +123,41 @@ Melhor vizinho: 567.846
 Sequencia inicial 2 -> 567.846
 ITERAÇÃO: 14 - Atraso: 567.846
 
-Sequencia inicial 1 -> 568.609
+Sequencia inicial 1 -> 569.438
+Melhor vizinho: 567.846
+
+Sequencia inicial 2 -> 567.846
 ITERAÇÃO: 15 - Atraso: 567.846
 
-Sequencia inicial 1 -> 568.609
+Sequencia inicial 1 -> 569.438
+Melhor vizinho: 567.846
+
+Sequencia inicial 2 -> 567.846
 ITERAÇÃO: 16 - Atraso: 567.846
 
-Sequencia inicial 1 -> 568.609
+Sequencia inicial 1 -> 569.438
+Melhor vizinho: 567.846
+
+Sequencia inicial 2 -> 567.846
 ITERAÇÃO: 17 - Atraso: 567.846
 
-Sequencia inicial 1 -> 568.609
+Sequencia inicial 1 -> 569.438
+Melhor vizinho: 567.846
+
+Sequencia inicial 2 -> 567.846
 ITERAÇÃO: 18 - Atraso: 567.846
 
-Sequencia inicial 1 -> 568.609
+Sequencia inicial 1 -> 569.438
+Melhor vizinho: 567.846
+
+Sequencia inicial 2 -> 567.846
 ITERAÇÃO: 19 - Atraso: 567.846
 
-Sequencia inicial 1 -> 568.609
+Sequencia inicial 1 -> 567.846
 ITERAÇÃO: 20 - Atraso: 567.846
 
-Sequencia inicial 1 -> 568.609
+Sequencia inicial 1 -> 567.846
 Atraso Máximo Iterated Greedy (IG): 567.846
 Sequência de Tarefas - Solução Final IG
-3 1 2 4 5 
-Tempo: 0.000691 segundos
+2 3 1 5 4 
+Tempo: 0.000701 segundos

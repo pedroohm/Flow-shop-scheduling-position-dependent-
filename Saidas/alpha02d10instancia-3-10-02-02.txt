@@ -30,329 +30,104 @@ Melhor vizinho: 519.624
 Sequencia inicial 7 -> 519.624
 ITERAÇÃO: 1 - Atraso: 519.624
 
-Sequencia inicial 1 -> 522.967
-Melhor vizinho: 519.624
-
-Sequencia inicial 2 -> 519.624
+Sequencia inicial 1 -> 519.624
 ITERAÇÃO: 2 - Atraso: 519.624
 
-Sequencia inicial 1 -> 522.967
+Sequencia inicial 1 -> 567.246
+Melhor vizinho: 522.967
+
+Sequencia inicial 2 -> 522.967
 Melhor vizinho: 519.624
 
-Sequencia inicial 2 -> 519.624
+Sequencia inicial 3 -> 519.624
 ITERAÇÃO: 3 - Atraso: 519.624
 
-Sequencia inicial 1 -> 528.715
-Melhor vizinho: 523.983
+Sequencia inicial 1 -> 566.666
+Melhor vizinho: 548.268
 
-Sequencia inicial 2 -> 523.983
-Melhor vizinho: 522.967
-
-Sequencia inicial 3 -> 522.967
-Melhor vizinho: 519.624
-
-Sequencia inicial 4 -> 519.624
-ITERAÇÃO: 4 - Atraso: 519.624
-
-Sequencia inicial 1 -> 548.754
+Sequencia inicial 2 -> 548.268
 Melhor vizinho: 525.139
 
-Sequencia inicial 2 -> 525.139
+Sequencia inicial 3 -> 525.139
 Melhor vizinho: 522.967
 
-Sequencia inicial 3 -> 522.967
+Sequencia inicial 4 -> 522.967
 Melhor vizinho: 519.624
 
-Sequencia inicial 4 -> 519.624
+Sequencia inicial 5 -> 519.624
+ITERAÇÃO: 4 - Atraso: 519.624
+
+Sequencia inicial 1 -> 566.666
+Melhor vizinho: 548.268
+
+Sequencia inicial 2 -> 548.268
+Melhor vizinho: 525.139
+
+Sequencia inicial 3 -> 525.139
+Melhor vizinho: 522.967
+
+Sequencia inicial 4 -> 522.967
+Melhor vizinho: 519.624
+
+Sequencia inicial 5 -> 519.624
 ITERAÇÃO: 5 - Atraso: 519.624
 
-Sequencia inicial 1 -> 547.128
-Melhor vizinho: 535.924
+Sequencia inicial 1 -> 566.666
+Melhor vizinho: 548.268
 
-Sequencia inicial 2 -> 535.924
-Melhor vizinho: 525.37
+Sequencia inicial 2 -> 548.268
+Melhor vizinho: 525.139
 
-Sequencia inicial 3 -> 525.37
-Melhor vizinho: 519.362
+Sequencia inicial 3 -> 525.139
+Melhor vizinho: 522.967
 
-Sequencia inicial 4 -> 519.362
-ITERAÇÃO: 1 - Atraso: 519.362
-
-Sequencia inicial 1 -> 519.362
-ITERAÇÃO: 2 - Atraso: 519.362
-
-Sequencia inicial 1 -> 565.99
-Melhor vizinho: 520.768
-
-Sequencia inicial 2 -> 520.768
-Melhor vizinho: 518.368
-
-Sequencia inicial 3 -> 518.368
-ITERAÇÃO: 1 - Atraso: 518.368
-
-Sequencia inicial 1 -> 518.368
-ITERAÇÃO: 2 - Atraso: 518.368
-
-Sequencia inicial 1 -> 567.007
-Melhor vizinho: 518.368
-
-Sequencia inicial 2 -> 518.368
-ITERAÇÃO: 3 - Atraso: 518.368
-
-Sequencia inicial 1 -> 565.99
-Melhor vizinho: 520.768
-
-Sequencia inicial 2 -> 520.768
-Melhor vizinho: 518.368
-
-Sequencia inicial 3 -> 518.368
-ITERAÇÃO: 4 - Atraso: 518.368
-
-Sequencia inicial 1 -> 565.99
-Melhor vizinho: 520.768
-
-Sequencia inicial 2 -> 520.768
-Melhor vizinho: 518.368
-
-Sequencia inicial 3 -> 518.368
-ITERAÇÃO: 5 - Atraso: 518.368
-
-Sequencia inicial 1 -> 620.411
-Melhor vizinho: 518.368
-
-Sequencia inicial 2 -> 518.368
-ITERAÇÃO: 6 - Atraso: 518.368
-
-Sequencia inicial 1 -> 590.681
-Melhor vizinho: 558.612
-
-Sequencia inicial 2 -> 558.612
-Melhor vizinho: 527.3
-
-Sequencia inicial 3 -> 527.3
-Melhor vizinho: 519.855
-
-Sequencia inicial 4 -> 519.855
-Melhor vizinho: 518.368
-
-Sequencia inicial 5 -> 518.368
-ITERAÇÃO: 7 - Atraso: 518.368
-
-Sequencia inicial 1 -> 595.727
-Melhor vizinho: 527.3
-
-Sequencia inicial 2 -> 527.3
-Melhor vizinho: 519.855
-
-Sequencia inicial 3 -> 519.855
-Melhor vizinho: 518.368
-
-Sequencia inicial 4 -> 518.368
-ITERAÇÃO: 8 - Atraso: 518.368
-
-Sequencia inicial 1 -> 591.48
-Melhor vizinho: 543.364
-
-Sequencia inicial 2 -> 543.364
-Melhor vizinho: 527.3
-
-Sequencia inicial 3 -> 527.3
-Melhor vizinho: 519.855
-
-Sequencia inicial 4 -> 519.855
-Melhor vizinho: 518.368
-
-Sequencia inicial 5 -> 518.368
-ITERAÇÃO: 9 - Atraso: 518.368
-
-Sequencia inicial 1 -> 589.23
-Melhor vizinho: 544.432
-
-Sequencia inicial 2 -> 544.432
-Melhor vizinho: 528.367
-
-Sequencia inicial 3 -> 528.367
-Melhor vizinho: 522.894
-
-Sequencia inicial 4 -> 522.894
-Melhor vizinho: 518.19
-
-Sequencia inicial 5 -> 518.19
-ITERAÇÃO: 1 - Atraso: 518.19
-
-Sequencia inicial 1 -> 518.19
-ITERAÇÃO: 2 - Atraso: 518.19
-
-Sequencia inicial 1 -> 518.19
-ITERAÇÃO: 3 - Atraso: 518.19
-
-Sequencia inicial 1 -> 528.244
-Melhor vizinho: 518.19
-
-Sequencia inicial 2 -> 518.19
-ITERAÇÃO: 4 - Atraso: 518.19
-
-Sequencia inicial 1 -> 523.042
-Melhor vizinho: 518.19
-
-Sequencia inicial 2 -> 518.19
-ITERAÇÃO: 5 - Atraso: 518.19
-
-Sequencia inicial 1 -> 518.19
-ITERAÇÃO: 6 - Atraso: 518.19
-
-Sequencia inicial 1 -> 527.784
-Melhor vizinho: 523.621
-
-Sequencia inicial 2 -> 523.621
-ITERAÇÃO: 7 - Atraso: 518.19
-
-Sequencia inicial 1 -> 523.947
-Melhor vizinho: 523.621
-
-Sequencia inicial 2 -> 523.621
-ITERAÇÃO: 8 - Atraso: 518.19
-
-Sequencia inicial 1 -> 523.947
-Melhor vizinho: 523.621
-
-Sequencia inicial 2 -> 523.621
-ITERAÇÃO: 9 - Atraso: 518.19
-
-Sequencia inicial 1 -> 571.186
-Melhor vizinho: 523.621
-
-Sequencia inicial 2 -> 523.621
-ITERAÇÃO: 10 - Atraso: 518.19
-
-Sequencia inicial 1 -> 571.186
-Melhor vizinho: 523.621
-
-Sequencia inicial 2 -> 523.621
-ITERAÇÃO: 11 - Atraso: 518.19
-
-Sequencia inicial 1 -> 584.393
-Melhor vizinho: 536.278
-
-Sequencia inicial 2 -> 536.278
-Melhor vizinho: 524.388
-
-Sequencia inicial 3 -> 524.388
-Melhor vizinho: 518.368
-
-Sequencia inicial 4 -> 518.368
-ITERAÇÃO: 12 - Atraso: 518.19
-
-Sequencia inicial 1 -> 573.828
-Melhor vizinho: 553.832
-
-Sequencia inicial 2 -> 553.832
-Melhor vizinho: 535.139
-
-Sequencia inicial 3 -> 535.139
-Melhor vizinho: 526.94
-
-Sequencia inicial 4 -> 526.94
-Melhor vizinho: 521.291
-
-Sequencia inicial 5 -> 521.291
-ITERAÇÃO: 13 - Atraso: 518.19
-
-Sequencia inicial 1 -> 573.828
-Melhor vizinho: 553.832
-
-Sequencia inicial 2 -> 553.832
-Melhor vizinho: 535.139
-
-Sequencia inicial 3 -> 535.139
-Melhor vizinho: 526.94
-
-Sequencia inicial 4 -> 526.94
-Melhor vizinho: 521.291
-
-Sequencia inicial 5 -> 521.291
-ITERAÇÃO: 14 - Atraso: 518.19
-
-Sequencia inicial 1 -> 573.828
-Melhor vizinho: 553.832
-
-Sequencia inicial 2 -> 553.832
-Melhor vizinho: 535.139
-
-Sequencia inicial 3 -> 535.139
-Melhor vizinho: 526.94
-
-Sequencia inicial 4 -> 526.94
-Melhor vizinho: 521.291
-
-Sequencia inicial 5 -> 521.291
-ITERAÇÃO: 15 - Atraso: 518.19
-
-Sequencia inicial 1 -> 583.557
-Melhor vizinho: 535.442
-
-Sequencia inicial 2 -> 535.442
-Melhor vizinho: 524.216
-
-Sequencia inicial 3 -> 524.216
-Melhor vizinho: 521.193
-
-Sequencia inicial 4 -> 521.193
-Melhor vizinho: 518.368
-
-Sequencia inicial 5 -> 518.368
-ITERAÇÃO: 16 - Atraso: 518.19
-
-Sequencia inicial 1 -> 571.901
-Melhor vizinho: 545.454
-
-Sequencia inicial 2 -> 545.454
-Melhor vizinho: 528.244
-
-Sequencia inicial 3 -> 528.244
-Melhor vizinho: 518.19
-
-Sequencia inicial 4 -> 518.19
-ITERAÇÃO: 17 - Atraso: 518.19
-
-Sequencia inicial 1 -> 571.901
-Melhor vizinho: 545.454
-
-Sequencia inicial 2 -> 545.454
-Melhor vizinho: 528.244
-
-Sequencia inicial 3 -> 528.244
-Melhor vizinho: 518.19
-
-Sequencia inicial 4 -> 518.19
-ITERAÇÃO: 18 - Atraso: 518.19
-
-Sequencia inicial 1 -> 568.929
-Melhor vizinho: 546.325
-
-Sequencia inicial 2 -> 546.325
-Melhor vizinho: 525.272
-
-Sequencia inicial 3 -> 525.272
+Sequencia inicial 4 -> 522.967
 Melhor vizinho: 519.624
 
-Sequencia inicial 4 -> 519.624
-ITERAÇÃO: 19 - Atraso: 518.19
+Sequencia inicial 5 -> 519.624
+ITERAÇÃO: 6 - Atraso: 519.624
 
-Sequencia inicial 1 -> 566.517
-Melhor vizinho: 546.521
+Sequencia inicial 1 -> 566.666
+Melhor vizinho: 548.268
 
-Sequencia inicial 2 -> 546.521
-Melhor vizinho: 526.179
+Sequencia inicial 2 -> 548.268
+Melhor vizinho: 525.139
 
-Sequencia inicial 3 -> 526.179
-Melhor vizinho: 522.224
+Sequencia inicial 3 -> 525.139
+Melhor vizinho: 522.967
 
-Sequencia inicial 4 -> 522.224
+Sequencia inicial 4 -> 522.967
+Melhor vizinho: 519.624
+
+Sequencia inicial 5 -> 519.624
+ITERAÇÃO: 7 - Atraso: 519.624
+
+Sequencia inicial 1 -> 546.642
+Melhor vizinho: 530.125
+
+Sequencia inicial 2 -> 530.125
+Melhor vizinho: 523.883
+
+Sequencia inicial 3 -> 523.883
+Melhor vizinho: 520.768
+
+Sequencia inicial 4 -> 520.768
 Melhor vizinho: 518.368
 
 Sequencia inicial 5 -> 518.368
-ITERAÇÃO: 20 - Atraso: 518.19
+ITERAÇÃO: 1 - Atraso: 518.368
+
+Sequencia inicial 1 -> 519.362
+ITERAÇÃO: 2 - Atraso: 518.368
+
+Sequencia inicial 1 -> 569.775
+Melhor vizinho: 521.659
+
+Sequencia inicial 2 -> 521.659
+Melhor vizinho: 519.362
+
+Sequencia inicial 3 -> 519.362
+ITERAÇÃO: 3 - Atraso: 518.368
 
 Sequencia inicial 1 -> 568.153
 Melhor vizinho: 526.04
@@ -367,7 +142,346 @@ Sequencia inicial 4 -> 520.768
 Melhor vizinho: 518.368
 
 Sequencia inicial 5 -> 518.368
-Atraso Máximo Iterated Greedy (IG): 518.19
+ITERAÇÃO: 4 - Atraso: 518.368
+
+Sequencia inicial 1 -> 567.445
+Melhor vizinho: 548.211
+
+Sequencia inicial 2 -> 548.211
+Melhor vizinho: 523.07
+
+Sequencia inicial 3 -> 523.07
+Melhor vizinho: 519.362
+
+Sequencia inicial 4 -> 519.362
+ITERAÇÃO: 5 - Atraso: 518.368
+
+Sequencia inicial 1 -> 590.315
+Melhor vizinho: 542.199
+
+Sequencia inicial 2 -> 542.199
+Melhor vizinho: 526.301
+
+Sequencia inicial 3 -> 526.301
+Melhor vizinho: 521.193
+
+Sequencia inicial 4 -> 521.193
+Melhor vizinho: 518.368
+
+Sequencia inicial 5 -> 518.368
+ITERAÇÃO: 6 - Atraso: 518.368
+
+Sequencia inicial 1 -> 591.282
+Melhor vizinho: 547.444
+
+Sequencia inicial 2 -> 547.444
+Melhor vizinho: 530.18
+
+Sequencia inicial 3 -> 530.18
+Melhor vizinho: 526.539
+
+Sequencia inicial 4 -> 526.539
+Melhor vizinho: 522.224
+
+Sequencia inicial 5 -> 522.224
+Melhor vizinho: 518.368
+
+Sequencia inicial 6 -> 518.368
+ITERAÇÃO: 7 - Atraso: 518.368
+
+Sequencia inicial 1 -> 585.189
+Melhor vizinho: 561.792
+
+Sequencia inicial 2 -> 561.792
+Melhor vizinho: 541.428
+
+Sequencia inicial 3 -> 541.428
+Melhor vizinho: 532.531
+
+Sequencia inicial 4 -> 532.531
+Melhor vizinho: 523.944
+
+Sequencia inicial 5 -> 523.944
+Melhor vizinho: 521.817
+
+Sequencia inicial 6 -> 521.817
+Melhor vizinho: 521.291
+
+Sequencia inicial 7 -> 521.291
+ITERAÇÃO: 8 - Atraso: 518.368
+
+Sequencia inicial 1 -> 545.763
+Melhor vizinho: 540.49
+
+Sequencia inicial 2 -> 540.49
+Melhor vizinho: 533.64
+
+Sequencia inicial 3 -> 533.64
+Melhor vizinho: 531.038
+
+Sequencia inicial 4 -> 531.038
+Melhor vizinho: 530.806
+
+Sequencia inicial 5 -> 530.806
+Melhor vizinho: 527.333
+
+Sequencia inicial 6 -> 527.333
+Melhor vizinho: 526.213
+
+Sequencia inicial 7 -> 526.213
+ITERAÇÃO: 9 - Atraso: 518.368
+
+Sequencia inicial 1 -> 541.756
+Melhor vizinho: 532.564
+
+Sequencia inicial 2 -> 532.564
+Melhor vizinho: 531.038
+
+Sequencia inicial 3 -> 531.038
+Melhor vizinho: 530.806
+
+Sequencia inicial 4 -> 530.806
+Melhor vizinho: 527.333
+
+Sequencia inicial 5 -> 527.333
+Melhor vizinho: 526.213
+
+Sequencia inicial 6 -> 526.213
+ITERAÇÃO: 10 - Atraso: 518.368
+
+Sequencia inicial 1 -> 603.713
+Melhor vizinho: 541.756
+
+Sequencia inicial 2 -> 541.756
+Melhor vizinho: 532.564
+
+Sequencia inicial 3 -> 532.564
+Melhor vizinho: 531.038
+
+Sequencia inicial 4 -> 531.038
+Melhor vizinho: 530.806
+
+Sequencia inicial 5 -> 530.806
+Melhor vizinho: 527.333
+
+Sequencia inicial 6 -> 527.333
+Melhor vizinho: 526.213
+
+Sequencia inicial 7 -> 526.213
+ITERAÇÃO: 11 - Atraso: 518.368
+
+Sequencia inicial 1 -> 603.713
+Melhor vizinho: 541.756
+
+Sequencia inicial 2 -> 541.756
+Melhor vizinho: 532.564
+
+Sequencia inicial 3 -> 532.564
+Melhor vizinho: 531.038
+
+Sequencia inicial 4 -> 531.038
+Melhor vizinho: 530.806
+
+Sequencia inicial 5 -> 530.806
+Melhor vizinho: 527.333
+
+Sequencia inicial 6 -> 527.333
+Melhor vizinho: 526.213
+
+Sequencia inicial 7 -> 526.213
+ITERAÇÃO: 12 - Atraso: 518.368
+
+Sequencia inicial 1 -> 603.713
+Melhor vizinho: 541.756
+
+Sequencia inicial 2 -> 541.756
+Melhor vizinho: 532.564
+
+Sequencia inicial 3 -> 532.564
+Melhor vizinho: 531.038
+
+Sequencia inicial 4 -> 531.038
+Melhor vizinho: 530.806
+
+Sequencia inicial 5 -> 530.806
+Melhor vizinho: 527.333
+
+Sequencia inicial 6 -> 527.333
+Melhor vizinho: 526.213
+
+Sequencia inicial 7 -> 526.213
+ITERAÇÃO: 13 - Atraso: 518.368
+
+Sequencia inicial 1 -> 603.713
+Melhor vizinho: 541.756
+
+Sequencia inicial 2 -> 541.756
+Melhor vizinho: 532.564
+
+Sequencia inicial 3 -> 532.564
+Melhor vizinho: 531.038
+
+Sequencia inicial 4 -> 531.038
+Melhor vizinho: 530.806
+
+Sequencia inicial 5 -> 530.806
+Melhor vizinho: 527.333
+
+Sequencia inicial 6 -> 527.333
+Melhor vizinho: 526.213
+
+Sequencia inicial 7 -> 526.213
+ITERAÇÃO: 14 - Atraso: 518.368
+
+Sequencia inicial 1 -> 603.713
+Melhor vizinho: 541.756
+
+Sequencia inicial 2 -> 541.756
+Melhor vizinho: 532.564
+
+Sequencia inicial 3 -> 532.564
+Melhor vizinho: 531.038
+
+Sequencia inicial 4 -> 531.038
+Melhor vizinho: 530.806
+
+Sequencia inicial 5 -> 530.806
+Melhor vizinho: 527.333
+
+Sequencia inicial 6 -> 527.333
+Melhor vizinho: 526.213
+
+Sequencia inicial 7 -> 526.213
+ITERAÇÃO: 15 - Atraso: 518.368
+
+Sequencia inicial 1 -> 603.713
+Melhor vizinho: 541.756
+
+Sequencia inicial 2 -> 541.756
+Melhor vizinho: 532.564
+
+Sequencia inicial 3 -> 532.564
+Melhor vizinho: 531.038
+
+Sequencia inicial 4 -> 531.038
+Melhor vizinho: 530.806
+
+Sequencia inicial 5 -> 530.806
+Melhor vizinho: 527.333
+
+Sequencia inicial 6 -> 527.333
+Melhor vizinho: 526.213
+
+Sequencia inicial 7 -> 526.213
+ITERAÇÃO: 16 - Atraso: 518.368
+
+Sequencia inicial 1 -> 606.96
+Melhor vizinho: 542.217
+
+Sequencia inicial 2 -> 542.217
+Melhor vizinho: 532.697
+
+Sequencia inicial 3 -> 532.697
+Melhor vizinho: 531.54
+
+Sequencia inicial 4 -> 531.54
+Melhor vizinho: 527.337
+
+Sequencia inicial 5 -> 527.337
+Melhor vizinho: 524.588
+
+Sequencia inicial 6 -> 524.588
+Melhor vizinho: 522.681
+
+Sequencia inicial 7 -> 522.681
+Melhor vizinho: 520.768
+
+Sequencia inicial 8 -> 520.768
+Melhor vizinho: 518.368
+
+Sequencia inicial 9 -> 518.368
+ITERAÇÃO: 17 - Atraso: 518.368
+
+Sequencia inicial 1 -> 617.825
+Melhor vizinho: 578.494
+
+Sequencia inicial 2 -> 578.494
+Melhor vizinho: 573.604
+
+Sequencia inicial 3 -> 573.604
+Melhor vizinho: 565.853
+
+Sequencia inicial 4 -> 565.853
+Melhor vizinho: 563.767
+
+Sequencia inicial 5 -> 563.767
+Melhor vizinho: 561.719
+
+Sequencia inicial 6 -> 561.719
+ITERAÇÃO: 18 - Atraso: 518.368
+
+Sequencia inicial 1 -> 602.345
+Melhor vizinho: 573.538
+
+Sequencia inicial 2 -> 573.538
+Melhor vizinho: 566.605
+
+Sequencia inicial 3 -> 566.605
+Melhor vizinho: 564.574
+
+Sequencia inicial 4 -> 564.574
+Melhor vizinho: 563.806
+
+Sequencia inicial 5 -> 563.806
+Melhor vizinho: 563.461
+
+Sequencia inicial 6 -> 563.461
+Melhor vizinho: 562.8
+
+Sequencia inicial 7 -> 562.8
+Melhor vizinho: 562.098
+
+Sequencia inicial 8 -> 562.098
+Melhor vizinho: 559.198
+
+Sequencia inicial 9 -> 559.198
+Melhor vizinho: 552.081
+
+Sequencia inicial 10 -> 552.081
+ITERAÇÃO: 19 - Atraso: 518.368
+
+Sequencia inicial 1 -> 600.529
+Melhor vizinho: 573.959
+
+Sequencia inicial 2 -> 573.959
+Melhor vizinho: 562.459
+
+Sequencia inicial 3 -> 562.459
+Melhor vizinho: 560.1
+
+Sequencia inicial 4 -> 560.1
+Melhor vizinho: 557.809
+
+Sequencia inicial 5 -> 557.809
+Melhor vizinho: 551.077
+
+Sequencia inicial 6 -> 551.077
+ITERAÇÃO: 20 - Atraso: 518.368
+
+Sequencia inicial 1 -> 573.959
+Melhor vizinho: 562.459
+
+Sequencia inicial 2 -> 562.459
+Melhor vizinho: 560.1
+
+Sequencia inicial 3 -> 560.1
+Melhor vizinho: 557.809
+
+Sequencia inicial 4 -> 557.809
+Melhor vizinho: 551.077
+
+Sequencia inicial 5 -> 551.077
+Atraso Máximo Iterated Greedy (IG): 518.368
 Sequência de Tarefas - Solução Final IG
-4 8 5 1 10 7 2 9 6 3 
-Tempo: 0.017527 segundos
+10 6 2 5 4 7 8 1 3 9 
+Tempo: 0.016739 segundos

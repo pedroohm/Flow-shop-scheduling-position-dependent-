@@ -1,0 +1,2380 @@
+
+Calculando TP
+TP calculada
+Sequência de Tarefas - Solução Inicial EDD
+270 335 135 28 89 84 95 55 88 94 19 6 134 176 200 190 319 171 34 278 90 276 325 166 96 153 127 302 161 250 310 268 107 33 24 192 125 119 54 329 124 56 151 20 126 247 255 109 207 235 101 37 163 231 97 281 263 139 299 322 330 58 291 25 98 133 172 132 346 68 338 326 86 187 73 140 304 229 103 241 174 4 221 264 7 111 50 214 35 40 106 301 36 48 328 180 249 69 239 269 210 59 311 188 324 284 136 337 15 129 52 149 167 165 240 29 82 170 197 142 44 32 72 292 308 110 66 79 223 228 212 138 181 251 178 288 262 30 9 307 198 61 152 194 137 205 39 85 76 260 155 289 162 333 256 130 64 186 244 258 219 23 287 121 313 2 340 285 195 347 78 350 105 12 203 316 168 272 112 148 303 104 81 3 282 70 164 80 71 243 108 18 209 267 83 245 147 11 114 26 154 216 118 17 159 261 100 295 345 238 184 160 273 117 327 57 16 315 87 102 217 46 297 62 215 331 296 220 234 227 339 49 275 237 224 211 242 294 334 253 173 75 317 183 280 293 144 246 5 191 265 254 175 131 320 236 77 65 10 312 277 185 332 53 232 344 290 93 259 314 283 145 150 47 226 199 182 271 202 248 21 14 141 45 274 286 189 156 99 213 300 321 306 336 146 22 91 348 157 206 8 122 349 60 42 257 43 298 51 67 169 204 1 92 233 305 116 193 341 13 318 74 225 266 143 230 123 120 323 279 208 179 27 177 196 113 128 63 158 38 222 309 201 31 41 343 115 342 252 218 
+Atraso Máximo da solução inicial EDD: 6625
+
+Sequência de Tarefas - Solução Inicial Tempos Medios
+127 96 134 161 73 55 290 292 37 302 33 58 89 167 235 187 164 216 87 30 176 20 270 68 24 192 59 162 212 332 136 139 174 347 293 198 308 284 106 307 202 95 10 217 231 66 135 84 100 69 132 172 163 16 257 214 188 50 72 268 78 125 154 303 261 90 101 310 200 79 281 103 137 151 276 53 251 329 316 190 170 75 97 17 76 117 215 144 71 209 287 148 278 121 64 34 227 204 54 221 57 129 289 273 324 210 328 272 56 41 61 29 118 244 142 301 321 197 319 94 40 130 11 346 5 124 166 153 28 19 242 110 238 250 253 165 152 195 263 99 249 207 258 102 126 331 181 269 63 86 140 168 322 171 337 267 93 157 224 255 185 8 112 299 193 92 201 48 80 335 119 138 341 149 205 183 4 219 265 203 81 107 122 67 123 178 262 350 111 325 280 306 229 247 158 169 286 105 334 133 304 35 49 47 143 98 295 13 38 297 7 252 345 282 236 259 2 91 155 186 88 180 194 326 147 114 160 245 131 6 77 182 223 104 62 220 254 288 159 82 70 300 146 44 109 211 51 241 189 120 25 237 313 9 344 309 18 184 196 339 333 239 233 46 3 283 311 232 12 173 116 317 234 264 52 274 248 115 74 260 296 179 26 266 128 279 39 323 175 315 208 83 45 285 156 15 141 191 150 225 246 256 31 199 222 243 43 240 36 298 228 32 230 85 312 330 314 60 291 213 218 275 338 65 340 145 343 21 27 113 42 177 342 305 108 22 277 226 320 349 336 294 206 14 1 23 348 318 327 271 
+Atraso Máximo da solução inicial Tempos Medios: 8436
+
+Sequencia inicial 1 -> 8436
+Melhor vizinho: 8272
+
+Sequencia inicial 2 -> 8272
+Melhor vizinho: 8122
+
+Sequencia inicial 3 -> 8122
+Melhor vizinho: 8056
+
+Sequencia inicial 4 -> 8056
+Melhor vizinho: 7995
+
+Sequencia inicial 5 -> 7995
+Melhor vizinho: 7931
+
+Sequencia inicial 6 -> 7931
+Melhor vizinho: 7877
+
+Sequencia inicial 7 -> 7877
+Melhor vizinho: 7829
+
+Sequencia inicial 8 -> 7829
+Melhor vizinho: 7779
+
+Sequencia inicial 9 -> 7779
+Melhor vizinho: 7739
+
+Sequencia inicial 10 -> 7739
+Melhor vizinho: 7717
+
+Sequencia inicial 11 -> 7717
+Melhor vizinho: 7687
+
+Sequencia inicial 12 -> 7687
+Melhor vizinho: 7664
+
+Sequencia inicial 13 -> 7664
+Melhor vizinho: 7612
+
+Sequencia inicial 14 -> 7612
+Melhor vizinho: 7590
+
+Sequencia inicial 15 -> 7590
+Melhor vizinho: 7563
+
+Sequencia inicial 16 -> 7563
+Melhor vizinho: 7552
+
+Sequencia inicial 17 -> 7552
+Melhor vizinho: 7535
+
+Sequencia inicial 18 -> 7535
+Melhor vizinho: 7507
+
+Sequencia inicial 19 -> 7507
+Melhor vizinho: 7483
+
+Sequencia inicial 20 -> 7483
+Melhor vizinho: 7458
+
+Sequencia inicial 21 -> 7458
+Melhor vizinho: 7446
+
+Sequencia inicial 22 -> 7446
+Melhor vizinho: 7433
+
+Sequencia inicial 23 -> 7433
+Melhor vizinho: 7414
+
+Sequencia inicial 24 -> 7414
+Melhor vizinho: 7404
+
+Sequencia inicial 25 -> 7404
+Melhor vizinho: 7375
+
+Sequencia inicial 26 -> 7375
+Melhor vizinho: 7365
+
+Sequencia inicial 27 -> 7365
+Melhor vizinho: 7343
+
+Sequencia inicial 28 -> 7343
+Melhor vizinho: 7315
+
+Sequencia inicial 29 -> 7315
+Melhor vizinho: 7274
+
+Sequencia inicial 30 -> 7274
+Melhor vizinho: 7255
+
+Sequencia inicial 31 -> 7255
+Melhor vizinho: 7237
+
+Sequencia inicial 32 -> 7237
+Melhor vizinho: 7222
+
+Sequencia inicial 33 -> 7222
+Melhor vizinho: 7191
+
+Sequencia inicial 34 -> 7191
+Melhor vizinho: 7175
+
+Sequencia inicial 35 -> 7175
+Melhor vizinho: 7160
+
+Sequencia inicial 36 -> 7160
+Melhor vizinho: 7146
+
+Sequencia inicial 37 -> 7146
+Melhor vizinho: 7121
+
+Sequencia inicial 38 -> 7121
+Melhor vizinho: 7105
+
+Sequencia inicial 39 -> 7105
+Melhor vizinho: 7089
+
+Sequencia inicial 40 -> 7089
+Melhor vizinho: 7076
+
+Sequencia inicial 41 -> 7076
+Melhor vizinho: 7060
+
+Sequencia inicial 42 -> 7060
+Melhor vizinho: 7045
+
+Sequencia inicial 43 -> 7045
+Melhor vizinho: 7034
+
+Sequencia inicial 44 -> 7034
+Melhor vizinho: 7031
+
+Sequencia inicial 45 -> 7031
+Melhor vizinho: 7009
+
+Sequencia inicial 46 -> 7009
+Melhor vizinho: 6973
+
+Sequencia inicial 47 -> 6973
+Melhor vizinho: 6959
+
+Sequencia inicial 48 -> 6959
+Melhor vizinho: 6949
+
+Sequencia inicial 49 -> 6949
+Melhor vizinho: 6944
+
+Sequencia inicial 50 -> 6944
+Melhor vizinho: 6939
+
+Sequencia inicial 51 -> 6939
+Melhor vizinho: 6926
+
+Sequencia inicial 52 -> 6926
+Melhor vizinho: 6915
+
+Sequencia inicial 53 -> 6915
+Melhor vizinho: 6889
+
+Sequencia inicial 54 -> 6889
+Melhor vizinho: 6870
+
+Sequencia inicial 55 -> 6870
+Melhor vizinho: 6865
+
+Sequencia inicial 56 -> 6865
+Melhor vizinho: 6852
+
+Sequencia inicial 57 -> 6852
+Melhor vizinho: 6848
+
+Sequencia inicial 58 -> 6848
+Melhor vizinho: 6840
+
+Sequencia inicial 59 -> 6840
+Melhor vizinho: 6822
+
+Sequencia inicial 60 -> 6822
+Melhor vizinho: 6808
+
+Sequencia inicial 61 -> 6808
+Melhor vizinho: 6805
+
+Sequencia inicial 62 -> 6805
+Melhor vizinho: 6791
+
+Sequencia inicial 63 -> 6791
+Melhor vizinho: 6786
+
+Sequencia inicial 64 -> 6786
+Melhor vizinho: 6770
+
+Sequencia inicial 65 -> 6770
+Melhor vizinho: 6738
+
+Sequencia inicial 66 -> 6738
+Melhor vizinho: 6720
+
+Sequencia inicial 67 -> 6720
+Melhor vizinho: 6703
+
+Sequencia inicial 68 -> 6703
+Melhor vizinho: 6694
+
+Sequencia inicial 69 -> 6694
+Melhor vizinho: 6678
+
+Sequencia inicial 70 -> 6678
+Melhor vizinho: 6660
+
+Sequencia inicial 71 -> 6660
+Melhor vizinho: 6656
+
+Sequencia inicial 72 -> 6656
+Melhor vizinho: 6651
+
+Sequencia inicial 73 -> 6651
+Melhor vizinho: 6640
+
+Sequencia inicial 74 -> 6640
+Melhor vizinho: 6637
+
+Sequencia inicial 75 -> 6637
+Melhor vizinho: 6623
+
+Sequencia inicial 76 -> 6623
+Melhor vizinho: 6613
+
+Sequencia inicial 77 -> 6613
+Melhor vizinho: 6587
+
+Sequencia inicial 78 -> 6587
+Melhor vizinho: 6584
+
+Sequencia inicial 79 -> 6584
+Melhor vizinho: 6568
+
+Sequencia inicial 80 -> 6568
+Melhor vizinho: 6565
+
+Sequencia inicial 81 -> 6565
+Melhor vizinho: 6547
+
+Sequencia inicial 82 -> 6547
+Melhor vizinho: 6537
+
+Sequencia inicial 83 -> 6537
+Melhor vizinho: 6530
+
+Sequencia inicial 84 -> 6530
+Melhor vizinho: 6507
+
+Sequencia inicial 85 -> 6507
+Melhor vizinho: 6493
+
+Sequencia inicial 86 -> 6493
+Melhor vizinho: 6482
+
+Sequencia inicial 87 -> 6482
+Melhor vizinho: 6475
+
+Sequencia inicial 88 -> 6475
+Melhor vizinho: 6472
+
+Sequencia inicial 89 -> 6472
+Melhor vizinho: 6468
+
+Sequencia inicial 90 -> 6468
+Melhor vizinho: 6466
+
+Sequencia inicial 91 -> 6466
+Melhor vizinho: 6464
+
+Sequencia inicial 92 -> 6464
+ITERAÇÃO: 1 - Atraso: 6464
+
+Sequencia inicial 1 -> 6224
+Melhor vizinho: 6209
+
+Sequencia inicial 2 -> 6209
+Melhor vizinho: 6198
+
+Sequencia inicial 3 -> 6198
+Melhor vizinho: 6173
+
+Sequencia inicial 4 -> 6173
+Melhor vizinho: 6155
+
+Sequencia inicial 5 -> 6155
+Melhor vizinho: 6136
+
+Sequencia inicial 6 -> 6136
+Melhor vizinho: 6122
+
+Sequencia inicial 7 -> 6122
+Melhor vizinho: 6102
+
+Sequencia inicial 8 -> 6102
+Melhor vizinho: 6086
+
+Sequencia inicial 9 -> 6086
+Melhor vizinho: 6069
+
+Sequencia inicial 10 -> 6069
+Melhor vizinho: 6056
+
+Sequencia inicial 11 -> 6056
+Melhor vizinho: 6048
+
+Sequencia inicial 12 -> 6048
+Melhor vizinho: 6029
+
+Sequencia inicial 13 -> 6029
+Melhor vizinho: 6022
+
+Sequencia inicial 14 -> 6022
+Melhor vizinho: 6017
+
+Sequencia inicial 15 -> 6017
+Melhor vizinho: 6011
+
+Sequencia inicial 16 -> 6011
+Melhor vizinho: 5993
+
+Sequencia inicial 17 -> 5993
+Melhor vizinho: 5990
+
+Sequencia inicial 18 -> 5990
+Melhor vizinho: 5974
+
+Sequencia inicial 19 -> 5974
+Melhor vizinho: 5971
+
+Sequencia inicial 20 -> 5971
+Melhor vizinho: 5967
+
+Sequencia inicial 21 -> 5967
+Melhor vizinho: 5964
+
+Sequencia inicial 22 -> 5964
+Melhor vizinho: 5957
+
+Sequencia inicial 23 -> 5957
+Melhor vizinho: 5952
+
+Sequencia inicial 24 -> 5952
+Melhor vizinho: 5941
+
+Sequencia inicial 25 -> 5941
+Melhor vizinho: 5929
+
+Sequencia inicial 26 -> 5929
+Melhor vizinho: 5914
+
+Sequencia inicial 27 -> 5914
+Melhor vizinho: 5905
+
+Sequencia inicial 28 -> 5905
+Melhor vizinho: 5897
+
+Sequencia inicial 29 -> 5897
+Melhor vizinho: 5875
+
+Sequencia inicial 30 -> 5875
+Melhor vizinho: 5860
+
+Sequencia inicial 31 -> 5860
+Melhor vizinho: 5850
+
+Sequencia inicial 32 -> 5850
+Melhor vizinho: 5840
+
+Sequencia inicial 33 -> 5840
+Melhor vizinho: 5816
+
+Sequencia inicial 34 -> 5816
+Melhor vizinho: 5804
+
+Sequencia inicial 35 -> 5804
+Melhor vizinho: 5797
+
+Sequencia inicial 36 -> 5797
+Melhor vizinho: 5780
+
+Sequencia inicial 37 -> 5780
+Melhor vizinho: 5772
+
+Sequencia inicial 38 -> 5772
+Melhor vizinho: 5768
+
+Sequencia inicial 39 -> 5768
+Melhor vizinho: 5766
+
+Sequencia inicial 40 -> 5766
+Melhor vizinho: 5765
+
+Sequencia inicial 41 -> 5765
+Melhor vizinho: 5753
+
+Sequencia inicial 42 -> 5753
+Melhor vizinho: 5749
+
+Sequencia inicial 43 -> 5749
+Melhor vizinho: 5747
+
+Sequencia inicial 44 -> 5747
+Melhor vizinho: 5744
+
+Sequencia inicial 45 -> 5744
+Melhor vizinho: 5737
+
+Sequencia inicial 46 -> 5737
+Melhor vizinho: 5733
+
+Sequencia inicial 47 -> 5733
+Melhor vizinho: 5728
+
+Sequencia inicial 48 -> 5728
+Melhor vizinho: 5725
+
+Sequencia inicial 49 -> 5725
+Melhor vizinho: 5721
+
+Sequencia inicial 50 -> 5721
+Melhor vizinho: 5715
+
+Sequencia inicial 51 -> 5715
+Melhor vizinho: 5714
+
+Sequencia inicial 52 -> 5714
+ITERAÇÃO: 1 - Atraso: 5714
+
+Sequencia inicial 1 -> 5620
+Melhor vizinho: 5581
+
+Sequencia inicial 2 -> 5581
+Melhor vizinho: 5547
+
+Sequencia inicial 3 -> 5547
+Melhor vizinho: 5526
+
+Sequencia inicial 4 -> 5526
+Melhor vizinho: 5501
+
+Sequencia inicial 5 -> 5501
+Melhor vizinho: 5480
+
+Sequencia inicial 6 -> 5480
+Melhor vizinho: 5474
+
+Sequencia inicial 7 -> 5474
+Melhor vizinho: 5465
+
+Sequencia inicial 8 -> 5465
+Melhor vizinho: 5461
+
+Sequencia inicial 9 -> 5461
+Melhor vizinho: 5455
+
+Sequencia inicial 10 -> 5455
+Melhor vizinho: 5449
+
+Sequencia inicial 11 -> 5449
+Melhor vizinho: 5444
+
+Sequencia inicial 12 -> 5444
+Melhor vizinho: 5427
+
+Sequencia inicial 13 -> 5427
+Melhor vizinho: 5421
+
+Sequencia inicial 14 -> 5421
+Melhor vizinho: 5413
+
+Sequencia inicial 15 -> 5413
+Melhor vizinho: 5406
+
+Sequencia inicial 16 -> 5406
+Melhor vizinho: 5399
+
+Sequencia inicial 17 -> 5399
+Melhor vizinho: 5389
+
+Sequencia inicial 18 -> 5389
+Melhor vizinho: 5385
+
+Sequencia inicial 19 -> 5385
+Melhor vizinho: 5373
+
+Sequencia inicial 20 -> 5373
+Melhor vizinho: 5364
+
+Sequencia inicial 21 -> 5364
+Melhor vizinho: 5361
+
+Sequencia inicial 22 -> 5361
+Melhor vizinho: 5359
+
+Sequencia inicial 23 -> 5359
+ITERAÇÃO: 1 - Atraso: 5359
+
+Sequencia inicial 1 -> 5196
+Melhor vizinho: 5155
+
+Sequencia inicial 2 -> 5155
+Melhor vizinho: 5129
+
+Sequencia inicial 3 -> 5129
+Melhor vizinho: 5111
+
+Sequencia inicial 4 -> 5111
+Melhor vizinho: 5103
+
+Sequencia inicial 5 -> 5103
+Melhor vizinho: 5092
+
+Sequencia inicial 6 -> 5092
+Melhor vizinho: 5089
+
+Sequencia inicial 7 -> 5089
+Melhor vizinho: 5079
+
+Sequencia inicial 8 -> 5079
+Melhor vizinho: 5076
+
+Sequencia inicial 9 -> 5076
+Melhor vizinho: 5065
+
+Sequencia inicial 10 -> 5065
+Melhor vizinho: 5052
+
+Sequencia inicial 11 -> 5052
+Melhor vizinho: 5044
+
+Sequencia inicial 12 -> 5044
+Melhor vizinho: 5036
+
+Sequencia inicial 13 -> 5036
+Melhor vizinho: 5032
+
+Sequencia inicial 14 -> 5032
+Melhor vizinho: 5025
+
+Sequencia inicial 15 -> 5025
+Melhor vizinho: 5018
+
+Sequencia inicial 16 -> 5018
+Melhor vizinho: 5010
+
+Sequencia inicial 17 -> 5010
+Melhor vizinho: 5002
+
+Sequencia inicial 18 -> 5002
+Melhor vizinho: 4997
+
+Sequencia inicial 19 -> 4997
+Melhor vizinho: 4990
+
+Sequencia inicial 20 -> 4990
+Melhor vizinho: 4988
+
+Sequencia inicial 21 -> 4988
+Melhor vizinho: 4983
+
+Sequencia inicial 22 -> 4983
+Melhor vizinho: 4978
+
+Sequencia inicial 23 -> 4978
+Melhor vizinho: 4970
+
+Sequencia inicial 24 -> 4970
+Melhor vizinho: 4968
+
+Sequencia inicial 25 -> 4968
+Melhor vizinho: 4967
+
+Sequencia inicial 26 -> 4967
+Melhor vizinho: 4964
+
+Sequencia inicial 27 -> 4964
+Melhor vizinho: 4962
+
+Sequencia inicial 28 -> 4962
+Melhor vizinho: 4960
+
+Sequencia inicial 29 -> 4960
+Melhor vizinho: 4941
+
+Sequencia inicial 30 -> 4941
+Melhor vizinho: 4937
+
+Sequencia inicial 31 -> 4937
+Melhor vizinho: 4928
+
+Sequencia inicial 32 -> 4928
+Melhor vizinho: 4919
+
+Sequencia inicial 33 -> 4919
+Melhor vizinho: 4917
+
+Sequencia inicial 34 -> 4917
+Melhor vizinho: 4911
+
+Sequencia inicial 35 -> 4911
+Melhor vizinho: 4902
+
+Sequencia inicial 36 -> 4902
+Melhor vizinho: 4899
+
+Sequencia inicial 37 -> 4899
+Melhor vizinho: 4894
+
+Sequencia inicial 38 -> 4894
+Melhor vizinho: 4891
+
+Sequencia inicial 39 -> 4891
+Melhor vizinho: 4887
+
+Sequencia inicial 40 -> 4887
+Melhor vizinho: 4882
+
+Sequencia inicial 41 -> 4882
+Melhor vizinho: 4880
+
+Sequencia inicial 42 -> 4880
+Melhor vizinho: 4876
+
+Sequencia inicial 43 -> 4876
+Melhor vizinho: 4874
+
+Sequencia inicial 44 -> 4874
+Melhor vizinho: 4871
+
+Sequencia inicial 45 -> 4871
+Melhor vizinho: 4867
+
+Sequencia inicial 46 -> 4867
+Melhor vizinho: 4859
+
+Sequencia inicial 47 -> 4859
+Melhor vizinho: 4854
+
+Sequencia inicial 48 -> 4854
+Melhor vizinho: 4850
+
+Sequencia inicial 49 -> 4850
+ITERAÇÃO: 1 - Atraso: 4850
+
+Sequencia inicial 1 -> 4863
+Melhor vizinho: 4851
+
+Sequencia inicial 2 -> 4851
+Melhor vizinho: 4837
+
+Sequencia inicial 3 -> 4837
+Melhor vizinho: 4829
+
+Sequencia inicial 4 -> 4829
+Melhor vizinho: 4823
+
+Sequencia inicial 5 -> 4823
+Melhor vizinho: 4819
+
+Sequencia inicial 6 -> 4819
+Melhor vizinho: 4816
+
+Sequencia inicial 7 -> 4816
+Melhor vizinho: 4803
+
+Sequencia inicial 8 -> 4803
+Melhor vizinho: 4793
+
+Sequencia inicial 9 -> 4793
+Melhor vizinho: 4791
+
+Sequencia inicial 10 -> 4791
+Melhor vizinho: 4783
+
+Sequencia inicial 11 -> 4783
+Melhor vizinho: 4776
+
+Sequencia inicial 12 -> 4776
+Melhor vizinho: 4774
+
+Sequencia inicial 13 -> 4774
+Melhor vizinho: 4772
+
+Sequencia inicial 14 -> 4772
+Melhor vizinho: 4768
+
+Sequencia inicial 15 -> 4768
+Melhor vizinho: 4760
+
+Sequencia inicial 16 -> 4760
+Melhor vizinho: 4753
+
+Sequencia inicial 17 -> 4753
+Melhor vizinho: 4748
+
+Sequencia inicial 18 -> 4748
+Melhor vizinho: 4743
+
+Sequencia inicial 19 -> 4743
+Melhor vizinho: 4738
+
+Sequencia inicial 20 -> 4738
+Melhor vizinho: 4729
+
+Sequencia inicial 21 -> 4729
+Melhor vizinho: 4726
+
+Sequencia inicial 22 -> 4726
+Melhor vizinho: 4706
+
+Sequencia inicial 23 -> 4706
+Melhor vizinho: 4703
+
+Sequencia inicial 24 -> 4703
+Melhor vizinho: 4701
+
+Sequencia inicial 25 -> 4701
+Melhor vizinho: 4693
+
+Sequencia inicial 26 -> 4693
+ITERAÇÃO: 1 - Atraso: 4693
+
+Sequencia inicial 1 -> 4846
+Melhor vizinho: 4821
+
+Sequencia inicial 2 -> 4821
+Melhor vizinho: 4807
+
+Sequencia inicial 3 -> 4807
+Melhor vizinho: 4788
+
+Sequencia inicial 4 -> 4788
+Melhor vizinho: 4785
+
+Sequencia inicial 5 -> 4785
+Melhor vizinho: 4772
+
+Sequencia inicial 6 -> 4772
+Melhor vizinho: 4771
+
+Sequencia inicial 7 -> 4771
+Melhor vizinho: 4765
+
+Sequencia inicial 8 -> 4765
+Melhor vizinho: 4759
+
+Sequencia inicial 9 -> 4759
+Melhor vizinho: 4748
+
+Sequencia inicial 10 -> 4748
+Melhor vizinho: 4742
+
+Sequencia inicial 11 -> 4742
+Melhor vizinho: 4728
+
+Sequencia inicial 12 -> 4728
+Melhor vizinho: 4722
+
+Sequencia inicial 13 -> 4722
+Melhor vizinho: 4719
+
+Sequencia inicial 14 -> 4719
+Melhor vizinho: 4707
+
+Sequencia inicial 15 -> 4707
+Melhor vizinho: 4696
+
+Sequencia inicial 16 -> 4696
+Melhor vizinho: 4687
+
+Sequencia inicial 17 -> 4687
+Melhor vizinho: 4683
+
+Sequencia inicial 18 -> 4683
+Melhor vizinho: 4673
+
+Sequencia inicial 19 -> 4673
+Melhor vizinho: 4667
+
+Sequencia inicial 20 -> 4667
+Melhor vizinho: 4657
+
+Sequencia inicial 21 -> 4657
+Melhor vizinho: 4651
+
+Sequencia inicial 22 -> 4651
+Melhor vizinho: 4647
+
+Sequencia inicial 23 -> 4647
+Melhor vizinho: 4641
+
+Sequencia inicial 24 -> 4641
+Melhor vizinho: 4630
+
+Sequencia inicial 25 -> 4630
+Melhor vizinho: 4629
+
+Sequencia inicial 26 -> 4629
+Melhor vizinho: 4621
+
+Sequencia inicial 27 -> 4621
+ITERAÇÃO: 1 - Atraso: 4621
+
+Sequencia inicial 1 -> 4647
+Melhor vizinho: 4635
+
+Sequencia inicial 2 -> 4635
+Melhor vizinho: 4627
+
+Sequencia inicial 3 -> 4627
+Melhor vizinho: 4605
+
+Sequencia inicial 4 -> 4605
+Melhor vizinho: 4599
+
+Sequencia inicial 5 -> 4599
+Melhor vizinho: 4582
+
+Sequencia inicial 6 -> 4582
+Melhor vizinho: 4549
+
+Sequencia inicial 7 -> 4549
+Melhor vizinho: 4535
+
+Sequencia inicial 8 -> 4535
+Melhor vizinho: 4521
+
+Sequencia inicial 9 -> 4521
+Melhor vizinho: 4515
+
+Sequencia inicial 10 -> 4515
+Melhor vizinho: 4508
+
+Sequencia inicial 11 -> 4508
+Melhor vizinho: 4506
+
+Sequencia inicial 12 -> 4506
+Melhor vizinho: 4492
+
+Sequencia inicial 13 -> 4492
+Melhor vizinho: 4488
+
+Sequencia inicial 14 -> 4488
+Melhor vizinho: 4484
+
+Sequencia inicial 15 -> 4484
+Melhor vizinho: 4481
+
+Sequencia inicial 16 -> 4481
+Melhor vizinho: 4474
+
+Sequencia inicial 17 -> 4474
+Melhor vizinho: 4470
+
+Sequencia inicial 18 -> 4470
+Melhor vizinho: 4466
+
+Sequencia inicial 19 -> 4466
+Melhor vizinho: 4460
+
+Sequencia inicial 20 -> 4460
+Melhor vizinho: 4456
+
+Sequencia inicial 21 -> 4456
+Melhor vizinho: 4448
+
+Sequencia inicial 22 -> 4448
+Melhor vizinho: 4438
+
+Sequencia inicial 23 -> 4438
+Melhor vizinho: 4428
+
+Sequencia inicial 24 -> 4428
+ITERAÇÃO: 1 - Atraso: 4428
+
+Sequencia inicial 1 -> 4524
+Melhor vizinho: 4509
+
+Sequencia inicial 2 -> 4509
+Melhor vizinho: 4501
+
+Sequencia inicial 3 -> 4501
+Melhor vizinho: 4493
+
+Sequencia inicial 4 -> 4493
+Melhor vizinho: 4485
+
+Sequencia inicial 5 -> 4485
+Melhor vizinho: 4484
+
+Sequencia inicial 6 -> 4484
+Melhor vizinho: 4463
+
+Sequencia inicial 7 -> 4463
+Melhor vizinho: 4461
+
+Sequencia inicial 8 -> 4461
+Melhor vizinho: 4459
+
+Sequencia inicial 9 -> 4459
+Melhor vizinho: 4456
+
+Sequencia inicial 10 -> 4456
+Melhor vizinho: 4447
+
+Sequencia inicial 11 -> 4447
+Melhor vizinho: 4446
+
+Sequencia inicial 12 -> 4446
+Melhor vizinho: 4445
+
+Sequencia inicial 13 -> 4445
+Melhor vizinho: 4444
+
+Sequencia inicial 14 -> 4444
+Melhor vizinho: 4439
+
+Sequencia inicial 15 -> 4439
+Melhor vizinho: 4436
+
+Sequencia inicial 16 -> 4436
+ITERAÇÃO: 2 - Atraso: 4428
+
+Sequencia inicial 1 -> 4588
+Melhor vizinho: 4583
+
+Sequencia inicial 2 -> 4583
+Melhor vizinho: 4574
+
+Sequencia inicial 3 -> 4574
+Melhor vizinho: 4558
+
+Sequencia inicial 4 -> 4558
+Melhor vizinho: 4551
+
+Sequencia inicial 5 -> 4551
+Melhor vizinho: 4539
+
+Sequencia inicial 6 -> 4539
+Melhor vizinho: 4538
+
+Sequencia inicial 7 -> 4538
+Melhor vizinho: 4530
+
+Sequencia inicial 8 -> 4530
+Melhor vizinho: 4525
+
+Sequencia inicial 9 -> 4525
+Melhor vizinho: 4519
+
+Sequencia inicial 10 -> 4519
+Melhor vizinho: 4506
+
+Sequencia inicial 11 -> 4506
+Melhor vizinho: 4498
+
+Sequencia inicial 12 -> 4498
+Melhor vizinho: 4489
+
+Sequencia inicial 13 -> 4489
+Melhor vizinho: 4485
+
+Sequencia inicial 14 -> 4485
+Melhor vizinho: 4482
+
+Sequencia inicial 15 -> 4482
+Melhor vizinho: 4476
+
+Sequencia inicial 16 -> 4476
+Melhor vizinho: 4472
+
+Sequencia inicial 17 -> 4472
+Melhor vizinho: 4465
+
+Sequencia inicial 18 -> 4465
+Melhor vizinho: 4461
+
+Sequencia inicial 19 -> 4461
+Melhor vizinho: 4459
+
+Sequencia inicial 20 -> 4459
+Melhor vizinho: 4443
+
+Sequencia inicial 21 -> 4443
+Melhor vizinho: 4433
+
+Sequencia inicial 22 -> 4433
+Melhor vizinho: 4427
+
+Sequencia inicial 23 -> 4427
+Melhor vizinho: 4419
+
+Sequencia inicial 24 -> 4419
+Melhor vizinho: 4412
+
+Sequencia inicial 25 -> 4412
+Melhor vizinho: 4408
+
+Sequencia inicial 26 -> 4408
+Melhor vizinho: 4403
+
+Sequencia inicial 27 -> 4403
+Melhor vizinho: 4396
+
+Sequencia inicial 28 -> 4396
+Melhor vizinho: 4390
+
+Sequencia inicial 29 -> 4390
+Melhor vizinho: 4388
+
+Sequencia inicial 30 -> 4388
+Melhor vizinho: 4382
+
+Sequencia inicial 31 -> 4382
+Melhor vizinho: 4378
+
+Sequencia inicial 32 -> 4378
+Melhor vizinho: 4374
+
+Sequencia inicial 33 -> 4374
+Melhor vizinho: 4371
+
+Sequencia inicial 34 -> 4371
+Melhor vizinho: 4368
+
+Sequencia inicial 35 -> 4368
+Melhor vizinho: 4366
+
+Sequencia inicial 36 -> 4366
+Melhor vizinho: 4364
+
+Sequencia inicial 37 -> 4364
+ITERAÇÃO: 1 - Atraso: 4364
+
+Sequencia inicial 1 -> 4434
+Melhor vizinho: 4409
+
+Sequencia inicial 2 -> 4409
+Melhor vizinho: 4389
+
+Sequencia inicial 3 -> 4389
+Melhor vizinho: 4385
+
+Sequencia inicial 4 -> 4385
+Melhor vizinho: 4380
+
+Sequencia inicial 5 -> 4380
+Melhor vizinho: 4375
+
+Sequencia inicial 6 -> 4375
+Melhor vizinho: 4369
+
+Sequencia inicial 7 -> 4369
+Melhor vizinho: 4358
+
+Sequencia inicial 8 -> 4358
+Melhor vizinho: 4355
+
+Sequencia inicial 9 -> 4355
+Melhor vizinho: 4351
+
+Sequencia inicial 10 -> 4351
+Melhor vizinho: 4350
+
+Sequencia inicial 11 -> 4350
+Melhor vizinho: 4346
+
+Sequencia inicial 12 -> 4346
+Melhor vizinho: 4342
+
+Sequencia inicial 13 -> 4342
+ITERAÇÃO: 1 - Atraso: 4342
+
+Sequencia inicial 1 -> 4540
+Melhor vizinho: 4521
+
+Sequencia inicial 2 -> 4521
+Melhor vizinho: 4507
+
+Sequencia inicial 3 -> 4507
+Melhor vizinho: 4495
+
+Sequencia inicial 4 -> 4495
+Melhor vizinho: 4491
+
+Sequencia inicial 5 -> 4491
+Melhor vizinho: 4483
+
+Sequencia inicial 6 -> 4483
+Melhor vizinho: 4475
+
+Sequencia inicial 7 -> 4475
+Melhor vizinho: 4459
+
+Sequencia inicial 8 -> 4459
+Melhor vizinho: 4457
+
+Sequencia inicial 9 -> 4457
+Melhor vizinho: 4450
+
+Sequencia inicial 10 -> 4450
+Melhor vizinho: 4439
+
+Sequencia inicial 11 -> 4439
+Melhor vizinho: 4438
+
+Sequencia inicial 12 -> 4438
+Melhor vizinho: 4437
+
+Sequencia inicial 13 -> 4437
+Melhor vizinho: 4433
+
+Sequencia inicial 14 -> 4433
+Melhor vizinho: 4431
+
+Sequencia inicial 15 -> 4431
+Melhor vizinho: 4424
+
+Sequencia inicial 16 -> 4424
+Melhor vizinho: 4422
+
+Sequencia inicial 17 -> 4422
+Melhor vizinho: 4419
+
+Sequencia inicial 18 -> 4419
+Melhor vizinho: 4413
+
+Sequencia inicial 19 -> 4413
+Melhor vizinho: 4410
+
+Sequencia inicial 20 -> 4410
+Melhor vizinho: 4407
+
+Sequencia inicial 21 -> 4407
+Melhor vizinho: 4406
+
+Sequencia inicial 22 -> 4406
+Melhor vizinho: 4402
+
+Sequencia inicial 23 -> 4402
+Melhor vizinho: 4397
+
+Sequencia inicial 24 -> 4397
+Melhor vizinho: 4394
+
+Sequencia inicial 25 -> 4394
+Melhor vizinho: 4390
+
+Sequencia inicial 26 -> 4390
+Melhor vizinho: 4387
+
+Sequencia inicial 27 -> 4387
+Melhor vizinho: 4384
+
+Sequencia inicial 28 -> 4384
+Melhor vizinho: 4382
+
+Sequencia inicial 29 -> 4382
+Melhor vizinho: 4376
+
+Sequencia inicial 30 -> 4376
+Melhor vizinho: 4373
+
+Sequencia inicial 31 -> 4373
+Melhor vizinho: 4372
+
+Sequencia inicial 32 -> 4372
+Melhor vizinho: 4371
+
+Sequencia inicial 33 -> 4371
+Melhor vizinho: 4370
+
+Sequencia inicial 34 -> 4370
+Melhor vizinho: 4365
+
+Sequencia inicial 35 -> 4365
+ITERAÇÃO: 2 - Atraso: 4342
+
+Sequencia inicial 1 -> 4556
+Melhor vizinho: 4545
+
+Sequencia inicial 2 -> 4545
+Melhor vizinho: 4538
+
+Sequencia inicial 3 -> 4538
+Melhor vizinho: 4530
+
+Sequencia inicial 4 -> 4530
+Melhor vizinho: 4522
+
+Sequencia inicial 5 -> 4522
+Melhor vizinho: 4517
+
+Sequencia inicial 6 -> 4517
+Melhor vizinho: 4511
+
+Sequencia inicial 7 -> 4511
+Melhor vizinho: 4507
+
+Sequencia inicial 8 -> 4507
+Melhor vizinho: 4499
+
+Sequencia inicial 9 -> 4499
+Melhor vizinho: 4498
+
+Sequencia inicial 10 -> 4498
+Melhor vizinho: 4495
+
+Sequencia inicial 11 -> 4495
+Melhor vizinho: 4488
+
+Sequencia inicial 12 -> 4488
+Melhor vizinho: 4479
+
+Sequencia inicial 13 -> 4479
+Melhor vizinho: 4478
+
+Sequencia inicial 14 -> 4478
+Melhor vizinho: 4475
+
+Sequencia inicial 15 -> 4475
+Melhor vizinho: 4473
+
+Sequencia inicial 16 -> 4473
+Melhor vizinho: 4472
+
+Sequencia inicial 17 -> 4472
+Melhor vizinho: 4468
+
+Sequencia inicial 18 -> 4468
+Melhor vizinho: 4467
+
+Sequencia inicial 19 -> 4467
+ITERAÇÃO: 3 - Atraso: 4342
+
+Sequencia inicial 1 -> 4609
+Melhor vizinho: 4592
+
+Sequencia inicial 2 -> 4592
+Melhor vizinho: 4582
+
+Sequencia inicial 3 -> 4582
+Melhor vizinho: 4569
+
+Sequencia inicial 4 -> 4569
+Melhor vizinho: 4554
+
+Sequencia inicial 5 -> 4554
+Melhor vizinho: 4547
+
+Sequencia inicial 6 -> 4547
+Melhor vizinho: 4541
+
+Sequencia inicial 7 -> 4541
+Melhor vizinho: 4536
+
+Sequencia inicial 8 -> 4536
+Melhor vizinho: 4524
+
+Sequencia inicial 9 -> 4524
+Melhor vizinho: 4513
+
+Sequencia inicial 10 -> 4513
+Melhor vizinho: 4508
+
+Sequencia inicial 11 -> 4508
+Melhor vizinho: 4499
+
+Sequencia inicial 12 -> 4499
+Melhor vizinho: 4493
+
+Sequencia inicial 13 -> 4493
+ITERAÇÃO: 4 - Atraso: 4342
+
+Sequencia inicial 1 -> 4642
+Melhor vizinho: 4624
+
+Sequencia inicial 2 -> 4624
+ITERAÇÃO: 5 - Atraso: 4342
+
+Sequencia inicial 1 -> 4635
+Melhor vizinho: 4623
+
+Sequencia inicial 2 -> 4623
+Melhor vizinho: 4611
+
+Sequencia inicial 3 -> 4611
+Melhor vizinho: 4605
+
+Sequencia inicial 4 -> 4605
+Melhor vizinho: 4595
+
+Sequencia inicial 5 -> 4595
+Melhor vizinho: 4588
+
+Sequencia inicial 6 -> 4588
+Melhor vizinho: 4566
+
+Sequencia inicial 7 -> 4566
+Melhor vizinho: 4559
+
+Sequencia inicial 8 -> 4559
+Melhor vizinho: 4556
+
+Sequencia inicial 9 -> 4556
+Melhor vizinho: 4533
+
+Sequencia inicial 10 -> 4533
+ITERAÇÃO: 6 - Atraso: 4342
+
+Sequencia inicial 1 -> 4643
+Melhor vizinho: 4615
+
+Sequencia inicial 2 -> 4615
+Melhor vizinho: 4597
+
+Sequencia inicial 3 -> 4597
+Melhor vizinho: 4592
+
+Sequencia inicial 4 -> 4592
+Melhor vizinho: 4574
+
+Sequencia inicial 5 -> 4574
+Melhor vizinho: 4568
+
+Sequencia inicial 6 -> 4568
+Melhor vizinho: 4556
+
+Sequencia inicial 7 -> 4556
+Melhor vizinho: 4552
+
+Sequencia inicial 8 -> 4552
+Melhor vizinho: 4536
+
+Sequencia inicial 9 -> 4536
+ITERAÇÃO: 7 - Atraso: 4342
+
+Sequencia inicial 1 -> 4612
+Melhor vizinho: 4597
+
+Sequencia inicial 2 -> 4597
+Melhor vizinho: 4594
+
+Sequencia inicial 3 -> 4594
+Melhor vizinho: 4583
+
+Sequencia inicial 4 -> 4583
+Melhor vizinho: 4578
+
+Sequencia inicial 5 -> 4578
+Melhor vizinho: 4572
+
+Sequencia inicial 6 -> 4572
+Melhor vizinho: 4559
+
+Sequencia inicial 7 -> 4559
+Melhor vizinho: 4548
+
+Sequencia inicial 8 -> 4548
+Melhor vizinho: 4543
+
+Sequencia inicial 9 -> 4543
+Melhor vizinho: 4536
+
+Sequencia inicial 10 -> 4536
+Melhor vizinho: 4526
+
+Sequencia inicial 11 -> 4526
+Melhor vizinho: 4523
+
+Sequencia inicial 12 -> 4523
+Melhor vizinho: 4516
+
+Sequencia inicial 13 -> 4516
+Melhor vizinho: 4506
+
+Sequencia inicial 14 -> 4506
+Melhor vizinho: 4490
+
+Sequencia inicial 15 -> 4490
+Melhor vizinho: 4487
+
+Sequencia inicial 16 -> 4487
+ITERAÇÃO: 8 - Atraso: 4342
+
+Sequencia inicial 1 -> 4640
+Melhor vizinho: 4628
+
+Sequencia inicial 2 -> 4628
+Melhor vizinho: 4619
+
+Sequencia inicial 3 -> 4619
+Melhor vizinho: 4607
+
+Sequencia inicial 4 -> 4607
+Melhor vizinho: 4600
+
+Sequencia inicial 5 -> 4600
+Melhor vizinho: 4593
+
+Sequencia inicial 6 -> 4593
+Melhor vizinho: 4591
+
+Sequencia inicial 7 -> 4591
+Melhor vizinho: 4587
+
+Sequencia inicial 8 -> 4587
+Melhor vizinho: 4586
+
+Sequencia inicial 9 -> 4586
+Melhor vizinho: 4583
+
+Sequencia inicial 10 -> 4583
+Melhor vizinho: 4580
+
+Sequencia inicial 11 -> 4580
+Melhor vizinho: 4577
+
+Sequencia inicial 12 -> 4577
+Melhor vizinho: 4566
+
+Sequencia inicial 13 -> 4566
+Melhor vizinho: 4563
+
+Sequencia inicial 14 -> 4563
+Melhor vizinho: 4554
+
+Sequencia inicial 15 -> 4554
+Melhor vizinho: 4547
+
+Sequencia inicial 16 -> 4547
+Melhor vizinho: 4542
+
+Sequencia inicial 17 -> 4542
+Melhor vizinho: 4536
+
+Sequencia inicial 18 -> 4536
+Melhor vizinho: 4531
+
+Sequencia inicial 19 -> 4531
+Melhor vizinho: 4528
+
+Sequencia inicial 20 -> 4528
+Melhor vizinho: 4521
+
+Sequencia inicial 21 -> 4521
+Melhor vizinho: 4516
+
+Sequencia inicial 22 -> 4516
+Melhor vizinho: 4510
+
+Sequencia inicial 23 -> 4510
+Melhor vizinho: 4497
+
+Sequencia inicial 24 -> 4497
+Melhor vizinho: 4494
+
+Sequencia inicial 25 -> 4494
+Melhor vizinho: 4487
+
+Sequencia inicial 26 -> 4487
+Melhor vizinho: 4481
+
+Sequencia inicial 27 -> 4481
+Melhor vizinho: 4477
+
+Sequencia inicial 28 -> 4477
+Melhor vizinho: 4472
+
+Sequencia inicial 29 -> 4472
+Melhor vizinho: 4462
+
+Sequencia inicial 30 -> 4462
+Melhor vizinho: 4450
+
+Sequencia inicial 31 -> 4450
+Melhor vizinho: 4449
+
+Sequencia inicial 32 -> 4449
+Melhor vizinho: 4448
+
+Sequencia inicial 33 -> 4448
+Melhor vizinho: 4446
+
+Sequencia inicial 34 -> 4446
+ITERAÇÃO: 9 - Atraso: 4342
+
+Sequencia inicial 1 -> 4631
+Melhor vizinho: 4612
+
+Sequencia inicial 2 -> 4612
+Melhor vizinho: 4590
+
+Sequencia inicial 3 -> 4590
+Melhor vizinho: 4578
+
+Sequencia inicial 4 -> 4578
+Melhor vizinho: 4570
+
+Sequencia inicial 5 -> 4570
+Melhor vizinho: 4566
+
+Sequencia inicial 6 -> 4566
+Melhor vizinho: 4552
+
+Sequencia inicial 7 -> 4552
+Melhor vizinho: 4544
+
+Sequencia inicial 8 -> 4544
+Melhor vizinho: 4535
+
+Sequencia inicial 9 -> 4535
+Melhor vizinho: 4531
+
+Sequencia inicial 10 -> 4531
+Melhor vizinho: 4523
+
+Sequencia inicial 11 -> 4523
+Melhor vizinho: 4516
+
+Sequencia inicial 12 -> 4516
+Melhor vizinho: 4511
+
+Sequencia inicial 13 -> 4511
+Melhor vizinho: 4508
+
+Sequencia inicial 14 -> 4508
+Melhor vizinho: 4502
+
+Sequencia inicial 15 -> 4502
+Melhor vizinho: 4483
+
+Sequencia inicial 16 -> 4483
+Melhor vizinho: 4479
+
+Sequencia inicial 17 -> 4479
+Melhor vizinho: 4475
+
+Sequencia inicial 18 -> 4475
+Melhor vizinho: 4467
+
+Sequencia inicial 19 -> 4467
+Melhor vizinho: 4461
+
+Sequencia inicial 20 -> 4461
+Melhor vizinho: 4458
+
+Sequencia inicial 21 -> 4458
+Melhor vizinho: 4457
+
+Sequencia inicial 22 -> 4457
+Melhor vizinho: 4455
+
+Sequencia inicial 23 -> 4455
+Melhor vizinho: 4453
+
+Sequencia inicial 24 -> 4453
+Melhor vizinho: 4446
+
+Sequencia inicial 25 -> 4446
+Melhor vizinho: 4440
+
+Sequencia inicial 26 -> 4440
+Melhor vizinho: 4437
+
+Sequencia inicial 27 -> 4437
+Melhor vizinho: 4435
+
+Sequencia inicial 28 -> 4435
+Melhor vizinho: 4429
+
+Sequencia inicial 29 -> 4429
+Melhor vizinho: 4420
+
+Sequencia inicial 30 -> 4420
+Melhor vizinho: 4414
+
+Sequencia inicial 31 -> 4414
+Melhor vizinho: 4413
+
+Sequencia inicial 32 -> 4413
+Melhor vizinho: 4411
+
+Sequencia inicial 33 -> 4411
+ITERAÇÃO: 10 - Atraso: 4342
+
+Sequencia inicial 1 -> 4576
+Melhor vizinho: 4561
+
+Sequencia inicial 2 -> 4561
+Melhor vizinho: 4540
+
+Sequencia inicial 3 -> 4540
+Melhor vizinho: 4533
+
+Sequencia inicial 4 -> 4533
+Melhor vizinho: 4522
+
+Sequencia inicial 5 -> 4522
+Melhor vizinho: 4517
+
+Sequencia inicial 6 -> 4517
+Melhor vizinho: 4515
+
+Sequencia inicial 7 -> 4515
+ITERAÇÃO: 11 - Atraso: 4342
+
+Sequencia inicial 1 -> 4630
+Melhor vizinho: 4610
+
+Sequencia inicial 2 -> 4610
+Melhor vizinho: 4593
+
+Sequencia inicial 3 -> 4593
+Melhor vizinho: 4582
+
+Sequencia inicial 4 -> 4582
+Melhor vizinho: 4563
+
+Sequencia inicial 5 -> 4563
+Melhor vizinho: 4550
+
+Sequencia inicial 6 -> 4550
+Melhor vizinho: 4539
+
+Sequencia inicial 7 -> 4539
+Melhor vizinho: 4528
+
+Sequencia inicial 8 -> 4528
+Melhor vizinho: 4522
+
+Sequencia inicial 9 -> 4522
+Melhor vizinho: 4515
+
+Sequencia inicial 10 -> 4515
+Melhor vizinho: 4509
+
+Sequencia inicial 11 -> 4509
+Melhor vizinho: 4502
+
+Sequencia inicial 12 -> 4502
+Melhor vizinho: 4499
+
+Sequencia inicial 13 -> 4499
+Melhor vizinho: 4497
+
+Sequencia inicial 14 -> 4497
+Melhor vizinho: 4491
+
+Sequencia inicial 15 -> 4491
+Melhor vizinho: 4489
+
+Sequencia inicial 16 -> 4489
+Melhor vizinho: 4482
+
+Sequencia inicial 17 -> 4482
+Melhor vizinho: 4475
+
+Sequencia inicial 18 -> 4475
+ITERAÇÃO: 12 - Atraso: 4342
+
+Sequencia inicial 1 -> 4655
+Melhor vizinho: 4638
+
+Sequencia inicial 2 -> 4638
+Melhor vizinho: 4619
+
+Sequencia inicial 3 -> 4619
+Melhor vizinho: 4607
+
+Sequencia inicial 4 -> 4607
+Melhor vizinho: 4598
+
+Sequencia inicial 5 -> 4598
+Melhor vizinho: 4592
+
+Sequencia inicial 6 -> 4592
+Melhor vizinho: 4579
+
+Sequencia inicial 7 -> 4579
+Melhor vizinho: 4572
+
+Sequencia inicial 8 -> 4572
+Melhor vizinho: 4564
+
+Sequencia inicial 9 -> 4564
+Melhor vizinho: 4556
+
+Sequencia inicial 10 -> 4556
+Melhor vizinho: 4545
+
+Sequencia inicial 11 -> 4545
+Melhor vizinho: 4541
+
+Sequencia inicial 12 -> 4541
+Melhor vizinho: 4539
+
+Sequencia inicial 13 -> 4539
+Melhor vizinho: 4531
+
+Sequencia inicial 14 -> 4531
+Melhor vizinho: 4514
+
+Sequencia inicial 15 -> 4514
+Melhor vizinho: 4507
+
+Sequencia inicial 16 -> 4507
+Melhor vizinho: 4503
+
+Sequencia inicial 17 -> 4503
+Melhor vizinho: 4501
+
+Sequencia inicial 18 -> 4501
+Melhor vizinho: 4497
+
+Sequencia inicial 19 -> 4497
+Melhor vizinho: 4491
+
+Sequencia inicial 20 -> 4491
+Melhor vizinho: 4480
+
+Sequencia inicial 21 -> 4480
+Melhor vizinho: 4473
+
+Sequencia inicial 22 -> 4473
+Melhor vizinho: 4468
+
+Sequencia inicial 23 -> 4468
+Melhor vizinho: 4464
+
+Sequencia inicial 24 -> 4464
+Melhor vizinho: 4448
+
+Sequencia inicial 25 -> 4448
+Melhor vizinho: 4447
+
+Sequencia inicial 26 -> 4447
+Melhor vizinho: 4444
+
+Sequencia inicial 27 -> 4444
+ITERAÇÃO: 13 - Atraso: 4342
+
+Sequencia inicial 1 -> 4721
+Melhor vizinho: 4712
+
+Sequencia inicial 2 -> 4712
+Melhor vizinho: 4708
+
+Sequencia inicial 3 -> 4708
+Melhor vizinho: 4705
+
+Sequencia inicial 4 -> 4705
+Melhor vizinho: 4693
+
+Sequencia inicial 5 -> 4693
+Melhor vizinho: 4686
+
+Sequencia inicial 6 -> 4686
+Melhor vizinho: 4680
+
+Sequencia inicial 7 -> 4680
+Melhor vizinho: 4672
+
+Sequencia inicial 8 -> 4672
+Melhor vizinho: 4658
+
+Sequencia inicial 9 -> 4658
+Melhor vizinho: 4650
+
+Sequencia inicial 10 -> 4650
+Melhor vizinho: 4646
+
+Sequencia inicial 11 -> 4646
+Melhor vizinho: 4632
+
+Sequencia inicial 12 -> 4632
+Melhor vizinho: 4626
+
+Sequencia inicial 13 -> 4626
+Melhor vizinho: 4616
+
+Sequencia inicial 14 -> 4616
+Melhor vizinho: 4605
+
+Sequencia inicial 15 -> 4605
+Melhor vizinho: 4595
+
+Sequencia inicial 16 -> 4595
+Melhor vizinho: 4583
+
+Sequencia inicial 17 -> 4583
+Melhor vizinho: 4574
+
+Sequencia inicial 18 -> 4574
+Melhor vizinho: 4570
+
+Sequencia inicial 19 -> 4570
+Melhor vizinho: 4564
+
+Sequencia inicial 20 -> 4564
+Melhor vizinho: 4561
+
+Sequencia inicial 21 -> 4561
+Melhor vizinho: 4558
+
+Sequencia inicial 22 -> 4558
+Melhor vizinho: 4554
+
+Sequencia inicial 23 -> 4554
+Melhor vizinho: 4550
+
+Sequencia inicial 24 -> 4550
+Melhor vizinho: 4548
+
+Sequencia inicial 25 -> 4548
+Melhor vizinho: 4542
+
+Sequencia inicial 26 -> 4542
+Melhor vizinho: 4538
+
+Sequencia inicial 27 -> 4538
+Melhor vizinho: 4529
+
+Sequencia inicial 28 -> 4529
+Melhor vizinho: 4521
+
+Sequencia inicial 29 -> 4521
+Melhor vizinho: 4515
+
+Sequencia inicial 30 -> 4515
+Melhor vizinho: 4505
+
+Sequencia inicial 31 -> 4505
+Melhor vizinho: 4492
+
+Sequencia inicial 32 -> 4492
+Melhor vizinho: 4472
+
+Sequencia inicial 33 -> 4472
+Melhor vizinho: 4470
+
+Sequencia inicial 34 -> 4470
+Melhor vizinho: 4453
+
+Sequencia inicial 35 -> 4453
+Melhor vizinho: 4446
+
+Sequencia inicial 36 -> 4446
+Melhor vizinho: 4438
+
+Sequencia inicial 37 -> 4438
+Melhor vizinho: 4432
+
+Sequencia inicial 38 -> 4432
+Melhor vizinho: 4428
+
+Sequencia inicial 39 -> 4428
+ITERAÇÃO: 14 - Atraso: 4342
+
+Sequencia inicial 1 -> 4767
+Melhor vizinho: 4749
+
+Sequencia inicial 2 -> 4749
+Melhor vizinho: 4732
+
+Sequencia inicial 3 -> 4732
+Melhor vizinho: 4728
+
+Sequencia inicial 4 -> 4728
+Melhor vizinho: 4723
+
+Sequencia inicial 5 -> 4723
+Melhor vizinho: 4719
+
+Sequencia inicial 6 -> 4719
+Melhor vizinho: 4716
+
+Sequencia inicial 7 -> 4716
+Melhor vizinho: 4706
+
+Sequencia inicial 8 -> 4706
+Melhor vizinho: 4696
+
+Sequencia inicial 9 -> 4696
+Melhor vizinho: 4687
+
+Sequencia inicial 10 -> 4687
+Melhor vizinho: 4678
+
+Sequencia inicial 11 -> 4678
+Melhor vizinho: 4671
+
+Sequencia inicial 12 -> 4671
+Melhor vizinho: 4662
+
+Sequencia inicial 13 -> 4662
+Melhor vizinho: 4650
+
+Sequencia inicial 14 -> 4650
+Melhor vizinho: 4645
+
+Sequencia inicial 15 -> 4645
+Melhor vizinho: 4637
+
+Sequencia inicial 16 -> 4637
+Melhor vizinho: 4628
+
+Sequencia inicial 17 -> 4628
+Melhor vizinho: 4625
+
+Sequencia inicial 18 -> 4625
+Melhor vizinho: 4621
+
+Sequencia inicial 19 -> 4621
+ITERAÇÃO: 15 - Atraso: 4342
+
+Sequencia inicial 1 -> 4722
+Melhor vizinho: 4715
+
+Sequencia inicial 2 -> 4715
+Melhor vizinho: 4710
+
+Sequencia inicial 3 -> 4710
+Melhor vizinho: 4709
+
+Sequencia inicial 4 -> 4709
+Melhor vizinho: 4707
+
+Sequencia inicial 5 -> 4707
+Melhor vizinho: 4699
+
+Sequencia inicial 6 -> 4699
+Melhor vizinho: 4692
+
+Sequencia inicial 7 -> 4692
+Melhor vizinho: 4687
+
+Sequencia inicial 8 -> 4687
+Melhor vizinho: 4683
+
+Sequencia inicial 9 -> 4683
+Melhor vizinho: 4675
+
+Sequencia inicial 10 -> 4675
+Melhor vizinho: 4663
+
+Sequencia inicial 11 -> 4663
+Melhor vizinho: 4657
+
+Sequencia inicial 12 -> 4657
+Melhor vizinho: 4648
+
+Sequencia inicial 13 -> 4648
+Melhor vizinho: 4643
+
+Sequencia inicial 14 -> 4643
+Melhor vizinho: 4627
+
+Sequencia inicial 15 -> 4627
+Melhor vizinho: 4617
+
+Sequencia inicial 16 -> 4617
+Melhor vizinho: 4608
+
+Sequencia inicial 17 -> 4608
+Melhor vizinho: 4604
+
+Sequencia inicial 18 -> 4604
+Melhor vizinho: 4601
+
+Sequencia inicial 19 -> 4601
+Melhor vizinho: 4592
+
+Sequencia inicial 20 -> 4592
+Melhor vizinho: 4586
+
+Sequencia inicial 21 -> 4586
+Melhor vizinho: 4578
+
+Sequencia inicial 22 -> 4578
+Melhor vizinho: 4576
+
+Sequencia inicial 23 -> 4576
+Melhor vizinho: 4571
+
+Sequencia inicial 24 -> 4571
+Melhor vizinho: 4563
+
+Sequencia inicial 25 -> 4563
+Melhor vizinho: 4556
+
+Sequencia inicial 26 -> 4556
+Melhor vizinho: 4547
+
+Sequencia inicial 27 -> 4547
+Melhor vizinho: 4545
+
+Sequencia inicial 28 -> 4545
+Melhor vizinho: 4543
+
+Sequencia inicial 29 -> 4543
+Melhor vizinho: 4539
+
+Sequencia inicial 30 -> 4539
+Melhor vizinho: 4536
+
+Sequencia inicial 31 -> 4536
+Melhor vizinho: 4535
+
+Sequencia inicial 32 -> 4535
+Melhor vizinho: 4527
+
+Sequencia inicial 33 -> 4527
+Melhor vizinho: 4525
+
+Sequencia inicial 34 -> 4525
+Melhor vizinho: 4524
+
+Sequencia inicial 35 -> 4524
+Melhor vizinho: 4523
+
+Sequencia inicial 36 -> 4523
+Melhor vizinho: 4521
+
+Sequencia inicial 37 -> 4521
+Melhor vizinho: 4516
+
+Sequencia inicial 38 -> 4516
+Melhor vizinho: 4511
+
+Sequencia inicial 39 -> 4511
+Melhor vizinho: 4509
+
+Sequencia inicial 40 -> 4509
+ITERAÇÃO: 16 - Atraso: 4342
+
+Sequencia inicial 1 -> 4746
+Melhor vizinho: 4727
+
+Sequencia inicial 2 -> 4727
+Melhor vizinho: 4715
+
+Sequencia inicial 3 -> 4715
+Melhor vizinho: 4697
+
+Sequencia inicial 4 -> 4697
+Melhor vizinho: 4688
+
+Sequencia inicial 5 -> 4688
+Melhor vizinho: 4681
+
+Sequencia inicial 6 -> 4681
+Melhor vizinho: 4674
+
+Sequencia inicial 7 -> 4674
+Melhor vizinho: 4662
+
+Sequencia inicial 8 -> 4662
+Melhor vizinho: 4654
+
+Sequencia inicial 9 -> 4654
+Melhor vizinho: 4646
+
+Sequencia inicial 10 -> 4646
+Melhor vizinho: 4635
+
+Sequencia inicial 11 -> 4635
+Melhor vizinho: 4632
+
+Sequencia inicial 12 -> 4632
+Melhor vizinho: 4630
+
+Sequencia inicial 13 -> 4630
+Melhor vizinho: 4619
+
+Sequencia inicial 14 -> 4619
+Melhor vizinho: 4614
+
+Sequencia inicial 15 -> 4614
+Melhor vizinho: 4606
+
+Sequencia inicial 16 -> 4606
+Melhor vizinho: 4593
+
+Sequencia inicial 17 -> 4593
+Melhor vizinho: 4582
+
+Sequencia inicial 18 -> 4582
+Melhor vizinho: 4576
+
+Sequencia inicial 19 -> 4576
+Melhor vizinho: 4573
+
+Sequencia inicial 20 -> 4573
+Melhor vizinho: 4570
+
+Sequencia inicial 21 -> 4570
+Melhor vizinho: 4554
+
+Sequencia inicial 22 -> 4554
+Melhor vizinho: 4550
+
+Sequencia inicial 23 -> 4550
+Melhor vizinho: 4536
+
+Sequencia inicial 24 -> 4536
+Melhor vizinho: 4524
+
+Sequencia inicial 25 -> 4524
+Melhor vizinho: 4513
+
+Sequencia inicial 26 -> 4513
+ITERAÇÃO: 17 - Atraso: 4342
+
+Sequencia inicial 1 -> 4701
+Melhor vizinho: 4685
+
+Sequencia inicial 2 -> 4685
+Melhor vizinho: 4675
+
+Sequencia inicial 3 -> 4675
+Melhor vizinho: 4661
+
+Sequencia inicial 4 -> 4661
+Melhor vizinho: 4653
+
+Sequencia inicial 5 -> 4653
+Melhor vizinho: 4648
+
+Sequencia inicial 6 -> 4648
+Melhor vizinho: 4640
+
+Sequencia inicial 7 -> 4640
+Melhor vizinho: 4635
+
+Sequencia inicial 8 -> 4635
+Melhor vizinho: 4622
+
+Sequencia inicial 9 -> 4622
+Melhor vizinho: 4612
+
+Sequencia inicial 10 -> 4612
+Melhor vizinho: 4600
+
+Sequencia inicial 11 -> 4600
+Melhor vizinho: 4590
+
+Sequencia inicial 12 -> 4590
+Melhor vizinho: 4579
+
+Sequencia inicial 13 -> 4579
+Melhor vizinho: 4575
+
+Sequencia inicial 14 -> 4575
+Melhor vizinho: 4567
+
+Sequencia inicial 15 -> 4567
+Melhor vizinho: 4560
+
+Sequencia inicial 16 -> 4560
+Melhor vizinho: 4555
+
+Sequencia inicial 17 -> 4555
+Melhor vizinho: 4552
+
+Sequencia inicial 18 -> 4552
+ITERAÇÃO: 18 - Atraso: 4342
+
+Sequencia inicial 1 -> 4693
+Melhor vizinho: 4674
+
+Sequencia inicial 2 -> 4674
+Melhor vizinho: 4646
+
+Sequencia inicial 3 -> 4646
+Melhor vizinho: 4632
+
+Sequencia inicial 4 -> 4632
+Melhor vizinho: 4623
+
+Sequencia inicial 5 -> 4623
+Melhor vizinho: 4615
+
+Sequencia inicial 6 -> 4615
+Melhor vizinho: 4613
+
+Sequencia inicial 7 -> 4613
+Melhor vizinho: 4608
+
+Sequencia inicial 8 -> 4608
+Melhor vizinho: 4602
+
+Sequencia inicial 9 -> 4602
+Melhor vizinho: 4596
+
+Sequencia inicial 10 -> 4596
+Melhor vizinho: 4591
+
+Sequencia inicial 11 -> 4591
+Melhor vizinho: 4583
+
+Sequencia inicial 12 -> 4583
+Melhor vizinho: 4569
+
+Sequencia inicial 13 -> 4569
+Melhor vizinho: 4555
+
+Sequencia inicial 14 -> 4555
+Melhor vizinho: 4553
+
+Sequencia inicial 15 -> 4553
+Melhor vizinho: 4543
+
+Sequencia inicial 16 -> 4543
+Melhor vizinho: 4536
+
+Sequencia inicial 17 -> 4536
+Melhor vizinho: 4533
+
+Sequencia inicial 18 -> 4533
+Melhor vizinho: 4532
+
+Sequencia inicial 19 -> 4532
+Melhor vizinho: 4529
+
+Sequencia inicial 20 -> 4529
+Melhor vizinho: 4521
+
+Sequencia inicial 21 -> 4521
+Melhor vizinho: 4518
+
+Sequencia inicial 22 -> 4518
+ITERAÇÃO: 19 - Atraso: 4342
+
+Sequencia inicial 1 -> 4772
+Melhor vizinho: 4738
+
+Sequencia inicial 2 -> 4738
+Melhor vizinho: 4724
+
+Sequencia inicial 3 -> 4724
+Melhor vizinho: 4719
+
+Sequencia inicial 4 -> 4719
+Melhor vizinho: 4715
+
+Sequencia inicial 5 -> 4715
+Melhor vizinho: 4698
+
+Sequencia inicial 6 -> 4698
+Melhor vizinho: 4688
+
+Sequencia inicial 7 -> 4688
+Melhor vizinho: 4685
+
+Sequencia inicial 8 -> 4685
+Melhor vizinho: 4671
+
+Sequencia inicial 9 -> 4671
+Melhor vizinho: 4645
+
+Sequencia inicial 10 -> 4645
+Melhor vizinho: 4637
+
+Sequencia inicial 11 -> 4637
+Melhor vizinho: 4633
+
+Sequencia inicial 12 -> 4633
+Melhor vizinho: 4614
+
+Sequencia inicial 13 -> 4614
+Melhor vizinho: 4607
+
+Sequencia inicial 14 -> 4607
+Melhor vizinho: 4595
+
+Sequencia inicial 15 -> 4595
+Melhor vizinho: 4588
+
+Sequencia inicial 16 -> 4588
+Melhor vizinho: 4583
+
+Sequencia inicial 17 -> 4583
+Melhor vizinho: 4580
+
+Sequencia inicial 18 -> 4580
+Melhor vizinho: 4575
+
+Sequencia inicial 19 -> 4575
+Melhor vizinho: 4573
+
+Sequencia inicial 20 -> 4573
+Melhor vizinho: 4571
+
+Sequencia inicial 21 -> 4571
+Melhor vizinho: 4569
+
+Sequencia inicial 22 -> 4569
+Melhor vizinho: 4561
+
+Sequencia inicial 23 -> 4561
+Melhor vizinho: 4556
+
+Sequencia inicial 24 -> 4556
+Melhor vizinho: 4555
+
+Sequencia inicial 25 -> 4555
+ITERAÇÃO: 20 - Atraso: 4342
+
+Sequencia inicial 1 -> 4613
+Melhor vizinho: 4591
+
+Sequencia inicial 2 -> 4591
+Melhor vizinho: 4579
+
+Sequencia inicial 3 -> 4579
+Melhor vizinho: 4573
+
+Sequencia inicial 4 -> 4573
+Melhor vizinho: 4557
+
+Sequencia inicial 5 -> 4557
+Melhor vizinho: 4553
+
+Sequencia inicial 6 -> 4553
+Melhor vizinho: 4544
+
+Sequencia inicial 7 -> 4544
+Melhor vizinho: 4533
+
+Sequencia inicial 8 -> 4533
+Melhor vizinho: 4516
+
+Sequencia inicial 9 -> 4516
+Melhor vizinho: 4512
+
+Sequencia inicial 10 -> 4512
+Melhor vizinho: 4506
+
+Sequencia inicial 11 -> 4506
+Melhor vizinho: 4501
+
+Sequencia inicial 12 -> 4501
+Melhor vizinho: 4500
+
+Sequencia inicial 13 -> 4500
+Melhor vizinho: 4496
+
+Sequencia inicial 14 -> 4496
+Melhor vizinho: 4493
+
+Sequencia inicial 15 -> 4493
+Melhor vizinho: 4481
+
+Sequencia inicial 16 -> 4481
+Melhor vizinho: 4475
+
+Sequencia inicial 17 -> 4475
+Melhor vizinho: 4473
+
+Sequencia inicial 18 -> 4473
+Atraso Máximo Iterated Greedy (IG): 4342
+Sequência de Tarefas - Solução Final IG
+138 344 295 271 43 4 325 276 237 298 242 179 307 202 286 24 89 135 104 178 95 303 44 136 241 326 300 215 49 34 333 111 313 193 147 149 52 166 311 151 62 200 69 82 207 256 66 348 90 155 94 251 328 173 140 233 285 150 125 159 319 221 218 145 2 169 191 105 10 267 339 197 64 234 8 182 153 323 186 270 168 30 253 250 96 260 51 74 239 57 210 316 118 252 167 5 189 247 302 16 20 47 162 15 296 59 19 106 184 274 124 288 290 329 347 292 238 152 209 29 6 117 334 277 282 50 146 100 72 84 230 53 71 299 141 130 143 244 208 214 231 199 33 315 258 280 262 194 265 335 255 273 129 243 58 216 148 11 54 139 1 142 291 144 278 227 190 304 213 350 7 56 40 240 87 28 97 23 161 80 102 86 297 337 35 281 122 132 310 306 26 114 119 269 88 171 342 68 17 25 73 305 81 126 37 55 36 279 176 133 107 346 48 188 340 185 78 101 330 226 110 192 293 109 245 257 314 341 187 70 254 131 287 175 18 236 3 261 203 160 172 345 228 134 165 61 263 63 235 317 198 229 248 284 76 322 127 224 154 332 181 268 220 108 98 163 294 223 249 338 289 156 212 320 121 272 170 324 103 219 211 331 137 85 32 174 266 259 46 217 312 283 301 264 180 205 112 195 225 79 12 327 308 9 39 177 91 22 157 67 164 75 83 93 206 31 275 45 183 246 99 21 65 232 349 204 27 123 77 120 336 38 14 41 321 92 60 42 309 158 13 318 116 113 201 128 196 222 115 343 
+Tempo: 7639.14 segundos

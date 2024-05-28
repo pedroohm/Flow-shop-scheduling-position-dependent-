@@ -30,86 +30,80 @@ ITERAÇÃO: 5 - Atraso: 127
 Sequencia inicial 1 -> 127
 ITERAÇÃO: 6 - Atraso: 127
 
-Sequencia inicial 1 -> 127
-ITERAÇÃO: 7 - Atraso: 127
-
-Sequencia inicial 1 -> 127
-ITERAÇÃO: 8 - Atraso: 127
-
-Sequencia inicial 1 -> 127
-ITERAÇÃO: 9 - Atraso: 127
-
 Sequencia inicial 1 -> 100
 Melhor vizinho: 63
 
 Sequencia inicial 2 -> 63
 ITERAÇÃO: 1 - Atraso: 63
 
-Sequencia inicial 1 -> 70
+Sequencia inicial 1 -> 63
 ITERAÇÃO: 2 - Atraso: 63
 
-Sequencia inicial 1 -> 70
+Sequencia inicial 1 -> 63
 ITERAÇÃO: 3 - Atraso: 63
 
-Sequencia inicial 1 -> 70
+Sequencia inicial 1 -> 63
 ITERAÇÃO: 4 - Atraso: 63
 
-Sequencia inicial 1 -> 70
+Sequencia inicial 1 -> 63
 ITERAÇÃO: 5 - Atraso: 63
 
-Sequencia inicial 1 -> 70
+Sequencia inicial 1 -> 63
 ITERAÇÃO: 6 - Atraso: 63
 
-Sequencia inicial 1 -> 70
+Sequencia inicial 1 -> 63
 ITERAÇÃO: 7 - Atraso: 63
 
-Sequencia inicial 1 -> 121
+Sequencia inicial 1 -> 63
 ITERAÇÃO: 8 - Atraso: 63
 
-Sequencia inicial 1 -> 121
+Sequencia inicial 1 -> 70
 ITERAÇÃO: 9 - Atraso: 63
 
-Sequencia inicial 1 -> 121
+Sequencia inicial 1 -> 70
 ITERAÇÃO: 10 - Atraso: 63
 
-Sequencia inicial 1 -> 121
+Sequencia inicial 1 -> 70
 ITERAÇÃO: 11 - Atraso: 63
 
-Sequencia inicial 1 -> 121
+Sequencia inicial 1 -> 70
+Melhor vizinho: 63
+
+Sequencia inicial 2 -> 63
 ITERAÇÃO: 12 - Atraso: 63
 
-Sequencia inicial 1 -> 121
+Sequencia inicial 1 -> 70
+Melhor vizinho: 63
+
+Sequencia inicial 2 -> 63
 ITERAÇÃO: 13 - Atraso: 63
 
-Sequencia inicial 1 -> 121
+Sequencia inicial 1 -> 63
 ITERAÇÃO: 14 - Atraso: 63
 
-Sequencia inicial 1 -> 121
+Sequencia inicial 1 -> 70
 ITERAÇÃO: 15 - Atraso: 63
 
 Sequencia inicial 1 -> 121
 ITERAÇÃO: 16 - Atraso: 63
 
-Sequencia inicial 1 -> 121
+Sequencia inicial 1 -> 100
+Melhor vizinho: 63
+
+Sequencia inicial 2 -> 63
 ITERAÇÃO: 17 - Atraso: 63
 
-Sequencia inicial 1 -> 121
+Sequencia inicial 1 -> 72
 ITERAÇÃO: 18 - Atraso: 63
 
-Sequencia inicial 1 -> 121
+Sequencia inicial 1 -> 72
 ITERAÇÃO: 19 - Atraso: 63
 
-Sequencia inicial 1 -> 100
-Melhor vizinho: 63
-
-Sequencia inicial 2 -> 63
+Sequencia inicial 1 -> 72
 ITERAÇÃO: 20 - Atraso: 63
 
-Sequencia inicial 1 -> 100
-Melhor vizinho: 63
-
-Sequencia inicial 2 -> 63
+Sequencia inicial 1 -> 63
 Atraso Máximo Iterated Greedy (IG): 63
 Sequência de Tarefas - Solução Final IG
-2 5 1 4 3 
-Tempo: 0.000673 segundos
+2 4 5 1 3 
+Tempo: 0.000527 segundos

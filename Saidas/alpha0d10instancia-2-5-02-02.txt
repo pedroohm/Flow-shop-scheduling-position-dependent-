@@ -51,19 +51,31 @@ ITERAÇÃO: 10 - Atraso: 210
 Sequencia inicial 1 -> 210
 ITERAÇÃO: 11 - Atraso: 210
 
-Sequencia inicial 1 -> 210
+Sequencia inicial 1 -> 242
 ITERAÇÃO: 12 - Atraso: 210
 
-Sequencia inicial 1 -> 210
+Sequencia inicial 1 -> 242
 ITERAÇÃO: 13 - Atraso: 210
 
-Sequencia inicial 1 -> 210
+Sequencia inicial 1 -> 220
+Melhor vizinho: 218
+
+Sequencia inicial 2 -> 218
 ITERAÇÃO: 14 - Atraso: 210
 
-Sequencia inicial 1 -> 210
+Sequencia inicial 1 -> 220
+Melhor vizinho: 218
+
+Sequencia inicial 2 -> 218
 ITERAÇÃO: 15 - Atraso: 210
 
-Sequencia inicial 1 -> 210
+Sequencia inicial 1 -> 220
+Melhor vizinho: 218
+
+Sequencia inicial 2 -> 218
+Melhor vizinho: 210
+
+Sequencia inicial 3 -> 210
 ITERAÇÃO: 16 - Atraso: 210
 
 Sequencia inicial 1 -> 210
@@ -75,17 +87,11 @@ ITERAÇÃO: 18 - Atraso: 210
 Sequencia inicial 1 -> 210
 ITERAÇÃO: 19 - Atraso: 210
 
-Sequencia inicial 1 -> 242
-Melhor vizinho: 238
-
-Sequencia inicial 2 -> 238
+Sequencia inicial 1 -> 210
 ITERAÇÃO: 20 - Atraso: 210
 
-Sequencia inicial 1 -> 221
-Melhor vizinho: 210
-
-Sequencia inicial 2 -> 210
+Sequencia inicial 1 -> 242
 Atraso Máximo Iterated Greedy (IG): 210
 Sequência de Tarefas - Solução Final IG
-3 1 4 2 5 
-Tempo: 0.000698 segundos
+3 4 5 2 1 
+Tempo: 0.000393 segundos

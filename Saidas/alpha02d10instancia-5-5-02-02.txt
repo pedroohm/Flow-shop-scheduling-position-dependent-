@@ -27,6 +27,30 @@ Melhor vizinho: 320.096
 Sequencia inicial 2 -> 320.096
 ITERAÇÃO: 3 - Atraso: 320.096
 
+Sequencia inicial 1 -> 320.096
+ITERAÇÃO: 4 - Atraso: 320.096
+
+Sequencia inicial 1 -> 320.096
+ITERAÇÃO: 5 - Atraso: 320.096
+
+Sequencia inicial 1 -> 320.096
+ITERAÇÃO: 6 - Atraso: 320.096
+
+Sequencia inicial 1 -> 320.096
+ITERAÇÃO: 7 - Atraso: 320.096
+
+Sequencia inicial 1 -> 320.096
+ITERAÇÃO: 8 - Atraso: 320.096
+
+Sequencia inicial 1 -> 320.096
+ITERAÇÃO: 9 - Atraso: 320.096
+
+Sequencia inicial 1 -> 321.668
+Melhor vizinho: 320.096
+
+Sequencia inicial 2 -> 320.096
+ITERAÇÃO: 10 - Atraso: 320.096
+
 Sequencia inicial 1 -> 318.604
 Melhor vizinho: 312.588
 
@@ -39,28 +63,25 @@ ITERAÇÃO: 1 - Atraso: 304.739
 Sequencia inicial 1 -> 304.739
 ITERAÇÃO: 2 - Atraso: 304.739
 
-Sequencia inicial 1 -> 304.739
+Sequencia inicial 1 -> 312.588
+Melhor vizinho: 304.739
+
+Sequencia inicial 2 -> 304.739
 ITERAÇÃO: 3 - Atraso: 304.739
-
-Sequencia inicial 1 -> 304.739
-ITERAÇÃO: 4 - Atraso: 304.739
-
-Sequencia inicial 1 -> 304.739
-ITERAÇÃO: 5 - Atraso: 304.739
-
-Sequencia inicial 1 -> 304.739
-ITERAÇÃO: 6 - Atraso: 304.739
-
-Sequencia inicial 1 -> 304.739
-ITERAÇÃO: 7 - Atraso: 304.739
 
 Sequencia inicial 1 -> 294.327
 ITERAÇÃO: 1 - Atraso: 294.327
 
-Sequencia inicial 1 -> 294.327
+Sequencia inicial 1 -> 349.121
+Melhor vizinho: 294.327
+
+Sequencia inicial 2 -> 294.327
 ITERAÇÃO: 2 - Atraso: 294.327
 
-Sequencia inicial 1 -> 294.327
+Sequencia inicial 1 -> 349.121
+Melhor vizinho: 294.327
+
+Sequencia inicial 2 -> 294.327
 ITERAÇÃO: 3 - Atraso: 294.327
 
 Sequencia inicial 1 -> 349.121
@@ -69,6 +90,36 @@ Melhor vizinho: 294.327
 Sequencia inicial 2 -> 294.327
 ITERAÇÃO: 4 - Atraso: 294.327
 
+Sequencia inicial 1 -> 294.327
+ITERAÇÃO: 5 - Atraso: 294.327
+
+Sequencia inicial 1 -> 294.327
+ITERAÇÃO: 6 - Atraso: 294.327
+
+Sequencia inicial 1 -> 294.327
+ITERAÇÃO: 7 - Atraso: 294.327
+
+Sequencia inicial 1 -> 294.327
+ITERAÇÃO: 8 - Atraso: 294.327
+
+Sequencia inicial 1 -> 294.327
+ITERAÇÃO: 9 - Atraso: 294.327
+
+Sequencia inicial 1 -> 294.327
+ITERAÇÃO: 10 - Atraso: 294.327
+
+Sequencia inicial 1 -> 294.327
+ITERAÇÃO: 11 - Atraso: 294.327
+
+Sequencia inicial 1 -> 294.327
+ITERAÇÃO: 12 - Atraso: 294.327
+
+Sequencia inicial 1 -> 349.121
+Melhor vizinho: 294.327
+
+Sequencia inicial 2 -> 294.327
+ITERAÇÃO: 13 - Atraso: 294.327
+
 Sequencia inicial 1 -> 343.039
 Melhor vizinho: 332.939
 
@@ -76,58 +127,34 @@ Sequencia inicial 2 -> 332.939
 Melhor vizinho: 294.327
 
 Sequencia inicial 3 -> 294.327
-ITERAÇÃO: 5 - Atraso: 294.327
-
-Sequencia inicial 1 -> 323.936
-ITERAÇÃO: 6 - Atraso: 294.327
-
-Sequencia inicial 1 -> 323.936
-ITERAÇÃO: 7 - Atraso: 294.327
-
-Sequencia inicial 1 -> 323.936
-ITERAÇÃO: 8 - Atraso: 294.327
-
-Sequencia inicial 1 -> 323.936
-ITERAÇÃO: 9 - Atraso: 294.327
-
-Sequencia inicial 1 -> 323.936
-ITERAÇÃO: 10 - Atraso: 294.327
-
-Sequencia inicial 1 -> 323.936
-ITERAÇÃO: 11 - Atraso: 294.327
-
-Sequencia inicial 1 -> 323.936
-ITERAÇÃO: 12 - Atraso: 294.327
-
-Sequencia inicial 1 -> 323.936
-ITERAÇÃO: 13 - Atraso: 294.327
-
-Sequencia inicial 1 -> 323.936
 ITERAÇÃO: 14 - Atraso: 294.327
 
 Sequencia inicial 1 -> 323.936
 ITERAÇÃO: 15 - Atraso: 294.327
 
-Sequencia inicial 1 -> 323.936
+Sequencia inicial 1 -> 333.224
+Melhor vizinho: 323.936
+
+Sequencia inicial 2 -> 323.936
 ITERAÇÃO: 16 - Atraso: 294.327
-
-Sequencia inicial 1 -> 323.936
-ITERAÇÃO: 17 - Atraso: 294.327
-
-Sequencia inicial 1 -> 323.936
-ITERAÇÃO: 18 - Atraso: 294.327
 
 Sequencia inicial 1 -> 333.224
 Melhor vizinho: 323.936
 
 Sequencia inicial 2 -> 323.936
+ITERAÇÃO: 17 - Atraso: 294.327
+
+Sequencia inicial 1 -> 327.126
+ITERAÇÃO: 18 - Atraso: 294.327
+
+Sequencia inicial 1 -> 327.126
 ITERAÇÃO: 19 - Atraso: 294.327
 
-Sequencia inicial 1 -> 323.936
+Sequencia inicial 1 -> 327.126
 ITERAÇÃO: 20 - Atraso: 294.327
 
-Sequencia inicial 1 -> 323.936
+Sequencia inicial 1 -> 327.126
 Atraso Máximo Iterated Greedy (IG): 294.327
 Sequência de Tarefas - Solução Final IG
-4 3 2 1 5 
-Tempo: 0.000753 segundos
+3 2 5 4 1 
+Tempo: 0.000912 segundos

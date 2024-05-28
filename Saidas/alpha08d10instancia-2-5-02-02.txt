@@ -21,77 +21,74 @@ ITERAÇÃO: 1 - Atraso: 506.609
 Sequencia inicial 1 -> 506.609
 ITERAÇÃO: 2 - Atraso: 506.609
 
-Sequencia inicial 1 -> 506.609
+Sequencia inicial 1 -> 509.739
+Melhor vizinho: 506.609
+
+Sequencia inicial 2 -> 506.609
 ITERAÇÃO: 3 - Atraso: 506.609
 
 Sequencia inicial 1 -> 506.609
 ITERAÇÃO: 4 - Atraso: 506.609
 
-Sequencia inicial 1 -> 509.739
-Melhor vizinho: 506.609
-
-Sequencia inicial 2 -> 506.609
+Sequencia inicial 1 -> 506.609
 ITERAÇÃO: 5 - Atraso: 506.609
 
+Sequencia inicial 1 -> 506.609
+ITERAÇÃO: 6 - Atraso: 506.609
+
+Sequencia inicial 1 -> 506.609
+ITERAÇÃO: 7 - Atraso: 506.609
+
+Sequencia inicial 1 -> 506.609
+ITERAÇÃO: 8 - Atraso: 506.609
+
+Sequencia inicial 1 -> 506.609
+ITERAÇÃO: 9 - Atraso: 506.609
+
+Sequencia inicial 1 -> 506.609
+ITERAÇÃO: 10 - Atraso: 506.609
+
+Sequencia inicial 1 -> 506.609
+ITERAÇÃO: 11 - Atraso: 506.609
+
 Sequencia inicial 1 -> 509.739
 Melhor vizinho: 506.609
 
 Sequencia inicial 2 -> 506.609
-ITERAÇÃO: 6 - Atraso: 506.609
-
-Sequencia inicial 1 -> 506.846
-ITERAÇÃO: 7 - Atraso: 506.609
-
-Sequencia inicial 1 -> 506.846
-ITERAÇÃO: 8 - Atraso: 506.609
-
-Sequencia inicial 1 -> 506.846
-ITERAÇÃO: 9 - Atraso: 506.609
-
-Sequencia inicial 1 -> 506.846
-ITERAÇÃO: 10 - Atraso: 506.609
-
-Sequencia inicial 1 -> 506.846
-ITERAÇÃO: 11 - Atraso: 506.609
-
-Sequencia inicial 1 -> 506.846
 ITERAÇÃO: 12 - Atraso: 506.609
 
-Sequencia inicial 1 -> 507.438
-Melhor vizinho: 506.846
+Sequencia inicial 1 -> 509.739
+Melhor vizinho: 506.609
 
-Sequencia inicial 2 -> 506.846
+Sequencia inicial 2 -> 506.609
 ITERAÇÃO: 13 - Atraso: 506.609
 
 Sequencia inicial 1 -> 506.846
 ITERAÇÃO: 14 - Atraso: 506.609
 
-Sequencia inicial 1 -> 506.846
-ITERAÇÃO: 15 - Atraso: 506.609
-
-Sequencia inicial 1 -> 506.846
-ITERAÇÃO: 16 - Atraso: 506.609
-
-Sequencia inicial 1 -> 506.846
-ITERAÇÃO: 17 - Atraso: 506.609
-
 Sequencia inicial 1 -> 507.438
 Melhor vizinho: 506.846
 
 Sequencia inicial 2 -> 506.846
+ITERAÇÃO: 15 - Atraso: 506.609
+
+Sequencia inicial 1 -> 506.609
+ITERAÇÃO: 16 - Atraso: 506.609
+
+Sequencia inicial 1 -> 506.609
+ITERAÇÃO: 17 - Atraso: 506.609
+
+Sequencia inicial 1 -> 506.609
 ITERAÇÃO: 18 - Atraso: 506.609
 
 Sequencia inicial 1 -> 506.609
 ITERAÇÃO: 19 - Atraso: 506.609
 
-Sequencia inicial 1 -> 509.739
-Melhor vizinho: 506.609
-
-Sequencia inicial 2 -> 506.609
+Sequencia inicial 1 -> 506.609
 ITERAÇÃO: 20 - Atraso: 506.609
 
-Sequencia inicial 1 -> 506.846
+Sequencia inicial 1 -> 506.609
 Atraso Máximo Iterated Greedy (IG): 506.609
 Sequência de Tarefas - Solução Final IG
-2 3 1 5 4 
-Tempo: 0.000611 segundos
+3 1 2 4 5 
+Tempo: 0.000408 segundos

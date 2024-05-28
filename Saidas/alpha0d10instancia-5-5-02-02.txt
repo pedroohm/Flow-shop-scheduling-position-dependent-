@@ -24,6 +24,9 @@ ITERAÇÃO: 2 - Atraso: 230
 Sequencia inicial 1 -> 230
 ITERAÇÃO: 3 - Atraso: 230
 
+Sequencia inicial 1 -> 230
+ITERAÇÃO: 4 - Atraso: 230
+
 Sequencia inicial 1 -> 208
 Melhor vizinho: 194
 
@@ -39,22 +42,13 @@ ITERAÇÃO: 3 - Atraso: 194
 Sequencia inicial 1 -> 194
 ITERAÇÃO: 4 - Atraso: 194
 
-Sequencia inicial 1 -> 208
-Melhor vizinho: 194
-
-Sequencia inicial 2 -> 194
+Sequencia inicial 1 -> 194
 ITERAÇÃO: 5 - Atraso: 194
 
-Sequencia inicial 1 -> 208
-Melhor vizinho: 194
-
-Sequencia inicial 2 -> 194
+Sequencia inicial 1 -> 194
 ITERAÇÃO: 6 - Atraso: 194
 
-Sequencia inicial 1 -> 208
-Melhor vizinho: 194
-
-Sequencia inicial 2 -> 194
+Sequencia inicial 1 -> 194
 ITERAÇÃO: 7 - Atraso: 194
 
 Sequencia inicial 1 -> 208
@@ -69,16 +63,10 @@ Melhor vizinho: 194
 Sequencia inicial 2 -> 194
 ITERAÇÃO: 9 - Atraso: 194
 
-Sequencia inicial 1 -> 208
-Melhor vizinho: 194
-
-Sequencia inicial 2 -> 194
+Sequencia inicial 1 -> 194
 ITERAÇÃO: 10 - Atraso: 194
 
-Sequencia inicial 1 -> 208
-Melhor vizinho: 194
-
-Sequencia inicial 2 -> 194
+Sequencia inicial 1 -> 194
 ITERAÇÃO: 11 - Atraso: 194
 
 Sequencia inicial 1 -> 194
@@ -87,13 +75,19 @@ ITERAÇÃO: 12 - Atraso: 194
 Sequencia inicial 1 -> 194
 ITERAÇÃO: 13 - Atraso: 194
 
-Sequencia inicial 1 -> 194
+Sequencia inicial 1 -> 208
+Melhor vizinho: 194
+
+Sequencia inicial 2 -> 194
 ITERAÇÃO: 14 - Atraso: 194
 
 Sequencia inicial 1 -> 194
 ITERAÇÃO: 15 - Atraso: 194
 
-Sequencia inicial 1 -> 194
+Sequencia inicial 1 -> 208
+Melhor vizinho: 194
+
+Sequencia inicial 2 -> 194
 ITERAÇÃO: 16 - Atraso: 194
 
 Sequencia inicial 1 -> 194
@@ -105,17 +99,11 @@ ITERAÇÃO: 18 - Atraso: 194
 Sequencia inicial 1 -> 194
 ITERAÇÃO: 19 - Atraso: 194
 
-Sequencia inicial 1 -> 208
-Melhor vizinho: 194
-
-Sequencia inicial 2 -> 194
+Sequencia inicial 1 -> 194
 ITERAÇÃO: 20 - Atraso: 194
 
-Sequencia inicial 1 -> 208
-Melhor vizinho: 194
-
-Sequencia inicial 2 -> 194
+Sequencia inicial 1 -> 194
 Atraso Máximo Iterated Greedy (IG): 194
 Sequência de Tarefas - Solução Final IG
-4 3 2 1 5 
-Tempo: 0.001548 segundos
+4 3 2 5 1 
+Tempo: 0.0006 segundos

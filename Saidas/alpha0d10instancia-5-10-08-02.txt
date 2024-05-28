@@ -15,64 +15,103 @@ Melhor vizinho: 782
 Sequencia inicial 2 -> 782
 ITERAÇÃO: 1 - Atraso: 782
 
-Sequencia inicial 1 -> 782
+Sequencia inicial 1 -> 836
 ITERAÇÃO: 2 - Atraso: 782
 
 Sequencia inicial 1 -> 836
-Melhor vizinho: 782
-
-Sequencia inicial 2 -> 782
 ITERAÇÃO: 3 - Atraso: 782
 
 Sequencia inicial 1 -> 836
-Melhor vizinho: 823
-
-Sequencia inicial 2 -> 823
-Melhor vizinho: 782
-
-Sequencia inicial 3 -> 782
 ITERAÇÃO: 4 - Atraso: 782
 
 Sequencia inicial 1 -> 836
-Melhor vizinho: 830
-
-Sequencia inicial 2 -> 830
-Melhor vizinho: 782
-
-Sequencia inicial 3 -> 782
 ITERAÇÃO: 5 - Atraso: 782
 
 Sequencia inicial 1 -> 836
-Melhor vizinho: 782
-
-Sequencia inicial 2 -> 782
 ITERAÇÃO: 6 - Atraso: 782
 
 Sequencia inicial 1 -> 836
 ITERAÇÃO: 7 - Atraso: 782
 
-Sequencia inicial 1 -> 800
+Sequencia inicial 1 -> 836
+ITERAÇÃO: 8 - Atraso: 782
+
+Sequencia inicial 1 -> 836
+ITERAÇÃO: 9 - Atraso: 782
+
+Sequencia inicial 1 -> 836
+ITERAÇÃO: 10 - Atraso: 782
+
+Sequencia inicial 1 -> 836
+ITERAÇÃO: 11 - Atraso: 782
+
+Sequencia inicial 1 -> 836
+ITERAÇÃO: 12 - Atraso: 782
+
+Sequencia inicial 1 -> 836
+ITERAÇÃO: 13 - Atraso: 782
+
+Sequencia inicial 1 -> 836
+ITERAÇÃO: 14 - Atraso: 782
+
+Sequencia inicial 1 -> 836
+ITERAÇÃO: 15 - Atraso: 782
+
+Sequencia inicial 1 -> 836
+ITERAÇÃO: 16 - Atraso: 782
+
+Sequencia inicial 1 -> 836
+ITERAÇÃO: 17 - Atraso: 782
+
+Sequencia inicial 1 -> 836
+Melhor vizinho: 782
+
+Sequencia inicial 2 -> 782
+Melhor vizinho: 771
+
+Sequencia inicial 3 -> 771
+Melhor vizinho: 757
+
+Sequencia inicial 4 -> 757
+ITERAÇÃO: 1 - Atraso: 757
+
+Sequencia inicial 1 -> 761
+Melhor vizinho: 757
+
+Sequencia inicial 2 -> 757
+ITERAÇÃO: 2 - Atraso: 757
+
+Sequencia inicial 1 -> 770
 Melhor vizinho: 760
 
 Sequencia inicial 2 -> 760
 Melhor vizinho: 757
 
 Sequencia inicial 3 -> 757
-ITERAÇÃO: 1 - Atraso: 757
-
-Sequencia inicial 1 -> 757
-ITERAÇÃO: 2 - Atraso: 757
-
-Sequencia inicial 1 -> 757
 ITERAÇÃO: 3 - Atraso: 757
 
-Sequencia inicial 1 -> 757
+Sequencia inicial 1 -> 770
+Melhor vizinho: 760
+
+Sequencia inicial 2 -> 760
+Melhor vizinho: 757
+
+Sequencia inicial 3 -> 757
 ITERAÇÃO: 4 - Atraso: 757
 
-Sequencia inicial 1 -> 757
+Sequencia inicial 1 -> 770
+Melhor vizinho: 760
+
+Sequencia inicial 2 -> 760
+Melhor vizinho: 757
+
+Sequencia inicial 3 -> 757
 ITERAÇÃO: 5 - Atraso: 757
 
-Sequencia inicial 1 -> 757
+Sequencia inicial 1 -> 760
+Melhor vizinho: 757
+
+Sequencia inicial 2 -> 757
 ITERAÇÃO: 6 - Atraso: 757
 
 Sequencia inicial 1 -> 757
@@ -81,164 +120,125 @@ ITERAÇÃO: 7 - Atraso: 757
 Sequencia inicial 1 -> 757
 ITERAÇÃO: 8 - Atraso: 757
 
-Sequencia inicial 1 -> 837
+Sequencia inicial 1 -> 757
 ITERAÇÃO: 9 - Atraso: 757
 
-Sequencia inicial 1 -> 857
-Melhor vizinho: 837
-
-Sequencia inicial 2 -> 837
-Melhor vizinho: 822
-
-Sequencia inicial 3 -> 822
-Melhor vizinho: 814
-
-Sequencia inicial 4 -> 814
-Melhor vizinho: 800
-
-Sequencia inicial 5 -> 800
-Melhor vizinho: 757
-
-Sequencia inicial 6 -> 757
+Sequencia inicial 1 -> 757
 ITERAÇÃO: 10 - Atraso: 757
 
-Sequencia inicial 1 -> 841
-Melhor vizinho: 837
-
-Sequencia inicial 2 -> 837
+Sequencia inicial 1 -> 757
 ITERAÇÃO: 11 - Atraso: 757
 
-Sequencia inicial 1 -> 837
+Sequencia inicial 1 -> 757
 ITERAÇÃO: 12 - Atraso: 757
 
 Sequencia inicial 1 -> 837
-Melhor vizinho: 834
+Melhor vizinho: 817
 
-Sequencia inicial 2 -> 834
+Sequencia inicial 2 -> 817
+Melhor vizinho: 757
+
+Sequencia inicial 3 -> 757
+ITERAÇÃO: 13 - Atraso: 757
+
+Sequencia inicial 1 -> 851
+Melhor vizinho: 788
+
+Sequencia inicial 2 -> 788
+Melhor vizinho: 777
+
+Sequencia inicial 3 -> 777
+Melhor vizinho: 775
+
+Sequencia inicial 4 -> 775
+Melhor vizinho: 768
+
+Sequencia inicial 5 -> 768
+ITERAÇÃO: 14 - Atraso: 757
+
+Sequencia inicial 1 -> 851
+Melhor vizinho: 836
+
+Sequencia inicial 2 -> 836
+Melhor vizinho: 817
+
+Sequencia inicial 3 -> 817
+Melhor vizinho: 807
+
+Sequencia inicial 4 -> 807
+Melhor vizinho: 782
+
+Sequencia inicial 5 -> 782
+ITERAÇÃO: 15 - Atraso: 757
+
+Sequencia inicial 1 -> 919
+Melhor vizinho: 857
+
+Sequencia inicial 2 -> 857
+Melhor vizinho: 836
+
+Sequencia inicial 3 -> 836
+Melhor vizinho: 817
+
+Sequencia inicial 4 -> 817
+Melhor vizinho: 782
+
+Sequencia inicial 5 -> 782
+ITERAÇÃO: 16 - Atraso: 757
+
+Sequencia inicial 1 -> 919
+Melhor vizinho: 836
+
+Sequencia inicial 2 -> 836
+ITERAÇÃO: 17 - Atraso: 757
+
+Sequencia inicial 1 -> 919
+Melhor vizinho: 837
+
+Sequencia inicial 2 -> 837
+ITERAÇÃO: 18 - Atraso: 757
+
+Sequencia inicial 1 -> 919
+Melhor vizinho: 837
+
+Sequencia inicial 2 -> 837
 Melhor vizinho: 827
 
 Sequencia inicial 3 -> 827
 Melhor vizinho: 814
 
 Sequencia inicial 4 -> 814
-Melhor vizinho: 808
+ITERAÇÃO: 19 - Atraso: 757
 
-Sequencia inicial 5 -> 808
-Melhor vizinho: 758
+Sequencia inicial 1 -> 919
+Melhor vizinho: 838
 
-Sequencia inicial 6 -> 758
-Melhor vizinho: 757
+Sequencia inicial 2 -> 838
+Melhor vizinho: 837
 
-Sequencia inicial 7 -> 757
-ITERAÇÃO: 13 - Atraso: 757
+Sequencia inicial 3 -> 837
+Melhor vizinho: 832
 
-Sequencia inicial 1 -> 837
-Melhor vizinho: 834
+Sequencia inicial 4 -> 832
+Melhor vizinho: 782
 
-Sequencia inicial 2 -> 834
-Melhor vizinho: 814
-
-Sequencia inicial 3 -> 814
-Melhor vizinho: 808
-
-Sequencia inicial 4 -> 808
-Melhor vizinho: 758
-
-Sequencia inicial 5 -> 758
+Sequencia inicial 5 -> 782
 Melhor vizinho: 757
 
 Sequencia inicial 6 -> 757
-ITERAÇÃO: 14 - Atraso: 757
-
-Sequencia inicial 1 -> 837
-Melhor vizinho: 834
-
-Sequencia inicial 2 -> 834
-Melhor vizinho: 827
-
-Sequencia inicial 3 -> 827
-Melhor vizinho: 814
-
-Sequencia inicial 4 -> 814
-Melhor vizinho: 808
-
-Sequencia inicial 5 -> 808
-Melhor vizinho: 758
-
-Sequencia inicial 6 -> 758
-Melhor vizinho: 757
-
-Sequencia inicial 7 -> 757
-ITERAÇÃO: 15 - Atraso: 757
-
-Sequencia inicial 1 -> 837
-Melhor vizinho: 826
-
-Sequencia inicial 2 -> 826
-Melhor vizinho: 776
-
-Sequencia inicial 3 -> 776
-Melhor vizinho: 757
-
-Sequencia inicial 4 -> 757
-ITERAÇÃO: 16 - Atraso: 757
-
-Sequencia inicial 1 -> 866
-Melhor vizinho: 824
-
-Sequencia inicial 2 -> 824
-Melhor vizinho: 814
-
-Sequencia inicial 3 -> 814
-Melhor vizinho: 786
-
-Sequencia inicial 4 -> 786
-Melhor vizinho: 757
-
-Sequencia inicial 5 -> 757
-ITERAÇÃO: 17 - Atraso: 757
-
-Sequencia inicial 1 -> 837
-Melhor vizinho: 809
-
-Sequencia inicial 2 -> 809
-Melhor vizinho: 769
-
-Sequencia inicial 3 -> 769
-Melhor vizinho: 757
-
-Sequencia inicial 4 -> 757
-ITERAÇÃO: 18 - Atraso: 757
-
-Sequencia inicial 1 -> 851
-Melhor vizinho: 807
-
-Sequencia inicial 2 -> 807
-Melhor vizinho: 782
-
-Sequencia inicial 3 -> 782
-ITERAÇÃO: 19 - Atraso: 757
-
-Sequencia inicial 1 -> 851
-Melhor vizinho: 816
-
-Sequencia inicial 2 -> 816
-Melhor vizinho: 807
-
-Sequencia inicial 3 -> 807
-Melhor vizinho: 782
-
-Sequencia inicial 4 -> 782
 ITERAÇÃO: 20 - Atraso: 757
 
-Sequencia inicial 1 -> 851
-Melhor vizinho: 808
+Sequencia inicial 1 -> 919
+Melhor vizinho: 831
 
-Sequencia inicial 2 -> 808
-Melhor vizinho: 807
+Sequencia inicial 2 -> 831
+Melhor vizinho: 778
 
-Sequencia inicial 3 -> 807
+Sequencia inicial 3 -> 778
+Melhor vizinho: 757
+
+Sequencia inicial 4 -> 757
 Atraso Máximo Iterated Greedy (IG): 757
 Sequência de Tarefas - Solução Final IG
-4 8 9 2 10 1 5 3 6 7 
-Tempo: 0.014883 segundos
+2 10 7 9 3 6 8 1 4 5 
+Tempo: 0.012207 segundos

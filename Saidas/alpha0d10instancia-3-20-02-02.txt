@@ -39,131 +39,89 @@ ITERAÇÃO: 3 - Atraso: 231
 Sequencia inicial 1 -> 231
 ITERAÇÃO: 4 - Atraso: 231
 
-Sequencia inicial 1 -> 244
-Melhor vizinho: 240
-
-Sequencia inicial 2 -> 240
-Melhor vizinho: 237
-
-Sequencia inicial 3 -> 237
-Melhor vizinho: 231
-
-Sequencia inicial 4 -> 231
+Sequencia inicial 1 -> 231
 ITERAÇÃO: 5 - Atraso: 231
 
-Sequencia inicial 1 -> 242
+Sequencia inicial 1 -> 231
+ITERAÇÃO: 6 - Atraso: 231
+
+Sequencia inicial 1 -> 233
 Melhor vizinho: 231
 
 Sequencia inicial 2 -> 231
-ITERAÇÃO: 6 - Atraso: 231
-
-Sequencia inicial 1 -> 231
 ITERAÇÃO: 7 - Atraso: 231
 
 Sequencia inicial 1 -> 231
 ITERAÇÃO: 8 - Atraso: 231
 
-Sequencia inicial 1 -> 238
-Melhor vizinho: 231
-
-Sequencia inicial 2 -> 231
+Sequencia inicial 1 -> 231
 ITERAÇÃO: 9 - Atraso: 231
 
 Sequencia inicial 1 -> 231
 ITERAÇÃO: 10 - Atraso: 231
 
-Sequencia inicial 1 -> 258
+Sequencia inicial 1 -> 231
 ITERAÇÃO: 11 - Atraso: 231
 
-Sequencia inicial 1 -> 258
+Sequencia inicial 1 -> 231
 ITERAÇÃO: 12 - Atraso: 231
 
-Sequencia inicial 1 -> 258
+Sequencia inicial 1 -> 231
 ITERAÇÃO: 13 - Atraso: 231
 
-Sequencia inicial 1 -> 258
+Sequencia inicial 1 -> 231
 ITERAÇÃO: 14 - Atraso: 231
 
-Sequencia inicial 1 -> 275
-Melhor vizinho: 274
+Sequencia inicial 1 -> 258
+Melhor vizinho: 231
 
-Sequencia inicial 2 -> 274
-Melhor vizinho: 263
-
-Sequencia inicial 3 -> 263
+Sequencia inicial 2 -> 231
 ITERAÇÃO: 15 - Atraso: 231
 
-Sequencia inicial 1 -> 275
-Melhor vizinho: 268
+Sequencia inicial 1 -> 258
+Melhor vizinho: 231
 
-Sequencia inicial 2 -> 268
-Melhor vizinho: 263
-
-Sequencia inicial 3 -> 263
+Sequencia inicial 2 -> 231
 ITERAÇÃO: 16 - Atraso: 231
 
 Sequencia inicial 1 -> 275
-Melhor vizinho: 268
-
-Sequencia inicial 2 -> 268
-Melhor vizinho: 263
-
-Sequencia inicial 3 -> 263
-ITERAÇÃO: 17 - Atraso: 231
-
-Sequencia inicial 1 -> 296
-ITERAÇÃO: 18 - Atraso: 231
-
-Sequencia inicial 1 -> 296
-Melhor vizinho: 290
-
-Sequencia inicial 2 -> 290
-Melhor vizinho: 257
-
-Sequencia inicial 3 -> 257
-Melhor vizinho: 253
-
-Sequencia inicial 4 -> 253
-Melhor vizinho: 240
-
-Sequencia inicial 5 -> 240
-Melhor vizinho: 232
-
-Sequencia inicial 6 -> 232
-Melhor vizinho: 231
-
-Sequencia inicial 7 -> 231
-ITERAÇÃO: 19 - Atraso: 231
-
-Sequencia inicial 1 -> 296
-Melhor vizinho: 295
-
-Sequencia inicial 2 -> 295
-Melhor vizinho: 273
-
-Sequencia inicial 3 -> 273
-Melhor vizinho: 257
-
-Sequencia inicial 4 -> 257
-Melhor vizinho: 256
-
-Sequencia inicial 5 -> 256
 Melhor vizinho: 241
 
-Sequencia inicial 6 -> 241
-Melhor vizinho: 231
-
-Sequencia inicial 7 -> 231
-ITERAÇÃO: 20 - Atraso: 231
-
-Sequencia inicial 1 -> 305
-Melhor vizinho: 270
-
-Sequencia inicial 2 -> 270
+Sequencia inicial 2 -> 241
 Melhor vizinho: 231
 
 Sequencia inicial 3 -> 231
+ITERAÇÃO: 17 - Atraso: 231
+
+Sequencia inicial 1 -> 258
+Melhor vizinho: 231
+
+Sequencia inicial 2 -> 231
+ITERAÇÃO: 18 - Atraso: 231
+
+Sequencia inicial 1 -> 261
+Melhor vizinho: 238
+
+Sequencia inicial 2 -> 238
+Melhor vizinho: 231
+
+Sequencia inicial 3 -> 231
+ITERAÇÃO: 19 - Atraso: 231
+
+Sequencia inicial 1 -> 275
+Melhor vizinho: 238
+
+Sequencia inicial 2 -> 238
+Melhor vizinho: 231
+
+Sequencia inicial 3 -> 231
+ITERAÇÃO: 20 - Atraso: 231
+
+Sequencia inicial 1 -> 275
+Melhor vizinho: 231
+
+Sequencia inicial 2 -> 231
 Atraso Máximo Iterated Greedy (IG): 231
 Sequência de Tarefas - Solução Final IG
-19 16 13 12 8 20 5 7 11 14 4 2 6 9 10 17 15 3 1 18 
-Tempo: 0.057541 segundos
+2 6 4 14 1 11 12 20 19 17 13 10 5 16 15 18 3 8 9 7 
+Tempo: 0.035728 segundos

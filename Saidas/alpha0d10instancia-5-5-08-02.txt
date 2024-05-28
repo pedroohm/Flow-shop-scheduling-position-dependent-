@@ -18,29 +18,11 @@ Melhor vizinho: 480
 Sequencia inicial 3 -> 480
 ITERAÇÃO: 1 - Atraso: 480
 
-Sequencia inicial 1 -> 480
+Sequencia inicial 1 -> 481
 ITERAÇÃO: 2 - Atraso: 480
 
-Sequencia inicial 1 -> 480
+Sequencia inicial 1 -> 481
 ITERAÇÃO: 3 - Atraso: 480
-
-Sequencia inicial 1 -> 480
-ITERAÇÃO: 4 - Atraso: 480
-
-Sequencia inicial 1 -> 481
-ITERAÇÃO: 5 - Atraso: 480
-
-Sequencia inicial 1 -> 481
-ITERAÇÃO: 6 - Atraso: 480
-
-Sequencia inicial 1 -> 481
-ITERAÇÃO: 7 - Atraso: 480
-
-Sequencia inicial 1 -> 481
-ITERAÇÃO: 8 - Atraso: 480
-
-Sequencia inicial 1 -> 481
-ITERAÇÃO: 9 - Atraso: 480
 
 Sequencia inicial 1 -> 453
 ITERAÇÃO: 1 - Atraso: 453
@@ -87,10 +69,16 @@ Melhor vizinho: 453
 Sequencia inicial 2 -> 453
 ITERAÇÃO: 9 - Atraso: 453
 
-Sequencia inicial 1 -> 453
+Sequencia inicial 1 -> 477
+Melhor vizinho: 453
+
+Sequencia inicial 2 -> 453
 ITERAÇÃO: 10 - Atraso: 453
 
-Sequencia inicial 1 -> 453
+Sequencia inicial 1 -> 477
+Melhor vizinho: 453
+
+Sequencia inicial 2 -> 453
 ITERAÇÃO: 11 - Atraso: 453
 
 Sequencia inicial 1 -> 453
@@ -99,7 +87,10 @@ ITERAÇÃO: 12 - Atraso: 453
 Sequencia inicial 1 -> 453
 ITERAÇÃO: 13 - Atraso: 453
 
-Sequencia inicial 1 -> 453
+Sequencia inicial 1 -> 477
+Melhor vizinho: 453
+
+Sequencia inicial 2 -> 453
 ITERAÇÃO: 14 - Atraso: 453
 
 Sequencia inicial 1 -> 477
@@ -120,10 +111,7 @@ Melhor vizinho: 453
 Sequencia inicial 2 -> 453
 ITERAÇÃO: 17 - Atraso: 453
 
-Sequencia inicial 1 -> 477
-Melhor vizinho: 453
-
-Sequencia inicial 2 -> 453
+Sequencia inicial 1 -> 453
 ITERAÇÃO: 18 - Atraso: 453
 
 Sequencia inicial 1 -> 477
@@ -138,8 +126,11 @@ Melhor vizinho: 453
 Sequencia inicial 2 -> 453
 ITERAÇÃO: 20 - Atraso: 453
 
-Sequencia inicial 1 -> 453
+Sequencia inicial 1 -> 477
+Melhor vizinho: 453
+
+Sequencia inicial 2 -> 453
 Atraso Máximo Iterated Greedy (IG): 453
 Sequência de Tarefas - Solução Final IG
-4 3 2 1 5 
-Tempo: 0.001242 segundos
+4 3 2 5 1 
+Tempo: 0.000641 segundos

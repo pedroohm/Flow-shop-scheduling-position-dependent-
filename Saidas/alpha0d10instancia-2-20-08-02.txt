@@ -21,128 +21,74 @@ Melhor vizinho: 956
 Sequencia inicial 4 -> 956
 ITERAÇÃO: 1 - Atraso: 956
 
-Sequencia inicial 1 -> 986
-Melhor vizinho: 963
-
-Sequencia inicial 2 -> 963
-ITERAÇÃO: 2 - Atraso: 956
-
-Sequencia inicial 1 -> 986
+Sequencia inicial 1 -> 983
 Melhor vizinho: 966
 
 Sequencia inicial 2 -> 966
+ITERAÇÃO: 2 - Atraso: 956
+
+Sequencia inicial 1 -> 967
+Melhor vizinho: 956
+
+Sequencia inicial 2 -> 956
 ITERAÇÃO: 3 - Atraso: 956
 
 Sequencia inicial 1 -> 967
-Melhor vizinho: 966
+Melhor vizinho: 956
 
-Sequencia inicial 2 -> 966
+Sequencia inicial 2 -> 956
 ITERAÇÃO: 4 - Atraso: 956
 
-Sequencia inicial 1 -> 967
-Melhor vizinho: 966
-
-Sequencia inicial 2 -> 966
+Sequencia inicial 1 -> 956
 ITERAÇÃO: 5 - Atraso: 956
 
-Sequencia inicial 1 -> 967
-Melhor vizinho: 966
-
-Sequencia inicial 2 -> 966
+Sequencia inicial 1 -> 956
 ITERAÇÃO: 6 - Atraso: 956
 
-Sequencia inicial 1 -> 967
-Melhor vizinho: 966
-
-Sequencia inicial 2 -> 966
+Sequencia inicial 1 -> 956
 ITERAÇÃO: 7 - Atraso: 956
 
-Sequencia inicial 1 -> 967
-Melhor vizinho: 966
-
-Sequencia inicial 2 -> 966
+Sequencia inicial 1 -> 956
 ITERAÇÃO: 8 - Atraso: 956
 
-Sequencia inicial 1 -> 967
-Melhor vizinho: 966
-
-Sequencia inicial 2 -> 966
+Sequencia inicial 1 -> 956
 ITERAÇÃO: 9 - Atraso: 956
 
-Sequencia inicial 1 -> 967
-Melhor vizinho: 956
-
-Sequencia inicial 2 -> 956
+Sequencia inicial 1 -> 956
 ITERAÇÃO: 10 - Atraso: 956
 
-Sequencia inicial 1 -> 967
-Melhor vizinho: 956
-
-Sequencia inicial 2 -> 956
+Sequencia inicial 1 -> 956
 ITERAÇÃO: 11 - Atraso: 956
 
-Sequencia inicial 1 -> 967
-Melhor vizinho: 956
-
-Sequencia inicial 2 -> 956
+Sequencia inicial 1 -> 956
 ITERAÇÃO: 12 - Atraso: 956
 
-Sequencia inicial 1 -> 967
-Melhor vizinho: 956
-
-Sequencia inicial 2 -> 956
+Sequencia inicial 1 -> 956
 ITERAÇÃO: 13 - Atraso: 956
 
-Sequencia inicial 1 -> 967
-Melhor vizinho: 956
-
-Sequencia inicial 2 -> 956
+Sequencia inicial 1 -> 956
 ITERAÇÃO: 14 - Atraso: 956
 
-Sequencia inicial 1 -> 967
-Melhor vizinho: 956
-
-Sequencia inicial 2 -> 956
+Sequencia inicial 1 -> 956
 ITERAÇÃO: 15 - Atraso: 956
 
-Sequencia inicial 1 -> 997
-Melhor vizinho: 967
-
-Sequencia inicial 2 -> 967
-Melhor vizinho: 956
-
-Sequencia inicial 3 -> 956
+Sequencia inicial 1 -> 956
 ITERAÇÃO: 16 - Atraso: 956
 
-Sequencia inicial 1 -> 967
-Melhor vizinho: 956
-
-Sequencia inicial 2 -> 956
+Sequencia inicial 1 -> 956
 ITERAÇÃO: 17 - Atraso: 956
 
-Sequencia inicial 1 -> 997
-Melhor vizinho: 967
-
-Sequencia inicial 2 -> 967
-Melhor vizinho: 956
-
-Sequencia inicial 3 -> 956
+Sequencia inicial 1 -> 956
 ITERAÇÃO: 18 - Atraso: 956
 
-Sequencia inicial 1 -> 997
-Melhor vizinho: 966
-
-Sequencia inicial 2 -> 966
+Sequencia inicial 1 -> 956
 ITERAÇÃO: 19 - Atraso: 956
 
-Sequencia inicial 1 -> 967
-Melhor vizinho: 956
-
-Sequencia inicial 2 -> 956
+Sequencia inicial 1 -> 956
 ITERAÇÃO: 20 - Atraso: 956
 
 Sequencia inicial 1 -> 956
 Atraso Máximo Iterated Greedy (IG): 956
 Sequência de Tarefas - Solução Final IG
-15 3 20 5 10 12 8 11 17 9 18 14 13 6 2 1 19 4 16 7 
-Tempo: 0.046438 segundos
+13 20 12 19 16 6 9 2 14 5 3 15 10 11 17 18 1 8 4 7 
+Tempo: 0.021092 segundos

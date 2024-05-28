@@ -24,10 +24,16 @@ Melhor vizinho: 313.129
 Sequencia inicial 5 -> 313.129
 ITERAÇÃO: 1 - Atraso: 313.129
 
-Sequencia inicial 1 -> 313.129
+Sequencia inicial 1 -> 314.189
+Melhor vizinho: 313.129
+
+Sequencia inicial 2 -> 313.129
 ITERAÇÃO: 2 - Atraso: 313.129
 
-Sequencia inicial 1 -> 313.129
+Sequencia inicial 1 -> 314.189
+Melhor vizinho: 313.129
+
+Sequencia inicial 2 -> 313.129
 ITERAÇÃO: 3 - Atraso: 313.129
 
 Sequencia inicial 1 -> 313.129
@@ -36,52 +42,34 @@ ITERAÇÃO: 4 - Atraso: 313.129
 Sequencia inicial 1 -> 313.129
 ITERAÇÃO: 5 - Atraso: 313.129
 
-Sequencia inicial 1 -> 314.189
-Melhor vizinho: 313.129
-
-Sequencia inicial 2 -> 313.129
+Sequencia inicial 1 -> 313.129
 ITERAÇÃO: 6 - Atraso: 313.129
 
-Sequencia inicial 1 -> 314.189
-Melhor vizinho: 313.129
-
-Sequencia inicial 2 -> 313.129
+Sequencia inicial 1 -> 313.129
 ITERAÇÃO: 7 - Atraso: 313.129
 
-Sequencia inicial 1 -> 314.189
-Melhor vizinho: 313.129
-
-Sequencia inicial 2 -> 313.129
+Sequencia inicial 1 -> 313.129
 ITERAÇÃO: 8 - Atraso: 313.129
 
-Sequencia inicial 1 -> 314.189
-Melhor vizinho: 313.129
-
-Sequencia inicial 2 -> 313.129
+Sequencia inicial 1 -> 313.129
 ITERAÇÃO: 9 - Atraso: 313.129
 
-Sequencia inicial 1 -> 314.189
-Melhor vizinho: 313.129
-
-Sequencia inicial 2 -> 313.129
+Sequencia inicial 1 -> 313.129
 ITERAÇÃO: 10 - Atraso: 313.129
 
-Sequencia inicial 1 -> 314.189
-Melhor vizinho: 313.129
-
-Sequencia inicial 2 -> 313.129
+Sequencia inicial 1 -> 313.129
 ITERAÇÃO: 11 - Atraso: 313.129
 
-Sequencia inicial 1 -> 314.189
-Melhor vizinho: 313.129
-
-Sequencia inicial 2 -> 313.129
+Sequencia inicial 1 -> 313.129
 ITERAÇÃO: 12 - Atraso: 313.129
 
 Sequencia inicial 1 -> 313.129
 ITERAÇÃO: 13 - Atraso: 313.129
 
-Sequencia inicial 1 -> 313.129
+Sequencia inicial 1 -> 314.189
+Melhor vizinho: 313.129
+
+Sequencia inicial 2 -> 313.129
 ITERAÇÃO: 14 - Atraso: 313.129
 
 Sequencia inicial 1 -> 314.189
@@ -127,4 +115,4 @@ Sequencia inicial 2 -> 313.129
 Atraso Máximo Iterated Greedy (IG): 313.129
 Sequência de Tarefas - Solução Final IG
 3 2 1 4 5 
-Tempo: 0.000918 segundos
+Tempo: 0.000453 segundos

@@ -21,128 +21,173 @@ Melhor vizinho: 774
 Sequencia inicial 4 -> 774
 ITERAÇÃO: 1 - Atraso: 774
 
-Sequencia inicial 1 -> 779
+Sequencia inicial 1 -> 842
 Melhor vizinho: 774
 
 Sequencia inicial 2 -> 774
 ITERAÇÃO: 2 - Atraso: 774
 
-Sequencia inicial 1 -> 775
+Sequencia inicial 1 -> 842
+Melhor vizinho: 785
+
+Sequencia inicial 2 -> 785
 Melhor vizinho: 774
 
-Sequencia inicial 2 -> 774
+Sequencia inicial 3 -> 774
 ITERAÇÃO: 3 - Atraso: 774
 
-Sequencia inicial 1 -> 774
+Sequencia inicial 1 -> 842
+Melhor vizinho: 774
+
+Sequencia inicial 2 -> 774
 ITERAÇÃO: 4 - Atraso: 774
 
-Sequencia inicial 1 -> 774
+Sequencia inicial 1 -> 845
+Melhor vizinho: 815
+
+Sequencia inicial 2 -> 815
+Melhor vizinho: 805
+
+Sequencia inicial 3 -> 805
 ITERAÇÃO: 5 - Atraso: 774
 
-Sequencia inicial 1 -> 774
+Sequencia inicial 1 -> 842
+Melhor vizinho: 812
+
+Sequencia inicial 2 -> 812
+Melhor vizinho: 805
+
+Sequencia inicial 3 -> 805
 ITERAÇÃO: 6 - Atraso: 774
 
-Sequencia inicial 1 -> 774
+Sequencia inicial 1 -> 842
+Melhor vizinho: 821
+
+Sequencia inicial 2 -> 821
+Melhor vizinho: 786
+
+Sequencia inicial 3 -> 786
 ITERAÇÃO: 7 - Atraso: 774
 
-Sequencia inicial 1 -> 805
-Melhor vizinho: 774
+Sequencia inicial 1 -> 821
+Melhor vizinho: 800
 
-Sequencia inicial 2 -> 774
+Sequencia inicial 2 -> 800
+Melhor vizinho: 786
+
+Sequencia inicial 3 -> 786
 ITERAÇÃO: 8 - Atraso: 774
 
-Sequencia inicial 1 -> 805
+Sequencia inicial 1 -> 851
+Melhor vizinho: 787
+
+Sequencia inicial 2 -> 787
 Melhor vizinho: 774
 
-Sequencia inicial 2 -> 774
+Sequencia inicial 3 -> 774
 ITERAÇÃO: 9 - Atraso: 774
 
-Sequencia inicial 1 -> 820
+Sequencia inicial 1 -> 863
+Melhor vizinho: 821
+
+Sequencia inicial 2 -> 821
+Melhor vizinho: 800
+
+Sequencia inicial 3 -> 800
+Melhor vizinho: 786
+
+Sequencia inicial 4 -> 786
+Melhor vizinho: 774
+
+Sequencia inicial 5 -> 774
+ITERAÇÃO: 10 - Atraso: 774
+
+Sequencia inicial 1 -> 863
+Melhor vizinho: 798
+
+Sequencia inicial 2 -> 798
+Melhor vizinho: 774
+
+Sequencia inicial 3 -> 774
+ITERAÇÃO: 11 - Atraso: 774
+
+Sequencia inicial 1 -> 863
+Melhor vizinho: 792
+
+Sequencia inicial 2 -> 792
+Melhor vizinho: 774
+
+Sequencia inicial 3 -> 774
+ITERAÇÃO: 12 - Atraso: 774
+
+Sequencia inicial 1 -> 863
+Melhor vizinho: 806
+
+Sequencia inicial 2 -> 806
+Melhor vizinho: 775
+
+Sequencia inicial 3 -> 775
+Melhor vizinho: 774
+
+Sequencia inicial 4 -> 774
+ITERAÇÃO: 13 - Atraso: 774
+
+Sequencia inicial 1 -> 863
+Melhor vizinho: 806
+
+Sequencia inicial 2 -> 806
+Melhor vizinho: 775
+
+Sequencia inicial 3 -> 775
+Melhor vizinho: 774
+
+Sequencia inicial 4 -> 774
+ITERAÇÃO: 14 - Atraso: 774
+
+Sequencia inicial 1 -> 863
+Melhor vizinho: 821
+
+Sequencia inicial 2 -> 821
+Melhor vizinho: 805
+
+Sequencia inicial 3 -> 805
+ITERAÇÃO: 15 - Atraso: 774
+
+Sequencia inicial 1 -> 836
+Melhor vizinho: 807
+
+Sequencia inicial 2 -> 807
+Melhor vizinho: 805
+
+Sequencia inicial 3 -> 805
+ITERAÇÃO: 16 - Atraso: 774
+
+Sequencia inicial 1 -> 821
 Melhor vizinho: 805
 
 Sequencia inicial 2 -> 805
-Melhor vizinho: 774
-
-Sequencia inicial 3 -> 774
-ITERAÇÃO: 10 - Atraso: 774
-
-Sequencia inicial 1 -> 806
-Melhor vizinho: 774
-
-Sequencia inicial 2 -> 774
-ITERAÇÃO: 11 - Atraso: 774
-
-Sequencia inicial 1 -> 805
-Melhor vizinho: 774
-
-Sequencia inicial 2 -> 774
-ITERAÇÃO: 12 - Atraso: 774
-
-Sequencia inicial 1 -> 805
-Melhor vizinho: 774
-
-Sequencia inicial 2 -> 774
-ITERAÇÃO: 13 - Atraso: 774
-
-Sequencia inicial 1 -> 805
-Melhor vizinho: 774
-
-Sequencia inicial 2 -> 774
-ITERAÇÃO: 14 - Atraso: 774
-
-Sequencia inicial 1 -> 805
-Melhor vizinho: 774
-
-Sequencia inicial 2 -> 774
-ITERAÇÃO: 15 - Atraso: 774
-
-Sequencia inicial 1 -> 805
-Melhor vizinho: 774
-
-Sequencia inicial 2 -> 774
-ITERAÇÃO: 16 - Atraso: 774
-
-Sequencia inicial 1 -> 805
-Melhor vizinho: 774
-
-Sequencia inicial 2 -> 774
 ITERAÇÃO: 17 - Atraso: 774
 
-Sequencia inicial 1 -> 805
-Melhor vizinho: 786
+Sequencia inicial 1 -> 821
+Melhor vizinho: 813
 
-Sequencia inicial 2 -> 786
-Melhor vizinho: 774
+Sequencia inicial 2 -> 813
+Melhor vizinho: 805
 
-Sequencia inicial 3 -> 774
+Sequencia inicial 3 -> 805
 ITERAÇÃO: 18 - Atraso: 774
 
-Sequencia inicial 1 -> 805
-Melhor vizinho: 786
+Sequencia inicial 1 -> 821
+Melhor vizinho: 805
 
-Sequencia inicial 2 -> 786
-Melhor vizinho: 774
-
-Sequencia inicial 3 -> 774
+Sequencia inicial 2 -> 805
 ITERAÇÃO: 19 - Atraso: 774
 
-Sequencia inicial 1 -> 851
-Melhor vizinho: 798
-
-Sequencia inicial 2 -> 798
-Melhor vizinho: 774
-
-Sequencia inicial 3 -> 774
+Sequencia inicial 1 -> 805
 ITERAÇÃO: 20 - Atraso: 774
 
-Sequencia inicial 1 -> 851
-Melhor vizinho: 798
-
-Sequencia inicial 2 -> 798
-Melhor vizinho: 774
-
-Sequencia inicial 3 -> 774
+Sequencia inicial 1 -> 821
 Atraso Máximo Iterated Greedy (IG): 774
 Sequência de Tarefas - Solução Final IG
-1 15 11 6 4 16 17 13 20 5 8 3 12 10 18 19 9 7 2 14 
-Tempo: 0.053375 segundos
+7 17 4 15 3 19 13 9 20 11 1 5 10 12 8 6 16 14 2 18 
+Tempo: 0.053462 segundos

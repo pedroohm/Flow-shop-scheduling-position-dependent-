@@ -30,7 +30,10 @@ ITERAÇÃO: 1 - Atraso: 271
 Sequencia inicial 1 -> 271
 ITERAÇÃO: 2 - Atraso: 271
 
-Sequencia inicial 1 -> 271
+Sequencia inicial 1 -> 272
+Melhor vizinho: 271
+
+Sequencia inicial 2 -> 271
 ITERAÇÃO: 3 - Atraso: 271
 
 Sequencia inicial 1 -> 272
@@ -75,40 +78,22 @@ Melhor vizinho: 271
 Sequencia inicial 2 -> 271
 ITERAÇÃO: 10 - Atraso: 271
 
-Sequencia inicial 1 -> 272
-Melhor vizinho: 271
-
-Sequencia inicial 2 -> 271
+Sequencia inicial 1 -> 271
 ITERAÇÃO: 11 - Atraso: 271
 
-Sequencia inicial 1 -> 272
-Melhor vizinho: 271
-
-Sequencia inicial 2 -> 271
+Sequencia inicial 1 -> 271
 ITERAÇÃO: 12 - Atraso: 271
 
-Sequencia inicial 1 -> 272
-Melhor vizinho: 271
-
-Sequencia inicial 2 -> 271
+Sequencia inicial 1 -> 271
 ITERAÇÃO: 13 - Atraso: 271
 
-Sequencia inicial 1 -> 272
-Melhor vizinho: 271
-
-Sequencia inicial 2 -> 271
+Sequencia inicial 1 -> 271
 ITERAÇÃO: 14 - Atraso: 271
 
-Sequencia inicial 1 -> 272
-Melhor vizinho: 271
-
-Sequencia inicial 2 -> 271
+Sequencia inicial 1 -> 271
 ITERAÇÃO: 15 - Atraso: 271
 
-Sequencia inicial 1 -> 272
-Melhor vizinho: 271
-
-Sequencia inicial 2 -> 271
+Sequencia inicial 1 -> 271
 ITERAÇÃO: 16 - Atraso: 271
 
 Sequencia inicial 1 -> 271
@@ -127,4 +112,4 @@ Sequencia inicial 1 -> 271
 Atraso Máximo Iterated Greedy (IG): 271
 Sequência de Tarefas - Solução Final IG
 3 1 5 2 4 
-Tempo: 0.000756 segundos
+Tempo: 0.000641 segundos

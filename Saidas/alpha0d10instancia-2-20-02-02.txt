@@ -18,7 +18,10 @@ Melhor vizinho: 344
 Sequencia inicial 3 -> 344
 ITERAÇÃO: 1 - Atraso: 344
 
-Sequencia inicial 1 -> 344
+Sequencia inicial 1 -> 386
+Melhor vizinho: 344
+
+Sequencia inicial 2 -> 344
 ITERAÇÃO: 2 - Atraso: 344
 
 Sequencia inicial 1 -> 344
@@ -30,68 +33,101 @@ ITERAÇÃO: 4 - Atraso: 344
 Sequencia inicial 1 -> 344
 ITERAÇÃO: 5 - Atraso: 344
 
-Sequencia inicial 1 -> 344
+Sequencia inicial 1 -> 390
+Melhor vizinho: 386
+
+Sequencia inicial 2 -> 386
+Melhor vizinho: 359
+
+Sequencia inicial 3 -> 359
+Melhor vizinho: 344
+
+Sequencia inicial 4 -> 344
 ITERAÇÃO: 6 - Atraso: 344
 
-Sequencia inicial 1 -> 344
+Sequencia inicial 1 -> 390
+Melhor vizinho: 386
+
+Sequencia inicial 2 -> 386
+Melhor vizinho: 352
+
+Sequencia inicial 3 -> 352
+Melhor vizinho: 344
+
+Sequencia inicial 4 -> 344
 ITERAÇÃO: 7 - Atraso: 344
 
-Sequencia inicial 1 -> 344
+Sequencia inicial 1 -> 390
+Melhor vizinho: 386
+
+Sequencia inicial 2 -> 386
+Melhor vizinho: 353
+
+Sequencia inicial 3 -> 353
+Melhor vizinho: 344
+
+Sequencia inicial 4 -> 344
 ITERAÇÃO: 8 - Atraso: 344
 
-Sequencia inicial 1 -> 386
+Sequencia inicial 1 -> 381
+Melhor vizinho: 358
+
+Sequencia inicial 2 -> 358
+Melhor vizinho: 344
+
+Sequencia inicial 3 -> 344
 ITERAÇÃO: 9 - Atraso: 344
 
-Sequencia inicial 1 -> 386
+Sequencia inicial 1 -> 344
 ITERAÇÃO: 10 - Atraso: 344
 
 Sequencia inicial 1 -> 386
 ITERAÇÃO: 11 - Atraso: 344
 
-Sequencia inicial 1 -> 390
-Melhor vizinho: 386
-
-Sequencia inicial 2 -> 386
+Sequencia inicial 1 -> 386
 ITERAÇÃO: 12 - Atraso: 344
 
-Sequencia inicial 1 -> 390
-Melhor vizinho: 386
-
-Sequencia inicial 2 -> 386
+Sequencia inicial 1 -> 386
 ITERAÇÃO: 13 - Atraso: 344
 
+Sequencia inicial 1 -> 386
+ITERAÇÃO: 14 - Atraso: 344
+
 Sequencia inicial 1 -> 390
 Melhor vizinho: 386
 
 Sequencia inicial 2 -> 386
-ITERAÇÃO: 14 - Atraso: 344
-
-Sequencia inicial 1 -> 386
 ITERAÇÃO: 15 - Atraso: 344
 
-Sequencia inicial 1 -> 386
+Sequencia inicial 1 -> 390
+Melhor vizinho: 386
+
+Sequencia inicial 2 -> 386
 ITERAÇÃO: 16 - Atraso: 344
 
-Sequencia inicial 1 -> 386
+Sequencia inicial 1 -> 390
+Melhor vizinho: 386
+
+Sequencia inicial 2 -> 386
 ITERAÇÃO: 17 - Atraso: 344
 
-Sequencia inicial 1 -> 407
-Melhor vizinho: 344
-
-Sequencia inicial 2 -> 344
+Sequencia inicial 1 -> 390
 ITERAÇÃO: 18 - Atraso: 344
 
-Sequencia inicial 1 -> 407
-Melhor vizinho: 344
-
-Sequencia inicial 2 -> 344
+Sequencia inicial 1 -> 390
 ITERAÇÃO: 19 - Atraso: 344
 
-Sequencia inicial 1 -> 344
+Sequencia inicial 1 -> 390
 ITERAÇÃO: 20 - Atraso: 344
 
-Sequencia inicial 1 -> 344
+Sequencia inicial 1 -> 390
+Melhor vizinho: 378
+
+Sequencia inicial 2 -> 378
+Melhor vizinho: 344
+
+Sequencia inicial 3 -> 344
 Atraso Máximo Iterated Greedy (IG): 344
 Sequência de Tarefas - Solução Final IG
-4 14 2 8 10 11 9 19 5 3 18 20 17 12 6 13 16 1 15 7 
-Tempo: 0.033355 segundos
+13 2 18 19 14 15 5 12 1 10 7 16 6 4 11 3 17 9 8 20 
+Tempo: 0.02822 segundos

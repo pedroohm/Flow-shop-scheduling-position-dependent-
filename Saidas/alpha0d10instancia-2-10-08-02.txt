@@ -30,37 +30,55 @@ ITERAÇÃO: 3 - Atraso: 434
 Sequencia inicial 1 -> 434
 ITERAÇÃO: 4 - Atraso: 434
 
-Sequencia inicial 1 -> 434
+Sequencia inicial 1 -> 435
+Melhor vizinho: 434
+
+Sequencia inicial 2 -> 434
 ITERAÇÃO: 5 - Atraso: 434
 
-Sequencia inicial 1 -> 434
+Sequencia inicial 1 -> 435
+Melhor vizinho: 434
+
+Sequencia inicial 2 -> 434
 ITERAÇÃO: 6 - Atraso: 434
 
-Sequencia inicial 1 -> 434
+Sequencia inicial 1 -> 435
+Melhor vizinho: 434
+
+Sequencia inicial 2 -> 434
 ITERAÇÃO: 7 - Atraso: 434
 
-Sequencia inicial 1 -> 434
+Sequencia inicial 1 -> 435
+Melhor vizinho: 434
+
+Sequencia inicial 2 -> 434
 ITERAÇÃO: 8 - Atraso: 434
 
-Sequencia inicial 1 -> 471
+Sequencia inicial 1 -> 435
+Melhor vizinho: 434
+
+Sequencia inicial 2 -> 434
 ITERAÇÃO: 9 - Atraso: 434
 
-Sequencia inicial 1 -> 471
+Sequencia inicial 1 -> 463
+Melhor vizinho: 435
+
+Sequencia inicial 2 -> 435
+Melhor vizinho: 434
+
+Sequencia inicial 3 -> 434
 ITERAÇÃO: 10 - Atraso: 434
 
 Sequencia inicial 1 -> 463
-Melhor vizinho: 446
+Melhor vizinho: 447
 
-Sequencia inicial 2 -> 446
-Melhor vizinho: 435
-
-Sequencia inicial 3 -> 435
+Sequencia inicial 2 -> 447
 Melhor vizinho: 434
 
-Sequencia inicial 4 -> 434
+Sequencia inicial 3 -> 434
 ITERAÇÃO: 11 - Atraso: 434
 
-Sequencia inicial 1 -> 446
+Sequencia inicial 1 -> 463
 Melhor vizinho: 435
 
 Sequencia inicial 2 -> 435
@@ -70,30 +88,30 @@ Sequencia inicial 3 -> 434
 ITERAÇÃO: 12 - Atraso: 434
 
 Sequencia inicial 1 -> 463
-Melhor vizinho: 460
-
-Sequencia inicial 2 -> 460
 Melhor vizinho: 435
 
-Sequencia inicial 3 -> 435
+Sequencia inicial 2 -> 435
 Melhor vizinho: 434
 
-Sequencia inicial 4 -> 434
+Sequencia inicial 3 -> 434
 ITERAÇÃO: 13 - Atraso: 434
+
+Sequencia inicial 1 -> 463
+Melhor vizinho: 435
+
+Sequencia inicial 2 -> 435
+Melhor vizinho: 434
+
+Sequencia inicial 3 -> 434
+ITERAÇÃO: 14 - Atraso: 434
 
 Sequencia inicial 1 -> 463
 Melhor vizinho: 434
 
 Sequencia inicial 2 -> 434
-ITERAÇÃO: 14 - Atraso: 434
-
-Sequencia inicial 1 -> 435
-Melhor vizinho: 434
-
-Sequencia inicial 2 -> 434
 ITERAÇÃO: 15 - Atraso: 434
 
-Sequencia inicial 1 -> 435
+Sequencia inicial 1 -> 463
 Melhor vizinho: 434
 
 Sequencia inicial 2 -> 434
@@ -106,24 +124,33 @@ Sequencia inicial 2 -> 434
 ITERAÇÃO: 17 - Atraso: 434
 
 Sequencia inicial 1 -> 463
-Melhor vizinho: 456
+Melhor vizinho: 438
 
-Sequencia inicial 2 -> 456
-Melhor vizinho: 441
-
-Sequencia inicial 3 -> 441
+Sequencia inicial 2 -> 438
 Melhor vizinho: 435
 
-Sequencia inicial 4 -> 435
+Sequencia inicial 3 -> 435
+Melhor vizinho: 434
+
+Sequencia inicial 4 -> 434
 ITERAÇÃO: 18 - Atraso: 434
 
 Sequencia inicial 1 -> 463
+Melhor vizinho: 448
+
+Sequencia inicial 2 -> 448
+Melhor vizinho: 435
+
+Sequencia inicial 3 -> 435
+Melhor vizinho: 434
+
+Sequencia inicial 4 -> 434
 ITERAÇÃO: 19 - Atraso: 434
 
 Sequencia inicial 1 -> 463
-Melhor vizinho: 462
+Melhor vizinho: 456
 
-Sequencia inicial 2 -> 462
+Sequencia inicial 2 -> 456
 Melhor vizinho: 435
 
 Sequencia inicial 3 -> 435
@@ -132,14 +159,11 @@ Melhor vizinho: 434
 Sequencia inicial 4 -> 434
 ITERAÇÃO: 20 - Atraso: 434
 
-Sequencia inicial 1 -> 457
-Melhor vizinho: 436
-
-Sequencia inicial 2 -> 436
+Sequencia inicial 1 -> 463
 Melhor vizinho: 434
 
-Sequencia inicial 3 -> 434
+Sequencia inicial 2 -> 434
 Atraso Máximo Iterated Greedy (IG): 434
 Sequência de Tarefas - Solução Final IG
-4 10 7 9 3 1 6 8 5 2 
-Tempo: 0.004057 segundos
+3 8 4 7 6 2 10 1 9 5 
+Tempo: 0.00569 segundos
