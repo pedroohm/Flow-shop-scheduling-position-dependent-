@@ -1,0 +1,227 @@
+
+Calculando TP
+TP calculada
+Sequência de Tarefas - Solução Inicial EDD
+Atraso Máximo da solução inicial EDD: 1.4713e+06
+
+Sequência de Tarefas - Solução Inicial Tempos Medios
+Atraso Máximo da solução inicial Tempos Medios: 1.4642e+06
+
+ITERAÇÃO: 1 - Atraso: 1.4642e+06
+
+ITERAÇÃO: 1 - Atraso: 1.37823e+06
+
+ITERAÇÃO: 1 - Atraso: 1.37105e+06
+
+ITERAÇÃO: 1 - Atraso: 1.34532e+06
+
+ITERAÇÃO: 1 - Atraso: 1.34011e+06
+
+ITERAÇÃO: 1 - Atraso: 1.33451e+06
+
+ITERAÇÃO: 1 - Atraso: 1.32846e+06
+
+ITERAÇÃO: 1 - Atraso: 1.32631e+06
+
+ITERAÇÃO: 1 - Atraso: 1.32407e+06
+
+ITERAÇÃO: 1 - Atraso: 1.32142e+06
+
+ITERAÇÃO: 2 - Atraso: 1.32142e+06
+
+ITERAÇÃO: 3 - Atraso: 1.32142e+06
+
+ITERAÇÃO: 1 - Atraso: 1.32084e+06
+
+ITERAÇÃO: 1 - Atraso: 1.31516e+06
+
+ITERAÇÃO: 1 - Atraso: 1.31235e+06
+
+ITERAÇÃO: 1 - Atraso: 1.3075e+06
+
+ITERAÇÃO: 2 - Atraso: 1.3075e+06
+
+ITERAÇÃO: 1 - Atraso: 1.2976e+06
+
+ITERAÇÃO: 2 - Atraso: 1.2976e+06
+
+ITERAÇÃO: 3 - Atraso: 1.2976e+06
+
+ITERAÇÃO: 4 - Atraso: 1.2976e+06
+
+ITERAÇÃO: 5 - Atraso: 1.2976e+06
+
+ITERAÇÃO: 6 - Atraso: 1.2976e+06
+
+ITERAÇÃO: 7 - Atraso: 1.2976e+06
+
+ITERAÇÃO: 8 - Atraso: 1.2976e+06
+
+ITERAÇÃO: 9 - Atraso: 1.2976e+06
+
+ITERAÇÃO: 10 - Atraso: 1.2976e+06
+
+ITERAÇÃO: 11 - Atraso: 1.2976e+06
+
+ITERAÇÃO: 12 - Atraso: 1.2976e+06
+
+ITERAÇÃO: 13 - Atraso: 1.2976e+06
+
+ITERAÇÃO: 14 - Atraso: 1.2976e+06
+
+ITERAÇÃO: 1 - Atraso: 1.2975e+06
+
+ITERAÇÃO: 2 - Atraso: 1.2975e+06
+
+ITERAÇÃO: 1 - Atraso: 1.2973e+06
+
+ITERAÇÃO: 1 - Atraso: 1.29572e+06
+
+ITERAÇÃO: 2 - Atraso: 1.29572e+06
+
+ITERAÇÃO: 3 - Atraso: 1.29572e+06
+
+ITERAÇÃO: 1 - Atraso: 1.2957e+06
+
+ITERAÇÃO: 2 - Atraso: 1.2957e+06
+
+ITERAÇÃO: 3 - Atraso: 1.2957e+06
+
+ITERAÇÃO: 4 - Atraso: 1.2957e+06
+
+ITERAÇÃO: 5 - Atraso: 1.2957e+06
+
+ITERAÇÃO: 6 - Atraso: 1.2957e+06
+
+ITERAÇÃO: 7 - Atraso: 1.2957e+06
+
+ITERAÇÃO: 8 - Atraso: 1.2957e+06
+
+ITERAÇÃO: 9 - Atraso: 1.2957e+06
+
+ITERAÇÃO: 10 - Atraso: 1.2957e+06
+
+ITERAÇÃO: 1 - Atraso: 1.29216e+06
+
+ITERAÇÃO: 2 - Atraso: 1.29216e+06
+
+ITERAÇÃO: 3 - Atraso: 1.29216e+06
+
+ITERAÇÃO: 4 - Atraso: 1.29216e+06
+
+ITERAÇÃO: 5 - Atraso: 1.29216e+06
+
+ITERAÇÃO: 6 - Atraso: 1.29216e+06
+
+ITERAÇÃO: 7 - Atraso: 1.29216e+06
+
+ITERAÇÃO: 8 - Atraso: 1.29216e+06
+
+ITERAÇÃO: 1 - Atraso: 1.28752e+06
+
+ITERAÇÃO: 2 - Atraso: 1.28752e+06
+
+ITERAÇÃO: 1 - Atraso: 1.28402e+06
+
+ITERAÇÃO: 2 - Atraso: 1.28402e+06
+
+ITERAÇÃO: 3 - Atraso: 1.28402e+06
+
+ITERAÇÃO: 4 - Atraso: 1.28402e+06
+
+ITERAÇÃO: 5 - Atraso: 1.28402e+06
+
+ITERAÇÃO: 6 - Atraso: 1.28402e+06
+
+ITERAÇÃO: 7 - Atraso: 1.28402e+06
+
+ITERAÇÃO: 8 - Atraso: 1.28402e+06
+
+ITERAÇÃO: 9 - Atraso: 1.28402e+06
+
+ITERAÇÃO: 10 - Atraso: 1.28402e+06
+
+ITERAÇÃO: 11 - Atraso: 1.28402e+06
+
+ITERAÇÃO: 12 - Atraso: 1.28402e+06
+
+ITERAÇÃO: 13 - Atraso: 1.28402e+06
+
+ITERAÇÃO: 14 - Atraso: 1.28402e+06
+
+ITERAÇÃO: 15 - Atraso: 1.28402e+06
+
+ITERAÇÃO: 16 - Atraso: 1.28402e+06
+
+ITERAÇÃO: 17 - Atraso: 1.28402e+06
+
+ITERAÇÃO: 18 - Atraso: 1.28402e+06
+
+ITERAÇÃO: 19 - Atraso: 1.28402e+06
+
+ITERAÇÃO: 20 - Atraso: 1.28402e+06
+
+ITERAÇÃO: 21 - Atraso: 1.28402e+06
+
+ITERAÇÃO: 22 - Atraso: 1.28402e+06
+
+ITERAÇÃO: 23 - Atraso: 1.28402e+06
+
+ITERAÇÃO: 24 - Atraso: 1.28402e+06
+
+ITERAÇÃO: 25 - Atraso: 1.28402e+06
+
+ITERAÇÃO: 26 - Atraso: 1.28402e+06
+
+ITERAÇÃO: 27 - Atraso: 1.28402e+06
+
+ITERAÇÃO: 28 - Atraso: 1.28402e+06
+
+ITERAÇÃO: 29 - Atraso: 1.28402e+06
+
+ITERAÇÃO: 30 - Atraso: 1.28402e+06
+
+ITERAÇÃO: 31 - Atraso: 1.28402e+06
+
+ITERAÇÃO: 32 - Atraso: 1.28402e+06
+
+ITERAÇÃO: 33 - Atraso: 1.28402e+06
+
+ITERAÇÃO: 34 - Atraso: 1.28402e+06
+
+ITERAÇÃO: 35 - Atraso: 1.28402e+06
+
+ITERAÇÃO: 36 - Atraso: 1.28402e+06
+
+ITERAÇÃO: 37 - Atraso: 1.28402e+06
+
+ITERAÇÃO: 38 - Atraso: 1.28402e+06
+
+ITERAÇÃO: 39 - Atraso: 1.28402e+06
+
+ITERAÇÃO: 40 - Atraso: 1.28402e+06
+
+ITERAÇÃO: 41 - Atraso: 1.28402e+06
+
+ITERAÇÃO: 42 - Atraso: 1.28402e+06
+
+ITERAÇÃO: 43 - Atraso: 1.28402e+06
+
+ITERAÇÃO: 44 - Atraso: 1.28402e+06
+
+ITERAÇÃO: 45 - Atraso: 1.28402e+06
+
+ITERAÇÃO: 46 - Atraso: 1.28402e+06
+
+ITERAÇÃO: 47 - Atraso: 1.28402e+06
+
+ITERAÇÃO: 48 - Atraso: 1.28402e+06
+
+ITERAÇÃO: 49 - Atraso: 1.28402e+06
+
+ITERAÇÃO: 50 - Atraso: 1.28402e+06
+
+Atraso Máximo Iterated Greedy (IG): 1.28402e+06
+Sequência de Tarefas - Solução Final IG
+266 272 238 207 24 56 33 332 275 92 101 71 217 76 41 338 159 242 55 154 302 229 208 98 205 309 63 67 282 119 79 17 62 84 146 274 70 341 211 174 171 27 149 321 16 155 8 73 273 262 296 43 141 89 5 139 113 86 21 59 47 245 199 88 26 343 116 220 168 247 335 307 346 260 259 318 125 87 258 295 148 106 349 233 236 163 253 7 99 53 6 214 228 186 82 189 50 102 23 310 126 45 279 202 145 34 133 271 60 300 250 252 311 120 94 118 3 48 30 291 327 193 190 9 330 224 28 46 313 263 114 281 143 85 278 286 333 127 112 276 290 204 191 152 167 109 18 51 222 221 267 137 249 68 108 303 132 294 131 240 219 324 72 121 293 123 69 264 35 4 77 164 66 160 13 269 14 162 308 342 173 284 325 40 237 12 80 49 178 169 254 42 22 122 328 58 317 329 210 289 334 288 315 195 97 304 227 261 298 350 10 32 344 103 232 187 111 170 183 196 312 277 336 243 104 117 297 301 206 115 20 225 175 216 78 285 181 150 124 61 93 319 37 107 257 96 234 161 348 15 283 135 270 331 339 54 57 248 280 176 306 74 65 100 215 142 241 246 25 180 134 2 19 209 316 153 314 287 11 177 184 91 322 130 110 347 158 212 39 83 203 194 75 201 244 179 239 337 144 52 213 320 323 172 38 90 182 192 129 292 151 345 197 299 95 81 255 251 188 166 165 226 1 31 157 64 200 231 256 44 128 326 198 265 156 340 140 147 218 305 136 235 230 138 105 36 223 29 268 185 
+Tempo: 911.349 segundos

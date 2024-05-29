@@ -2,213 +2,140 @@
 Calculando TP
 TP calculada
 Sequência de Tarefas - Solução Inicial EDD
-1 3 10 5 7 4 2 8 9 6 
 Atraso Máximo da solução inicial EDD: 394
 
 Sequência de Tarefas - Solução Inicial Tempos Medios
-5 9 10 1 4 6 8 2 3 7 
 Atraso Máximo da solução inicial Tempos Medios: 475
 
-Sequencia inicial 1 -> 475
-Melhor vizinho: 451
+ITERAÇÃO: 1 - Atraso: 475
 
-Sequencia inicial 2 -> 451
-Melhor vizinho: 404
+ITERAÇÃO: 1 - Atraso: 392
 
-Sequencia inicial 3 -> 404
-Melhor vizinho: 332
+ITERAÇÃO: 1 - Atraso: 356
 
-Sequencia inicial 4 -> 332
-ITERAÇÃO: 1 - Atraso: 332
+ITERAÇÃO: 2 - Atraso: 356
 
-Sequencia inicial 1 -> 329
-Melhor vizinho: 304
+ITERAÇÃO: 3 - Atraso: 356
 
-Sequencia inicial 2 -> 304
-ITERAÇÃO: 1 - Atraso: 304
+ITERAÇÃO: 4 - Atraso: 356
 
-Sequencia inicial 1 -> 304
-ITERAÇÃO: 2 - Atraso: 304
+ITERAÇÃO: 1 - Atraso: 343
 
-Sequencia inicial 1 -> 304
-ITERAÇÃO: 3 - Atraso: 304
+ITERAÇÃO: 2 - Atraso: 343
 
-Sequencia inicial 1 -> 304
-ITERAÇÃO: 4 - Atraso: 304
+ITERAÇÃO: 3 - Atraso: 343
 
-Sequencia inicial 1 -> 312
-Melhor vizinho: 304
+ITERAÇÃO: 4 - Atraso: 343
 
-Sequencia inicial 2 -> 304
-ITERAÇÃO: 5 - Atraso: 304
+ITERAÇÃO: 1 - Atraso: 339
 
-Sequencia inicial 1 -> 307
-ITERAÇÃO: 6 - Atraso: 304
+ITERAÇÃO: 1 - Atraso: 331
 
-Sequencia inicial 1 -> 307
-ITERAÇÃO: 7 - Atraso: 304
+ITERAÇÃO: 2 - Atraso: 331
 
-Sequencia inicial 1 -> 307
-ITERAÇÃO: 8 - Atraso: 304
+ITERAÇÃO: 1 - Atraso: 321
 
-Sequencia inicial 1 -> 307
-Melhor vizinho: 288
-
-Sequencia inicial 2 -> 288
-ITERAÇÃO: 1 - Atraso: 288
-
-Sequencia inicial 1 -> 284
 ITERAÇÃO: 1 - Atraso: 284
 
-Sequencia inicial 1 -> 284
 ITERAÇÃO: 2 - Atraso: 284
 
-Sequencia inicial 1 -> 284
 ITERAÇÃO: 3 - Atraso: 284
 
-Sequencia inicial 1 -> 284
 ITERAÇÃO: 4 - Atraso: 284
 
-Sequencia inicial 1 -> 292
-Melhor vizinho: 284
-
-Sequencia inicial 2 -> 284
 ITERAÇÃO: 5 - Atraso: 284
 
-Sequencia inicial 1 -> 292
-Melhor vizinho: 284
-
-Sequencia inicial 2 -> 284
 ITERAÇÃO: 6 - Atraso: 284
 
-Sequencia inicial 1 -> 305
-Melhor vizinho: 294
-
-Sequencia inicial 2 -> 294
-Melhor vizinho: 287
-
-Sequencia inicial 3 -> 287
-Melhor vizinho: 284
-
-Sequencia inicial 4 -> 284
 ITERAÇÃO: 7 - Atraso: 284
 
-Sequencia inicial 1 -> 292
-Melhor vizinho: 284
-
-Sequencia inicial 2 -> 284
 ITERAÇÃO: 8 - Atraso: 284
 
-Sequencia inicial 1 -> 284
 ITERAÇÃO: 9 - Atraso: 284
 
-Sequencia inicial 1 -> 318
-Melhor vizinho: 284
-
-Sequencia inicial 2 -> 284
 ITERAÇÃO: 10 - Atraso: 284
 
-Sequencia inicial 1 -> 284
 ITERAÇÃO: 11 - Atraso: 284
 
-Sequencia inicial 1 -> 284
 ITERAÇÃO: 12 - Atraso: 284
 
-Sequencia inicial 1 -> 338
-Melhor vizinho: 284
-
-Sequencia inicial 2 -> 284
 ITERAÇÃO: 13 - Atraso: 284
 
-Sequencia inicial 1 -> 331
-Melhor vizinho: 284
-
-Sequencia inicial 2 -> 284
 ITERAÇÃO: 14 - Atraso: 284
 
-Sequencia inicial 1 -> 335
-Melhor vizinho: 310
-
-Sequencia inicial 2 -> 310
-Melhor vizinho: 307
-
-Sequencia inicial 3 -> 307
-Melhor vizinho: 288
-
-Sequencia inicial 4 -> 288
-Melhor vizinho: 284
-
-Sequencia inicial 5 -> 284
 ITERAÇÃO: 15 - Atraso: 284
 
-Sequencia inicial 1 -> 335
-Melhor vizinho: 310
-
-Sequencia inicial 2 -> 310
-Melhor vizinho: 307
-
-Sequencia inicial 3 -> 307
-Melhor vizinho: 288
-
-Sequencia inicial 4 -> 288
-Melhor vizinho: 284
-
-Sequencia inicial 5 -> 284
 ITERAÇÃO: 16 - Atraso: 284
 
-Sequencia inicial 1 -> 339
-Melhor vizinho: 311
-
-Sequencia inicial 2 -> 311
-Melhor vizinho: 310
-
-Sequencia inicial 3 -> 310
-Melhor vizinho: 307
-
-Sequencia inicial 4 -> 307
 ITERAÇÃO: 17 - Atraso: 284
 
-Sequencia inicial 1 -> 339
-Melhor vizinho: 312
-
-Sequencia inicial 2 -> 312
-Melhor vizinho: 307
-
-Sequencia inicial 3 -> 307
-Melhor vizinho: 288
-
-Sequencia inicial 4 -> 288
-Melhor vizinho: 284
-
-Sequencia inicial 5 -> 284
 ITERAÇÃO: 18 - Atraso: 284
 
-Sequencia inicial 1 -> 331
-Melhor vizinho: 284
-
-Sequencia inicial 2 -> 284
 ITERAÇÃO: 19 - Atraso: 284
 
-Sequencia inicial 1 -> 321
-Melhor vizinho: 292
-
-Sequencia inicial 2 -> 292
-Melhor vizinho: 284
-
-Sequencia inicial 3 -> 284
 ITERAÇÃO: 20 - Atraso: 284
 
-Sequencia inicial 1 -> 331
-Melhor vizinho: 307
+ITERAÇÃO: 21 - Atraso: 284
 
-Sequencia inicial 2 -> 307
-Melhor vizinho: 288
+ITERAÇÃO: 22 - Atraso: 284
 
-Sequencia inicial 3 -> 288
-Melhor vizinho: 284
+ITERAÇÃO: 23 - Atraso: 284
 
-Sequencia inicial 4 -> 284
+ITERAÇÃO: 24 - Atraso: 284
+
+ITERAÇÃO: 25 - Atraso: 284
+
+ITERAÇÃO: 26 - Atraso: 284
+
+ITERAÇÃO: 27 - Atraso: 284
+
+ITERAÇÃO: 28 - Atraso: 284
+
+ITERAÇÃO: 29 - Atraso: 284
+
+ITERAÇÃO: 30 - Atraso: 284
+
+ITERAÇÃO: 31 - Atraso: 284
+
+ITERAÇÃO: 32 - Atraso: 284
+
+ITERAÇÃO: 33 - Atraso: 284
+
+ITERAÇÃO: 34 - Atraso: 284
+
+ITERAÇÃO: 35 - Atraso: 284
+
+ITERAÇÃO: 36 - Atraso: 284
+
+ITERAÇÃO: 37 - Atraso: 284
+
+ITERAÇÃO: 38 - Atraso: 284
+
+ITERAÇÃO: 39 - Atraso: 284
+
+ITERAÇÃO: 40 - Atraso: 284
+
+ITERAÇÃO: 41 - Atraso: 284
+
+ITERAÇÃO: 42 - Atraso: 284
+
+ITERAÇÃO: 43 - Atraso: 284
+
+ITERAÇÃO: 44 - Atraso: 284
+
+ITERAÇÃO: 45 - Atraso: 284
+
+ITERAÇÃO: 46 - Atraso: 284
+
+ITERAÇÃO: 47 - Atraso: 284
+
+ITERAÇÃO: 48 - Atraso: 284
+
+ITERAÇÃO: 49 - Atraso: 284
+
+ITERAÇÃO: 50 - Atraso: 284
+
 Atraso Máximo Iterated Greedy (IG): 284
 Sequência de Tarefas - Solução Final IG
-2 8 5 7 4 9 10 6 3 1 
-Tempo: 0.008275 segundos
+8 10 1 7 2 6 4 3 5 9 
+Tempo: 0.002985 segundos

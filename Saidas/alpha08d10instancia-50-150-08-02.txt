@@ -1,0 +1,247 @@
+
+Calculando TP
+TP calculada
+Sequência de Tarefas - Solução Inicial EDD
+Atraso Máximo da solução inicial EDD: 486609
+
+Sequência de Tarefas - Solução Inicial Tempos Medios
+Atraso Máximo da solução inicial Tempos Medios: 485463
+
+ITERAÇÃO: 1 - Atraso: 485463
+
+ITERAÇÃO: 1 - Atraso: 452253
+
+ITERAÇÃO: 1 - Atraso: 447720
+
+ITERAÇÃO: 1 - Atraso: 439269
+
+ITERAÇÃO: 1 - Atraso: 431392
+
+ITERAÇÃO: 2 - Atraso: 431392
+
+ITERAÇÃO: 1 - Atraso: 428084
+
+ITERAÇÃO: 1 - Atraso: 426205
+
+ITERAÇÃO: 1 - Atraso: 422668
+
+ITERAÇÃO: 2 - Atraso: 422668
+
+ITERAÇÃO: 1 - Atraso: 422285
+
+ITERAÇÃO: 1 - Atraso: 419741
+
+ITERAÇÃO: 1 - Atraso: 417999
+
+ITERAÇÃO: 1 - Atraso: 417185
+
+ITERAÇÃO: 1 - Atraso: 415678
+
+ITERAÇÃO: 1 - Atraso: 414113
+
+ITERAÇÃO: 2 - Atraso: 414113
+
+ITERAÇÃO: 1 - Atraso: 411631
+
+ITERAÇÃO: 2 - Atraso: 411631
+
+ITERAÇÃO: 3 - Atraso: 411631
+
+ITERAÇÃO: 4 - Atraso: 411631
+
+ITERAÇÃO: 5 - Atraso: 411631
+
+ITERAÇÃO: 6 - Atraso: 411631
+
+ITERAÇÃO: 7 - Atraso: 411631
+
+ITERAÇÃO: 8 - Atraso: 411631
+
+ITERAÇÃO: 9 - Atraso: 411631
+
+ITERAÇÃO: 10 - Atraso: 411631
+
+ITERAÇÃO: 11 - Atraso: 411631
+
+ITERAÇÃO: 1 - Atraso: 410141
+
+ITERAÇÃO: 2 - Atraso: 410141
+
+ITERAÇÃO: 3 - Atraso: 410141
+
+ITERAÇÃO: 4 - Atraso: 410141
+
+ITERAÇÃO: 5 - Atraso: 410141
+
+ITERAÇÃO: 6 - Atraso: 410141
+
+ITERAÇÃO: 7 - Atraso: 410141
+
+ITERAÇÃO: 8 - Atraso: 410141
+
+ITERAÇÃO: 9 - Atraso: 410141
+
+ITERAÇÃO: 10 - Atraso: 410141
+
+ITERAÇÃO: 11 - Atraso: 410141
+
+ITERAÇÃO: 1 - Atraso: 409971
+
+ITERAÇÃO: 2 - Atraso: 409971
+
+ITERAÇÃO: 3 - Atraso: 409971
+
+ITERAÇÃO: 1 - Atraso: 408935
+
+ITERAÇÃO: 1 - Atraso: 408935
+
+ITERAÇÃO: 2 - Atraso: 408935
+
+ITERAÇÃO: 3 - Atraso: 408935
+
+ITERAÇÃO: 4 - Atraso: 408935
+
+ITERAÇÃO: 5 - Atraso: 408935
+
+ITERAÇÃO: 1 - Atraso: 408870
+
+ITERAÇÃO: 2 - Atraso: 408870
+
+ITERAÇÃO: 1 - Atraso: 408323
+
+ITERAÇÃO: 1 - Atraso: 407624
+
+ITERAÇÃO: 2 - Atraso: 407624
+
+ITERAÇÃO: 3 - Atraso: 407624
+
+ITERAÇÃO: 4 - Atraso: 407624
+
+ITERAÇÃO: 5 - Atraso: 407624
+
+ITERAÇÃO: 6 - Atraso: 407624
+
+ITERAÇÃO: 7 - Atraso: 407624
+
+ITERAÇÃO: 8 - Atraso: 407624
+
+ITERAÇÃO: 9 - Atraso: 407624
+
+ITERAÇÃO: 10 - Atraso: 407624
+
+ITERAÇÃO: 1 - Atraso: 407200
+
+ITERAÇÃO: 2 - Atraso: 407200
+
+ITERAÇÃO: 3 - Atraso: 407200
+
+ITERAÇÃO: 4 - Atraso: 407200
+
+ITERAÇÃO: 5 - Atraso: 407200
+
+ITERAÇÃO: 6 - Atraso: 407200
+
+ITERAÇÃO: 1 - Atraso: 406453
+
+ITERAÇÃO: 2 - Atraso: 406453
+
+ITERAÇÃO: 3 - Atraso: 406453
+
+ITERAÇÃO: 4 - Atraso: 406453
+
+ITERAÇÃO: 5 - Atraso: 406453
+
+ITERAÇÃO: 6 - Atraso: 406453
+
+ITERAÇÃO: 7 - Atraso: 406453
+
+ITERAÇÃO: 8 - Atraso: 406453
+
+ITERAÇÃO: 9 - Atraso: 406453
+
+ITERAÇÃO: 10 - Atraso: 406453
+
+ITERAÇÃO: 11 - Atraso: 406453
+
+ITERAÇÃO: 12 - Atraso: 406453
+
+ITERAÇÃO: 13 - Atraso: 406453
+
+ITERAÇÃO: 14 - Atraso: 406453
+
+ITERAÇÃO: 15 - Atraso: 406453
+
+ITERAÇÃO: 16 - Atraso: 406453
+
+ITERAÇÃO: 17 - Atraso: 406453
+
+ITERAÇÃO: 18 - Atraso: 406453
+
+ITERAÇÃO: 19 - Atraso: 406453
+
+ITERAÇÃO: 20 - Atraso: 406453
+
+ITERAÇÃO: 21 - Atraso: 406453
+
+ITERAÇÃO: 22 - Atraso: 406453
+
+ITERAÇÃO: 23 - Atraso: 406453
+
+ITERAÇÃO: 24 - Atraso: 406453
+
+ITERAÇÃO: 25 - Atraso: 406453
+
+ITERAÇÃO: 26 - Atraso: 406453
+
+ITERAÇÃO: 27 - Atraso: 406453
+
+ITERAÇÃO: 28 - Atraso: 406453
+
+ITERAÇÃO: 29 - Atraso: 406453
+
+ITERAÇÃO: 30 - Atraso: 406453
+
+ITERAÇÃO: 31 - Atraso: 406453
+
+ITERAÇÃO: 32 - Atraso: 406453
+
+ITERAÇÃO: 33 - Atraso: 406453
+
+ITERAÇÃO: 34 - Atraso: 406453
+
+ITERAÇÃO: 35 - Atraso: 406453
+
+ITERAÇÃO: 36 - Atraso: 406453
+
+ITERAÇÃO: 37 - Atraso: 406453
+
+ITERAÇÃO: 38 - Atraso: 406453
+
+ITERAÇÃO: 39 - Atraso: 406453
+
+ITERAÇÃO: 40 - Atraso: 406453
+
+ITERAÇÃO: 41 - Atraso: 406453
+
+ITERAÇÃO: 42 - Atraso: 406453
+
+ITERAÇÃO: 43 - Atraso: 406453
+
+ITERAÇÃO: 44 - Atraso: 406453
+
+ITERAÇÃO: 45 - Atraso: 406453
+
+ITERAÇÃO: 46 - Atraso: 406453
+
+ITERAÇÃO: 47 - Atraso: 406453
+
+ITERAÇÃO: 48 - Atraso: 406453
+
+ITERAÇÃO: 49 - Atraso: 406453
+
+ITERAÇÃO: 50 - Atraso: 406453
+
+Atraso Máximo Iterated Greedy (IG): 406453
+Sequência de Tarefas - Solução Final IG
+64 96 86 105 14 11 102 75 12 120 93 68 32 89 59 85 48 30 81 113 131 122 63 71 35 121 78 111 103 38 41 18 138 49 27 112 134 83 125 7 25 132 149 84 47 70 69 37 26 146 45 97 118 82 126 114 3 144 115 74 109 6 73 137 150 127 16 62 5 110 141 50 76 90 39 42 55 130 72 128 98 10 104 58 139 79 8 99 135 36 129 88 1 107 108 31 52 147 119 77 53 28 20 123 46 94 136 67 117 57 15 9 61 133 51 95 33 65 143 140 87 80 100 4 142 145 106 101 23 124 21 13 24 116 66 19 44 54 29 17 56 60 2 92 91 148 43 34 22 40 
+Tempo: 92.4815 segundos

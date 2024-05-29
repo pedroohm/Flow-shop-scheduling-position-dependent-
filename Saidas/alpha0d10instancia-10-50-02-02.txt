@@ -2,1056 +2,282 @@
 Calculando TP
 TP calculada
 Sequência de Tarefas - Solução Inicial EDD
-34 14 7 13 39 20 27 40 44 38 32 17 23 25 37 12 21 28 43 24 36 18 46 49 11 2 19 31 30 16 1 33 42 22 45 26 6 41 5 29 15 8 3 35 9 50 4 48 10 47 
 Atraso Máximo da solução inicial EDD: 1180
 
 Sequência de Tarefas - Solução Inicial Tempos Medios
-7 16 28 18 20 25 27 13 36 43 9 29 40 42 6 49 30 1 37 15 44 26 21 38 50 12 41 32 17 31 39 45 46 11 8 2 35 48 14 34 10 47 3 5 23 4 22 19 24 33 
 Atraso Máximo da solução inicial Tempos Medios: 1411
 
-Sequencia inicial 1 -> 1411
-Melhor vizinho: 1305
+ITERAÇÃO: 1 - Atraso: 1411
 
-Sequencia inicial 2 -> 1305
-Melhor vizinho: 1224
+ITERAÇÃO: 1 - Atraso: 1061
 
-Sequencia inicial 3 -> 1224
-Melhor vizinho: 1101
+ITERAÇÃO: 1 - Atraso: 996
 
-Sequencia inicial 4 -> 1101
-Melhor vizinho: 1056
+ITERAÇÃO: 1 - Atraso: 880
 
-Sequencia inicial 5 -> 1056
-Melhor vizinho: 1025
+ITERAÇÃO: 1 - Atraso: 879
 
-Sequencia inicial 6 -> 1025
-Melhor vizinho: 975
+ITERAÇÃO: 1 - Atraso: 856
 
-Sequencia inicial 7 -> 975
-Melhor vizinho: 947
+ITERAÇÃO: 2 - Atraso: 856
 
-Sequencia inicial 8 -> 947
-Melhor vizinho: 939
+ITERAÇÃO: 3 - Atraso: 856
 
-Sequencia inicial 9 -> 939
-Melhor vizinho: 916
+ITERAÇÃO: 1 - Atraso: 813
 
-Sequencia inicial 10 -> 916
-Melhor vizinho: 886
+ITERAÇÃO: 2 - Atraso: 813
 
-Sequencia inicial 11 -> 886
-Melhor vizinho: 867
+ITERAÇÃO: 3 - Atraso: 813
 
-Sequencia inicial 12 -> 867
-Melhor vizinho: 860
+ITERAÇÃO: 1 - Atraso: 808
 
-Sequencia inicial 13 -> 860
-Melhor vizinho: 841
+ITERAÇÃO: 2 - Atraso: 808
 
-Sequencia inicial 14 -> 841
-Melhor vizinho: 835
+ITERAÇÃO: 1 - Atraso: 783
 
-Sequencia inicial 15 -> 835
-Melhor vizinho: 825
+ITERAÇÃO: 2 - Atraso: 783
 
-Sequencia inicial 16 -> 825
-Melhor vizinho: 807
+ITERAÇÃO: 3 - Atraso: 783
 
-Sequencia inicial 17 -> 807
-Melhor vizinho: 793
+ITERAÇÃO: 4 - Atraso: 783
 
-Sequencia inicial 18 -> 793
-Melhor vizinho: 791
+ITERAÇÃO: 5 - Atraso: 783
 
-Sequencia inicial 19 -> 791
-Melhor vizinho: 784
+ITERAÇÃO: 6 - Atraso: 783
 
-Sequencia inicial 20 -> 784
-Melhor vizinho: 782
+ITERAÇÃO: 7 - Atraso: 783
 
-Sequencia inicial 21 -> 782
-ITERAÇÃO: 1 - Atraso: 782
+ITERAÇÃO: 8 - Atraso: 783
 
-Sequencia inicial 1 -> 749
-Melhor vizinho: 721
+ITERAÇÃO: 1 - Atraso: 775
 
-Sequencia inicial 2 -> 721
-Melhor vizinho: 711
+ITERAÇÃO: 1 - Atraso: 757
 
-Sequencia inicial 3 -> 711
-Melhor vizinho: 704
+ITERAÇÃO: 2 - Atraso: 757
 
-Sequencia inicial 4 -> 704
-Melhor vizinho: 697
+ITERAÇÃO: 3 - Atraso: 757
 
-Sequencia inicial 5 -> 697
-Melhor vizinho: 679
+ITERAÇÃO: 4 - Atraso: 757
 
-Sequencia inicial 6 -> 679
-Melhor vizinho: 666
+ITERAÇÃO: 1 - Atraso: 730
 
-Sequencia inicial 7 -> 666
-Melhor vizinho: 660
+ITERAÇÃO: 1 - Atraso: 722
 
-Sequencia inicial 8 -> 660
-Melhor vizinho: 659
+ITERAÇÃO: 2 - Atraso: 722
 
-Sequencia inicial 9 -> 659
-Melhor vizinho: 656
+ITERAÇÃO: 3 - Atraso: 722
 
-Sequencia inicial 10 -> 656
-Melhor vizinho: 651
+ITERAÇÃO: 4 - Atraso: 722
 
-Sequencia inicial 11 -> 651
-Melhor vizinho: 643
+ITERAÇÃO: 5 - Atraso: 722
 
-Sequencia inicial 12 -> 643
-Melhor vizinho: 639
+ITERAÇÃO: 6 - Atraso: 722
 
-Sequencia inicial 13 -> 639
-Melhor vizinho: 637
+ITERAÇÃO: 7 - Atraso: 722
 
-Sequencia inicial 14 -> 637
-Melhor vizinho: 632
+ITERAÇÃO: 8 - Atraso: 722
 
-Sequencia inicial 15 -> 632
-ITERAÇÃO: 1 - Atraso: 632
+ITERAÇÃO: 9 - Atraso: 722
 
-Sequencia inicial 1 -> 667
-Melhor vizinho: 654
+ITERAÇÃO: 10 - Atraso: 722
 
-Sequencia inicial 2 -> 654
-Melhor vizinho: 645
+ITERAÇÃO: 11 - Atraso: 722
 
-Sequencia inicial 3 -> 645
-Melhor vizinho: 640
+ITERAÇÃO: 1 - Atraso: 713
 
-Sequencia inicial 4 -> 640
-Melhor vizinho: 629
+ITERAÇÃO: 1 - Atraso: 668
 
-Sequencia inicial 5 -> 629
-Melhor vizinho: 626
+ITERAÇÃO: 2 - Atraso: 668
 
-Sequencia inicial 6 -> 626
-ITERAÇÃO: 1 - Atraso: 626
+ITERAÇÃO: 3 - Atraso: 668
 
-Sequencia inicial 1 -> 672
-Melhor vizinho: 659
+ITERAÇÃO: 4 - Atraso: 668
 
-Sequencia inicial 2 -> 659
-Melhor vizinho: 657
+ITERAÇÃO: 5 - Atraso: 668
 
-Sequencia inicial 3 -> 657
-Melhor vizinho: 650
+ITERAÇÃO: 6 - Atraso: 668
 
-Sequencia inicial 4 -> 650
-Melhor vizinho: 646
+ITERAÇÃO: 7 - Atraso: 668
 
-Sequencia inicial 5 -> 646
-Melhor vizinho: 636
+ITERAÇÃO: 8 - Atraso: 668
 
-Sequencia inicial 6 -> 636
-Melhor vizinho: 607
+ITERAÇÃO: 9 - Atraso: 668
 
-Sequencia inicial 7 -> 607
-Melhor vizinho: 604
+ITERAÇÃO: 10 - Atraso: 668
 
-Sequencia inicial 8 -> 604
-Melhor vizinho: 602
+ITERAÇÃO: 11 - Atraso: 668
 
-Sequencia inicial 9 -> 602
-ITERAÇÃO: 1 - Atraso: 602
+ITERAÇÃO: 1 - Atraso: 624
 
-Sequencia inicial 1 -> 647
-Melhor vizinho: 637
+ITERAÇÃO: 1 - Atraso: 595
 
-Sequencia inicial 2 -> 637
-Melhor vizinho: 631
+ITERAÇÃO: 2 - Atraso: 595
 
-Sequencia inicial 3 -> 631
-Melhor vizinho: 626
+ITERAÇÃO: 3 - Atraso: 595
 
-Sequencia inicial 4 -> 626
-ITERAÇÃO: 2 - Atraso: 602
+ITERAÇÃO: 4 - Atraso: 595
 
-Sequencia inicial 1 -> 720
-Melhor vizinho: 696
+ITERAÇÃO: 5 - Atraso: 595
 
-Sequencia inicial 2 -> 696
-Melhor vizinho: 666
+ITERAÇÃO: 6 - Atraso: 595
 
-Sequencia inicial 3 -> 666
-Melhor vizinho: 664
+ITERAÇÃO: 7 - Atraso: 595
 
-Sequencia inicial 4 -> 664
-Melhor vizinho: 655
+ITERAÇÃO: 8 - Atraso: 595
 
-Sequencia inicial 5 -> 655
-Melhor vizinho: 653
+ITERAÇÃO: 9 - Atraso: 595
 
-Sequencia inicial 6 -> 653
-Melhor vizinho: 638
+ITERAÇÃO: 10 - Atraso: 595
 
-Sequencia inicial 7 -> 638
-Melhor vizinho: 635
+ITERAÇÃO: 11 - Atraso: 595
 
-Sequencia inicial 8 -> 635
-Melhor vizinho: 632
+ITERAÇÃO: 12 - Atraso: 595
 
-Sequencia inicial 9 -> 632
-Melhor vizinho: 623
+ITERAÇÃO: 13 - Atraso: 595
 
-Sequencia inicial 10 -> 623
-ITERAÇÃO: 3 - Atraso: 602
+ITERAÇÃO: 14 - Atraso: 595
 
-Sequencia inicial 1 -> 709
-Melhor vizinho: 688
+ITERAÇÃO: 15 - Atraso: 595
 
-Sequencia inicial 2 -> 688
-Melhor vizinho: 672
+ITERAÇÃO: 16 - Atraso: 595
 
-Sequencia inicial 3 -> 672
-Melhor vizinho: 657
+ITERAÇÃO: 17 - Atraso: 595
 
-Sequencia inicial 4 -> 657
-Melhor vizinho: 644
+ITERAÇÃO: 18 - Atraso: 595
 
-Sequencia inicial 5 -> 644
-Melhor vizinho: 624
+ITERAÇÃO: 19 - Atraso: 595
 
-Sequencia inicial 6 -> 624
-Melhor vizinho: 621
+ITERAÇÃO: 20 - Atraso: 595
 
-Sequencia inicial 7 -> 621
-ITERAÇÃO: 4 - Atraso: 602
+ITERAÇÃO: 21 - Atraso: 595
 
-Sequencia inicial 1 -> 721
-Melhor vizinho: 688
+ITERAÇÃO: 22 - Atraso: 595
 
-Sequencia inicial 2 -> 688
-Melhor vizinho: 667
+ITERAÇÃO: 23 - Atraso: 595
 
-Sequencia inicial 3 -> 667
-Melhor vizinho: 635
+ITERAÇÃO: 24 - Atraso: 595
 
-Sequencia inicial 4 -> 635
-Melhor vizinho: 625
+ITERAÇÃO: 25 - Atraso: 595
 
-Sequencia inicial 5 -> 625
-Melhor vizinho: 612
+ITERAÇÃO: 26 - Atraso: 595
 
-Sequencia inicial 6 -> 612
-Melhor vizinho: 595
+ITERAÇÃO: 27 - Atraso: 595
 
-Sequencia inicial 7 -> 595
-Melhor vizinho: 592
+ITERAÇÃO: 28 - Atraso: 595
 
-Sequencia inicial 8 -> 592
-Melhor vizinho: 590
+ITERAÇÃO: 29 - Atraso: 595
 
-Sequencia inicial 9 -> 590
-ITERAÇÃO: 1 - Atraso: 590
+ITERAÇÃO: 30 - Atraso: 595
 
-Sequencia inicial 1 -> 621
-Melhor vizinho: 603
+ITERAÇÃO: 31 - Atraso: 595
 
-Sequencia inicial 2 -> 603
-Melhor vizinho: 600
+ITERAÇÃO: 32 - Atraso: 595
 
-Sequencia inicial 3 -> 600
-Melhor vizinho: 595
+ITERAÇÃO: 33 - Atraso: 595
 
-Sequencia inicial 4 -> 595
-Melhor vizinho: 593
+ITERAÇÃO: 34 - Atraso: 595
 
-Sequencia inicial 5 -> 593
-ITERAÇÃO: 2 - Atraso: 590
+ITERAÇÃO: 1 - Atraso: 581
 
-Sequencia inicial 1 -> 661
-ITERAÇÃO: 3 - Atraso: 590
+ITERAÇÃO: 2 - Atraso: 581
 
-Sequencia inicial 1 -> 675
-Melhor vizinho: 651
+ITERAÇÃO: 3 - Atraso: 581
 
-Sequencia inicial 2 -> 651
-Melhor vizinho: 635
+ITERAÇÃO: 4 - Atraso: 581
 
-Sequencia inicial 3 -> 635
-Melhor vizinho: 633
+ITERAÇÃO: 5 - Atraso: 581
 
-Sequencia inicial 4 -> 633
-Melhor vizinho: 631
+ITERAÇÃO: 6 - Atraso: 581
 
-Sequencia inicial 5 -> 631
-Melhor vizinho: 627
+ITERAÇÃO: 7 - Atraso: 581
 
-Sequencia inicial 6 -> 627
-Melhor vizinho: 617
+ITERAÇÃO: 8 - Atraso: 581
 
-Sequencia inicial 7 -> 617
-Melhor vizinho: 616
+ITERAÇÃO: 9 - Atraso: 581
 
-Sequencia inicial 8 -> 616
-Melhor vizinho: 607
+ITERAÇÃO: 10 - Atraso: 581
 
-Sequencia inicial 9 -> 607
-Melhor vizinho: 603
+ITERAÇÃO: 11 - Atraso: 581
 
-Sequencia inicial 10 -> 603
-Melhor vizinho: 602
+ITERAÇÃO: 12 - Atraso: 581
 
-Sequencia inicial 11 -> 602
-ITERAÇÃO: 4 - Atraso: 590
+ITERAÇÃO: 13 - Atraso: 581
 
-Sequencia inicial 1 -> 643
-Melhor vizinho: 635
+ITERAÇÃO: 14 - Atraso: 581
 
-Sequencia inicial 2 -> 635
-Melhor vizinho: 627
+ITERAÇÃO: 15 - Atraso: 581
 
-Sequencia inicial 3 -> 627
-Melhor vizinho: 620
+ITERAÇÃO: 16 - Atraso: 581
 
-Sequencia inicial 4 -> 620
-Melhor vizinho: 611
+ITERAÇÃO: 17 - Atraso: 581
 
-Sequencia inicial 5 -> 611
-Melhor vizinho: 606
+ITERAÇÃO: 18 - Atraso: 581
 
-Sequencia inicial 6 -> 606
-ITERAÇÃO: 5 - Atraso: 590
+ITERAÇÃO: 19 - Atraso: 581
 
-Sequencia inicial 1 -> 709
-Melhor vizinho: 680
+ITERAÇÃO: 20 - Atraso: 581
 
-Sequencia inicial 2 -> 680
-Melhor vizinho: 674
+ITERAÇÃO: 21 - Atraso: 581
 
-Sequencia inicial 3 -> 674
-Melhor vizinho: 663
+ITERAÇÃO: 22 - Atraso: 581
 
-Sequencia inicial 4 -> 663
-Melhor vizinho: 648
+ITERAÇÃO: 23 - Atraso: 581
 
-Sequencia inicial 5 -> 648
-Melhor vizinho: 646
+ITERAÇÃO: 24 - Atraso: 581
 
-Sequencia inicial 6 -> 646
-Melhor vizinho: 614
+ITERAÇÃO: 25 - Atraso: 581
 
-Sequencia inicial 7 -> 614
-Melhor vizinho: 596
+ITERAÇÃO: 26 - Atraso: 581
 
-Sequencia inicial 8 -> 596
-Melhor vizinho: 595
+ITERAÇÃO: 27 - Atraso: 581
 
-Sequencia inicial 9 -> 595
-Melhor vizinho: 579
+ITERAÇÃO: 28 - Atraso: 581
 
-Sequencia inicial 10 -> 579
-ITERAÇÃO: 1 - Atraso: 579
+ITERAÇÃO: 29 - Atraso: 581
 
-Sequencia inicial 1 -> 619
-Melhor vizinho: 613
+ITERAÇÃO: 30 - Atraso: 581
 
-Sequencia inicial 2 -> 613
-Melhor vizinho: 607
+ITERAÇÃO: 31 - Atraso: 581
 
-Sequencia inicial 3 -> 607
-Melhor vizinho: 603
+ITERAÇÃO: 32 - Atraso: 581
 
-Sequencia inicial 4 -> 603
-Melhor vizinho: 600
+ITERAÇÃO: 33 - Atraso: 581
 
-Sequencia inicial 5 -> 600
-Melhor vizinho: 595
+ITERAÇÃO: 34 - Atraso: 581
 
-Sequencia inicial 6 -> 595
-Melhor vizinho: 581
+ITERAÇÃO: 35 - Atraso: 581
 
-Sequencia inicial 7 -> 581
-ITERAÇÃO: 2 - Atraso: 579
+ITERAÇÃO: 36 - Atraso: 581
 
-Sequencia inicial 1 -> 635
-Melhor vizinho: 623
+ITERAÇÃO: 37 - Atraso: 581
 
-Sequencia inicial 2 -> 623
-ITERAÇÃO: 3 - Atraso: 579
+ITERAÇÃO: 38 - Atraso: 581
 
-Sequencia inicial 1 -> 680
-Melhor vizinho: 672
+ITERAÇÃO: 39 - Atraso: 581
 
-Sequencia inicial 2 -> 672
-Melhor vizinho: 653
+ITERAÇÃO: 40 - Atraso: 581
 
-Sequencia inicial 3 -> 653
-Melhor vizinho: 650
+ITERAÇÃO: 41 - Atraso: 581
 
-Sequencia inicial 4 -> 650
-Melhor vizinho: 632
+ITERAÇÃO: 42 - Atraso: 581
 
-Sequencia inicial 5 -> 632
-ITERAÇÃO: 4 - Atraso: 579
+ITERAÇÃO: 43 - Atraso: 581
 
-Sequencia inicial 1 -> 622
-Melhor vizinho: 605
+ITERAÇÃO: 44 - Atraso: 581
 
-Sequencia inicial 2 -> 605
-Melhor vizinho: 591
+ITERAÇÃO: 45 - Atraso: 581
 
-Sequencia inicial 3 -> 591
-ITERAÇÃO: 5 - Atraso: 579
+ITERAÇÃO: 46 - Atraso: 581
 
-Sequencia inicial 1 -> 621
-Melhor vizinho: 600
+ITERAÇÃO: 47 - Atraso: 581
 
-Sequencia inicial 2 -> 600
-Melhor vizinho: 580
+ITERAÇÃO: 48 - Atraso: 581
 
-Sequencia inicial 3 -> 580
-Melhor vizinho: 578
+ITERAÇÃO: 49 - Atraso: 581
 
-Sequencia inicial 4 -> 578
-ITERAÇÃO: 1 - Atraso: 578
+ITERAÇÃO: 50 - Atraso: 581
 
-Sequencia inicial 1 -> 605
-Melhor vizinho: 600
-
-Sequencia inicial 2 -> 600
-Melhor vizinho: 598
-
-Sequencia inicial 3 -> 598
-Melhor vizinho: 590
-
-Sequencia inicial 4 -> 590
-Melhor vizinho: 575
-
-Sequencia inicial 5 -> 575
-Melhor vizinho: 566
-
-Sequencia inicial 6 -> 566
-ITERAÇÃO: 1 - Atraso: 566
-
-Sequencia inicial 1 -> 648
-Melhor vizinho: 621
-
-Sequencia inicial 2 -> 621
-Melhor vizinho: 597
-
-Sequencia inicial 3 -> 597
-Melhor vizinho: 592
-
-Sequencia inicial 4 -> 592
-Melhor vizinho: 577
-
-Sequencia inicial 5 -> 577
-Melhor vizinho: 574
-
-Sequencia inicial 6 -> 574
-Melhor vizinho: 566
-
-Sequencia inicial 7 -> 566
-Melhor vizinho: 565
-
-Sequencia inicial 8 -> 565
-Melhor vizinho: 562
-
-Sequencia inicial 9 -> 562
-ITERAÇÃO: 1 - Atraso: 562
-
-Sequencia inicial 1 -> 579
-Melhor vizinho: 577
-
-Sequencia inicial 2 -> 577
-Melhor vizinho: 575
-
-Sequencia inicial 3 -> 575
-ITERAÇÃO: 2 - Atraso: 562
-
-Sequencia inicial 1 -> 654
-Melhor vizinho: 650
-
-Sequencia inicial 2 -> 650
-Melhor vizinho: 648
-
-Sequencia inicial 3 -> 648
-ITERAÇÃO: 3 - Atraso: 562
-
-Sequencia inicial 1 -> 679
-Melhor vizinho: 659
-
-Sequencia inicial 2 -> 659
-Melhor vizinho: 658
-
-Sequencia inicial 3 -> 658
-Melhor vizinho: 653
-
-Sequencia inicial 4 -> 653
-Melhor vizinho: 642
-
-Sequencia inicial 5 -> 642
-Melhor vizinho: 637
-
-Sequencia inicial 6 -> 637
-Melhor vizinho: 632
-
-Sequencia inicial 7 -> 632
-Melhor vizinho: 631
-
-Sequencia inicial 8 -> 631
-Melhor vizinho: 625
-
-Sequencia inicial 9 -> 625
-Melhor vizinho: 624
-
-Sequencia inicial 10 -> 624
-Melhor vizinho: 621
-
-Sequencia inicial 11 -> 621
-Melhor vizinho: 615
-
-Sequencia inicial 12 -> 615
-Melhor vizinho: 613
-
-Sequencia inicial 13 -> 613
-Melhor vizinho: 612
-
-Sequencia inicial 14 -> 612
-Melhor vizinho: 611
-
-Sequencia inicial 15 -> 611
-Melhor vizinho: 609
-
-Sequencia inicial 16 -> 609
-Melhor vizinho: 605
-
-Sequencia inicial 17 -> 605
-Melhor vizinho: 597
-
-Sequencia inicial 18 -> 597
-ITERAÇÃO: 4 - Atraso: 562
-
-Sequencia inicial 1 -> 690
-Melhor vizinho: 671
-
-Sequencia inicial 2 -> 671
-Melhor vizinho: 662
-
-Sequencia inicial 3 -> 662
-Melhor vizinho: 654
-
-Sequencia inicial 4 -> 654
-Melhor vizinho: 650
-
-Sequencia inicial 5 -> 650
-Melhor vizinho: 617
-
-Sequencia inicial 6 -> 617
-Melhor vizinho: 610
-
-Sequencia inicial 7 -> 610
-Melhor vizinho: 609
-
-Sequencia inicial 8 -> 609
-Melhor vizinho: 599
-
-Sequencia inicial 9 -> 599
-Melhor vizinho: 596
-
-Sequencia inicial 10 -> 596
-Melhor vizinho: 592
-
-Sequencia inicial 11 -> 592
-Melhor vizinho: 588
-
-Sequencia inicial 12 -> 588
-ITERAÇÃO: 5 - Atraso: 562
-
-Sequencia inicial 1 -> 663
-Melhor vizinho: 655
-
-Sequencia inicial 2 -> 655
-Melhor vizinho: 642
-
-Sequencia inicial 3 -> 642
-Melhor vizinho: 639
-
-Sequencia inicial 4 -> 639
-ITERAÇÃO: 6 - Atraso: 562
-
-Sequencia inicial 1 -> 738
-Melhor vizinho: 708
-
-Sequencia inicial 2 -> 708
-Melhor vizinho: 694
-
-Sequencia inicial 3 -> 694
-Melhor vizinho: 690
-
-Sequencia inicial 4 -> 690
-Melhor vizinho: 679
-
-Sequencia inicial 5 -> 679
-Melhor vizinho: 674
-
-Sequencia inicial 6 -> 674
-Melhor vizinho: 660
-
-Sequencia inicial 7 -> 660
-Melhor vizinho: 648
-
-Sequencia inicial 8 -> 648
-Melhor vizinho: 641
-
-Sequencia inicial 9 -> 641
-Melhor vizinho: 634
-
-Sequencia inicial 10 -> 634
-Melhor vizinho: 629
-
-Sequencia inicial 11 -> 629
-Melhor vizinho: 625
-
-Sequencia inicial 12 -> 625
-Melhor vizinho: 613
-
-Sequencia inicial 13 -> 613
-Melhor vizinho: 612
-
-Sequencia inicial 14 -> 612
-ITERAÇÃO: 7 - Atraso: 562
-
-Sequencia inicial 1 -> 784
-Melhor vizinho: 754
-
-Sequencia inicial 2 -> 754
-Melhor vizinho: 747
-
-Sequencia inicial 3 -> 747
-Melhor vizinho: 744
-
-Sequencia inicial 4 -> 744
-Melhor vizinho: 736
-
-Sequencia inicial 5 -> 736
-Melhor vizinho: 725
-
-Sequencia inicial 6 -> 725
-Melhor vizinho: 707
-
-Sequencia inicial 7 -> 707
-Melhor vizinho: 693
-
-Sequencia inicial 8 -> 693
-Melhor vizinho: 688
-
-Sequencia inicial 9 -> 688
-Melhor vizinho: 671
-
-Sequencia inicial 10 -> 671
-Melhor vizinho: 668
-
-Sequencia inicial 11 -> 668
-Melhor vizinho: 655
-
-Sequencia inicial 12 -> 655
-Melhor vizinho: 650
-
-Sequencia inicial 13 -> 650
-Melhor vizinho: 636
-
-Sequencia inicial 14 -> 636
-Melhor vizinho: 634
-
-Sequencia inicial 15 -> 634
-Melhor vizinho: 632
-
-Sequencia inicial 16 -> 632
-Melhor vizinho: 628
-
-Sequencia inicial 17 -> 628
-ITERAÇÃO: 8 - Atraso: 562
-
-Sequencia inicial 1 -> 769
-Melhor vizinho: 757
-
-Sequencia inicial 2 -> 757
-Melhor vizinho: 735
-
-Sequencia inicial 3 -> 735
-Melhor vizinho: 723
-
-Sequencia inicial 4 -> 723
-Melhor vizinho: 718
-
-Sequencia inicial 5 -> 718
-Melhor vizinho: 709
-
-Sequencia inicial 6 -> 709
-Melhor vizinho: 699
-
-Sequencia inicial 7 -> 699
-Melhor vizinho: 687
-
-Sequencia inicial 8 -> 687
-Melhor vizinho: 683
-
-Sequencia inicial 9 -> 683
-Melhor vizinho: 668
-
-Sequencia inicial 10 -> 668
-Melhor vizinho: 662
-
-Sequencia inicial 11 -> 662
-ITERAÇÃO: 9 - Atraso: 562
-
-Sequencia inicial 1 -> 761
-Melhor vizinho: 720
-
-Sequencia inicial 2 -> 720
-Melhor vizinho: 707
-
-Sequencia inicial 3 -> 707
-Melhor vizinho: 690
-
-Sequencia inicial 4 -> 690
-Melhor vizinho: 676
-
-Sequencia inicial 5 -> 676
-Melhor vizinho: 675
-
-Sequencia inicial 6 -> 675
-ITERAÇÃO: 10 - Atraso: 562
-
-Sequencia inicial 1 -> 728
-Melhor vizinho: 714
-
-Sequencia inicial 2 -> 714
-ITERAÇÃO: 11 - Atraso: 562
-
-Sequencia inicial 1 -> 735
-Melhor vizinho: 723
-
-Sequencia inicial 2 -> 723
-Melhor vizinho: 709
-
-Sequencia inicial 3 -> 709
-Melhor vizinho: 708
-
-Sequencia inicial 4 -> 708
-Melhor vizinho: 702
-
-Sequencia inicial 5 -> 702
-ITERAÇÃO: 12 - Atraso: 562
-
-Sequencia inicial 1 -> 711
-Melhor vizinho: 703
-
-Sequencia inicial 2 -> 703
-Melhor vizinho: 689
-
-Sequencia inicial 3 -> 689
-Melhor vizinho: 675
-
-Sequencia inicial 4 -> 675
-Melhor vizinho: 648
-
-Sequencia inicial 5 -> 648
-Melhor vizinho: 625
-
-Sequencia inicial 6 -> 625
-Melhor vizinho: 615
-
-Sequencia inicial 7 -> 615
-Melhor vizinho: 612
-
-Sequencia inicial 8 -> 612
-Melhor vizinho: 608
-
-Sequencia inicial 9 -> 608
-Melhor vizinho: 607
-
-Sequencia inicial 10 -> 607
-Melhor vizinho: 606
-
-Sequencia inicial 11 -> 606
-Melhor vizinho: 604
-
-Sequencia inicial 12 -> 604
-Melhor vizinho: 603
-
-Sequencia inicial 13 -> 603
-Melhor vizinho: 595
-
-Sequencia inicial 14 -> 595
-ITERAÇÃO: 13 - Atraso: 562
-
-Sequencia inicial 1 -> 711
-Melhor vizinho: 681
-
-Sequencia inicial 2 -> 681
-Melhor vizinho: 659
-
-Sequencia inicial 3 -> 659
-Melhor vizinho: 656
-
-Sequencia inicial 4 -> 656
-Melhor vizinho: 648
-
-Sequencia inicial 5 -> 648
-Melhor vizinho: 647
-
-Sequencia inicial 6 -> 647
-Melhor vizinho: 635
-
-Sequencia inicial 7 -> 635
-Melhor vizinho: 633
-
-Sequencia inicial 8 -> 633
-Melhor vizinho: 632
-
-Sequencia inicial 9 -> 632
-Melhor vizinho: 624
-
-Sequencia inicial 10 -> 624
-Melhor vizinho: 619
-
-Sequencia inicial 11 -> 619
-ITERAÇÃO: 14 - Atraso: 562
-
-Sequencia inicial 1 -> 778
-Melhor vizinho: 758
-
-Sequencia inicial 2 -> 758
-Melhor vizinho: 739
-
-Sequencia inicial 3 -> 739
-Melhor vizinho: 719
-
-Sequencia inicial 4 -> 719
-Melhor vizinho: 711
-
-Sequencia inicial 5 -> 711
-Melhor vizinho: 680
-
-Sequencia inicial 6 -> 680
-Melhor vizinho: 674
-
-Sequencia inicial 7 -> 674
-Melhor vizinho: 655
-
-Sequencia inicial 8 -> 655
-Melhor vizinho: 647
-
-Sequencia inicial 9 -> 647
-Melhor vizinho: 643
-
-Sequencia inicial 10 -> 643
-Melhor vizinho: 635
-
-Sequencia inicial 11 -> 635
-Melhor vizinho: 634
-
-Sequencia inicial 12 -> 634
-Melhor vizinho: 632
-
-Sequencia inicial 13 -> 632
-Melhor vizinho: 628
-
-Sequencia inicial 14 -> 628
-ITERAÇÃO: 15 - Atraso: 562
-
-Sequencia inicial 1 -> 724
-Melhor vizinho: 699
-
-Sequencia inicial 2 -> 699
-Melhor vizinho: 663
-
-Sequencia inicial 3 -> 663
-Melhor vizinho: 654
-
-Sequencia inicial 4 -> 654
-Melhor vizinho: 643
-
-Sequencia inicial 5 -> 643
-Melhor vizinho: 626
-
-Sequencia inicial 6 -> 626
-Melhor vizinho: 619
-
-Sequencia inicial 7 -> 619
-Melhor vizinho: 618
-
-Sequencia inicial 8 -> 618
-Melhor vizinho: 615
-
-Sequencia inicial 9 -> 615
-ITERAÇÃO: 16 - Atraso: 562
-
-Sequencia inicial 1 -> 703
-Melhor vizinho: 701
-
-Sequencia inicial 2 -> 701
-Melhor vizinho: 695
-
-Sequencia inicial 3 -> 695
-Melhor vizinho: 683
-
-Sequencia inicial 4 -> 683
-Melhor vizinho: 659
-
-Sequencia inicial 5 -> 659
-Melhor vizinho: 657
-
-Sequencia inicial 6 -> 657
-Melhor vizinho: 644
-
-Sequencia inicial 7 -> 644
-ITERAÇÃO: 17 - Atraso: 562
-
-Sequencia inicial 1 -> 745
-Melhor vizinho: 711
-
-Sequencia inicial 2 -> 711
-Melhor vizinho: 681
-
-Sequencia inicial 3 -> 681
-Melhor vizinho: 668
-
-Sequencia inicial 4 -> 668
-Melhor vizinho: 648
-
-Sequencia inicial 5 -> 648
-Melhor vizinho: 630
-
-Sequencia inicial 6 -> 630
-Melhor vizinho: 628
-
-Sequencia inicial 7 -> 628
-ITERAÇÃO: 18 - Atraso: 562
-
-Sequencia inicial 1 -> 786
-Melhor vizinho: 766
-
-Sequencia inicial 2 -> 766
-Melhor vizinho: 753
-
-Sequencia inicial 3 -> 753
-Melhor vizinho: 739
-
-Sequencia inicial 4 -> 739
-Melhor vizinho: 726
-
-Sequencia inicial 5 -> 726
-Melhor vizinho: 716
-
-Sequencia inicial 6 -> 716
-Melhor vizinho: 710
-
-Sequencia inicial 7 -> 710
-Melhor vizinho: 703
-
-Sequencia inicial 8 -> 703
-Melhor vizinho: 688
-
-Sequencia inicial 9 -> 688
-Melhor vizinho: 678
-
-Sequencia inicial 10 -> 678
-Melhor vizinho: 672
-
-Sequencia inicial 11 -> 672
-Melhor vizinho: 669
-
-Sequencia inicial 12 -> 669
-ITERAÇÃO: 19 - Atraso: 562
-
-Sequencia inicial 1 -> 771
-Melhor vizinho: 764
-
-Sequencia inicial 2 -> 764
-Melhor vizinho: 744
-
-Sequencia inicial 3 -> 744
-Melhor vizinho: 739
-
-Sequencia inicial 4 -> 739
-Melhor vizinho: 721
-
-Sequencia inicial 5 -> 721
-Melhor vizinho: 718
-
-Sequencia inicial 6 -> 718
-Melhor vizinho: 697
-
-Sequencia inicial 7 -> 697
-Melhor vizinho: 685
-
-Sequencia inicial 8 -> 685
-Melhor vizinho: 675
-
-Sequencia inicial 9 -> 675
-Melhor vizinho: 668
-
-Sequencia inicial 10 -> 668
-Melhor vizinho: 664
-
-Sequencia inicial 11 -> 664
-Melhor vizinho: 653
-
-Sequencia inicial 12 -> 653
-Melhor vizinho: 643
-
-Sequencia inicial 13 -> 643
-Melhor vizinho: 636
-
-Sequencia inicial 14 -> 636
-Melhor vizinho: 623
-
-Sequencia inicial 15 -> 623
-Melhor vizinho: 615
-
-Sequencia inicial 16 -> 615
-Melhor vizinho: 607
-
-Sequencia inicial 17 -> 607
-ITERAÇÃO: 20 - Atraso: 562
-
-Sequencia inicial 1 -> 749
-Melhor vizinho: 712
-
-Sequencia inicial 2 -> 712
-Melhor vizinho: 695
-
-Sequencia inicial 3 -> 695
-Melhor vizinho: 674
-
-Sequencia inicial 4 -> 674
-Melhor vizinho: 655
-
-Sequencia inicial 5 -> 655
-Melhor vizinho: 653
-
-Sequencia inicial 6 -> 653
-Melhor vizinho: 639
-
-Sequencia inicial 7 -> 639
-Melhor vizinho: 628
-
-Sequencia inicial 8 -> 628
-Melhor vizinho: 624
-
-Sequencia inicial 9 -> 624
-Melhor vizinho: 621
-
-Sequencia inicial 10 -> 621
-Melhor vizinho: 616
-
-Sequencia inicial 11 -> 616
-Melhor vizinho: 614
-
-Sequencia inicial 12 -> 614
-Atraso Máximo Iterated Greedy (IG): 562
+Atraso Máximo Iterated Greedy (IG): 581
 Sequência de Tarefas - Solução Final IG
-43 39 28 17 10 35 41 24 13 27 49 44 2 20 15 21 11 23 16 18 22 32 9 31 5 36 14 12 37 34 1 38 40 7 25 3 29 19 45 42 30 46 33 4 48 26 6 47 8 50 
-Tempo: 6.90749 segundos
+3 2 11 27 38 18 17 5 13 46 40 26 37 39 36 7 28 1 14 49 41 43 32 29 23 45 47 50 21 31 10 20 12 30 24 44 34 6 25 9 16 42 19 4 48 33 15 22 35 8 
+Tempo: 1.5112 segundos

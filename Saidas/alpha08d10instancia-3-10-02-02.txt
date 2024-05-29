@@ -2,267 +2,168 @@
 Calculando TP
 TP calculada
 Sequência de Tarefas - Solução Inicial EDD
-1 3 10 5 7 4 2 8 9 6 
 Atraso Máximo da solução inicial EDD: 2275.11
 
 Sequência de Tarefas - Solução Inicial Tempos Medios
-5 9 10 1 4 6 8 2 3 7 
 Atraso Máximo da solução inicial Tempos Medios: 2520.47
 
-Sequencia inicial 1 -> 2520.47
-Melhor vizinho: 2068.09
+ITERAÇÃO: 1 - Atraso: 2520.47
 
-Sequencia inicial 2 -> 2068.09
-Melhor vizinho: 1990.63
+ITERAÇÃO: 1 - Atraso: 2185.88
 
-Sequencia inicial 3 -> 1990.63
-Melhor vizinho: 1973.59
+ITERAÇÃO: 1 - Atraso: 2080.79
 
-Sequencia inicial 4 -> 1973.59
-ITERAÇÃO: 1 - Atraso: 1973.59
+ITERAÇÃO: 2 - Atraso: 2080.79
 
-Sequencia inicial 1 -> 1982.86
-ITERAÇÃO: 2 - Atraso: 1973.59
+ITERAÇÃO: 3 - Atraso: 2080.79
 
-Sequencia inicial 1 -> 2019.67
-Melhor vizinho: 1993.1
+ITERAÇÃO: 4 - Atraso: 2080.79
 
-Sequencia inicial 2 -> 1993.1
-Melhor vizinho: 1982.86
+ITERAÇÃO: 5 - Atraso: 2080.79
 
-Sequencia inicial 3 -> 1982.86
-ITERAÇÃO: 3 - Atraso: 1973.59
+ITERAÇÃO: 6 - Atraso: 2080.79
 
-Sequencia inicial 1 -> 2038.89
-Melhor vizinho: 2005.42
+ITERAÇÃO: 7 - Atraso: 2080.79
 
-Sequencia inicial 2 -> 2005.42
-Melhor vizinho: 1989.97
+ITERAÇÃO: 8 - Atraso: 2080.79
 
-Sequencia inicial 3 -> 1989.97
-Melhor vizinho: 1973.59
+ITERAÇÃO: 9 - Atraso: 2080.79
 
-Sequencia inicial 4 -> 1973.59
-ITERAÇÃO: 4 - Atraso: 1973.59
+ITERAÇÃO: 10 - Atraso: 2080.79
 
-Sequencia inicial 1 -> 2005.42
-Melhor vizinho: 1989.97
+ITERAÇÃO: 11 - Atraso: 2080.79
 
-Sequencia inicial 2 -> 1989.97
-Melhor vizinho: 1973.59
+ITERAÇÃO: 12 - Atraso: 2080.79
 
-Sequencia inicial 3 -> 1973.59
-ITERAÇÃO: 5 - Atraso: 1973.59
+ITERAÇÃO: 1 - Atraso: 2002.03
 
-Sequencia inicial 1 -> 2005.42
-Melhor vizinho: 1989.97
+ITERAÇÃO: 1 - Atraso: 1996.09
 
-Sequencia inicial 2 -> 1989.97
-Melhor vizinho: 1973.59
+ITERAÇÃO: 1 - Atraso: 1988.75
 
-Sequencia inicial 3 -> 1973.59
-ITERAÇÃO: 6 - Atraso: 1973.59
+ITERAÇÃO: 2 - Atraso: 1988.75
 
-Sequencia inicial 1 -> 2005.42
-Melhor vizinho: 1989.97
+ITERAÇÃO: 3 - Atraso: 1988.75
 
-Sequencia inicial 2 -> 1989.97
-Melhor vizinho: 1973.59
+ITERAÇÃO: 4 - Atraso: 1988.75
 
-Sequencia inicial 3 -> 1973.59
-ITERAÇÃO: 7 - Atraso: 1973.59
+ITERAÇÃO: 5 - Atraso: 1988.75
 
-Sequencia inicial 1 -> 2005.42
-Melhor vizinho: 1989.97
+ITERAÇÃO: 1 - Atraso: 1984.05
 
-Sequencia inicial 2 -> 1989.97
-Melhor vizinho: 1973.59
+ITERAÇÃO: 2 - Atraso: 1984.05
 
-Sequencia inicial 3 -> 1973.59
-ITERAÇÃO: 8 - Atraso: 1973.59
+ITERAÇÃO: 3 - Atraso: 1984.05
 
-Sequencia inicial 1 -> 2005.42
-Melhor vizinho: 1989.97
+ITERAÇÃO: 4 - Atraso: 1984.05
 
-Sequencia inicial 2 -> 1989.97
-Melhor vizinho: 1973.59
+ITERAÇÃO: 5 - Atraso: 1984.05
 
-Sequencia inicial 3 -> 1973.59
-ITERAÇÃO: 9 - Atraso: 1973.59
+ITERAÇÃO: 6 - Atraso: 1984.05
 
-Sequencia inicial 1 -> 1971.69
-Melhor vizinho: 1965.02
+ITERAÇÃO: 7 - Atraso: 1984.05
 
-Sequencia inicial 2 -> 1965.02
-ITERAÇÃO: 1 - Atraso: 1965.02
+ITERAÇÃO: 1 - Atraso: 1962.42
 
-Sequencia inicial 1 -> 1965.02
-ITERAÇÃO: 2 - Atraso: 1965.02
+ITERAÇÃO: 2 - Atraso: 1962.42
 
-Sequencia inicial 1 -> 1965.02
-ITERAÇÃO: 3 - Atraso: 1965.02
+ITERAÇÃO: 3 - Atraso: 1962.42
 
-Sequencia inicial 1 -> 1965.02
-ITERAÇÃO: 4 - Atraso: 1965.02
+ITERAÇÃO: 4 - Atraso: 1962.42
 
-Sequencia inicial 1 -> 1982.69
-Melhor vizinho: 1965.02
+ITERAÇÃO: 5 - Atraso: 1962.42
 
-Sequencia inicial 2 -> 1965.02
-ITERAÇÃO: 5 - Atraso: 1965.02
+ITERAÇÃO: 6 - Atraso: 1962.42
 
-Sequencia inicial 1 -> 2009.15
-Melhor vizinho: 1971.69
+ITERAÇÃO: 7 - Atraso: 1962.42
 
-Sequencia inicial 2 -> 1971.69
-Melhor vizinho: 1965.02
+ITERAÇÃO: 8 - Atraso: 1962.42
 
-Sequencia inicial 3 -> 1965.02
-ITERAÇÃO: 6 - Atraso: 1965.02
+ITERAÇÃO: 9 - Atraso: 1962.42
 
-Sequencia inicial 1 -> 2009.15
-Melhor vizinho: 1971.69
+ITERAÇÃO: 10 - Atraso: 1962.42
 
-Sequencia inicial 2 -> 1971.69
-Melhor vizinho: 1965.02
+ITERAÇÃO: 11 - Atraso: 1962.42
 
-Sequencia inicial 3 -> 1965.02
-ITERAÇÃO: 7 - Atraso: 1965.02
+ITERAÇÃO: 12 - Atraso: 1962.42
 
-Sequencia inicial 1 -> 2009.15
-Melhor vizinho: 1971.69
+ITERAÇÃO: 13 - Atraso: 1962.42
 
-Sequencia inicial 2 -> 1971.69
-Melhor vizinho: 1965.02
+ITERAÇÃO: 14 - Atraso: 1962.42
 
-Sequencia inicial 3 -> 1965.02
-ITERAÇÃO: 8 - Atraso: 1965.02
+ITERAÇÃO: 15 - Atraso: 1962.42
 
-Sequencia inicial 1 -> 2005.42
-Melhor vizinho: 1989.97
+ITERAÇÃO: 16 - Atraso: 1962.42
 
-Sequencia inicial 2 -> 1989.97
-Melhor vizinho: 1973.59
+ITERAÇÃO: 17 - Atraso: 1962.42
 
-Sequencia inicial 3 -> 1973.59
-ITERAÇÃO: 9 - Atraso: 1965.02
+ITERAÇÃO: 18 - Atraso: 1962.42
 
-Sequencia inicial 1 -> 2086.96
-Melhor vizinho: 2019.47
+ITERAÇÃO: 19 - Atraso: 1962.42
 
-Sequencia inicial 2 -> 2019.47
-Melhor vizinho: 1973.59
+ITERAÇÃO: 20 - Atraso: 1962.42
 
-Sequencia inicial 3 -> 1973.59
-ITERAÇÃO: 10 - Atraso: 1965.02
+ITERAÇÃO: 21 - Atraso: 1962.42
 
-Sequencia inicial 1 -> 2112.81
-Melhor vizinho: 2013.12
+ITERAÇÃO: 22 - Atraso: 1962.42
 
-Sequencia inicial 2 -> 2013.12
-Melhor vizinho: 2006.31
+ITERAÇÃO: 23 - Atraso: 1962.42
 
-Sequencia inicial 3 -> 2006.31
-Melhor vizinho: 1978.71
+ITERAÇÃO: 24 - Atraso: 1962.42
 
-Sequencia inicial 4 -> 1978.71
-Melhor vizinho: 1973.59
+ITERAÇÃO: 25 - Atraso: 1962.42
 
-Sequencia inicial 5 -> 1973.59
-ITERAÇÃO: 11 - Atraso: 1965.02
+ITERAÇÃO: 26 - Atraso: 1962.42
 
-Sequencia inicial 1 -> 2102.89
-Melhor vizinho: 2047.48
+ITERAÇÃO: 27 - Atraso: 1962.42
 
-Sequencia inicial 2 -> 2047.48
-Melhor vizinho: 1996.24
+ITERAÇÃO: 28 - Atraso: 1962.42
 
-Sequencia inicial 3 -> 1996.24
-Melhor vizinho: 1992.37
+ITERAÇÃO: 29 - Atraso: 1962.42
 
-Sequencia inicial 4 -> 1992.37
-ITERAÇÃO: 12 - Atraso: 1965.02
+ITERAÇÃO: 30 - Atraso: 1962.42
 
-Sequencia inicial 1 -> 2102.89
-Melhor vizinho: 2047.48
+ITERAÇÃO: 31 - Atraso: 1962.42
 
-Sequencia inicial 2 -> 2047.48
-Melhor vizinho: 1996.24
+ITERAÇÃO: 32 - Atraso: 1962.42
 
-Sequencia inicial 3 -> 1996.24
-Melhor vizinho: 1992.37
+ITERAÇÃO: 33 - Atraso: 1962.42
 
-Sequencia inicial 4 -> 1992.37
-ITERAÇÃO: 13 - Atraso: 1965.02
+ITERAÇÃO: 34 - Atraso: 1962.42
 
-Sequencia inicial 1 -> 2106.99
-Melhor vizinho: 2019.28
+ITERAÇÃO: 35 - Atraso: 1962.42
 
-Sequencia inicial 2 -> 2019.28
-Melhor vizinho: 2001.5
+ITERAÇÃO: 36 - Atraso: 1962.42
 
-Sequencia inicial 3 -> 2001.5
-Melhor vizinho: 1982.86
+ITERAÇÃO: 37 - Atraso: 1962.42
 
-Sequencia inicial 4 -> 1982.86
-ITERAÇÃO: 14 - Atraso: 1965.02
+ITERAÇÃO: 38 - Atraso: 1962.42
 
-Sequencia inicial 1 -> 2041.6
-Melhor vizinho: 1989.97
+ITERAÇÃO: 39 - Atraso: 1962.42
 
-Sequencia inicial 2 -> 1989.97
-Melhor vizinho: 1973.59
+ITERAÇÃO: 40 - Atraso: 1962.42
 
-Sequencia inicial 3 -> 1973.59
-ITERAÇÃO: 15 - Atraso: 1965.02
+ITERAÇÃO: 41 - Atraso: 1962.42
 
-Sequencia inicial 1 -> 2075.08
-Melhor vizinho: 2023.44
+ITERAÇÃO: 42 - Atraso: 1962.42
 
-Sequencia inicial 2 -> 2023.44
-Melhor vizinho: 1989.97
+ITERAÇÃO: 43 - Atraso: 1962.42
 
-Sequencia inicial 3 -> 1989.97
-Melhor vizinho: 1973.59
+ITERAÇÃO: 44 - Atraso: 1962.42
 
-Sequencia inicial 4 -> 1973.59
-ITERAÇÃO: 16 - Atraso: 1965.02
+ITERAÇÃO: 45 - Atraso: 1962.42
 
-Sequencia inicial 1 -> 2018.68
-Melhor vizinho: 1982.86
+ITERAÇÃO: 46 - Atraso: 1962.42
 
-Sequencia inicial 2 -> 1982.86
-ITERAÇÃO: 17 - Atraso: 1965.02
+ITERAÇÃO: 47 - Atraso: 1962.42
 
-Sequencia inicial 1 -> 2018.68
-Melhor vizinho: 1982.86
+ITERAÇÃO: 48 - Atraso: 1962.42
 
-Sequencia inicial 2 -> 1982.86
-ITERAÇÃO: 18 - Atraso: 1965.02
+ITERAÇÃO: 49 - Atraso: 1962.42
 
-Sequencia inicial 1 -> 2083.07
-Melhor vizinho: 2018.68
+ITERAÇÃO: 50 - Atraso: 1962.42
 
-Sequencia inicial 2 -> 2018.68
-Melhor vizinho: 1982.86
-
-Sequencia inicial 3 -> 1982.86
-ITERAÇÃO: 19 - Atraso: 1965.02
-
-Sequencia inicial 1 -> 2110.38
-Melhor vizinho: 2033.5
-
-Sequencia inicial 2 -> 2033.5
-Melhor vizinho: 2032.83
-
-Sequencia inicial 3 -> 2032.83
-ITERAÇÃO: 20 - Atraso: 1965.02
-
-Sequencia inicial 1 -> 1982.69
-Melhor vizinho: 1965.02
-
-Sequencia inicial 2 -> 1965.02
-Atraso Máximo Iterated Greedy (IG): 1965.02
+Atraso Máximo Iterated Greedy (IG): 1962.42
 Sequência de Tarefas - Solução Final IG
-9 4 8 5 10 2 6 1 3 7 
-Tempo: 0.009799 segundos
+6 5 10 8 9 4 2 1 3 7 
+Tempo: 0.003725 segundos

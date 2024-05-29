@@ -2,543 +2,208 @@
 Calculando TP
 TP calculada
 Sequência de Tarefas - Solução Inicial EDD
-2 19 11 16 14 17 3 15 4 8 12 5 10 7 1 6 13 9 18 20 
 Atraso Máximo da solução inicial EDD: 1059.98
 
 Sequência de Tarefas - Solução Inicial Tempos Medios
-13 5 19 12 8 6 10 20 4 14 16 15 9 1 3 18 7 2 17 11 
 Atraso Máximo da solução inicial Tempos Medios: 892.665
 
-Sequencia inicial 1 -> 892.665
-Melhor vizinho: 787.779
+ITERAÇÃO: 1 - Atraso: 892.665
 
-Sequencia inicial 2 -> 787.779
-Melhor vizinho: 747.198
+ITERAÇÃO: 1 - Atraso: 849.395
 
-Sequencia inicial 3 -> 747.198
-Melhor vizinho: 731.296
+ITERAÇÃO: 1 - Atraso: 845.249
 
-Sequencia inicial 4 -> 731.296
-Melhor vizinho: 727.504
+ITERAÇÃO: 1 - Atraso: 837.181
 
-Sequencia inicial 5 -> 727.504
-Melhor vizinho: 724.728
+ITERAÇÃO: 1 - Atraso: 830.971
 
-Sequencia inicial 6 -> 724.728
-Melhor vizinho: 724.1
+ITERAÇÃO: 2 - Atraso: 830.971
 
-Sequencia inicial 7 -> 724.1
-Melhor vizinho: 719.151
+ITERAÇÃO: 3 - Atraso: 830.971
 
-Sequencia inicial 8 -> 719.151
-Melhor vizinho: 717.273
+ITERAÇÃO: 4 - Atraso: 830.971
 
-Sequencia inicial 9 -> 717.273
-Melhor vizinho: 717.072
+ITERAÇÃO: 5 - Atraso: 830.971
 
-Sequencia inicial 10 -> 717.072
-ITERAÇÃO: 1 - Atraso: 717.072
+ITERAÇÃO: 6 - Atraso: 830.971
 
-Sequencia inicial 1 -> 732.424
-Melhor vizinho: 722.02
+ITERAÇÃO: 1 - Atraso: 761.536
 
-Sequencia inicial 2 -> 722.02
-Melhor vizinho: 717.072
+ITERAÇÃO: 2 - Atraso: 761.536
 
-Sequencia inicial 3 -> 717.072
-ITERAÇÃO: 2 - Atraso: 717.072
+ITERAÇÃO: 3 - Atraso: 761.536
 
-Sequencia inicial 1 -> 724.616
-Melhor vizinho: 719.487
+ITERAÇÃO: 1 - Atraso: 760.853
 
-Sequencia inicial 2 -> 719.487
-Melhor vizinho: 719.265
+ITERAÇÃO: 2 - Atraso: 760.853
 
-Sequencia inicial 3 -> 719.265
-Melhor vizinho: 718.913
+ITERAÇÃO: 3 - Atraso: 760.853
 
-Sequencia inicial 4 -> 718.913
-Melhor vizinho: 717.39
+ITERAÇÃO: 1 - Atraso: 738.172
 
-Sequencia inicial 5 -> 717.39
-Melhor vizinho: 717.206
+ITERAÇÃO: 2 - Atraso: 738.172
 
-Sequencia inicial 6 -> 717.206
-ITERAÇÃO: 3 - Atraso: 717.072
+ITERAÇÃO: 3 - Atraso: 738.172
 
-Sequencia inicial 1 -> 723.078
-Melhor vizinho: 718.129
+ITERAÇÃO: 4 - Atraso: 738.172
 
-Sequencia inicial 2 -> 718.129
-Melhor vizinho: 717.072
+ITERAÇÃO: 5 - Atraso: 738.172
 
-Sequencia inicial 3 -> 717.072
-ITERAÇÃO: 4 - Atraso: 717.072
+ITERAÇÃO: 6 - Atraso: 738.172
 
-Sequencia inicial 1 -> 747.766
-Melhor vizinho: 737.671
+ITERAÇÃO: 7 - Atraso: 738.172
 
-Sequencia inicial 2 -> 737.671
-Melhor vizinho: 734.039
+ITERAÇÃO: 8 - Atraso: 738.172
 
-Sequencia inicial 3 -> 734.039
-Melhor vizinho: 733.289
+ITERAÇÃO: 9 - Atraso: 738.172
 
-Sequencia inicial 4 -> 733.289
-Melhor vizinho: 733.089
+ITERAÇÃO: 10 - Atraso: 738.172
 
-Sequencia inicial 5 -> 733.089
-Melhor vizinho: 732.905
+ITERAÇÃO: 11 - Atraso: 738.172
 
-Sequencia inicial 6 -> 732.905
-Melhor vizinho: 732.772
+ITERAÇÃO: 12 - Atraso: 738.172
 
-Sequencia inicial 7 -> 732.772
-Melhor vizinho: 732.372
+ITERAÇÃO: 13 - Atraso: 738.172
 
-Sequencia inicial 8 -> 732.372
-ITERAÇÃO: 5 - Atraso: 717.072
+ITERAÇÃO: 14 - Atraso: 738.172
 
-Sequencia inicial 1 -> 788.903
-Melhor vizinho: 759.575
+ITERAÇÃO: 15 - Atraso: 738.172
 
-Sequencia inicial 2 -> 759.575
-Melhor vizinho: 747.034
+ITERAÇÃO: 16 - Atraso: 738.172
 
-Sequencia inicial 3 -> 747.034
-Melhor vizinho: 736.651
+ITERAÇÃO: 17 - Atraso: 738.172
 
-Sequencia inicial 4 -> 736.651
-Melhor vizinho: 733.019
+ITERAÇÃO: 18 - Atraso: 738.172
 
-Sequencia inicial 5 -> 733.019
-Melhor vizinho: 732.905
+ITERAÇÃO: 19 - Atraso: 738.172
 
-Sequencia inicial 6 -> 732.905
-Melhor vizinho: 732.772
+ITERAÇÃO: 20 - Atraso: 738.172
 
-Sequencia inicial 7 -> 732.772
-Melhor vizinho: 732.372
+ITERAÇÃO: 21 - Atraso: 738.172
 
-Sequencia inicial 8 -> 732.372
-ITERAÇÃO: 6 - Atraso: 717.072
+ITERAÇÃO: 22 - Atraso: 738.172
 
-Sequencia inicial 1 -> 765.943
-Melhor vizinho: 737.283
+ITERAÇÃO: 23 - Atraso: 738.172
 
-Sequencia inicial 2 -> 737.283
-Melhor vizinho: 734.266
+ITERAÇÃO: 24 - Atraso: 738.172
 
-Sequencia inicial 3 -> 734.266
-Melhor vizinho: 729.631
+ITERAÇÃO: 25 - Atraso: 738.172
 
-Sequencia inicial 4 -> 729.631
-Melhor vizinho: 728.733
+ITERAÇÃO: 26 - Atraso: 738.172
 
-Sequencia inicial 5 -> 728.733
-ITERAÇÃO: 7 - Atraso: 717.072
+ITERAÇÃO: 27 - Atraso: 738.172
 
-Sequencia inicial 1 -> 794.012
-Melhor vizinho: 790.278
+ITERAÇÃO: 28 - Atraso: 738.172
 
-Sequencia inicial 2 -> 790.278
-Melhor vizinho: 784.086
+ITERAÇÃO: 29 - Atraso: 738.172
 
-Sequencia inicial 3 -> 784.086
-Melhor vizinho: 771.516
+ITERAÇÃO: 30 - Atraso: 738.172
 
-Sequencia inicial 4 -> 771.516
-Melhor vizinho: 766.493
+ITERAÇÃO: 31 - Atraso: 738.172
 
-Sequencia inicial 5 -> 766.493
-Melhor vizinho: 764.431
+ITERAÇÃO: 32 - Atraso: 738.172
 
-Sequencia inicial 6 -> 764.431
-Melhor vizinho: 760.381
+ITERAÇÃO: 1 - Atraso: 734.495
 
-Sequencia inicial 7 -> 760.381
-Melhor vizinho: 759.455
+ITERAÇÃO: 2 - Atraso: 734.495
 
-Sequencia inicial 8 -> 759.455
-Melhor vizinho: 758.562
+ITERAÇÃO: 3 - Atraso: 734.495
 
-Sequencia inicial 9 -> 758.562
-Melhor vizinho: 757.984
+ITERAÇÃO: 4 - Atraso: 734.495
 
-Sequencia inicial 10 -> 757.984
-Melhor vizinho: 757.742
+ITERAÇÃO: 5 - Atraso: 734.495
 
-Sequencia inicial 11 -> 757.742
-ITERAÇÃO: 8 - Atraso: 717.072
+ITERAÇÃO: 6 - Atraso: 734.495
 
-Sequencia inicial 1 -> 886.877
-Melhor vizinho: 846.056
+ITERAÇÃO: 7 - Atraso: 734.495
 
-Sequencia inicial 2 -> 846.056
-Melhor vizinho: 812.253
+ITERAÇÃO: 8 - Atraso: 734.495
 
-Sequencia inicial 3 -> 812.253
-Melhor vizinho: 809.285
+ITERAÇÃO: 9 - Atraso: 734.495
 
-Sequencia inicial 4 -> 809.285
-ITERAÇÃO: 9 - Atraso: 717.072
+ITERAÇÃO: 10 - Atraso: 734.495
 
-Sequencia inicial 1 -> 882.402
-Melhor vizinho: 845.797
+ITERAÇÃO: 11 - Atraso: 734.495
 
-Sequencia inicial 2 -> 845.797
-Melhor vizinho: 813.149
+ITERAÇÃO: 12 - Atraso: 734.495
 
-Sequencia inicial 3 -> 813.149
-Melhor vizinho: 811.066
+ITERAÇÃO: 13 - Atraso: 734.495
 
-Sequencia inicial 4 -> 811.066
-Melhor vizinho: 810.26
+ITERAÇÃO: 14 - Atraso: 734.495
 
-Sequencia inicial 5 -> 810.26
-ITERAÇÃO: 10 - Atraso: 717.072
+ITERAÇÃO: 15 - Atraso: 734.495
 
-Sequencia inicial 1 -> 879.79
-Melhor vizinho: 848.749
+ITERAÇÃO: 16 - Atraso: 734.495
 
-Sequencia inicial 2 -> 848.749
-Melhor vizinho: 806.743
+ITERAÇÃO: 17 - Atraso: 734.495
 
-Sequencia inicial 3 -> 806.743
-Melhor vizinho: 800.877
+ITERAÇÃO: 18 - Atraso: 734.495
 
-Sequencia inicial 4 -> 800.877
-Melhor vizinho: 797.12
+ITERAÇÃO: 19 - Atraso: 734.495
 
-Sequencia inicial 5 -> 797.12
-Melhor vizinho: 796.001
+ITERAÇÃO: 20 - Atraso: 734.495
 
-Sequencia inicial 6 -> 796.001
-Melhor vizinho: 793.224
+ITERAÇÃO: 21 - Atraso: 734.495
 
-Sequencia inicial 7 -> 793.224
-Melhor vizinho: 789.292
+ITERAÇÃO: 22 - Atraso: 734.495
 
-Sequencia inicial 8 -> 789.292
-Melhor vizinho: 787.276
+ITERAÇÃO: 23 - Atraso: 734.495
 
-Sequencia inicial 9 -> 787.276
-Melhor vizinho: 786.601
+ITERAÇÃO: 24 - Atraso: 734.495
 
-Sequencia inicial 10 -> 786.601
-ITERAÇÃO: 11 - Atraso: 717.072
+ITERAÇÃO: 25 - Atraso: 734.495
 
-Sequencia inicial 1 -> 877.978
-Melhor vizinho: 823.536
+ITERAÇÃO: 26 - Atraso: 734.495
 
-Sequencia inicial 2 -> 823.536
-Melhor vizinho: 792.131
+ITERAÇÃO: 27 - Atraso: 734.495
 
-Sequencia inicial 3 -> 792.131
-Melhor vizinho: 783.972
+ITERAÇÃO: 28 - Atraso: 734.495
 
-Sequencia inicial 4 -> 783.972
-Melhor vizinho: 781.936
+ITERAÇÃO: 29 - Atraso: 734.495
 
-Sequencia inicial 5 -> 781.936
-Melhor vizinho: 780.496
+ITERAÇÃO: 30 - Atraso: 734.495
 
-Sequencia inicial 6 -> 780.496
-Melhor vizinho: 777.495
+ITERAÇÃO: 31 - Atraso: 734.495
 
-Sequencia inicial 7 -> 777.495
-Melhor vizinho: 776.615
+ITERAÇÃO: 32 - Atraso: 734.495
 
-Sequencia inicial 8 -> 776.615
-Melhor vizinho: 745.224
+ITERAÇÃO: 33 - Atraso: 734.495
 
-Sequencia inicial 9 -> 745.224
-Melhor vizinho: 744.232
+ITERAÇÃO: 34 - Atraso: 734.495
 
-Sequencia inicial 10 -> 744.232
-Melhor vizinho: 743.592
+ITERAÇÃO: 35 - Atraso: 734.495
 
-Sequencia inicial 11 -> 743.592
-Melhor vizinho: 742.976
+ITERAÇÃO: 36 - Atraso: 734.495
 
-Sequencia inicial 12 -> 742.976
-Melhor vizinho: 742.349
+ITERAÇÃO: 37 - Atraso: 734.495
 
-Sequencia inicial 13 -> 742.349
-ITERAÇÃO: 12 - Atraso: 717.072
+ITERAÇÃO: 38 - Atraso: 734.495
 
-Sequencia inicial 1 -> 862.385
-Melhor vizinho: 835.219
+ITERAÇÃO: 39 - Atraso: 734.495
 
-Sequencia inicial 2 -> 835.219
-Melhor vizinho: 809.282
+ITERAÇÃO: 40 - Atraso: 734.495
 
-Sequencia inicial 3 -> 809.282
-Melhor vizinho: 785.058
+ITERAÇÃO: 41 - Atraso: 734.495
 
-Sequencia inicial 4 -> 785.058
-Melhor vizinho: 776.99
+ITERAÇÃO: 42 - Atraso: 734.495
 
-Sequencia inicial 5 -> 776.99
-Melhor vizinho: 769.771
+ITERAÇÃO: 43 - Atraso: 734.495
 
-Sequencia inicial 6 -> 769.771
-Melhor vizinho: 750.948
+ITERAÇÃO: 44 - Atraso: 734.495
 
-Sequencia inicial 7 -> 750.948
-Melhor vizinho: 745.106
+ITERAÇÃO: 45 - Atraso: 734.495
 
-Sequencia inicial 8 -> 745.106
-Melhor vizinho: 743.047
+ITERAÇÃO: 46 - Atraso: 734.495
 
-Sequencia inicial 9 -> 743.047
-Melhor vizinho: 741.5
+ITERAÇÃO: 47 - Atraso: 734.495
 
-Sequencia inicial 10 -> 741.5
-Melhor vizinho: 739.997
+ITERAÇÃO: 48 - Atraso: 734.495
 
-Sequencia inicial 11 -> 739.997
-Melhor vizinho: 739.751
+ITERAÇÃO: 49 - Atraso: 734.495
 
-Sequencia inicial 12 -> 739.751
-ITERAÇÃO: 13 - Atraso: 717.072
+ITERAÇÃO: 50 - Atraso: 734.495
 
-Sequencia inicial 1 -> 861.454
-Melhor vizinho: 834.288
-
-Sequencia inicial 2 -> 834.288
-Melhor vizinho: 808.352
-
-Sequencia inicial 3 -> 808.352
-Melhor vizinho: 779.174
-
-Sequencia inicial 4 -> 779.174
-Melhor vizinho: 776.06
-
-Sequencia inicial 5 -> 776.06
-Melhor vizinho: 768.882
-
-Sequencia inicial 6 -> 768.882
-Melhor vizinho: 764.599
-
-Sequencia inicial 7 -> 764.599
-Melhor vizinho: 745.794
-
-Sequencia inicial 8 -> 745.794
-Melhor vizinho: 742.595
-
-Sequencia inicial 9 -> 742.595
-Melhor vizinho: 741.047
-
-Sequencia inicial 10 -> 741.047
-Melhor vizinho: 739.094
-
-Sequencia inicial 11 -> 739.094
-Melhor vizinho: 738.026
-
-Sequencia inicial 12 -> 738.026
-Melhor vizinho: 737.425
-
-Sequencia inicial 13 -> 737.425
-ITERAÇÃO: 14 - Atraso: 717.072
-
-Sequencia inicial 1 -> 864.176
-Melhor vizinho: 828.984
-
-Sequencia inicial 2 -> 828.984
-Melhor vizinho: 796.953
-
-Sequencia inicial 3 -> 796.953
-Melhor vizinho: 761.345
-
-Sequencia inicial 4 -> 761.345
-Melhor vizinho: 747.053
-
-Sequencia inicial 5 -> 747.053
-Melhor vizinho: 739.933
-
-Sequencia inicial 6 -> 739.933
-Melhor vizinho: 736.546
-
-Sequencia inicial 7 -> 736.546
-Melhor vizinho: 734.939
-
-Sequencia inicial 8 -> 734.939
-Melhor vizinho: 732.954
-
-Sequencia inicial 9 -> 732.954
-Melhor vizinho: 732.801
-
-Sequencia inicial 10 -> 732.801
-Melhor vizinho: 732.686
-
-Sequencia inicial 11 -> 732.686
-Melhor vizinho: 732.254
-
-Sequencia inicial 12 -> 732.254
-ITERAÇÃO: 15 - Atraso: 717.072
-
-Sequencia inicial 1 -> 870.011
-Melhor vizinho: 845.045
-
-Sequencia inicial 2 -> 845.045
-Melhor vizinho: 809.294
-
-Sequencia inicial 3 -> 809.294
-Melhor vizinho: 794.975
-
-Sequencia inicial 4 -> 794.975
-Melhor vizinho: 752.83
-
-Sequencia inicial 5 -> 752.83
-Melhor vizinho: 748.61
-
-Sequencia inicial 6 -> 748.61
-Melhor vizinho: 740.546
-
-Sequencia inicial 7 -> 740.546
-Melhor vizinho: 738.87
-
-Sequencia inicial 8 -> 738.87
-Melhor vizinho: 738.589
-
-Sequencia inicial 9 -> 738.589
-ITERAÇÃO: 16 - Atraso: 717.072
-
-Sequencia inicial 1 -> 832.52
-Melhor vizinho: 806.153
-
-Sequencia inicial 2 -> 806.153
-Melhor vizinho: 784.624
-
-Sequencia inicial 3 -> 784.624
-Melhor vizinho: 781.184
-
-Sequencia inicial 4 -> 781.184
-Melhor vizinho: 772.705
-
-Sequencia inicial 5 -> 772.705
-ITERAÇÃO: 17 - Atraso: 717.072
-
-Sequencia inicial 1 -> 817.807
-Melhor vizinho: 769.985
-
-Sequencia inicial 2 -> 769.985
-Melhor vizinho: 756.233
-
-Sequencia inicial 3 -> 756.233
-Melhor vizinho: 749.563
-
-Sequencia inicial 4 -> 749.563
-Melhor vizinho: 746.683
-
-Sequencia inicial 5 -> 746.683
-Melhor vizinho: 745.504
-
-Sequencia inicial 6 -> 745.504
-Melhor vizinho: 741.127
-
-Sequencia inicial 7 -> 741.127
-Melhor vizinho: 740.47
-
-Sequencia inicial 8 -> 740.47
-Melhor vizinho: 735.621
-
-Sequencia inicial 9 -> 735.621
-Melhor vizinho: 731.383
-
-Sequencia inicial 10 -> 731.383
-Melhor vizinho: 730.698
-
-Sequencia inicial 11 -> 730.698
-Melhor vizinho: 730.439
-
-Sequencia inicial 12 -> 730.439
-ITERAÇÃO: 18 - Atraso: 717.072
-
-Sequencia inicial 1 -> 809.843
-Melhor vizinho: 761.62
-
-Sequencia inicial 2 -> 761.62
-Melhor vizinho: 750.906
-
-Sequencia inicial 3 -> 750.906
-Melhor vizinho: 743.562
-
-Sequencia inicial 4 -> 743.562
-Melhor vizinho: 734.588
-
-Sequencia inicial 5 -> 734.588
-Melhor vizinho: 730.076
-
-Sequencia inicial 6 -> 730.076
-ITERAÇÃO: 19 - Atraso: 717.072
-
-Sequencia inicial 1 -> 902.801
-Melhor vizinho: 870.306
-
-Sequencia inicial 2 -> 870.306
-Melhor vizinho: 852.643
-
-Sequencia inicial 3 -> 852.643
-Melhor vizinho: 822.925
-
-Sequencia inicial 4 -> 822.925
-Melhor vizinho: 754.642
-
-Sequencia inicial 5 -> 754.642
-Melhor vizinho: 749.783
-
-Sequencia inicial 6 -> 749.783
-Melhor vizinho: 744.86
-
-Sequencia inicial 7 -> 744.86
-Melhor vizinho: 741.104
-
-Sequencia inicial 8 -> 741.104
-Melhor vizinho: 736.979
-
-Sequencia inicial 9 -> 736.979
-Melhor vizinho: 736.338
-
-Sequencia inicial 10 -> 736.338
-ITERAÇÃO: 20 - Atraso: 717.072
-
-Sequencia inicial 1 -> 915.163
-Melhor vizinho: 872.037
-
-Sequencia inicial 2 -> 872.037
-Melhor vizinho: 824.249
-
-Sequencia inicial 3 -> 824.249
-Melhor vizinho: 786.017
-
-Sequencia inicial 4 -> 786.017
-Melhor vizinho: 759.753
-
-Sequencia inicial 5 -> 759.753
-Melhor vizinho: 751.488
-
-Sequencia inicial 6 -> 751.488
-Melhor vizinho: 749.189
-
-Sequencia inicial 7 -> 749.189
-Melhor vizinho: 746.419
-
-Sequencia inicial 8 -> 746.419
-Melhor vizinho: 744.071
-
-Sequencia inicial 9 -> 744.071
-Melhor vizinho: 733.969
-
-Sequencia inicial 10 -> 733.969
-Melhor vizinho: 733.354
-
-Sequencia inicial 11 -> 733.354
-Melhor vizinho: 733.26
-
-Sequencia inicial 12 -> 733.26
-Atraso Máximo Iterated Greedy (IG): 717.072
+Atraso Máximo Iterated Greedy (IG): 734.495
 Sequência de Tarefas - Solução Final IG
-9 10 1 6 5 20 17 19 8 13 3 14 4 16 18 12 7 15 11 2 
-Tempo: 0.143198 segundos
+13 14 6 19 4 8 10 5 18 12 3 20 1 17 16 2 11 15 9 7 
+Tempo: 0.025308 segundos

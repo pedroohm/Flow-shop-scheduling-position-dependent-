@@ -2,585 +2,220 @@
 Calculando TP
 TP calculada
 Sequência de Tarefas - Solução Inicial EDD
-200 223 190 228 98 155 134 50 11 160 10 90 14 136 151 249 65 141 144 7 79 165 24 140 64 164 38 9 74 56 39 171 123 229 20 84 83 236 59 154 31 69 96 245 235 211 101 102 225 54 53 26 226 116 174 29 210 58 70 73 227 216 197 156 95 219 47 133 237 34 32 240 208 55 157 191 72 62 103 137 91 231 215 247 233 202 22 30 23 128 120 78 232 250 80 19 173 214 179 198 189 86 117 44 135 17 57 104 212 192 33 181 77 126 194 188 94 76 66 106 3 109 177 187 248 184 246 209 63 75 37 87 35 170 36 201 21 230 127 43 107 16 42 45 220 153 82 168 238 145 111 213 149 51 67 150 40 18 121 242 162 204 221 143 241 124 100 193 199 114 146 217 88 89 195 169 243 205 167 183 129 85 15 161 13 1 172 148 222 234 46 176 186 49 132 4 224 115 163 159 41 48 166 185 112 52 8 147 97 92 239 110 182 6 81 206 130 203 68 71 108 244 12 105 60 178 218 125 152 93 113 158 175 99 61 139 180 138 122 131 28 2 5 196 25 118 142 119 27 207 
-Atraso Máximo da solução inicial EDD: 0
+Atraso Máximo da solução inicial EDD: 5525
 
 Sequência de Tarefas - Solução Inicial Tempos Medios
-1 3 9 59 34 8 7 182 4 174 200 134 136 165 181 176 47 216 68 233 193 212 172 188 237 65 26 195 61 133 144 114 146 232 39 83 27 79 214 46 53 22 63 99 222 86 213 167 60 184 87 215 247 106 141 199 151 223 162 250 97 249 171 155 220 137 230 75 45 6 44 208 218 245 118 117 104 159 24 36 177 103 94 156 10 25 40 69 145 96 57 42 122 228 30 147 231 5 38 166 178 14 221 163 236 207 81 189 29 234 217 169 110 135 28 107 120 175 58 148 226 143 64 203 31 74 190 219 210 89 11 225 2 115 142 131 241 20 35 76 84 201 15 180 67 101 93 62 154 12 138 112 90 204 49 102 21 105 224 119 95 240 149 164 150 192 116 19 70 48 91 160 244 161 52 124 50 196 246 32 130 140 77 98 82 168 239 158 194 243 183 206 100 157 17 13 108 123 153 238 88 72 125 126 71 16 18 111 80 235 127 128 152 92 229 121 78 109 227 33 139 248 202 43 198 132 55 170 185 205 41 85 197 191 54 242 211 187 179 209 173 73 56 113 51 66 186 37 23 129 
-Atraso Máximo da solução inicial Tempos Medios: 2493
+Atraso Máximo da solução inicial Tempos Medios: 6014
 
-Sequencia inicial 1 -> 2493
-Melhor vizinho: 2329
+ITERAÇÃO: 1 - Atraso: 6014
 
-Sequencia inicial 2 -> 2329
-Melhor vizinho: 2251
+ITERAÇÃO: 1 - Atraso: 5270
 
-Sequencia inicial 3 -> 2251
-Melhor vizinho: 2174
+ITERAÇÃO: 1 - Atraso: 4882
 
-Sequencia inicial 4 -> 2174
-Melhor vizinho: 2100
+ITERAÇÃO: 1 - Atraso: 4717
 
-Sequencia inicial 5 -> 2100
-Melhor vizinho: 2059
+ITERAÇÃO: 1 - Atraso: 4630
 
-Sequencia inicial 6 -> 2059
-Melhor vizinho: 2020
+ITERAÇÃO: 1 - Atraso: 4519
 
-Sequencia inicial 7 -> 2020
-Melhor vizinho: 1985
+ITERAÇÃO: 1 - Atraso: 4465
 
-Sequencia inicial 8 -> 1985
-Melhor vizinho: 1957
+ITERAÇÃO: 1 - Atraso: 4394
 
-Sequencia inicial 9 -> 1957
-Melhor vizinho: 1931
+ITERAÇÃO: 1 - Atraso: 4002
 
-Sequencia inicial 10 -> 1931
-Melhor vizinho: 1894
+ITERAÇÃO: 1 - Atraso: 3825
 
-Sequencia inicial 11 -> 1894
-Melhor vizinho: 1885
+ITERAÇÃO: 1 - Atraso: 3677
 
-Sequencia inicial 12 -> 1885
-Melhor vizinho: 1872
+ITERAÇÃO: 1 - Atraso: 3659
 
-Sequencia inicial 13 -> 1872
-Melhor vizinho: 1844
+ITERAÇÃO: 2 - Atraso: 3659
 
-Sequencia inicial 14 -> 1844
-Melhor vizinho: 1831
+ITERAÇÃO: 3 - Atraso: 3659
 
-Sequencia inicial 15 -> 1831
-Melhor vizinho: 1802
+ITERAÇÃO: 1 - Atraso: 3443
 
-Sequencia inicial 16 -> 1802
-Melhor vizinho: 1788
+ITERAÇÃO: 1 - Atraso: 3401
 
-Sequencia inicial 17 -> 1788
-Melhor vizinho: 1783
+ITERAÇÃO: 1 - Atraso: 3370
 
-Sequencia inicial 18 -> 1783
-Melhor vizinho: 1723
+ITERAÇÃO: 1 - Atraso: 3307
 
-Sequencia inicial 19 -> 1723
-Melhor vizinho: 1719
+ITERAÇÃO: 2 - Atraso: 3307
 
-Sequencia inicial 20 -> 1719
-Melhor vizinho: 1689
+ITERAÇÃO: 3 - Atraso: 3307
 
-Sequencia inicial 21 -> 1689
-Melhor vizinho: 1672
+ITERAÇÃO: 4 - Atraso: 3307
 
-Sequencia inicial 22 -> 1672
-Melhor vizinho: 1652
+ITERAÇÃO: 1 - Atraso: 3269
 
-Sequencia inicial 23 -> 1652
-Melhor vizinho: 1626
+ITERAÇÃO: 1 - Atraso: 3174
 
-Sequencia inicial 24 -> 1626
-Melhor vizinho: 1625
+ITERAÇÃO: 2 - Atraso: 3174
 
-Sequencia inicial 25 -> 1625
-Melhor vizinho: 1622
+ITERAÇÃO: 3 - Atraso: 3174
 
-Sequencia inicial 26 -> 1622
-Melhor vizinho: 1608
+ITERAÇÃO: 4 - Atraso: 3174
 
-Sequencia inicial 27 -> 1608
-Melhor vizinho: 1607
+ITERAÇÃO: 5 - Atraso: 3174
 
-Sequencia inicial 28 -> 1607
-ITERAÇÃO: 1 - Atraso: 1607
+ITERAÇÃO: 6 - Atraso: 3174
 
-Sequencia inicial 1 -> 474
-Melhor vizinho: 448
+ITERAÇÃO: 7 - Atraso: 3174
 
-Sequencia inicial 2 -> 448
-Melhor vizinho: 430
+ITERAÇÃO: 8 - Atraso: 3174
 
-Sequencia inicial 3 -> 430
-Melhor vizinho: 418
+ITERAÇÃO: 9 - Atraso: 3174
 
-Sequencia inicial 4 -> 418
-Melhor vizinho: 399
+ITERAÇÃO: 10 - Atraso: 3174
 
-Sequencia inicial 5 -> 399
-Melhor vizinho: 398
+ITERAÇÃO: 1 - Atraso: 3154
 
-Sequencia inicial 6 -> 398
-Melhor vizinho: 397
+ITERAÇÃO: 2 - Atraso: 3154
 
-Sequencia inicial 7 -> 397
-Melhor vizinho: 393
+ITERAÇÃO: 3 - Atraso: 3154
 
-Sequencia inicial 8 -> 393
-Melhor vizinho: 389
+ITERAÇÃO: 4 - Atraso: 3154
 
-Sequencia inicial 9 -> 389
-Melhor vizinho: 375
+ITERAÇÃO: 5 - Atraso: 3154
 
-Sequencia inicial 10 -> 375
-Melhor vizinho: 371
+ITERAÇÃO: 6 - Atraso: 3154
 
-Sequencia inicial 11 -> 371
-Melhor vizinho: 369
+ITERAÇÃO: 7 - Atraso: 3154
 
-Sequencia inicial 12 -> 369
-Melhor vizinho: 366
+ITERAÇÃO: 8 - Atraso: 3154
 
-Sequencia inicial 13 -> 366
-ITERAÇÃO: 1 - Atraso: 366
+ITERAÇÃO: 9 - Atraso: 3154
 
-Sequencia inicial 1 -> 344
-Melhor vizinho: 315
+ITERAÇÃO: 10 - Atraso: 3154
 
-Sequencia inicial 2 -> 315
-Melhor vizinho: 300
+ITERAÇÃO: 11 - Atraso: 3154
 
-Sequencia inicial 3 -> 300
-Melhor vizinho: 285
+ITERAÇÃO: 1 - Atraso: 3048
 
-Sequencia inicial 4 -> 285
-Melhor vizinho: 267
+ITERAÇÃO: 2 - Atraso: 3048
 
-Sequencia inicial 5 -> 267
-Melhor vizinho: 254
+ITERAÇÃO: 3 - Atraso: 3048
 
-Sequencia inicial 6 -> 254
-Melhor vizinho: 213
+ITERAÇÃO: 4 - Atraso: 3048
 
-Sequencia inicial 7 -> 213
-Melhor vizinho: 196
+ITERAÇÃO: 5 - Atraso: 3048
 
-Sequencia inicial 8 -> 196
-Melhor vizinho: 194
+ITERAÇÃO: 1 - Atraso: 3037
 
-Sequencia inicial 9 -> 194
-Melhor vizinho: 189
+ITERAÇÃO: 2 - Atraso: 3037
 
-Sequencia inicial 10 -> 189
-Melhor vizinho: 184
+ITERAÇÃO: 3 - Atraso: 3037
 
-Sequencia inicial 11 -> 184
-Melhor vizinho: 183
+ITERAÇÃO: 4 - Atraso: 3037
 
-Sequencia inicial 12 -> 183
-ITERAÇÃO: 1 - Atraso: 183
+ITERAÇÃO: 5 - Atraso: 3037
 
-Sequencia inicial 1 -> 88
-Melhor vizinho: 26
+ITERAÇÃO: 6 - Atraso: 3037
 
-Sequencia inicial 2 -> 26
-Melhor vizinho: 15
+ITERAÇÃO: 1 - Atraso: 3035
 
-Sequencia inicial 3 -> 15
-Melhor vizinho: 9
+ITERAÇÃO: 2 - Atraso: 3035
 
-Sequencia inicial 4 -> 9
-ITERAÇÃO: 1 - Atraso: 9
+ITERAÇÃO: 3 - Atraso: 3035
 
-Sequencia inicial 1 -> 84
-Melhor vizinho: 43
+ITERAÇÃO: 4 - Atraso: 3035
 
-Sequencia inicial 2 -> 43
-Melhor vizinho: 22
+ITERAÇÃO: 5 - Atraso: 3035
 
-Sequencia inicial 3 -> 22
-ITERAÇÃO: 2 - Atraso: 9
+ITERAÇÃO: 6 - Atraso: 3035
 
-Sequencia inicial 1 -> 84
-Melhor vizinho: 67
+ITERAÇÃO: 7 - Atraso: 3035
 
-Sequencia inicial 2 -> 67
-Melhor vizinho: 53
+ITERAÇÃO: 8 - Atraso: 3035
 
-Sequencia inicial 3 -> 53
-Melhor vizinho: 46
+ITERAÇÃO: 9 - Atraso: 3035
 
-Sequencia inicial 4 -> 46
-Melhor vizinho: 40
+ITERAÇÃO: 10 - Atraso: 3035
 
-Sequencia inicial 5 -> 40
-Melhor vizinho: 37
+ITERAÇÃO: 11 - Atraso: 3035
 
-Sequencia inicial 6 -> 37
-Melhor vizinho: 0
+ITERAÇÃO: 12 - Atraso: 3035
 
-Sequencia inicial 7 -> 0
-ITERAÇÃO: 1 - Atraso: 0
+ITERAÇÃO: 13 - Atraso: 3035
 
-Sequencia inicial 1 -> 25
-Melhor vizinho: 3
+ITERAÇÃO: 14 - Atraso: 3035
 
-Sequencia inicial 2 -> 3
-ITERAÇÃO: 2 - Atraso: 0
+ITERAÇÃO: 15 - Atraso: 3035
 
-Sequencia inicial 1 -> 123
-Melhor vizinho: 79
+ITERAÇÃO: 16 - Atraso: 3035
 
-Sequencia inicial 2 -> 79
-Melhor vizinho: 76
+ITERAÇÃO: 17 - Atraso: 3035
 
-Sequencia inicial 3 -> 76
-Melhor vizinho: 60
+ITERAÇÃO: 18 - Atraso: 3035
 
-Sequencia inicial 4 -> 60
-Melhor vizinho: 44
+ITERAÇÃO: 19 - Atraso: 3035
 
-Sequencia inicial 5 -> 44
-Melhor vizinho: 34
+ITERAÇÃO: 20 - Atraso: 3035
 
-Sequencia inicial 6 -> 34
-ITERAÇÃO: 3 - Atraso: 0
+ITERAÇÃO: 21 - Atraso: 3035
 
-Sequencia inicial 1 -> 80
-Melhor vizinho: 67
+ITERAÇÃO: 22 - Atraso: 3035
 
-Sequencia inicial 2 -> 67
-Melhor vizinho: 55
+ITERAÇÃO: 23 - Atraso: 3035
 
-Sequencia inicial 3 -> 55
-Melhor vizinho: 46
+ITERAÇÃO: 24 - Atraso: 3035
 
-Sequencia inicial 4 -> 46
-Melhor vizinho: 29
+ITERAÇÃO: 25 - Atraso: 3035
 
-Sequencia inicial 5 -> 29
-Melhor vizinho: 9
+ITERAÇÃO: 26 - Atraso: 3035
 
-Sequencia inicial 6 -> 9
-Melhor vizinho: 0
+ITERAÇÃO: 27 - Atraso: 3035
 
-Sequencia inicial 7 -> 0
-ITERAÇÃO: 4 - Atraso: 0
+ITERAÇÃO: 28 - Atraso: 3035
 
-Sequencia inicial 1 -> 43
-Melhor vizinho: 40
+ITERAÇÃO: 29 - Atraso: 3035
 
-Sequencia inicial 2 -> 40
-Melhor vizinho: 34
+ITERAÇÃO: 30 - Atraso: 3035
 
-Sequencia inicial 3 -> 34
-Melhor vizinho: 26
+ITERAÇÃO: 31 - Atraso: 3035
 
-Sequencia inicial 4 -> 26
-Melhor vizinho: 6
+ITERAÇÃO: 32 - Atraso: 3035
 
-Sequencia inicial 5 -> 6
-Melhor vizinho: 3
+ITERAÇÃO: 33 - Atraso: 3035
 
-Sequencia inicial 6 -> 3
-Melhor vizinho: 0
+ITERAÇÃO: 34 - Atraso: 3035
 
-Sequencia inicial 7 -> 0
-ITERAÇÃO: 5 - Atraso: 0
+ITERAÇÃO: 35 - Atraso: 3035
 
-Sequencia inicial 1 -> 65
-Melhor vizinho: 26
+ITERAÇÃO: 36 - Atraso: 3035
 
-Sequencia inicial 2 -> 26
-Melhor vizinho: 8
+ITERAÇÃO: 37 - Atraso: 3035
 
-Sequencia inicial 3 -> 8
-Melhor vizinho: 0
+ITERAÇÃO: 38 - Atraso: 3035
 
-Sequencia inicial 4 -> 0
-ITERAÇÃO: 6 - Atraso: 0
+ITERAÇÃO: 39 - Atraso: 3035
 
-Sequencia inicial 1 -> 166
-Melhor vizinho: 148
+ITERAÇÃO: 40 - Atraso: 3035
 
-Sequencia inicial 2 -> 148
-Melhor vizinho: 139
+ITERAÇÃO: 41 - Atraso: 3035
 
-Sequencia inicial 3 -> 139
-Melhor vizinho: 132
+ITERAÇÃO: 42 - Atraso: 3035
 
-Sequencia inicial 4 -> 132
-Melhor vizinho: 123
+ITERAÇÃO: 43 - Atraso: 3035
 
-Sequencia inicial 5 -> 123
-Melhor vizinho: 118
+ITERAÇÃO: 44 - Atraso: 3035
 
-Sequencia inicial 6 -> 118
-Melhor vizinho: 111
+ITERAÇÃO: 45 - Atraso: 3035
 
-Sequencia inicial 7 -> 111
-Melhor vizinho: 104
+ITERAÇÃO: 46 - Atraso: 3035
 
-Sequencia inicial 8 -> 104
-Melhor vizinho: 100
+ITERAÇÃO: 47 - Atraso: 3035
 
-Sequencia inicial 9 -> 100
-Melhor vizinho: 82
+ITERAÇÃO: 48 - Atraso: 3035
 
-Sequencia inicial 10 -> 82
-Melhor vizinho: 80
+ITERAÇÃO: 49 - Atraso: 3035
 
-Sequencia inicial 11 -> 80
-Melhor vizinho: 78
+ITERAÇÃO: 50 - Atraso: 3035
 
-Sequencia inicial 12 -> 78
-Melhor vizinho: 70
-
-Sequencia inicial 13 -> 70
-Melhor vizinho: 11
-
-Sequencia inicial 14 -> 11
-Melhor vizinho: 7
-
-Sequencia inicial 15 -> 7
-Melhor vizinho: 4
-
-Sequencia inicial 16 -> 4
-Melhor vizinho: 3
-
-Sequencia inicial 17 -> 3
-Melhor vizinho: 0
-
-Sequencia inicial 18 -> 0
-ITERAÇÃO: 7 - Atraso: 0
-
-Sequencia inicial 1 -> 34
-Melhor vizinho: 2
-
-Sequencia inicial 2 -> 2
-Melhor vizinho: 0
-
-Sequencia inicial 3 -> 0
-ITERAÇÃO: 8 - Atraso: 0
-
-Sequencia inicial 1 -> 74
-Melhor vizinho: 53
-
-Sequencia inicial 2 -> 53
-Melhor vizinho: 41
-
-Sequencia inicial 3 -> 41
-Melhor vizinho: 13
-
-Sequencia inicial 4 -> 13
-Melhor vizinho: 0
-
-Sequencia inicial 5 -> 0
-ITERAÇÃO: 9 - Atraso: 0
-
-Sequencia inicial 1 -> 0
-ITERAÇÃO: 10 - Atraso: 0
-
-Sequencia inicial 1 -> 8
-Melhor vizinho: 2
-
-Sequencia inicial 2 -> 2
-Melhor vizinho: 0
-
-Sequencia inicial 3 -> 0
-ITERAÇÃO: 11 - Atraso: 0
-
-Sequencia inicial 1 -> 45
-Melhor vizinho: 41
-
-Sequencia inicial 2 -> 41
-Melhor vizinho: 33
-
-Sequencia inicial 3 -> 33
-Melhor vizinho: 20
-
-Sequencia inicial 4 -> 20
-Melhor vizinho: 17
-
-Sequencia inicial 5 -> 17
-ITERAÇÃO: 12 - Atraso: 0
-
-Sequencia inicial 1 -> 173
-Melhor vizinho: 128
-
-Sequencia inicial 2 -> 128
-Melhor vizinho: 112
-
-Sequencia inicial 3 -> 112
-Melhor vizinho: 96
-
-Sequencia inicial 4 -> 96
-Melhor vizinho: 93
-
-Sequencia inicial 5 -> 93
-Melhor vizinho: 91
-
-Sequencia inicial 6 -> 91
-Melhor vizinho: 62
-
-Sequencia inicial 7 -> 62
-Melhor vizinho: 58
-
-Sequencia inicial 8 -> 58
-Melhor vizinho: 15
-
-Sequencia inicial 9 -> 15
-Melhor vizinho: 0
-
-Sequencia inicial 10 -> 0
-ITERAÇÃO: 13 - Atraso: 0
-
-Sequencia inicial 1 -> 108
-Melhor vizinho: 49
-
-Sequencia inicial 2 -> 49
-Melhor vizinho: 38
-
-Sequencia inicial 3 -> 38
-Melhor vizinho: 34
-
-Sequencia inicial 4 -> 34
-Melhor vizinho: 14
-
-Sequencia inicial 5 -> 14
-Melhor vizinho: 0
-
-Sequencia inicial 6 -> 0
-ITERAÇÃO: 14 - Atraso: 0
-
-Sequencia inicial 1 -> 77
-Melhor vizinho: 62
-
-Sequencia inicial 2 -> 62
-Melhor vizinho: 50
-
-Sequencia inicial 3 -> 50
-Melhor vizinho: 46
-
-Sequencia inicial 4 -> 46
-Melhor vizinho: 36
-
-Sequencia inicial 5 -> 36
-Melhor vizinho: 34
-
-Sequencia inicial 6 -> 34
-ITERAÇÃO: 15 - Atraso: 0
-
-Sequencia inicial 1 -> 97
-Melhor vizinho: 68
-
-Sequencia inicial 2 -> 68
-Melhor vizinho: 55
-
-Sequencia inicial 3 -> 55
-Melhor vizinho: 45
-
-Sequencia inicial 4 -> 45
-Melhor vizinho: 41
-
-Sequencia inicial 5 -> 41
-Melhor vizinho: 8
-
-Sequencia inicial 6 -> 8
-Melhor vizinho: 7
-
-Sequencia inicial 7 -> 7
-Melhor vizinho: 0
-
-Sequencia inicial 8 -> 0
-ITERAÇÃO: 16 - Atraso: 0
-
-Sequencia inicial 1 -> 37
-Melhor vizinho: 15
-
-Sequencia inicial 2 -> 15
-Melhor vizinho: 3
-
-Sequencia inicial 3 -> 3
-Melhor vizinho: 0
-
-Sequencia inicial 4 -> 0
-ITERAÇÃO: 17 - Atraso: 0
-
-Sequencia inicial 1 -> 123
-Melhor vizinho: 81
-
-Sequencia inicial 2 -> 81
-Melhor vizinho: 77
-
-Sequencia inicial 3 -> 77
-Melhor vizinho: 61
-
-Sequencia inicial 4 -> 61
-Melhor vizinho: 60
-
-Sequencia inicial 5 -> 60
-Melhor vizinho: 55
-
-Sequencia inicial 6 -> 55
-Melhor vizinho: 52
-
-Sequencia inicial 7 -> 52
-Melhor vizinho: 37
-
-Sequencia inicial 8 -> 37
-Melhor vizinho: 32
-
-Sequencia inicial 9 -> 32
-Melhor vizinho: 0
-
-Sequencia inicial 10 -> 0
-ITERAÇÃO: 18 - Atraso: 0
-
-Sequencia inicial 1 -> 101
-Melhor vizinho: 41
-
-Sequencia inicial 2 -> 41
-Melhor vizinho: 34
-
-Sequencia inicial 3 -> 34
-Melhor vizinho: 29
-
-Sequencia inicial 4 -> 29
-Melhor vizinho: 14
-
-Sequencia inicial 5 -> 14
-Melhor vizinho: 0
-
-Sequencia inicial 6 -> 0
-ITERAÇÃO: 19 - Atraso: 0
-
-Sequencia inicial 1 -> 53
-Melhor vizinho: 17
-
-Sequencia inicial 2 -> 17
-Melhor vizinho: 0
-
-Sequencia inicial 3 -> 0
-ITERAÇÃO: 20 - Atraso: 0
-
-Sequencia inicial 1 -> 159
-Melhor vizinho: 124
-
-Sequencia inicial 2 -> 124
-Melhor vizinho: 118
-
-Sequencia inicial 3 -> 118
-Melhor vizinho: 94
-
-Sequencia inicial 4 -> 94
-Melhor vizinho: 93
-
-Sequencia inicial 5 -> 93
-Melhor vizinho: 60
-
-Sequencia inicial 6 -> 60
-Melhor vizinho: 52
-
-Sequencia inicial 7 -> 52
-Melhor vizinho: 23
-
-Sequencia inicial 8 -> 23
-Melhor vizinho: 14
-
-Sequencia inicial 9 -> 14
-Melhor vizinho: 0
-
-Sequencia inicial 10 -> 0
-Atraso Máximo Iterated Greedy (IG): 0
+Atraso Máximo Iterated Greedy (IG): 3035
 Sequência de Tarefas - Solução Final IG
-171 245 63 104 67 106 21 219 170 168 36 135 78 101 246 118 103 25 192 160 120 132 60 15 185 236 190 222 153 235 216 59 14 49 65 77 138 70 2 74 94 140 33 166 201 73 204 30 19 227 215 165 180 248 93 80 182 97 6 210 181 202 31 90 35 194 209 54 220 134 52 82 99 225 197 207 154 187 46 141 98 55 224 95 121 8 223 176 81 115 228 203 113 76 229 237 150 87 178 10 128 243 136 66 249 16 7 148 126 167 38 9 56 102 72 79 109 240 212 43 183 111 143 34 116 61 39 27 117 147 206 107 127 247 163 164 198 88 26 3 62 84 177 161 196 125 195 85 20 91 50 241 23 151 144 83 11 64 130 29 4 205 114 75 112 5 137 133 238 242 45 48 100 162 17 86 37 231 32 156 18 58 124 173 68 175 123 186 157 92 1 69 184 149 42 57 158 24 208 199 174 200 47 146 214 155 230 218 221 96 226 131 169 105 40 13 71 211 189 53 233 22 179 250 191 44 193 119 232 145 244 28 188 217 239 152 12 129 89 213 51 122 159 234 108 172 41 139 142 110 
-Tempo: 555.142 segundos
+23 186 211 33 140 50 197 225 102 245 244 236 129 123 73 130 2 35 85 132 242 235 106 16 141 226 146 125 83 177 62 120 149 49 206 82 45 232 38 111 229 39 56 249 150 135 104 133 87 250 112 139 105 9 114 137 28 96 134 190 187 22 34 110 176 74 143 66 84 247 70 228 30 230 223 216 67 124 162 75 170 210 227 107 167 79 243 174 168 54 117 36 231 138 10 20 29 18 94 119 31 90 69 55 14 24 8 246 154 144 189 181 91 156 173 248 11 179 80 65 185 13 151 217 205 220 95 157 121 155 100 26 153 214 222 172 126 53 41 32 237 200 202 161 46 201 93 169 160 164 194 15 165 233 17 148 44 76 86 78 166 63 37 72 57 58 234 191 116 4 98 81 47 215 7 159 240 208 59 175 101 64 19 198 183 51 68 128 192 152 136 92 213 171 188 221 103 42 48 88 212 184 3 219 118 199 40 127 6 52 142 238 109 204 218 77 147 21 145 99 193 1 89 209 71 196 241 43 195 224 163 122 207 182 27 12 178 115 239 97 61 60 203 113 108 5 25 158 180 131 
+Tempo: 266.102 segundos

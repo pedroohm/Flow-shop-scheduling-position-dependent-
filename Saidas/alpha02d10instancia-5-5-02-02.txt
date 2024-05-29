@@ -2,159 +2,208 @@
 Calculando TP
 TP calculada
 Sequência de Tarefas - Solução Inicial EDD
-5 3 4 2 1 
 Atraso Máximo da solução inicial EDD: 450.517
 
 Sequência de Tarefas - Solução Inicial Tempos Medios
-2 5 1 4 3 
 Atraso Máximo da solução inicial Tempos Medios: 339.616
 
-Sequencia inicial 1 -> 339.616
-Melhor vizinho: 321.668
+ITERAÇÃO: 1 - Atraso: 339.616
 
-Sequencia inicial 2 -> 321.668
-Melhor vizinho: 320.096
+ITERAÇÃO: 1 - Atraso: 321.668
 
-Sequencia inicial 3 -> 320.096
+ITERAÇÃO: 2 - Atraso: 321.668
+
+ITERAÇÃO: 3 - Atraso: 321.668
+
+ITERAÇÃO: 4 - Atraso: 321.668
+
 ITERAÇÃO: 1 - Atraso: 320.096
 
-Sequencia inicial 1 -> 320.096
 ITERAÇÃO: 2 - Atraso: 320.096
 
-Sequencia inicial 1 -> 321.668
-Melhor vizinho: 320.096
-
-Sequencia inicial 2 -> 320.096
 ITERAÇÃO: 3 - Atraso: 320.096
 
-Sequencia inicial 1 -> 320.096
 ITERAÇÃO: 4 - Atraso: 320.096
 
-Sequencia inicial 1 -> 320.096
 ITERAÇÃO: 5 - Atraso: 320.096
 
-Sequencia inicial 1 -> 320.096
 ITERAÇÃO: 6 - Atraso: 320.096
 
-Sequencia inicial 1 -> 320.096
 ITERAÇÃO: 7 - Atraso: 320.096
 
-Sequencia inicial 1 -> 320.096
 ITERAÇÃO: 8 - Atraso: 320.096
 
-Sequencia inicial 1 -> 320.096
 ITERAÇÃO: 9 - Atraso: 320.096
 
-Sequencia inicial 1 -> 321.668
-Melhor vizinho: 320.096
-
-Sequencia inicial 2 -> 320.096
 ITERAÇÃO: 10 - Atraso: 320.096
 
-Sequencia inicial 1 -> 318.604
-Melhor vizinho: 312.588
+ITERAÇÃO: 11 - Atraso: 320.096
 
-Sequencia inicial 2 -> 312.588
-Melhor vizinho: 304.739
+ITERAÇÃO: 12 - Atraso: 320.096
 
-Sequencia inicial 3 -> 304.739
-ITERAÇÃO: 1 - Atraso: 304.739
+ITERAÇÃO: 13 - Atraso: 320.096
 
-Sequencia inicial 1 -> 304.739
-ITERAÇÃO: 2 - Atraso: 304.739
+ITERAÇÃO: 14 - Atraso: 320.096
 
-Sequencia inicial 1 -> 312.588
-Melhor vizinho: 304.739
+ITERAÇÃO: 15 - Atraso: 320.096
 
-Sequencia inicial 2 -> 304.739
-ITERAÇÃO: 3 - Atraso: 304.739
+ITERAÇÃO: 16 - Atraso: 320.096
 
-Sequencia inicial 1 -> 294.327
+ITERAÇÃO: 17 - Atraso: 320.096
+
+ITERAÇÃO: 18 - Atraso: 320.096
+
+ITERAÇÃO: 19 - Atraso: 320.096
+
+ITERAÇÃO: 20 - Atraso: 320.096
+
+ITERAÇÃO: 21 - Atraso: 320.096
+
+ITERAÇÃO: 22 - Atraso: 320.096
+
+ITERAÇÃO: 23 - Atraso: 320.096
+
+ITERAÇÃO: 24 - Atraso: 320.096
+
+ITERAÇÃO: 25 - Atraso: 320.096
+
+ITERAÇÃO: 26 - Atraso: 320.096
+
+ITERAÇÃO: 1 - Atraso: 318.604
+
+ITERAÇÃO: 2 - Atraso: 318.604
+
+ITERAÇÃO: 1 - Atraso: 312.588
+
+ITERAÇÃO: 2 - Atraso: 312.588
+
+ITERAÇÃO: 3 - Atraso: 312.588
+
+ITERAÇÃO: 4 - Atraso: 312.588
+
+ITERAÇÃO: 5 - Atraso: 312.588
+
+ITERAÇÃO: 6 - Atraso: 312.588
+
+ITERAÇÃO: 7 - Atraso: 312.588
+
+ITERAÇÃO: 8 - Atraso: 312.588
+
+ITERAÇÃO: 9 - Atraso: 312.588
+
+ITERAÇÃO: 10 - Atraso: 312.588
+
+ITERAÇÃO: 11 - Atraso: 312.588
+
+ITERAÇÃO: 12 - Atraso: 312.588
+
+ITERAÇÃO: 13 - Atraso: 312.588
+
+ITERAÇÃO: 14 - Atraso: 312.588
+
+ITERAÇÃO: 15 - Atraso: 312.588
+
 ITERAÇÃO: 1 - Atraso: 294.327
 
-Sequencia inicial 1 -> 349.121
-Melhor vizinho: 294.327
-
-Sequencia inicial 2 -> 294.327
 ITERAÇÃO: 2 - Atraso: 294.327
 
-Sequencia inicial 1 -> 349.121
-Melhor vizinho: 294.327
-
-Sequencia inicial 2 -> 294.327
 ITERAÇÃO: 3 - Atraso: 294.327
 
-Sequencia inicial 1 -> 349.121
-Melhor vizinho: 294.327
-
-Sequencia inicial 2 -> 294.327
 ITERAÇÃO: 4 - Atraso: 294.327
 
-Sequencia inicial 1 -> 294.327
 ITERAÇÃO: 5 - Atraso: 294.327
 
-Sequencia inicial 1 -> 294.327
 ITERAÇÃO: 6 - Atraso: 294.327
 
-Sequencia inicial 1 -> 294.327
 ITERAÇÃO: 7 - Atraso: 294.327
 
-Sequencia inicial 1 -> 294.327
 ITERAÇÃO: 8 - Atraso: 294.327
 
-Sequencia inicial 1 -> 294.327
 ITERAÇÃO: 9 - Atraso: 294.327
 
-Sequencia inicial 1 -> 294.327
 ITERAÇÃO: 10 - Atraso: 294.327
 
-Sequencia inicial 1 -> 294.327
 ITERAÇÃO: 11 - Atraso: 294.327
 
-Sequencia inicial 1 -> 294.327
 ITERAÇÃO: 12 - Atraso: 294.327
 
-Sequencia inicial 1 -> 349.121
-Melhor vizinho: 294.327
-
-Sequencia inicial 2 -> 294.327
 ITERAÇÃO: 13 - Atraso: 294.327
 
-Sequencia inicial 1 -> 343.039
-Melhor vizinho: 332.939
-
-Sequencia inicial 2 -> 332.939
-Melhor vizinho: 294.327
-
-Sequencia inicial 3 -> 294.327
 ITERAÇÃO: 14 - Atraso: 294.327
 
-Sequencia inicial 1 -> 323.936
 ITERAÇÃO: 15 - Atraso: 294.327
 
-Sequencia inicial 1 -> 333.224
-Melhor vizinho: 323.936
-
-Sequencia inicial 2 -> 323.936
 ITERAÇÃO: 16 - Atraso: 294.327
 
-Sequencia inicial 1 -> 333.224
-Melhor vizinho: 323.936
-
-Sequencia inicial 2 -> 323.936
 ITERAÇÃO: 17 - Atraso: 294.327
 
-Sequencia inicial 1 -> 327.126
 ITERAÇÃO: 18 - Atraso: 294.327
 
-Sequencia inicial 1 -> 327.126
 ITERAÇÃO: 19 - Atraso: 294.327
 
-Sequencia inicial 1 -> 327.126
 ITERAÇÃO: 20 - Atraso: 294.327
 
-Sequencia inicial 1 -> 327.126
+ITERAÇÃO: 21 - Atraso: 294.327
+
+ITERAÇÃO: 22 - Atraso: 294.327
+
+ITERAÇÃO: 23 - Atraso: 294.327
+
+ITERAÇÃO: 24 - Atraso: 294.327
+
+ITERAÇÃO: 25 - Atraso: 294.327
+
+ITERAÇÃO: 26 - Atraso: 294.327
+
+ITERAÇÃO: 27 - Atraso: 294.327
+
+ITERAÇÃO: 28 - Atraso: 294.327
+
+ITERAÇÃO: 29 - Atraso: 294.327
+
+ITERAÇÃO: 30 - Atraso: 294.327
+
+ITERAÇÃO: 31 - Atraso: 294.327
+
+ITERAÇÃO: 32 - Atraso: 294.327
+
+ITERAÇÃO: 33 - Atraso: 294.327
+
+ITERAÇÃO: 34 - Atraso: 294.327
+
+ITERAÇÃO: 35 - Atraso: 294.327
+
+ITERAÇÃO: 36 - Atraso: 294.327
+
+ITERAÇÃO: 37 - Atraso: 294.327
+
+ITERAÇÃO: 38 - Atraso: 294.327
+
+ITERAÇÃO: 39 - Atraso: 294.327
+
+ITERAÇÃO: 40 - Atraso: 294.327
+
+ITERAÇÃO: 41 - Atraso: 294.327
+
+ITERAÇÃO: 42 - Atraso: 294.327
+
+ITERAÇÃO: 43 - Atraso: 294.327
+
+ITERAÇÃO: 44 - Atraso: 294.327
+
+ITERAÇÃO: 45 - Atraso: 294.327
+
+ITERAÇÃO: 46 - Atraso: 294.327
+
+ITERAÇÃO: 47 - Atraso: 294.327
+
+ITERAÇÃO: 48 - Atraso: 294.327
+
+ITERAÇÃO: 49 - Atraso: 294.327
+
+ITERAÇÃO: 50 - Atraso: 294.327
+
 Atraso Máximo Iterated Greedy (IG): 294.327
 Sequência de Tarefas - Solução Final IG
 3 2 5 4 1 
-Tempo: 0.000912 segundos
+Tempo: 0.001386 segundos

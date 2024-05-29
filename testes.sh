@@ -34,10 +34,27 @@ sorted_large_instances=($(printf "%s\n" "${large_instances[@]}" | sort))
 # Executa o programa para cada arquivo no array
 for input_file in "${sorted_large_instances[@]}"; do
     echo "Testando arquivo: $input_file - time=$(date +"%T")"
+    echo "Iniciando testes com d=5%"
+    ./programa 0.0 0.05 < "$input_file" > "./Saidas/alpha0d5$(basename "$input_file")"
+    echo "Executou alpha=0.0 d=5% - time=$(date +"%T")"
+    ./programa 0.2 0.05 < "$input_file" > "./Saidas/alpha02d5$(basename "$input_file")"
+    echo "Executou alpha=0.2 d=5% - time=$(date +"%T")"
+    ./programa 0.8 0.05 < "$input_file" > "./Saidas/alpha08d5$(basename "$input_file")"
+    echo "Executou alpha=0.8 d=5%- time=$(date +"%T")"
+
+    echo "Iniciando testes com d=10%"
     ./programa 0.0 0.1 < "$input_file" > "./Saidas/alpha0d10$(basename "$input_file")"
-    echo "Executou alpha 0.0 - time=$(date +"%T")"
+    echo "Executou alpha=0.0 d=10% - time=$(date +"%T")"
     ./programa 0.2 0.1 < "$input_file" > "./Saidas/alpha02d10$(basename "$input_file")"
-    echo "Executou alpha 0.2 - time=$(date +"%T")"
+    echo "Executou alpha=0.2 d=10% - time=$(date +"%T")"
     ./programa 0.8 0.1 < "$input_file" > "./Saidas/alpha08d10$(basename "$input_file")"
-    echo "Executou alpha 0.8 - time=$(date +"%T")"
+    echo "Executou alpha=0.8 d=10%- time=$(date +"%T")"
+
+    echo "Iniciando testes com d=15%"
+    ./programa 0.0 0.15 < "$input_file" > "./Saidas/alpha0d15$(basename "$input_file")"
+    echo "Executou alpha=0.0 d=15% - time=$(date +"%T")"
+    ./programa 0.2 0.15 < "$input_file" > "./Saidas/alpha02d15$(basename "$input_file")"
+    echo "Executou alpha=0.2 d=15% - time=$(date +"%T")"
+    ./programa 0.8 0.15 < "$input_file" > "./Saidas/alpha08d15$(basename "$input_file")"
+    echo "Executou alpha=0.8 d=15%- time=$(date +"%T")"
 done

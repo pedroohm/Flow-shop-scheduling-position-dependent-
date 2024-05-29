@@ -2,714 +2,336 @@
 Calculando TP
 TP calculada
 Sequência de Tarefas - Solução Inicial EDD
-17 2 10 11 14 13 5 15 12 20 16 8 18 7 4 1 3 9 19 6 
 Atraso Máximo da solução inicial EDD: 1722.1
 
 Sequência de Tarefas - Solução Inicial Tempos Medios
-17 10 5 13 12 15 3 19 18 2 4 6 16 14 9 8 7 20 1 11 
 Atraso Máximo da solução inicial Tempos Medios: 1742.37
 
-Sequencia inicial 1 -> 1742.37
-Melhor vizinho: 1599.11
+ITERAÇÃO: 1 - Atraso: 1742.37
 
-Sequencia inicial 2 -> 1599.11
-Melhor vizinho: 1540.8
+ITERAÇÃO: 1 - Atraso: 1698.83
 
-Sequencia inicial 3 -> 1540.8
-Melhor vizinho: 1528.95
+ITERAÇÃO: 1 - Atraso: 1688.42
 
-Sequencia inicial 4 -> 1528.95
-Melhor vizinho: 1523.65
+ITERAÇÃO: 1 - Atraso: 1655.59
 
-Sequencia inicial 5 -> 1523.65
-Melhor vizinho: 1519.53
+ITERAÇÃO: 1 - Atraso: 1653.23
 
-Sequencia inicial 6 -> 1519.53
-Melhor vizinho: 1512.93
+ITERAÇÃO: 1 - Atraso: 1651.39
 
-Sequencia inicial 7 -> 1512.93
-Melhor vizinho: 1510.76
+ITERAÇÃO: 2 - Atraso: 1651.39
 
-Sequencia inicial 8 -> 1510.76
-Melhor vizinho: 1509.51
+ITERAÇÃO: 3 - Atraso: 1651.39
 
-Sequencia inicial 9 -> 1509.51
-Melhor vizinho: 1508.54
+ITERAÇÃO: 1 - Atraso: 1647.26
 
-Sequencia inicial 10 -> 1508.54
-Melhor vizinho: 1507.89
+ITERAÇÃO: 1 - Atraso: 1643.52
 
-Sequencia inicial 11 -> 1507.89
-Melhor vizinho: 1507.82
+ITERAÇÃO: 1 - Atraso: 1634
 
-Sequencia inicial 12 -> 1507.82
-Melhor vizinho: 1507.8
+ITERAÇÃO: 2 - Atraso: 1634
 
-Sequencia inicial 13 -> 1507.8
-ITERAÇÃO: 1 - Atraso: 1507.8
+ITERAÇÃO: 1 - Atraso: 1632.46
 
-Sequencia inicial 1 -> 1565.69
-Melhor vizinho: 1508.43
+ITERAÇÃO: 1 - Atraso: 1631.04
 
-Sequencia inicial 2 -> 1508.43
-Melhor vizinho: 1507.8
+ITERAÇÃO: 1 - Atraso: 1531.95
 
-Sequencia inicial 3 -> 1507.8
-ITERAÇÃO: 2 - Atraso: 1507.8
+ITERAÇÃO: 1 - Atraso: 1526.75
 
-Sequencia inicial 1 -> 1568.87
-Melhor vizinho: 1562.6
+ITERAÇÃO: 2 - Atraso: 1526.75
 
-Sequencia inicial 2 -> 1562.6
-Melhor vizinho: 1557.53
+ITERAÇÃO: 3 - Atraso: 1526.75
 
-Sequencia inicial 3 -> 1557.53
-Melhor vizinho: 1556.35
+ITERAÇÃO: 4 - Atraso: 1526.75
 
-Sequencia inicial 4 -> 1556.35
-Melhor vizinho: 1556.04
+ITERAÇÃO: 5 - Atraso: 1526.75
 
-Sequencia inicial 5 -> 1556.04
-ITERAÇÃO: 3 - Atraso: 1507.8
+ITERAÇÃO: 1 - Atraso: 1526.04
 
-Sequencia inicial 1 -> 1616.91
-Melhor vizinho: 1587.77
+ITERAÇÃO: 2 - Atraso: 1526.04
 
-Sequencia inicial 2 -> 1587.77
-Melhor vizinho: 1564.24
+ITERAÇÃO: 3 - Atraso: 1526.04
 
-Sequencia inicial 3 -> 1564.24
-Melhor vizinho: 1554.64
+ITERAÇÃO: 4 - Atraso: 1526.04
 
-Sequencia inicial 4 -> 1554.64
-Melhor vizinho: 1550.86
+ITERAÇÃO: 5 - Atraso: 1526.04
 
-Sequencia inicial 5 -> 1550.86
-Melhor vizinho: 1549.74
+ITERAÇÃO: 6 - Atraso: 1526.04
 
-Sequencia inicial 6 -> 1549.74
-Melhor vizinho: 1549.35
+ITERAÇÃO: 7 - Atraso: 1526.04
 
-Sequencia inicial 7 -> 1549.35
-Melhor vizinho: 1549.04
+ITERAÇÃO: 8 - Atraso: 1526.04
 
-Sequencia inicial 8 -> 1549.04
-ITERAÇÃO: 4 - Atraso: 1507.8
+ITERAÇÃO: 9 - Atraso: 1526.04
 
-Sequencia inicial 1 -> 1568.7
-Melhor vizinho: 1535.74
+ITERAÇÃO: 10 - Atraso: 1526.04
 
-Sequencia inicial 2 -> 1535.74
-Melhor vizinho: 1518.28
+ITERAÇÃO: 11 - Atraso: 1526.04
 
-Sequencia inicial 3 -> 1518.28
-Melhor vizinho: 1508.69
+ITERAÇÃO: 12 - Atraso: 1526.04
 
-Sequencia inicial 4 -> 1508.69
-Melhor vizinho: 1505.66
+ITERAÇÃO: 13 - Atraso: 1526.04
 
-Sequencia inicial 5 -> 1505.66
-Melhor vizinho: 1505.3
+ITERAÇÃO: 14 - Atraso: 1526.04
 
-Sequencia inicial 6 -> 1505.3
-Melhor vizinho: 1504.89
+ITERAÇÃO: 15 - Atraso: 1526.04
 
-Sequencia inicial 7 -> 1504.89
-Melhor vizinho: 1504.41
+ITERAÇÃO: 16 - Atraso: 1526.04
 
-Sequencia inicial 8 -> 1504.41
-Melhor vizinho: 1504.27
+ITERAÇÃO: 17 - Atraso: 1526.04
 
-Sequencia inicial 9 -> 1504.27
-ITERAÇÃO: 1 - Atraso: 1504.27
+ITERAÇÃO: 18 - Atraso: 1526.04
 
-Sequencia inicial 1 -> 1505.35
-Melhor vizinho: 1503.28
+ITERAÇÃO: 19 - Atraso: 1526.04
 
-Sequencia inicial 2 -> 1503.28
-Melhor vizinho: 1502.99
+ITERAÇÃO: 20 - Atraso: 1526.04
 
-Sequencia inicial 3 -> 1502.99
-Melhor vizinho: 1502.98
+ITERAÇÃO: 21 - Atraso: 1526.04
 
-Sequencia inicial 4 -> 1502.98
-ITERAÇÃO: 1 - Atraso: 1502.98
+ITERAÇÃO: 22 - Atraso: 1526.04
 
-Sequencia inicial 1 -> 1563.5
-Melhor vizinho: 1503.43
+ITERAÇÃO: 1 - Atraso: 1524.87
 
-Sequencia inicial 2 -> 1503.43
-Melhor vizinho: 1502.19
+ITERAÇÃO: 2 - Atraso: 1524.87
 
-Sequencia inicial 3 -> 1502.19
-Melhor vizinho: 1502.05
+ITERAÇÃO: 3 - Atraso: 1524.87
 
-Sequencia inicial 4 -> 1502.05
-ITERAÇÃO: 1 - Atraso: 1502.05
+ITERAÇÃO: 4 - Atraso: 1524.87
 
-Sequencia inicial 1 -> 1517.09
-Melhor vizinho: 1505.48
+ITERAÇÃO: 1 - Atraso: 1524.79
 
-Sequencia inicial 2 -> 1505.48
-Melhor vizinho: 1503.3
+ITERAÇÃO: 2 - Atraso: 1524.79
 
-Sequencia inicial 3 -> 1503.3
-Melhor vizinho: 1502.05
+ITERAÇÃO: 3 - Atraso: 1524.79
 
-Sequencia inicial 4 -> 1502.05
-ITERAÇÃO: 2 - Atraso: 1502.05
+ITERAÇÃO: 4 - Atraso: 1524.79
 
-Sequencia inicial 1 -> 1527.05
-Melhor vizinho: 1516.96
+ITERAÇÃO: 5 - Atraso: 1524.79
 
-Sequencia inicial 2 -> 1516.96
-Melhor vizinho: 1507.38
+ITERAÇÃO: 6 - Atraso: 1524.79
 
-Sequencia inicial 3 -> 1507.38
-Melhor vizinho: 1505.19
+ITERAÇÃO: 7 - Atraso: 1524.79
 
-Sequencia inicial 4 -> 1505.19
-Melhor vizinho: 1503.51
+ITERAÇÃO: 8 - Atraso: 1524.79
 
-Sequencia inicial 5 -> 1503.51
-Melhor vizinho: 1502.27
+ITERAÇÃO: 9 - Atraso: 1524.79
 
-Sequencia inicial 6 -> 1502.27
-Melhor vizinho: 1502.05
+ITERAÇÃO: 10 - Atraso: 1524.79
 
-Sequencia inicial 7 -> 1502.05
-ITERAÇÃO: 3 - Atraso: 1502.05
+ITERAÇÃO: 11 - Atraso: 1524.79
 
-Sequencia inicial 1 -> 1529.36
-Melhor vizinho: 1519.22
+ITERAÇÃO: 12 - Atraso: 1524.79
 
-Sequencia inicial 2 -> 1519.22
-Melhor vizinho: 1510.73
+ITERAÇÃO: 13 - Atraso: 1524.79
 
-Sequencia inicial 3 -> 1510.73
-Melhor vizinho: 1507.52
+ITERAÇÃO: 14 - Atraso: 1524.79
 
-Sequencia inicial 4 -> 1507.52
-Melhor vizinho: 1505.46
+ITERAÇÃO: 1 - Atraso: 1524.71
 
-Sequencia inicial 5 -> 1505.46
-Melhor vizinho: 1504.05
+ITERAÇÃO: 2 - Atraso: 1524.71
 
-Sequencia inicial 6 -> 1504.05
-Melhor vizinho: 1503.76
+ITERAÇÃO: 1 - Atraso: 1521.79
 
-Sequencia inicial 7 -> 1503.76
-Melhor vizinho: 1503.54
+ITERAÇÃO: 2 - Atraso: 1521.79
 
-Sequencia inicial 8 -> 1503.54
-Melhor vizinho: 1502.69
+ITERAÇÃO: 3 - Atraso: 1521.79
 
-Sequencia inicial 9 -> 1502.69
-ITERAÇÃO: 4 - Atraso: 1502.05
+ITERAÇÃO: 1 - Atraso: 1518.97
 
-Sequencia inicial 1 -> 1521.81
-Melhor vizinho: 1512.9
+ITERAÇÃO: 2 - Atraso: 1518.97
 
-Sequencia inicial 2 -> 1512.9
-Melhor vizinho: 1506.8
+ITERAÇÃO: 3 - Atraso: 1518.97
 
-Sequencia inicial 3 -> 1506.8
-Melhor vizinho: 1504.73
+ITERAÇÃO: 4 - Atraso: 1518.97
 
-Sequencia inicial 4 -> 1504.73
-Melhor vizinho: 1503.49
+ITERAÇÃO: 5 - Atraso: 1518.97
 
-Sequencia inicial 5 -> 1503.49
-Melhor vizinho: 1502.71
+ITERAÇÃO: 6 - Atraso: 1518.97
 
-Sequencia inicial 6 -> 1502.71
-Melhor vizinho: 1502.46
+ITERAÇÃO: 7 - Atraso: 1518.97
 
-Sequencia inicial 7 -> 1502.46
-Melhor vizinho: 1502.03
+ITERAÇÃO: 8 - Atraso: 1518.97
 
-Sequencia inicial 8 -> 1502.03
-Melhor vizinho: 1501.81
+ITERAÇÃO: 9 - Atraso: 1518.97
 
-Sequencia inicial 9 -> 1501.81
-Melhor vizinho: 1501.68
+ITERAÇÃO: 10 - Atraso: 1518.97
 
-Sequencia inicial 10 -> 1501.68
-ITERAÇÃO: 1 - Atraso: 1501.68
+ITERAÇÃO: 11 - Atraso: 1518.97
 
-Sequencia inicial 1 -> 1501.68
-ITERAÇÃO: 2 - Atraso: 1501.68
+ITERAÇÃO: 12 - Atraso: 1518.97
 
-Sequencia inicial 1 -> 1571.16
-Melhor vizinho: 1511.09
+ITERAÇÃO: 13 - Atraso: 1518.97
 
-Sequencia inicial 2 -> 1511.09
-Melhor vizinho: 1506.01
+ITERAÇÃO: 14 - Atraso: 1518.97
 
-Sequencia inicial 3 -> 1506.01
-Melhor vizinho: 1502.11
+ITERAÇÃO: 15 - Atraso: 1518.97
 
-Sequencia inicial 4 -> 1502.11
-Melhor vizinho: 1501.68
+ITERAÇÃO: 16 - Atraso: 1518.97
 
-Sequencia inicial 5 -> 1501.68
-ITERAÇÃO: 3 - Atraso: 1501.68
+ITERAÇÃO: 17 - Atraso: 1518.97
 
-Sequencia inicial 1 -> 1535.73
-Melhor vizinho: 1526.02
+ITERAÇÃO: 18 - Atraso: 1518.97
 
-Sequencia inicial 2 -> 1526.02
-Melhor vizinho: 1518.13
+ITERAÇÃO: 19 - Atraso: 1518.97
 
-Sequencia inicial 3 -> 1518.13
-Melhor vizinho: 1513.59
+ITERAÇÃO: 20 - Atraso: 1518.97
 
-Sequencia inicial 4 -> 1513.59
-Melhor vizinho: 1507.18
+ITERAÇÃO: 21 - Atraso: 1518.97
 
-Sequencia inicial 5 -> 1507.18
-Melhor vizinho: 1505.5
+ITERAÇÃO: 22 - Atraso: 1518.97
 
-Sequencia inicial 6 -> 1505.5
-Melhor vizinho: 1504.84
+ITERAÇÃO: 23 - Atraso: 1518.97
 
-Sequencia inicial 7 -> 1504.84
-Melhor vizinho: 1504.54
+ITERAÇÃO: 24 - Atraso: 1518.97
 
-Sequencia inicial 8 -> 1504.54
-Melhor vizinho: 1504.33
+ITERAÇÃO: 25 - Atraso: 1518.97
 
-Sequencia inicial 9 -> 1504.33
-Melhor vizinho: 1504.26
+ITERAÇÃO: 26 - Atraso: 1518.97
 
-Sequencia inicial 10 -> 1504.26
-Melhor vizinho: 1504.03
+ITERAÇÃO: 27 - Atraso: 1518.97
 
-Sequencia inicial 11 -> 1504.03
-Melhor vizinho: 1503.78
+ITERAÇÃO: 28 - Atraso: 1518.97
 
-Sequencia inicial 12 -> 1503.78
-ITERAÇÃO: 4 - Atraso: 1501.68
+ITERAÇÃO: 29 - Atraso: 1518.97
 
-Sequencia inicial 1 -> 1587.19
-Melhor vizinho: 1528.42
+ITERAÇÃO: 30 - Atraso: 1518.97
 
-Sequencia inicial 2 -> 1528.42
-Melhor vizinho: 1520.82
+ITERAÇÃO: 31 - Atraso: 1518.97
 
-Sequencia inicial 3 -> 1520.82
-Melhor vizinho: 1514.75
+ITERAÇÃO: 32 - Atraso: 1518.97
 
-Sequencia inicial 4 -> 1514.75
-Melhor vizinho: 1512.36
+ITERAÇÃO: 33 - Atraso: 1518.97
 
-Sequencia inicial 5 -> 1512.36
-Melhor vizinho: 1506.16
+ITERAÇÃO: 34 - Atraso: 1518.97
 
-Sequencia inicial 6 -> 1506.16
-Melhor vizinho: 1503.97
+ITERAÇÃO: 35 - Atraso: 1518.97
 
-Sequencia inicial 7 -> 1503.97
-Melhor vizinho: 1502.72
+ITERAÇÃO: 36 - Atraso: 1518.97
 
-Sequencia inicial 8 -> 1502.72
-Melhor vizinho: 1501.89
+ITERAÇÃO: 37 - Atraso: 1518.97
 
-Sequencia inicial 9 -> 1501.89
-Melhor vizinho: 1501.68
+ITERAÇÃO: 38 - Atraso: 1518.97
 
-Sequencia inicial 10 -> 1501.68
-ITERAÇÃO: 5 - Atraso: 1501.68
+ITERAÇÃO: 39 - Atraso: 1518.97
 
-Sequencia inicial 1 -> 1576.07
-Melhor vizinho: 1518.2
+ITERAÇÃO: 40 - Atraso: 1518.97
 
-Sequencia inicial 2 -> 1518.2
-Melhor vizinho: 1512.66
+ITERAÇÃO: 41 - Atraso: 1518.97
 
-Sequencia inicial 3 -> 1512.66
-Melhor vizinho: 1506.26
+ITERAÇÃO: 42 - Atraso: 1518.97
 
-Sequencia inicial 4 -> 1506.26
-Melhor vizinho: 1504.67
+ITERAÇÃO: 43 - Atraso: 1518.97
 
-Sequencia inicial 5 -> 1504.67
-Melhor vizinho: 1503.95
+ITERAÇÃO: 44 - Atraso: 1518.97
 
-Sequencia inicial 6 -> 1503.95
-ITERAÇÃO: 6 - Atraso: 1501.68
+ITERAÇÃO: 45 - Atraso: 1518.97
 
-Sequencia inicial 1 -> 1574.17
-Melhor vizinho: 1558.14
+ITERAÇÃO: 46 - Atraso: 1518.97
 
-Sequencia inicial 2 -> 1558.14
-Melhor vizinho: 1516.61
+ITERAÇÃO: 47 - Atraso: 1518.97
 
-Sequencia inicial 3 -> 1516.61
-Melhor vizinho: 1511.07
+ITERAÇÃO: 1 - Atraso: 1518.79
 
-Sequencia inicial 4 -> 1511.07
-Melhor vizinho: 1504.67
+ITERAÇÃO: 2 - Atraso: 1518.79
 
-Sequencia inicial 5 -> 1504.67
-Melhor vizinho: 1503.95
+ITERAÇÃO: 3 - Atraso: 1518.79
 
-Sequencia inicial 6 -> 1503.95
-ITERAÇÃO: 7 - Atraso: 1501.68
+ITERAÇÃO: 4 - Atraso: 1518.79
 
-Sequencia inicial 1 -> 1600.99
-Melhor vizinho: 1551.18
+ITERAÇÃO: 5 - Atraso: 1518.79
 
-Sequencia inicial 2 -> 1551.18
-Melhor vizinho: 1536.41
+ITERAÇÃO: 6 - Atraso: 1518.79
 
-Sequencia inicial 3 -> 1536.41
-Melhor vizinho: 1532.86
+ITERAÇÃO: 7 - Atraso: 1518.79
 
-Sequencia inicial 4 -> 1532.86
-Melhor vizinho: 1530.26
+ITERAÇÃO: 8 - Atraso: 1518.79
 
-Sequencia inicial 5 -> 1530.26
-Melhor vizinho: 1526.26
+ITERAÇÃO: 9 - Atraso: 1518.79
 
-Sequencia inicial 6 -> 1526.26
-Melhor vizinho: 1513.57
+ITERAÇÃO: 10 - Atraso: 1518.79
 
-Sequencia inicial 7 -> 1513.57
-Melhor vizinho: 1511.78
+ITERAÇÃO: 11 - Atraso: 1518.79
 
-Sequencia inicial 8 -> 1511.78
-Melhor vizinho: 1511.34
+ITERAÇÃO: 12 - Atraso: 1518.79
 
-Sequencia inicial 9 -> 1511.34
-Melhor vizinho: 1511.2
+ITERAÇÃO: 13 - Atraso: 1518.79
 
-Sequencia inicial 10 -> 1511.2
-ITERAÇÃO: 8 - Atraso: 1501.68
+ITERAÇÃO: 14 - Atraso: 1518.79
 
-Sequencia inicial 1 -> 1585.57
-Melhor vizinho: 1553
+ITERAÇÃO: 15 - Atraso: 1518.79
 
-Sequencia inicial 2 -> 1553
-Melhor vizinho: 1527.09
+ITERAÇÃO: 16 - Atraso: 1518.79
 
-Sequencia inicial 3 -> 1527.09
-Melhor vizinho: 1521.66
+ITERAÇÃO: 17 - Atraso: 1518.79
 
-Sequencia inicial 4 -> 1521.66
-Melhor vizinho: 1515.31
+ITERAÇÃO: 18 - Atraso: 1518.79
 
-Sequencia inicial 5 -> 1515.31
-Melhor vizinho: 1512.31
+ITERAÇÃO: 19 - Atraso: 1518.79
 
-Sequencia inicial 6 -> 1512.31
-Melhor vizinho: 1511.64
+ITERAÇÃO: 20 - Atraso: 1518.79
 
-Sequencia inicial 7 -> 1511.64
-Melhor vizinho: 1511.2
+ITERAÇÃO: 21 - Atraso: 1518.79
 
-Sequencia inicial 8 -> 1511.2
-ITERAÇÃO: 9 - Atraso: 1501.68
+ITERAÇÃO: 22 - Atraso: 1518.79
 
-Sequencia inicial 1 -> 1593.58
-Melhor vizinho: 1540.5
+ITERAÇÃO: 23 - Atraso: 1518.79
 
-Sequencia inicial 2 -> 1540.5
-Melhor vizinho: 1526.95
+ITERAÇÃO: 24 - Atraso: 1518.79
 
-Sequencia inicial 3 -> 1526.95
-Melhor vizinho: 1522
+ITERAÇÃO: 25 - Atraso: 1518.79
 
-Sequencia inicial 4 -> 1522
-Melhor vizinho: 1515.09
+ITERAÇÃO: 26 - Atraso: 1518.79
 
-Sequencia inicial 5 -> 1515.09
-Melhor vizinho: 1511.12
+ITERAÇÃO: 27 - Atraso: 1518.79
 
-Sequencia inicial 6 -> 1511.12
-Melhor vizinho: 1508.13
+ITERAÇÃO: 28 - Atraso: 1518.79
 
-Sequencia inicial 7 -> 1508.13
-Melhor vizinho: 1507.27
+ITERAÇÃO: 29 - Atraso: 1518.79
 
-Sequencia inicial 8 -> 1507.27
-Melhor vizinho: 1506.5
+ITERAÇÃO: 30 - Atraso: 1518.79
 
-Sequencia inicial 9 -> 1506.5
-Melhor vizinho: 1506.06
+ITERAÇÃO: 31 - Atraso: 1518.79
 
-Sequencia inicial 10 -> 1506.06
-ITERAÇÃO: 10 - Atraso: 1501.68
+ITERAÇÃO: 32 - Atraso: 1518.79
 
-Sequencia inicial 1 -> 1582.19
-Melhor vizinho: 1522.45
+ITERAÇÃO: 33 - Atraso: 1518.79
 
-Sequencia inicial 2 -> 1522.45
-Melhor vizinho: 1517.93
+ITERAÇÃO: 34 - Atraso: 1518.79
 
-Sequencia inicial 3 -> 1517.93
-Melhor vizinho: 1515.95
+ITERAÇÃO: 35 - Atraso: 1518.79
 
-Sequencia inicial 4 -> 1515.95
-Melhor vizinho: 1514.66
+ITERAÇÃO: 36 - Atraso: 1518.79
 
-Sequencia inicial 5 -> 1514.66
-Melhor vizinho: 1514.09
+ITERAÇÃO: 37 - Atraso: 1518.79
 
-Sequencia inicial 6 -> 1514.09
-Melhor vizinho: 1513.48
+ITERAÇÃO: 38 - Atraso: 1518.79
 
-Sequencia inicial 7 -> 1513.48
-Melhor vizinho: 1512.01
+ITERAÇÃO: 39 - Atraso: 1518.79
 
-Sequencia inicial 8 -> 1512.01
-Melhor vizinho: 1511.57
+ITERAÇÃO: 40 - Atraso: 1518.79
 
-Sequencia inicial 9 -> 1511.57
-Melhor vizinho: 1511.43
+ITERAÇÃO: 41 - Atraso: 1518.79
 
-Sequencia inicial 10 -> 1511.43
-ITERAÇÃO: 11 - Atraso: 1501.68
+ITERAÇÃO: 42 - Atraso: 1518.79
 
-Sequencia inicial 1 -> 1575.07
-Melhor vizinho: 1565.98
+ITERAÇÃO: 43 - Atraso: 1518.79
 
-Sequencia inicial 2 -> 1565.98
-Melhor vizinho: 1561.78
+ITERAÇÃO: 44 - Atraso: 1518.79
 
-Sequencia inicial 3 -> 1561.78
-Melhor vizinho: 1558.76
+ITERAÇÃO: 45 - Atraso: 1518.79
 
-Sequencia inicial 4 -> 1558.76
-Melhor vizinho: 1557.9
+ITERAÇÃO: 46 - Atraso: 1518.79
 
-Sequencia inicial 5 -> 1557.9
-Melhor vizinho: 1557.3
+ITERAÇÃO: 47 - Atraso: 1518.79
 
-Sequencia inicial 6 -> 1557.3
-Melhor vizinho: 1557.18
+ITERAÇÃO: 48 - Atraso: 1518.79
 
-Sequencia inicial 7 -> 1557.18
-ITERAÇÃO: 12 - Atraso: 1501.68
+ITERAÇÃO: 49 - Atraso: 1518.79
 
-Sequencia inicial 1 -> 1572.47
-Melhor vizinho: 1563.74
+ITERAÇÃO: 50 - Atraso: 1518.79
 
-Sequencia inicial 2 -> 1563.74
-Melhor vizinho: 1560.44
-
-Sequencia inicial 3 -> 1560.44
-Melhor vizinho: 1558.97
-
-Sequencia inicial 4 -> 1558.97
-Melhor vizinho: 1558.12
-
-Sequencia inicial 5 -> 1558.12
-Melhor vizinho: 1557.52
-
-Sequencia inicial 6 -> 1557.52
-Melhor vizinho: 1557.3
-
-Sequencia inicial 7 -> 1557.3
-Melhor vizinho: 1557.18
-
-Sequencia inicial 8 -> 1557.18
-ITERAÇÃO: 13 - Atraso: 1501.68
-
-Sequencia inicial 1 -> 1569.06
-Melhor vizinho: 1560.32
-
-Sequencia inicial 2 -> 1560.32
-Melhor vizinho: 1558.85
-
-Sequencia inicial 3 -> 1558.85
-Melhor vizinho: 1558
-
-Sequencia inicial 4 -> 1558
-Melhor vizinho: 1557.4
-
-Sequencia inicial 5 -> 1557.4
-Melhor vizinho: 1557.18
-
-Sequencia inicial 6 -> 1557.18
-ITERAÇÃO: 14 - Atraso: 1501.68
-
-Sequencia inicial 1 -> 1583.93
-Melhor vizinho: 1573.84
-
-Sequencia inicial 2 -> 1573.84
-Melhor vizinho: 1559.08
-
-Sequencia inicial 3 -> 1559.08
-Melhor vizinho: 1539.74
-
-Sequencia inicial 4 -> 1539.74
-Melhor vizinho: 1523.7
-
-Sequencia inicial 5 -> 1523.7
-Melhor vizinho: 1513.5
-
-Sequencia inicial 6 -> 1513.5
-Melhor vizinho: 1511.71
-
-Sequencia inicial 7 -> 1511.71
-Melhor vizinho: 1509.98
-
-Sequencia inicial 8 -> 1509.98
-Melhor vizinho: 1508.95
-
-Sequencia inicial 9 -> 1508.95
-Melhor vizinho: 1508.14
-
-Sequencia inicial 10 -> 1508.14
-Melhor vizinho: 1507.2
-
-Sequencia inicial 11 -> 1507.2
-Melhor vizinho: 1506.97
-
-Sequencia inicial 12 -> 1506.97
-ITERAÇÃO: 15 - Atraso: 1501.68
-
-Sequencia inicial 1 -> 1560.93
-Melhor vizinho: 1541.09
-
-Sequencia inicial 2 -> 1541.09
-Melhor vizinho: 1527.06
-
-Sequencia inicial 3 -> 1527.06
-Melhor vizinho: 1516.48
-
-Sequencia inicial 4 -> 1516.48
-Melhor vizinho: 1511.98
-
-Sequencia inicial 5 -> 1511.98
-Melhor vizinho: 1510.23
-
-Sequencia inicial 6 -> 1510.23
-Melhor vizinho: 1508.76
-
-Sequencia inicial 7 -> 1508.76
-Melhor vizinho: 1507.83
-
-Sequencia inicial 8 -> 1507.83
-Melhor vizinho: 1507.19
-
-Sequencia inicial 9 -> 1507.19
-Melhor vizinho: 1506.97
-
-Sequencia inicial 10 -> 1506.97
-ITERAÇÃO: 16 - Atraso: 1501.68
-
-Sequencia inicial 1 -> 1597.93
-Melhor vizinho: 1534.59
-
-Sequencia inicial 2 -> 1534.59
-Melhor vizinho: 1530.14
-
-Sequencia inicial 3 -> 1530.14
-Melhor vizinho: 1520.29
-
-Sequencia inicial 4 -> 1520.29
-Melhor vizinho: 1514.28
-
-Sequencia inicial 5 -> 1514.28
-Melhor vizinho: 1512.87
-
-Sequencia inicial 6 -> 1512.87
-Melhor vizinho: 1511.94
-
-Sequencia inicial 7 -> 1511.94
-Melhor vizinho: 1511.23
-
-Sequencia inicial 8 -> 1511.23
-Melhor vizinho: 1509.01
-
-Sequencia inicial 9 -> 1509.01
-Melhor vizinho: 1508.8
-
-Sequencia inicial 10 -> 1508.8
-Melhor vizinho: 1508.22
-
-Sequencia inicial 11 -> 1508.22
-Melhor vizinho: 1507.39
-
-Sequencia inicial 12 -> 1507.39
-Melhor vizinho: 1506.79
-
-Sequencia inicial 13 -> 1506.79
-Melhor vizinho: 1506.68
-
-Sequencia inicial 14 -> 1506.68
-ITERAÇÃO: 17 - Atraso: 1501.68
-
-Sequencia inicial 1 -> 1571.16
-Melhor vizinho: 1561.29
-
-Sequencia inicial 2 -> 1561.29
-Melhor vizinho: 1558.26
-
-Sequencia inicial 3 -> 1558.26
-Melhor vizinho: 1557.67
-
-Sequencia inicial 4 -> 1557.67
-Melhor vizinho: 1557.45
-
-Sequencia inicial 5 -> 1557.45
-Melhor vizinho: 1557.32
-
-Sequencia inicial 6 -> 1557.32
-Melhor vizinho: 1557.18
-
-Sequencia inicial 7 -> 1557.18
-ITERAÇÃO: 18 - Atraso: 1501.68
-
-Sequencia inicial 1 -> 1570.94
-Melhor vizinho: 1561.07
-
-Sequencia inicial 2 -> 1561.07
-Melhor vizinho: 1558.05
-
-Sequencia inicial 3 -> 1558.05
-Melhor vizinho: 1557.45
-
-Sequencia inicial 4 -> 1557.45
-Melhor vizinho: 1557.32
-
-Sequencia inicial 5 -> 1557.32
-Melhor vizinho: 1557.18
-
-Sequencia inicial 6 -> 1557.18
-ITERAÇÃO: 19 - Atraso: 1501.68
-
-Sequencia inicial 1 -> 1574.67
-Melhor vizinho: 1563.29
-
-Sequencia inicial 2 -> 1563.29
-Melhor vizinho: 1559.8
-
-Sequencia inicial 3 -> 1559.8
-Melhor vizinho: 1558.28
-
-Sequencia inicial 4 -> 1558.28
-Melhor vizinho: 1557.18
-
-Sequencia inicial 5 -> 1557.18
-ITERAÇÃO: 20 - Atraso: 1501.68
-
-Sequencia inicial 1 -> 1574.67
-Melhor vizinho: 1563.29
-
-Sequencia inicial 2 -> 1563.29
-Melhor vizinho: 1559.8
-
-Sequencia inicial 3 -> 1559.8
-Melhor vizinho: 1558.28
-
-Sequencia inicial 4 -> 1558.28
-Melhor vizinho: 1557.18
-
-Sequencia inicial 5 -> 1557.18
-Atraso Máximo Iterated Greedy (IG): 1501.68
+Atraso Máximo Iterated Greedy (IG): 1518.79
 Sequência de Tarefas - Solução Final IG
-19 17 15 4 3 16 6 5 12 10 8 18 2 9 14 13 20 11 7 1 
-Tempo: 0.145536 segundos
+13 19 17 4 3 15 5 18 16 10 12 8 9 7 14 2 20 11 1 6 
+Tempo: 0.034039 segundos

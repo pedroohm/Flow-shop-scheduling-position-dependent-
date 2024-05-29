@@ -2,201 +2,210 @@
 Calculando TP
 TP calculada
 Sequência de Tarefas - Solução Inicial EDD
-7 6 8 3 1 4 10 5 2 9 
 Atraso Máximo da solução inicial EDD: 658
 
 Sequência de Tarefas - Solução Inicial Tempos Medios
-6 5 10 1 4 8 7 9 3 2 
 Atraso Máximo da solução inicial Tempos Medios: 700
 
-Sequencia inicial 1 -> 700
-Melhor vizinho: 644
+ITERAÇÃO: 1 - Atraso: 700
 
-Sequencia inicial 2 -> 644
-Melhor vizinho: 625
+ITERAÇÃO: 1 - Atraso: 628
 
-Sequencia inicial 3 -> 625
-Melhor vizinho: 615
+ITERAÇÃO: 2 - Atraso: 628
 
-Sequencia inicial 4 -> 615
-Melhor vizinho: 567
+ITERAÇÃO: 1 - Atraso: 610
 
-Sequencia inicial 5 -> 567
-Melhor vizinho: 551
+ITERAÇÃO: 1 - Atraso: 606
 
-Sequencia inicial 6 -> 551
-Melhor vizinho: 530
+ITERAÇÃO: 2 - Atraso: 606
 
-Sequencia inicial 7 -> 530
-ITERAÇÃO: 1 - Atraso: 530
+ITERAÇÃO: 3 - Atraso: 606
 
-Sequencia inicial 1 -> 610
-Melhor vizinho: 530
+ITERAÇÃO: 4 - Atraso: 606
 
-Sequencia inicial 2 -> 530
-ITERAÇÃO: 2 - Atraso: 530
+ITERAÇÃO: 5 - Atraso: 606
 
-Sequencia inicial 1 -> 554
-Melhor vizinho: 553
+ITERAÇÃO: 6 - Atraso: 606
 
-Sequencia inicial 2 -> 553
-ITERAÇÃO: 3 - Atraso: 530
+ITERAÇÃO: 1 - Atraso: 554
 
-Sequencia inicial 1 -> 554
-Melhor vizinho: 553
+ITERAÇÃO: 2 - Atraso: 554
 
-Sequencia inicial 2 -> 553
-ITERAÇÃO: 4 - Atraso: 530
+ITERAÇÃO: 3 - Atraso: 554
 
-Sequencia inicial 1 -> 554
-Melhor vizinho: 553
+ITERAÇÃO: 4 - Atraso: 554
 
-Sequencia inicial 2 -> 553
-ITERAÇÃO: 5 - Atraso: 530
+ITERAÇÃO: 5 - Atraso: 554
 
-Sequencia inicial 1 -> 554
-Melhor vizinho: 527
+ITERAÇÃO: 6 - Atraso: 554
 
-Sequencia inicial 2 -> 527
+ITERAÇÃO: 7 - Atraso: 554
+
+ITERAÇÃO: 8 - Atraso: 554
+
+ITERAÇÃO: 9 - Atraso: 554
+
+ITERAÇÃO: 10 - Atraso: 554
+
+ITERAÇÃO: 11 - Atraso: 554
+
+ITERAÇÃO: 1 - Atraso: 553
+
+ITERAÇÃO: 2 - Atraso: 553
+
+ITERAÇÃO: 3 - Atraso: 553
+
+ITERAÇÃO: 4 - Atraso: 553
+
+ITERAÇÃO: 5 - Atraso: 553
+
+ITERAÇÃO: 6 - Atraso: 553
+
+ITERAÇÃO: 7 - Atraso: 553
+
+ITERAÇÃO: 8 - Atraso: 553
+
+ITERAÇÃO: 9 - Atraso: 553
+
+ITERAÇÃO: 10 - Atraso: 553
+
+ITERAÇÃO: 11 - Atraso: 553
+
+ITERAÇÃO: 12 - Atraso: 553
+
+ITERAÇÃO: 13 - Atraso: 553
+
+ITERAÇÃO: 14 - Atraso: 553
+
+ITERAÇÃO: 15 - Atraso: 553
+
+ITERAÇÃO: 16 - Atraso: 553
+
+ITERAÇÃO: 17 - Atraso: 553
+
+ITERAÇÃO: 18 - Atraso: 553
+
+ITERAÇÃO: 19 - Atraso: 553
+
+ITERAÇÃO: 20 - Atraso: 553
+
+ITERAÇÃO: 21 - Atraso: 553
+
+ITERAÇÃO: 22 - Atraso: 553
+
+ITERAÇÃO: 23 - Atraso: 553
+
+ITERAÇÃO: 24 - Atraso: 553
+
+ITERAÇÃO: 25 - Atraso: 553
+
+ITERAÇÃO: 26 - Atraso: 553
+
+ITERAÇÃO: 27 - Atraso: 553
+
+ITERAÇÃO: 28 - Atraso: 553
+
 ITERAÇÃO: 1 - Atraso: 527
 
-Sequencia inicial 1 -> 549
-Melhor vizinho: 527
-
-Sequencia inicial 2 -> 527
 ITERAÇÃO: 2 - Atraso: 527
 
-Sequencia inicial 1 -> 530
-Melhor vizinho: 527
-
-Sequencia inicial 2 -> 527
 ITERAÇÃO: 3 - Atraso: 527
 
-Sequencia inicial 1 -> 586
-Melhor vizinho: 583
-
-Sequencia inicial 2 -> 583
-Melhor vizinho: 557
-
-Sequencia inicial 3 -> 557
-Melhor vizinho: 556
-
-Sequencia inicial 4 -> 556
-Melhor vizinho: 553
-
-Sequencia inicial 5 -> 553
 ITERAÇÃO: 4 - Atraso: 527
 
-Sequencia inicial 1 -> 574
-Melhor vizinho: 544
-
-Sequencia inicial 2 -> 544
-Melhor vizinho: 527
-
-Sequencia inicial 3 -> 527
 ITERAÇÃO: 5 - Atraso: 527
 
-Sequencia inicial 1 -> 551
-Melhor vizinho: 527
-
-Sequencia inicial 2 -> 527
 ITERAÇÃO: 6 - Atraso: 527
 
-Sequencia inicial 1 -> 574
-Melhor vizinho: 544
-
-Sequencia inicial 2 -> 544
-Melhor vizinho: 527
-
-Sequencia inicial 3 -> 527
 ITERAÇÃO: 7 - Atraso: 527
 
-Sequencia inicial 1 -> 574
-Melhor vizinho: 544
-
-Sequencia inicial 2 -> 544
-Melhor vizinho: 527
-
-Sequencia inicial 3 -> 527
 ITERAÇÃO: 8 - Atraso: 527
 
-Sequencia inicial 1 -> 554
-Melhor vizinho: 527
-
-Sequencia inicial 2 -> 527
 ITERAÇÃO: 9 - Atraso: 527
 
-Sequencia inicial 1 -> 554
 ITERAÇÃO: 10 - Atraso: 527
 
-Sequencia inicial 1 -> 554
-Melhor vizinho: 527
-
-Sequencia inicial 2 -> 527
 ITERAÇÃO: 11 - Atraso: 527
 
-Sequencia inicial 1 -> 554
-Melhor vizinho: 527
-
-Sequencia inicial 2 -> 527
 ITERAÇÃO: 12 - Atraso: 527
 
-Sequencia inicial 1 -> 554
-Melhor vizinho: 527
-
-Sequencia inicial 2 -> 527
 ITERAÇÃO: 13 - Atraso: 527
 
-Sequencia inicial 1 -> 554
-Melhor vizinho: 527
-
-Sequencia inicial 2 -> 527
 ITERAÇÃO: 14 - Atraso: 527
 
-Sequencia inicial 1 -> 554
-Melhor vizinho: 527
-
-Sequencia inicial 2 -> 527
 ITERAÇÃO: 15 - Atraso: 527
 
-Sequencia inicial 1 -> 554
-Melhor vizinho: 527
-
-Sequencia inicial 2 -> 527
 ITERAÇÃO: 16 - Atraso: 527
 
-Sequencia inicial 1 -> 554
-Melhor vizinho: 527
-
-Sequencia inicial 2 -> 527
 ITERAÇÃO: 17 - Atraso: 527
 
-Sequencia inicial 1 -> 554
-Melhor vizinho: 527
-
-Sequencia inicial 2 -> 527
 ITERAÇÃO: 18 - Atraso: 527
 
-Sequencia inicial 1 -> 560
-Melhor vizinho: 531
-
-Sequencia inicial 2 -> 531
-Melhor vizinho: 527
-
-Sequencia inicial 3 -> 527
 ITERAÇÃO: 19 - Atraso: 527
 
-Sequencia inicial 1 -> 560
-Melhor vizinho: 527
-
-Sequencia inicial 2 -> 527
 ITERAÇÃO: 20 - Atraso: 527
 
-Sequencia inicial 1 -> 557
-Melhor vizinho: 527
+ITERAÇÃO: 21 - Atraso: 527
 
-Sequencia inicial 2 -> 527
+ITERAÇÃO: 22 - Atraso: 527
+
+ITERAÇÃO: 23 - Atraso: 527
+
+ITERAÇÃO: 24 - Atraso: 527
+
+ITERAÇÃO: 25 - Atraso: 527
+
+ITERAÇÃO: 26 - Atraso: 527
+
+ITERAÇÃO: 27 - Atraso: 527
+
+ITERAÇÃO: 28 - Atraso: 527
+
+ITERAÇÃO: 29 - Atraso: 527
+
+ITERAÇÃO: 30 - Atraso: 527
+
+ITERAÇÃO: 31 - Atraso: 527
+
+ITERAÇÃO: 32 - Atraso: 527
+
+ITERAÇÃO: 33 - Atraso: 527
+
+ITERAÇÃO: 34 - Atraso: 527
+
+ITERAÇÃO: 35 - Atraso: 527
+
+ITERAÇÃO: 36 - Atraso: 527
+
+ITERAÇÃO: 37 - Atraso: 527
+
+ITERAÇÃO: 38 - Atraso: 527
+
+ITERAÇÃO: 39 - Atraso: 527
+
+ITERAÇÃO: 40 - Atraso: 527
+
+ITERAÇÃO: 41 - Atraso: 527
+
+ITERAÇÃO: 42 - Atraso: 527
+
+ITERAÇÃO: 43 - Atraso: 527
+
+ITERAÇÃO: 44 - Atraso: 527
+
+ITERAÇÃO: 45 - Atraso: 527
+
+ITERAÇÃO: 46 - Atraso: 527
+
+ITERAÇÃO: 47 - Atraso: 527
+
+ITERAÇÃO: 48 - Atraso: 527
+
+ITERAÇÃO: 49 - Atraso: 527
+
+ITERAÇÃO: 50 - Atraso: 527
+
 Atraso Máximo Iterated Greedy (IG): 527
 Sequência de Tarefas - Solução Final IG
-2 7 10 4 5 3 8 9 1 6 
-Tempo: 0.007466 segundos
+2 3 7 8 5 10 9 6 4 1 
+Tempo: 0.004574 segundos

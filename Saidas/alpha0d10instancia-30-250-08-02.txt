@@ -2,489 +2,236 @@
 Calculando TP
 TP calculada
 Sequência de Tarefas - Solução Inicial EDD
-151 215 118 92 144 131 47 46 33 248 173 198 128 162 154 243 141 201 75 183 82 195 214 165 189 48 67 29 77 9 228 204 242 136 115 73 5 226 16 223 103 88 127 98 83 206 193 1 163 22 222 130 250 191 50 31 171 184 30 218 137 174 81 220 196 78 35 229 112 79 41 139 100 14 167 38 135 57 230 123 133 132 18 39 53 148 134 2 72 121 28 119 25 175 32 244 43 71 70 155 89 237 40 209 176 7 24 63 159 199 111 197 125 4 110 85 236 221 181 192 106 147 247 207 142 231 219 120 62 87 10 26 93 114 20 161 138 205 186 8 13 249 15 240 211 169 58 49 55 185 179 99 246 51 45 68 166 225 84 203 156 80 34 102 105 116 241 168 86 44 212 61 108 143 152 224 188 126 149 21 158 210 145 170 178 217 235 177 23 64 97 66 3 27 60 146 245 239 234 109 36 160 238 19 90 190 227 91 94 157 56 107 54 216 208 129 42 95 153 113 65 11 194 122 37 104 76 6 202 59 232 96 140 150 74 117 69 101 180 182 172 187 164 233 213 17 12 200 124 52 
-Atraso Máximo da solução inicial EDD: 8326
+Atraso Máximo da solução inicial EDD: 13657
 
 Sequência de Tarefas - Solução Inicial Tempos Medios
-1 9 47 46 118 195 215 144 165 162 151 136 193 214 75 141 174 131 4 222 8 176 3 22 5 83 7 184 218 134 167 133 201 189 250 223 181 220 34 237 103 68 29 228 79 163 137 154 115 67 39 171 53 230 61 81 25 63 114 204 30 199 182 26 99 226 212 48 188 59 57 243 87 106 159 28 27 247 40 175 2 183 146 35 148 135 82 38 112 31 60 147 14 172 155 207 216 86 92 77 45 110 221 24 233 97 200 89 142 130 119 166 65 231 196 44 249 206 232 178 10 169 145 236 128 213 93 156 33 6 120 177 203 138 36 122 15 219 244 88 217 245 208 94 248 98 143 16 234 50 42 58 241 62 100 49 104 20 105 117 127 225 198 107 70 210 84 32 192 96 224 69 161 64 180 21 240 71 149 123 102 18 12 76 139 125 190 72 246 158 78 13 116 74 11 121 168 90 108 229 111 101 239 19 95 150 91 41 52 242 132 173 160 124 238 43 164 152 194 153 126 157 80 191 140 17 235 205 109 185 85 73 227 55 197 170 202 209 211 179 54 51 186 187 113 66 56 23 37 129 
-Atraso Máximo da solução inicial Tempos Medios: 10857
+Atraso Máximo da solução inicial Tempos Medios: 14271
 
-Sequencia inicial 1 -> 10857
-Melhor vizinho: 10712
+ITERAÇÃO: 1 - Atraso: 14271
 
-Sequencia inicial 2 -> 10712
-Melhor vizinho: 10455
+ITERAÇÃO: 1 - Atraso: 13519
 
-Sequencia inicial 3 -> 10455
-Melhor vizinho: 10368
+ITERAÇÃO: 1 - Atraso: 12897
 
-Sequencia inicial 4 -> 10368
-Melhor vizinho: 10289
+ITERAÇÃO: 1 - Atraso: 12592
 
-Sequencia inicial 5 -> 10289
-Melhor vizinho: 10248
+ITERAÇÃO: 1 - Atraso: 12403
 
-Sequencia inicial 6 -> 10248
-Melhor vizinho: 10210
+ITERAÇÃO: 1 - Atraso: 12107
 
-Sequencia inicial 7 -> 10210
-Melhor vizinho: 10178
+ITERAÇÃO: 1 - Atraso: 12045
 
-Sequencia inicial 8 -> 10178
-Melhor vizinho: 10161
+ITERAÇÃO: 2 - Atraso: 12045
 
-Sequencia inicial 9 -> 10161
-Melhor vizinho: 10123
+ITERAÇÃO: 1 - Atraso: 12031
 
-Sequencia inicial 10 -> 10123
-Melhor vizinho: 10107
+ITERAÇÃO: 2 - Atraso: 12031
 
-Sequencia inicial 11 -> 10107
-Melhor vizinho: 10087
+ITERAÇÃO: 1 - Atraso: 11903
 
-Sequencia inicial 12 -> 10087
-Melhor vizinho: 10073
+ITERAÇÃO: 1 - Atraso: 11809
 
-Sequencia inicial 13 -> 10073
-Melhor vizinho: 10033
+ITERAÇÃO: 1 - Atraso: 11758
 
-Sequencia inicial 14 -> 10033
-Melhor vizinho: 9958
+ITERAÇÃO: 2 - Atraso: 11758
 
-Sequencia inicial 15 -> 9958
-Melhor vizinho: 9948
+ITERAÇÃO: 3 - Atraso: 11758
 
-Sequencia inicial 16 -> 9948
-Melhor vizinho: 9923
+ITERAÇÃO: 4 - Atraso: 11758
 
-Sequencia inicial 17 -> 9923
-Melhor vizinho: 9910
+ITERAÇÃO: 5 - Atraso: 11758
 
-Sequencia inicial 18 -> 9910
-Melhor vizinho: 9908
+ITERAÇÃO: 6 - Atraso: 11758
 
-Sequencia inicial 19 -> 9908
-Melhor vizinho: 9900
+ITERAÇÃO: 1 - Atraso: 11736
 
-Sequencia inicial 20 -> 9900
-Melhor vizinho: 9896
+ITERAÇÃO: 2 - Atraso: 11736
 
-Sequencia inicial 21 -> 9896
-Melhor vizinho: 9877
+ITERAÇÃO: 3 - Atraso: 11736
 
-Sequencia inicial 22 -> 9877
-Melhor vizinho: 9872
+ITERAÇÃO: 4 - Atraso: 11736
 
-Sequencia inicial 23 -> 9872
-Melhor vizinho: 9870
+ITERAÇÃO: 5 - Atraso: 11736
 
-Sequencia inicial 24 -> 9870
-Melhor vizinho: 9840
+ITERAÇÃO: 1 - Atraso: 11701
 
-Sequencia inicial 25 -> 9840
-Melhor vizinho: 9833
+ITERAÇÃO: 2 - Atraso: 11701
 
-Sequencia inicial 26 -> 9833
-Melhor vizinho: 9826
+ITERAÇÃO: 1 - Atraso: 11654
 
-Sequencia inicial 27 -> 9826
-Melhor vizinho: 9782
+ITERAÇÃO: 2 - Atraso: 11654
 
-Sequencia inicial 28 -> 9782
-Melhor vizinho: 9780
+ITERAÇÃO: 3 - Atraso: 11654
 
-Sequencia inicial 29 -> 9780
-Melhor vizinho: 9767
+ITERAÇÃO: 1 - Atraso: 11611
 
-Sequencia inicial 30 -> 9767
-Melhor vizinho: 9745
+ITERAÇÃO: 2 - Atraso: 11611
 
-Sequencia inicial 31 -> 9745
-Melhor vizinho: 9735
+ITERAÇÃO: 3 - Atraso: 11611
 
-Sequencia inicial 32 -> 9735
-Melhor vizinho: 9730
+ITERAÇÃO: 4 - Atraso: 11611
 
-Sequencia inicial 33 -> 9730
-Melhor vizinho: 9721
+ITERAÇÃO: 5 - Atraso: 11611
 
-Sequencia inicial 34 -> 9721
-Melhor vizinho: 9670
+ITERAÇÃO: 6 - Atraso: 11611
 
-Sequencia inicial 35 -> 9670
-ITERAÇÃO: 1 - Atraso: 9670
+ITERAÇÃO: 7 - Atraso: 11611
 
-Sequencia inicial 1 -> 8953
-Melhor vizinho: 8932
+ITERAÇÃO: 8 - Atraso: 11611
 
-Sequencia inicial 2 -> 8932
-Melhor vizinho: 8893
+ITERAÇÃO: 9 - Atraso: 11611
 
-Sequencia inicial 3 -> 8893
-Melhor vizinho: 8873
+ITERAÇÃO: 10 - Atraso: 11611
 
-Sequencia inicial 4 -> 8873
-Melhor vizinho: 8864
+ITERAÇÃO: 11 - Atraso: 11611
 
-Sequencia inicial 5 -> 8864
-Melhor vizinho: 8862
+ITERAÇÃO: 12 - Atraso: 11611
 
-Sequencia inicial 6 -> 8862
-Melhor vizinho: 8850
+ITERAÇÃO: 13 - Atraso: 11611
 
-Sequencia inicial 7 -> 8850
-Melhor vizinho: 8839
+ITERAÇÃO: 14 - Atraso: 11611
 
-Sequencia inicial 8 -> 8839
-Melhor vizinho: 8831
+ITERAÇÃO: 15 - Atraso: 11611
 
-Sequencia inicial 9 -> 8831
-Melhor vizinho: 8828
+ITERAÇÃO: 16 - Atraso: 11611
 
-Sequencia inicial 10 -> 8828
-Melhor vizinho: 8826
+ITERAÇÃO: 17 - Atraso: 11611
 
-Sequencia inicial 11 -> 8826
-Melhor vizinho: 8824
+ITERAÇÃO: 18 - Atraso: 11611
 
-Sequencia inicial 12 -> 8824
-Melhor vizinho: 8793
+ITERAÇÃO: 19 - Atraso: 11611
 
-Sequencia inicial 13 -> 8793
-Melhor vizinho: 8779
+ITERAÇÃO: 20 - Atraso: 11611
 
-Sequencia inicial 14 -> 8779
-Melhor vizinho: 8773
+ITERAÇÃO: 21 - Atraso: 11611
 
-Sequencia inicial 15 -> 8773
-Melhor vizinho: 8771
+ITERAÇÃO: 22 - Atraso: 11611
 
-Sequencia inicial 16 -> 8771
-Melhor vizinho: 8752
+ITERAÇÃO: 23 - Atraso: 11611
 
-Sequencia inicial 17 -> 8752
-Melhor vizinho: 8747
+ITERAÇÃO: 24 - Atraso: 11611
 
-Sequencia inicial 18 -> 8747
-Melhor vizinho: 8737
+ITERAÇÃO: 25 - Atraso: 11611
 
-Sequencia inicial 19 -> 8737
-Melhor vizinho: 8735
+ITERAÇÃO: 26 - Atraso: 11611
 
-Sequencia inicial 20 -> 8735
-Melhor vizinho: 8717
+ITERAÇÃO: 27 - Atraso: 11611
 
-Sequencia inicial 21 -> 8717
-Melhor vizinho: 8708
+ITERAÇÃO: 28 - Atraso: 11611
 
-Sequencia inicial 22 -> 8708
-Melhor vizinho: 8703
+ITERAÇÃO: 29 - Atraso: 11611
 
-Sequencia inicial 23 -> 8703
-Melhor vizinho: 8701
+ITERAÇÃO: 30 - Atraso: 11611
 
-Sequencia inicial 24 -> 8701
-Melhor vizinho: 8693
+ITERAÇÃO: 31 - Atraso: 11611
 
-Sequencia inicial 25 -> 8693
-Melhor vizinho: 8673
+ITERAÇÃO: 32 - Atraso: 11611
 
-Sequencia inicial 26 -> 8673
-Melhor vizinho: 8667
+ITERAÇÃO: 33 - Atraso: 11611
 
-Sequencia inicial 27 -> 8667
-Melhor vizinho: 8664
+ITERAÇÃO: 34 - Atraso: 11611
 
-Sequencia inicial 28 -> 8664
-Melhor vizinho: 8650
+ITERAÇÃO: 1 - Atraso: 11542
 
-Sequencia inicial 29 -> 8650
-Melhor vizinho: 8647
+ITERAÇÃO: 2 - Atraso: 11542
 
-Sequencia inicial 30 -> 8647
-Melhor vizinho: 8632
+ITERAÇÃO: 3 - Atraso: 11542
 
-Sequencia inicial 31 -> 8632
-Melhor vizinho: 8629
+ITERAÇÃO: 4 - Atraso: 11542
 
-Sequencia inicial 32 -> 8629
-Melhor vizinho: 8616
+ITERAÇÃO: 5 - Atraso: 11542
 
-Sequencia inicial 33 -> 8616
-Melhor vizinho: 8612
+ITERAÇÃO: 6 - Atraso: 11542
 
-Sequencia inicial 34 -> 8612
-Melhor vizinho: 8608
+ITERAÇÃO: 7 - Atraso: 11542
 
-Sequencia inicial 35 -> 8608
-Melhor vizinho: 8606
+ITERAÇÃO: 8 - Atraso: 11542
 
-Sequencia inicial 36 -> 8606
-Melhor vizinho: 8582
+ITERAÇÃO: 9 - Atraso: 11542
 
-Sequencia inicial 37 -> 8582
-Melhor vizinho: 8557
+ITERAÇÃO: 10 - Atraso: 11542
 
-Sequencia inicial 38 -> 8557
-Melhor vizinho: 8552
+ITERAÇÃO: 11 - Atraso: 11542
 
-Sequencia inicial 39 -> 8552
-Melhor vizinho: 8549
+ITERAÇÃO: 12 - Atraso: 11542
 
-Sequencia inicial 40 -> 8549
-Melhor vizinho: 8545
+ITERAÇÃO: 13 - Atraso: 11542
 
-Sequencia inicial 41 -> 8545
-Melhor vizinho: 8522
+ITERAÇÃO: 14 - Atraso: 11542
 
-Sequencia inicial 42 -> 8522
-Melhor vizinho: 8516
+ITERAÇÃO: 15 - Atraso: 11542
 
-Sequencia inicial 43 -> 8516
-Melhor vizinho: 8514
+ITERAÇÃO: 16 - Atraso: 11542
 
-Sequencia inicial 44 -> 8514
-Melhor vizinho: 8513
+ITERAÇÃO: 17 - Atraso: 11542
 
-Sequencia inicial 45 -> 8513
-Melhor vizinho: 8509
+ITERAÇÃO: 18 - Atraso: 11542
 
-Sequencia inicial 46 -> 8509
-Melhor vizinho: 8507
+ITERAÇÃO: 19 - Atraso: 11542
 
-Sequencia inicial 47 -> 8507
-Melhor vizinho: 8481
+ITERAÇÃO: 20 - Atraso: 11542
 
-Sequencia inicial 48 -> 8481
-ITERAÇÃO: 1 - Atraso: 8481
+ITERAÇÃO: 21 - Atraso: 11542
 
-Sequencia inicial 1 -> 8427
-Melhor vizinho: 8426
+ITERAÇÃO: 22 - Atraso: 11542
 
-Sequencia inicial 2 -> 8426
-Melhor vizinho: 8419
+ITERAÇÃO: 23 - Atraso: 11542
 
-Sequencia inicial 3 -> 8419
-Melhor vizinho: 8412
+ITERAÇÃO: 24 - Atraso: 11542
 
-Sequencia inicial 4 -> 8412
-Melhor vizinho: 8374
+ITERAÇÃO: 25 - Atraso: 11542
 
-Sequencia inicial 5 -> 8374
-Melhor vizinho: 8371
+ITERAÇÃO: 26 - Atraso: 11542
 
-Sequencia inicial 6 -> 8371
-Melhor vizinho: 8370
+ITERAÇÃO: 27 - Atraso: 11542
 
-Sequencia inicial 7 -> 8370
-Melhor vizinho: 8366
+ITERAÇÃO: 28 - Atraso: 11542
 
-Sequencia inicial 8 -> 8366
-Melhor vizinho: 8336
+ITERAÇÃO: 29 - Atraso: 11542
 
-Sequencia inicial 9 -> 8336
-Melhor vizinho: 8322
+ITERAÇÃO: 30 - Atraso: 11542
 
-Sequencia inicial 10 -> 8322
-Melhor vizinho: 8318
+ITERAÇÃO: 31 - Atraso: 11542
 
-Sequencia inicial 11 -> 8318
-Melhor vizinho: 8295
+ITERAÇÃO: 32 - Atraso: 11542
 
-Sequencia inicial 12 -> 8295
-Melhor vizinho: 8290
+ITERAÇÃO: 33 - Atraso: 11542
 
-Sequencia inicial 13 -> 8290
-Melhor vizinho: 8286
+ITERAÇÃO: 34 - Atraso: 11542
 
-Sequencia inicial 14 -> 8286
-Melhor vizinho: 8285
+ITERAÇÃO: 35 - Atraso: 11542
 
-Sequencia inicial 15 -> 8285
-Melhor vizinho: 8270
+ITERAÇÃO: 36 - Atraso: 11542
 
-Sequencia inicial 16 -> 8270
-Melhor vizinho: 8269
+ITERAÇÃO: 37 - Atraso: 11542
 
-Sequencia inicial 17 -> 8269
-Melhor vizinho: 8244
+ITERAÇÃO: 38 - Atraso: 11542
 
-Sequencia inicial 18 -> 8244
-Melhor vizinho: 8234
+ITERAÇÃO: 39 - Atraso: 11542
 
-Sequencia inicial 19 -> 8234
-Melhor vizinho: 8233
+ITERAÇÃO: 40 - Atraso: 11542
 
-Sequencia inicial 20 -> 8233
-Melhor vizinho: 8209
+ITERAÇÃO: 41 - Atraso: 11542
 
-Sequencia inicial 21 -> 8209
-ITERAÇÃO: 1 - Atraso: 8209
+ITERAÇÃO: 42 - Atraso: 11542
 
-Sequencia inicial 1 -> 8194
-Melhor vizinho: 8134
+ITERAÇÃO: 43 - Atraso: 11542
 
-Sequencia inicial 2 -> 8134
-Melhor vizinho: 8117
+ITERAÇÃO: 44 - Atraso: 11542
 
-Sequencia inicial 3 -> 8117
-Melhor vizinho: 8114
+ITERAÇÃO: 45 - Atraso: 11542
 
-Sequencia inicial 4 -> 8114
-Melhor vizinho: 8113
+ITERAÇÃO: 46 - Atraso: 11542
 
-Sequencia inicial 5 -> 8113
-Melhor vizinho: 8109
+ITERAÇÃO: 47 - Atraso: 11542
 
-Sequencia inicial 6 -> 8109
-Melhor vizinho: 8108
+ITERAÇÃO: 48 - Atraso: 11542
 
-Sequencia inicial 7 -> 8108
-Melhor vizinho: 8106
+ITERAÇÃO: 49 - Atraso: 11542
 
-Sequencia inicial 8 -> 8106
-Melhor vizinho: 8101
+ITERAÇÃO: 50 - Atraso: 11542
 
-Sequencia inicial 9 -> 8101
-Melhor vizinho: 8097
-
-Sequencia inicial 10 -> 8097
-Melhor vizinho: 8096
-
-Sequencia inicial 11 -> 8096
-ITERAÇÃO: 1 - Atraso: 8096
-
-Sequencia inicial 1 -> 8094
-ITERAÇÃO: 1 - Atraso: 8094
-
-Sequencia inicial 1 -> 8093
-ITERAÇÃO: 1 - Atraso: 8093
-
-Sequencia inicial 1 -> 8093
-ITERAÇÃO: 2 - Atraso: 8093
-
-Sequencia inicial 1 -> 8093
-ITERAÇÃO: 3 - Atraso: 8093
-
-Sequencia inicial 1 -> 8093
-ITERAÇÃO: 4 - Atraso: 8093
-
-Sequencia inicial 1 -> 8093
-ITERAÇÃO: 5 - Atraso: 8093
-
-Sequencia inicial 1 -> 8093
-ITERAÇÃO: 6 - Atraso: 8093
-
-Sequencia inicial 1 -> 8093
-ITERAÇÃO: 7 - Atraso: 8093
-
-Sequencia inicial 1 -> 8093
-ITERAÇÃO: 8 - Atraso: 8093
-
-Sequencia inicial 1 -> 8093
-ITERAÇÃO: 9 - Atraso: 8093
-
-Sequencia inicial 1 -> 8093
-ITERAÇÃO: 10 - Atraso: 8093
-
-Sequencia inicial 1 -> 8093
-Melhor vizinho: 8084
-
-Sequencia inicial 2 -> 8084
-ITERAÇÃO: 1 - Atraso: 8084
-
-Sequencia inicial 1 -> 8084
-ITERAÇÃO: 2 - Atraso: 8084
-
-Sequencia inicial 1 -> 8084
-ITERAÇÃO: 3 - Atraso: 8084
-
-Sequencia inicial 1 -> 8084
-ITERAÇÃO: 4 - Atraso: 8084
-
-Sequencia inicial 1 -> 8084
-ITERAÇÃO: 5 - Atraso: 8084
-
-Sequencia inicial 1 -> 8084
-ITERAÇÃO: 6 - Atraso: 8084
-
-Sequencia inicial 1 -> 8084
-ITERAÇÃO: 7 - Atraso: 8084
-
-Sequencia inicial 1 -> 8084
-ITERAÇÃO: 8 - Atraso: 8084
-
-Sequencia inicial 1 -> 8084
-ITERAÇÃO: 9 - Atraso: 8084
-
-Sequencia inicial 1 -> 8084
-ITERAÇÃO: 10 - Atraso: 8084
-
-Sequencia inicial 1 -> 8084
-ITERAÇÃO: 11 - Atraso: 8084
-
-Sequencia inicial 1 -> 8093
-ITERAÇÃO: 12 - Atraso: 8084
-
-Sequencia inicial 1 -> 8093
-ITERAÇÃO: 13 - Atraso: 8084
-
-Sequencia inicial 1 -> 8095
-ITERAÇÃO: 14 - Atraso: 8084
-
-Sequencia inicial 1 -> 8119
-Melhor vizinho: 8118
-
-Sequencia inicial 2 -> 8118
-Melhor vizinho: 8113
-
-Sequencia inicial 3 -> 8113
-ITERAÇÃO: 15 - Atraso: 8084
-
-Sequencia inicial 1 -> 8119
-Melhor vizinho: 8118
-
-Sequencia inicial 2 -> 8118
-Melhor vizinho: 8113
-
-Sequencia inicial 3 -> 8113
-ITERAÇÃO: 16 - Atraso: 8084
-
-Sequencia inicial 1 -> 8117
-Melhor vizinho: 8116
-
-Sequencia inicial 2 -> 8116
-Melhor vizinho: 8111
-
-Sequencia inicial 3 -> 8111
-ITERAÇÃO: 17 - Atraso: 8084
-
-Sequencia inicial 1 -> 8117
-Melhor vizinho: 8116
-
-Sequencia inicial 2 -> 8116
-Melhor vizinho: 8111
-
-Sequencia inicial 3 -> 8111
-ITERAÇÃO: 18 - Atraso: 8084
-
-Sequencia inicial 1 -> 8117
-Melhor vizinho: 8108
-
-Sequencia inicial 2 -> 8108
-ITERAÇÃO: 19 - Atraso: 8084
-
-Sequencia inicial 1 -> 8117
-Melhor vizinho: 8108
-
-Sequencia inicial 2 -> 8108
-ITERAÇÃO: 20 - Atraso: 8084
-
-Sequencia inicial 1 -> 8116
-Melhor vizinho: 8107
-
-Sequencia inicial 2 -> 8107
-Atraso Máximo Iterated Greedy (IG): 8084
+Atraso Máximo Iterated Greedy (IG): 11542
 Sequência de Tarefas - Solução Final IG
-235 210 197 69 181 184 234 205 26 146 160 108 16 245 4 90 66 194 30 73 143 149 248 219 60 142 236 53 52 120 118 175 22 182 100 243 18 35 154 71 9 170 139 89 86 249 92 215 130 129 133 124 46 49 65 221 128 93 178 242 172 36 189 164 229 82 231 157 168 3 109 81 111 83 25 136 127 171 24 135 57 230 165 204 246 188 147 213 228 167 121 115 14 196 96 174 185 38 241 237 159 78 67 5 179 75 61 101 232 214 6 173 199 42 138 55 161 183 162 10 85 63 103 50 224 240 105 131 191 43 123 72 250 40 155 64 91 19 153 102 80 88 227 112 206 48 54 163 125 44 144 203 177 192 218 41 107 62 247 87 32 33 1 141 222 47 45 208 106 39 212 74 132 114 68 169 220 137 193 31 27 226 77 195 211 98 198 29 151 116 223 217 216 201 56 94 244 166 2 28 37 140 99 97 119 70 7 21 13 126 238 79 20 186 134 148 176 34 152 209 225 51 110 8 207 58 202 15 95 84 145 156 158 239 104 113 23 200 190 122 233 117 11 59 76 150 180 187 12 17 
-Tempo: 438.619 segundos
+129 23 186 98 235 179 111 11 121 153 198 66 58 116 229 118 165 102 54 41 49 31 184 151 158 61 92 232 136 90 131 162 149 196 5 177 117 56 225 42 228 197 244 218 124 37 139 68 201 172 43 160 47 243 65 46 214 170 231 138 55 224 75 88 137 182 238 40 216 200 199 100 70 113 32 195 60 7 175 103 130 96 144 20 119 163 1 147 114 63 83 188 99 223 10 87 80 6 167 86 109 148 134 106 78 85 247 241 189 112 18 16 211 28 237 39 193 128 192 69 29 30 173 250 44 176 8 91 242 249 81 159 220 205 62 181 133 108 38 222 36 171 135 82 226 191 84 155 234 141 204 89 35 209 154 206 126 107 33 217 93 161 45 73 183 145 48 110 174 22 213 215 143 221 207 246 152 210 9 127 248 79 74 14 230 67 72 142 77 15 132 53 120 240 146 19 25 115 50 166 2 105 76 123 71 169 57 122 190 24 227 203 13 59 236 125 26 27 4 34 219 202 51 185 156 178 168 212 233 245 150 17 21 157 64 239 97 3 95 164 94 104 208 52 194 187 12 140 180 101 
+Tempo: 203.089 segundos

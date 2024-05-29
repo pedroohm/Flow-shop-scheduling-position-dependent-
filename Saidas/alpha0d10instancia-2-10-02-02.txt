@@ -2,138 +2,122 @@
 Calculando TP
 TP calculada
 Sequência de Tarefas - Solução Inicial EDD
-10 8 6 3 5 4 1 2 9 7 
 Atraso Máximo da solução inicial EDD: 143
 
 Sequência de Tarefas - Solução Inicial Tempos Medios
-8 6 4 1 9 7 3 5 2 10 
 Atraso Máximo da solução inicial Tempos Medios: 233
 
-Sequencia inicial 1 -> 233
-Melhor vizinho: 163
+ITERAÇÃO: 1 - Atraso: 233
 
-Sequencia inicial 2 -> 163
-Melhor vizinho: 141
+ITERAÇÃO: 2 - Atraso: 233
 
-Sequencia inicial 3 -> 141
+ITERAÇÃO: 3 - Atraso: 233
+
+ITERAÇÃO: 4 - Atraso: 233
+
+ITERAÇÃO: 5 - Atraso: 233
+
 ITERAÇÃO: 1 - Atraso: 141
 
-Sequencia inicial 1 -> 141
 ITERAÇÃO: 2 - Atraso: 141
 
-Sequencia inicial 1 -> 141
 ITERAÇÃO: 3 - Atraso: 141
 
-Sequencia inicial 1 -> 141
 ITERAÇÃO: 4 - Atraso: 141
 
-Sequencia inicial 1 -> 158
-Melhor vizinho: 143
-
-Sequencia inicial 2 -> 143
 ITERAÇÃO: 5 - Atraso: 141
 
-Sequencia inicial 1 -> 143
 ITERAÇÃO: 6 - Atraso: 141
 
-Sequencia inicial 1 -> 143
 ITERAÇÃO: 7 - Atraso: 141
 
-Sequencia inicial 1 -> 143
 ITERAÇÃO: 8 - Atraso: 141
 
-Sequencia inicial 1 -> 143
 ITERAÇÃO: 9 - Atraso: 141
 
-Sequencia inicial 1 -> 165
-Melhor vizinho: 143
-
-Sequencia inicial 2 -> 143
 ITERAÇÃO: 10 - Atraso: 141
 
-Sequencia inicial 1 -> 158
-Melhor vizinho: 143
-
-Sequencia inicial 2 -> 143
 ITERAÇÃO: 11 - Atraso: 141
 
-Sequencia inicial 1 -> 158
-Melhor vizinho: 143
-
-Sequencia inicial 2 -> 143
 ITERAÇÃO: 12 - Atraso: 141
 
-Sequencia inicial 1 -> 158
-Melhor vizinho: 143
-
-Sequencia inicial 2 -> 143
 ITERAÇÃO: 13 - Atraso: 141
 
-Sequencia inicial 1 -> 158
-Melhor vizinho: 143
-
-Sequencia inicial 2 -> 143
 ITERAÇÃO: 14 - Atraso: 141
 
-Sequencia inicial 1 -> 158
-Melhor vizinho: 143
-
-Sequencia inicial 2 -> 143
 ITERAÇÃO: 15 - Atraso: 141
 
-Sequencia inicial 1 -> 158
-Melhor vizinho: 143
-
-Sequencia inicial 2 -> 143
 ITERAÇÃO: 16 - Atraso: 141
 
-Sequencia inicial 1 -> 158
-Melhor vizinho: 143
-
-Sequencia inicial 2 -> 143
 ITERAÇÃO: 17 - Atraso: 141
 
-Sequencia inicial 1 -> 158
-Melhor vizinho: 143
-
-Sequencia inicial 2 -> 143
 ITERAÇÃO: 18 - Atraso: 141
 
-Sequencia inicial 1 -> 143
 ITERAÇÃO: 19 - Atraso: 141
 
-Sequencia inicial 1 -> 253
-Melhor vizinho: 164
-
-Sequencia inicial 2 -> 164
-Melhor vizinho: 151
-
-Sequencia inicial 3 -> 151
-Melhor vizinho: 145
-
-Sequencia inicial 4 -> 145
 ITERAÇÃO: 20 - Atraso: 141
 
-Sequencia inicial 1 -> 253
-Melhor vizinho: 200
+ITERAÇÃO: 21 - Atraso: 141
 
-Sequencia inicial 2 -> 200
-Melhor vizinho: 178
+ITERAÇÃO: 22 - Atraso: 141
 
-Sequencia inicial 3 -> 178
-Melhor vizinho: 162
+ITERAÇÃO: 23 - Atraso: 141
 
-Sequencia inicial 4 -> 162
-Melhor vizinho: 154
+ITERAÇÃO: 24 - Atraso: 141
 
-Sequencia inicial 5 -> 154
-Melhor vizinho: 142
+ITERAÇÃO: 25 - Atraso: 141
 
-Sequencia inicial 6 -> 142
-Melhor vizinho: 141
+ITERAÇÃO: 26 - Atraso: 141
 
-Sequencia inicial 7 -> 141
+ITERAÇÃO: 27 - Atraso: 141
+
+ITERAÇÃO: 28 - Atraso: 141
+
+ITERAÇÃO: 29 - Atraso: 141
+
+ITERAÇÃO: 30 - Atraso: 141
+
+ITERAÇÃO: 31 - Atraso: 141
+
+ITERAÇÃO: 32 - Atraso: 141
+
+ITERAÇÃO: 33 - Atraso: 141
+
+ITERAÇÃO: 34 - Atraso: 141
+
+ITERAÇÃO: 35 - Atraso: 141
+
+ITERAÇÃO: 36 - Atraso: 141
+
+ITERAÇÃO: 37 - Atraso: 141
+
+ITERAÇÃO: 38 - Atraso: 141
+
+ITERAÇÃO: 39 - Atraso: 141
+
+ITERAÇÃO: 40 - Atraso: 141
+
+ITERAÇÃO: 41 - Atraso: 141
+
+ITERAÇÃO: 42 - Atraso: 141
+
+ITERAÇÃO: 43 - Atraso: 141
+
+ITERAÇÃO: 44 - Atraso: 141
+
+ITERAÇÃO: 45 - Atraso: 141
+
+ITERAÇÃO: 46 - Atraso: 141
+
+ITERAÇÃO: 47 - Atraso: 141
+
+ITERAÇÃO: 48 - Atraso: 141
+
+ITERAÇÃO: 49 - Atraso: 141
+
+ITERAÇÃO: 50 - Atraso: 141
+
 Atraso Máximo Iterated Greedy (IG): 141
 Sequência de Tarefas - Solução Final IG
-9 6 5 7 10 1 4 2 3 8 
-Tempo: 0.004355 segundos
+3 8 10 4 1 7 9 6 5 2 
+Tempo: 0.002227 segundos

@@ -61,7 +61,7 @@ float atrasoMaximo(const int n, const int m, const std::vector<int> &sequenciaTa
             tarefa = sequenciaTarefas[k-1];
             indice = k-1;
     }
-    std::cout << "\nMaior atraso da tarefa " << tarefa << "pois " << compTime[indice][m] << "-" << dueDates[sequenciaTarefas[indice]] << "\n";
+    //std::cout << "\nMaior atraso da tarefa " << tarefa << "pois " << compTime[indice][m] << "-" << dueDates[sequenciaTarefas[indice]] << "\n";
     return atraso;
 }
 
@@ -113,7 +113,6 @@ std::pair<std::vector<int>, float> destructConstruct(std::vector<int> &sequencia
     // Processo de construção
     float menorAtraso;
     float atrasoAux;
-    int pos;
     for(int i=0; i<deletados.size(); i++){
         menorAtraso = INT_MAX;
         pos = 0;
@@ -215,12 +214,6 @@ std::pair<std::vector<int>, float> iteratedGreedy(std::vector<int> initialSoluti
     std::pair<std::vector<int>, float> sequenceTmaxPi = buscaLocal(pi0, atrasoInicialSolution, n, m, completionTime, dueDates, processingTimes, TP);
     std::vector<int> pi = sequenceTmaxPi.first;
     float atrasoPi = sequenceTmaxPi.second;
-    
-    /*
-    // se a busca local for ativada, desativar essa parte
-    std::vector<int> piBest(pi);
-    float atrasoPiBest = atrasoPi;
-    */
 
     int i = 0;
     while (i<20){
@@ -243,6 +236,34 @@ std::pair<std::vector<int>, float> iteratedGreedy(std::vector<int> initialSoluti
         }
     }
 
+    return std::make_pair(pi, atrasoPi);
+}
+
+
+std::pair<std::vector<int>, float> iteratedGreedyWhitoutLocalSearch(std::vector<int> initialSolution, float atrasoInicialSolution, int n, int m, int d, float alpha, std::vector<std::vector<float>> &completionTime, std::vector<int> dueDates, const std::vector<std::vector<int>> &processingTimes, const std::vector<std::vector<std::vector<float>>> &TP){
+    std::vector<int> pi0(initialSolution);
+    float atrasoPi0 = atrasoInicialSolution;
+
+    std::vector<int> pi = pi0;
+    float atrasoPi = atrasoPi0;
+
+    int i = 0;
+    // IGA sem busca local parando após 50 iterações sem melhoria
+    while (i<50){
+        i++;
+        std::cout << "\nITERAÇÃO: " << i << " - Atraso: " << atrasoPi << "\n";
+
+        //chamada de constructDestruct removendo d das tarefas
+        std::pair<std::vector<int>, float> sequenceTmaxPi1 = destructConstruct(pi, completionTime, d, n, m, dueDates, processingTimes, TP, alpha);
+        std::vector<int> pi1(sequenceTmaxPi1.first);
+        float atrasoPi1 = sequenceTmaxPi1.second;
+        
+        if (atrasoPi1 < atrasoPi){
+            pi = pi1;
+            atrasoPi = atrasoPi1;
+            i = 0;         
+        }
+    }
     return std::make_pair(pi, atrasoPi);
 }
 
@@ -271,7 +292,6 @@ int main(int argc, char *argv[]){
 
     arquivo << alpha << "," << porcentagem << "," << m << "," << n << "," << T << "," << R << ",";
     
-
     std::vector<int> solucao(n); //Onde será armazenada a solução do problema aplicando heristicas
 
     std::vector<int> dueDates(n, 0); //Datas de entregas dos jobs
@@ -295,18 +315,20 @@ int main(int argc, char *argv[]){
     //   caso ela esteja na posição k
     //  TP[j][i][k] = processingTimes[i][j] * k^alpha;
     std::vector<std::vector<std::vector<float>>> TP(n, std::vector<std::vector<float>>(m, std::vector<float>(n)));
-    
+    //Criação da matriz completion time, usada para calcular o atraso
+    std::vector<std::vector<float>> compTime(n+1, std::vector<float>(m+1, 0));
+
     std::cout << "\nCalculando TP";
     calculaTP(n, m, processingTimes, TP, alpha);
     std::cout << "\nTP calculada";
-
-    auto start = std::chrono::high_resolution_clock::now();
 
     //-------------------------------------------------------//
     //  Definindo uma solução inicial (pi0) para o problema EDD
     //Calculando a média de todos os tempos das tarefas em todas as máquinas
     std::vector<std::pair<float, int>> temposMedios(n, std::pair<float, int>(0.0f, 0));
     
+    auto start = std::chrono::high_resolution_clock::now();
+
     //P == 0 -> Ordem crescente de dueDates EDD, P == 1 -> Ordenado pela média de dueDates
     // Utilizando EDD para construir a solução inicial
     temposMedios = ordemTarefas(n, m, dueDates, processingTimes, 0);
@@ -314,14 +336,13 @@ int main(int argc, char *argv[]){
     // Armazenando a sequência de tarefas
     for(int j=0; j<n; j++) {
         solucao[j] = temposMedios[j].second;
-        std::cout << temposMedios[j].first << " - " << temposMedios[j].second << "\n";
+        //std::cout << temposMedios[j].first << " - " << temposMedios[j].second << "\n";
     }
      
     //Calculo do completion time para a solução inicial
-    std::vector<std::vector<float>> compTime(n+1, std::vector<float>(m+1, 0));
     calculaCompletionTime(n, m, solucao, TP, compTime);
     std::cout<<"\nSequência de Tarefas - Solução Inicial EDD";
-    imprimeSequencia(solucao);
+    //imprimeSequencia(solucao);
 
     //Calculo do atraso máximo para a solução inicial
     float atraso_maximo = atrasoMaximo(n, m, solucao, compTime, dueDates);
@@ -346,7 +367,7 @@ int main(int argc, char *argv[]){
 
     calculaCompletionTime(n, m, solucao, TP, compTime);
     std::cout<<"\nSequência de Tarefas - Solução Inicial Tempos Medios";
-    imprimeSequencia(solucao);
+    //imprimeSequencia(solucao);
     //Calculo do atraso máximo para a solução inicial
     atraso_maximo = atrasoMaximo(n, m, solucao, compTime, dueDates);
     std::cout << "\nAtraso Máximo da solução inicial Tempos Medios: " << atraso_maximo << "\n";
@@ -359,10 +380,10 @@ int main(int argc, char *argv[]){
 
 
     //-------------------------------------------------------//
-    //                  Iterated Greedy
+    //                  Iterated Greedy Algorithm
     std::vector<int> piBest;
     float atrasoPiBest;
-    std::pair<std::vector<int>, float> sequenceTmax = iteratedGreedy(solucao, atraso_maximo, n, m, d, alpha, compTime, dueDates, processingTimes, TP);
+    std::pair<std::vector<int>, float> sequenceTmax = iteratedGreedyWhitoutLocalSearch(solucao, atraso_maximo, n, m, d, alpha, compTime, dueDates, processingTimes, TP);
 
     piBest = sequenceTmax.first;
     atrasoPiBest = sequenceTmax.second;

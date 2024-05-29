@@ -2,93 +2,116 @@
 Calculando TP
 TP calculada
 Sequência de Tarefas - Solução Inicial EDD
-3 4 5 1 2 
 Atraso Máximo da solução inicial EDD: 937.687
 
 Sequência de Tarefas - Solução Inicial Tempos Medios
-1 2 3 4 5 
 Atraso Máximo da solução inicial Tempos Medios: 531.711
 
-Sequencia inicial 1 -> 531.711
-Melhor vizinho: 517.498
+ITERAÇÃO: 1 - Atraso: 531.711
 
-Sequencia inicial 2 -> 517.498
-Melhor vizinho: 506.609
+ITERAÇÃO: 1 - Atraso: 517.498
 
-Sequencia inicial 3 -> 506.609
 ITERAÇÃO: 1 - Atraso: 506.609
 
-Sequencia inicial 1 -> 506.609
 ITERAÇÃO: 2 - Atraso: 506.609
 
-Sequencia inicial 1 -> 509.739
-Melhor vizinho: 506.609
-
-Sequencia inicial 2 -> 506.609
 ITERAÇÃO: 3 - Atraso: 506.609
 
-Sequencia inicial 1 -> 506.609
 ITERAÇÃO: 4 - Atraso: 506.609
 
-Sequencia inicial 1 -> 506.609
 ITERAÇÃO: 5 - Atraso: 506.609
 
-Sequencia inicial 1 -> 506.609
 ITERAÇÃO: 6 - Atraso: 506.609
 
-Sequencia inicial 1 -> 506.609
 ITERAÇÃO: 7 - Atraso: 506.609
 
-Sequencia inicial 1 -> 506.609
 ITERAÇÃO: 8 - Atraso: 506.609
 
-Sequencia inicial 1 -> 506.609
 ITERAÇÃO: 9 - Atraso: 506.609
 
-Sequencia inicial 1 -> 506.609
 ITERAÇÃO: 10 - Atraso: 506.609
 
-Sequencia inicial 1 -> 506.609
 ITERAÇÃO: 11 - Atraso: 506.609
 
-Sequencia inicial 1 -> 509.739
-Melhor vizinho: 506.609
-
-Sequencia inicial 2 -> 506.609
 ITERAÇÃO: 12 - Atraso: 506.609
 
-Sequencia inicial 1 -> 509.739
-Melhor vizinho: 506.609
-
-Sequencia inicial 2 -> 506.609
 ITERAÇÃO: 13 - Atraso: 506.609
 
-Sequencia inicial 1 -> 506.846
 ITERAÇÃO: 14 - Atraso: 506.609
 
-Sequencia inicial 1 -> 507.438
-Melhor vizinho: 506.846
-
-Sequencia inicial 2 -> 506.846
 ITERAÇÃO: 15 - Atraso: 506.609
 
-Sequencia inicial 1 -> 506.609
 ITERAÇÃO: 16 - Atraso: 506.609
 
-Sequencia inicial 1 -> 506.609
 ITERAÇÃO: 17 - Atraso: 506.609
 
-Sequencia inicial 1 -> 506.609
 ITERAÇÃO: 18 - Atraso: 506.609
 
-Sequencia inicial 1 -> 506.609
 ITERAÇÃO: 19 - Atraso: 506.609
 
-Sequencia inicial 1 -> 506.609
 ITERAÇÃO: 20 - Atraso: 506.609
 
-Sequencia inicial 1 -> 506.609
+ITERAÇÃO: 21 - Atraso: 506.609
+
+ITERAÇÃO: 22 - Atraso: 506.609
+
+ITERAÇÃO: 23 - Atraso: 506.609
+
+ITERAÇÃO: 24 - Atraso: 506.609
+
+ITERAÇÃO: 25 - Atraso: 506.609
+
+ITERAÇÃO: 26 - Atraso: 506.609
+
+ITERAÇÃO: 27 - Atraso: 506.609
+
+ITERAÇÃO: 28 - Atraso: 506.609
+
+ITERAÇÃO: 29 - Atraso: 506.609
+
+ITERAÇÃO: 30 - Atraso: 506.609
+
+ITERAÇÃO: 31 - Atraso: 506.609
+
+ITERAÇÃO: 32 - Atraso: 506.609
+
+ITERAÇÃO: 33 - Atraso: 506.609
+
+ITERAÇÃO: 34 - Atraso: 506.609
+
+ITERAÇÃO: 35 - Atraso: 506.609
+
+ITERAÇÃO: 36 - Atraso: 506.609
+
+ITERAÇÃO: 37 - Atraso: 506.609
+
+ITERAÇÃO: 38 - Atraso: 506.609
+
+ITERAÇÃO: 39 - Atraso: 506.609
+
+ITERAÇÃO: 40 - Atraso: 506.609
+
+ITERAÇÃO: 41 - Atraso: 506.609
+
+ITERAÇÃO: 42 - Atraso: 506.609
+
+ITERAÇÃO: 43 - Atraso: 506.609
+
+ITERAÇÃO: 44 - Atraso: 506.609
+
+ITERAÇÃO: 45 - Atraso: 506.609
+
+ITERAÇÃO: 46 - Atraso: 506.609
+
+ITERAÇÃO: 47 - Atraso: 506.609
+
+ITERAÇÃO: 48 - Atraso: 506.609
+
+ITERAÇÃO: 49 - Atraso: 506.609
+
+ITERAÇÃO: 50 - Atraso: 506.609
+
 Atraso Máximo Iterated Greedy (IG): 506.609
 Sequência de Tarefas - Solução Final IG
-3 1 2 4 5 
-Tempo: 0.000408 segundos
+2 3 1 5 4 
+Tempo: 0.000692 segundos

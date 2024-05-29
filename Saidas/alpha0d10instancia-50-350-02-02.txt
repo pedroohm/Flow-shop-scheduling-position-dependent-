@@ -1,0 +1,155 @@
+
+Calculando TP
+TP calculada
+Sequência de Tarefas - Solução Inicial EDD
+Atraso Máximo da solução inicial EDD: 9734
+
+Sequência de Tarefas - Solução Inicial Tempos Medios
+Atraso Máximo da solução inicial Tempos Medios: 11177
+
+ITERAÇÃO: 1 - Atraso: 11177
+
+ITERAÇÃO: 1 - Atraso: 9481
+
+ITERAÇÃO: 1 - Atraso: 8338
+
+ITERAÇÃO: 1 - Atraso: 7912
+
+ITERAÇÃO: 1 - Atraso: 7584
+
+ITERAÇÃO: 1 - Atraso: 7276
+
+ITERAÇÃO: 1 - Atraso: 7151
+
+ITERAÇÃO: 1 - Atraso: 7016
+
+ITERAÇÃO: 1 - Atraso: 6940
+
+ITERAÇÃO: 1 - Atraso: 6772
+
+ITERAÇÃO: 1 - Atraso: 6760
+
+ITERAÇÃO: 1 - Atraso: 6759
+
+ITERAÇÃO: 2 - Atraso: 6759
+
+ITERAÇÃO: 1 - Atraso: 6700
+
+ITERAÇÃO: 2 - Atraso: 6700
+
+ITERAÇÃO: 1 - Atraso: 6694
+
+ITERAÇÃO: 1 - Atraso: 6634
+
+ITERAÇÃO: 1 - Atraso: 6550
+
+ITERAÇÃO: 2 - Atraso: 6550
+
+ITERAÇÃO: 3 - Atraso: 6550
+
+ITERAÇÃO: 4 - Atraso: 6550
+
+ITERAÇÃO: 1 - Atraso: 6416
+
+ITERAÇÃO: 2 - Atraso: 6416
+
+ITERAÇÃO: 3 - Atraso: 6416
+
+ITERAÇÃO: 4 - Atraso: 6416
+
+ITERAÇÃO: 5 - Atraso: 6416
+
+ITERAÇÃO: 6 - Atraso: 6416
+
+ITERAÇÃO: 7 - Atraso: 6416
+
+ITERAÇÃO: 8 - Atraso: 6416
+
+ITERAÇÃO: 9 - Atraso: 6416
+
+ITERAÇÃO: 10 - Atraso: 6416
+
+ITERAÇÃO: 11 - Atraso: 6416
+
+ITERAÇÃO: 12 - Atraso: 6416
+
+ITERAÇÃO: 13 - Atraso: 6416
+
+ITERAÇÃO: 14 - Atraso: 6416
+
+ITERAÇÃO: 15 - Atraso: 6416
+
+ITERAÇÃO: 16 - Atraso: 6416
+
+ITERAÇÃO: 17 - Atraso: 6416
+
+ITERAÇÃO: 18 - Atraso: 6416
+
+ITERAÇÃO: 19 - Atraso: 6416
+
+ITERAÇÃO: 20 - Atraso: 6416
+
+ITERAÇÃO: 21 - Atraso: 6416
+
+ITERAÇÃO: 22 - Atraso: 6416
+
+ITERAÇÃO: 23 - Atraso: 6416
+
+ITERAÇÃO: 24 - Atraso: 6416
+
+ITERAÇÃO: 25 - Atraso: 6416
+
+ITERAÇÃO: 26 - Atraso: 6416
+
+ITERAÇÃO: 27 - Atraso: 6416
+
+ITERAÇÃO: 28 - Atraso: 6416
+
+ITERAÇÃO: 29 - Atraso: 6416
+
+ITERAÇÃO: 30 - Atraso: 6416
+
+ITERAÇÃO: 31 - Atraso: 6416
+
+ITERAÇÃO: 32 - Atraso: 6416
+
+ITERAÇÃO: 33 - Atraso: 6416
+
+ITERAÇÃO: 34 - Atraso: 6416
+
+ITERAÇÃO: 35 - Atraso: 6416
+
+ITERAÇÃO: 36 - Atraso: 6416
+
+ITERAÇÃO: 37 - Atraso: 6416
+
+ITERAÇÃO: 38 - Atraso: 6416
+
+ITERAÇÃO: 39 - Atraso: 6416
+
+ITERAÇÃO: 40 - Atraso: 6416
+
+ITERAÇÃO: 41 - Atraso: 6416
+
+ITERAÇÃO: 42 - Atraso: 6416
+
+ITERAÇÃO: 43 - Atraso: 6416
+
+ITERAÇÃO: 44 - Atraso: 6416
+
+ITERAÇÃO: 45 - Atraso: 6416
+
+ITERAÇÃO: 46 - Atraso: 6416
+
+ITERAÇÃO: 47 - Atraso: 6416
+
+ITERAÇÃO: 48 - Atraso: 6416
+
+ITERAÇÃO: 49 - Atraso: 6416
+
+ITERAÇÃO: 50 - Atraso: 6416
+
+Atraso Máximo Iterated Greedy (IG): 6416
+Sequência de Tarefas - Solução Final IG
+256 179 81 214 347 219 161 281 123 204 181 315 96 226 135 334 84 238 269 319 19 14 36 192 83 149 27 98 116 121 279 117 156 199 24 171 154 200 308 89 346 239 288 18 174 118 185 217 62 56 293 253 325 37 338 79 147 271 4 216 268 282 133 170 105 157 40 197 33 333 150 100 16 132 42 314 327 250 22 221 236 48 310 209 153 69 240 343 65 243 120 296 21 227 115 26 139 34 211 12 337 129 210 233 257 49 8 160 280 283 208 51 104 111 134 112 143 191 189 64 28 55 242 183 61 45 137 107 248 195 247 58 46 196 90 13 60 349 303 6 207 252 249 275 326 291 244 298 344 284 223 109 292 101 74 285 103 82 322 350 245 66 313 25 59 228 67 237 95 340 231 324 126 9 212 50 304 57 97 321 295 299 151 323 186 190 259 124 329 102 54 110 312 88 5 331 175 341 138 198 263 173 38 178 260 77 78 235 85 251 29 188 201 7 73 203 169 224 342 41 113 272 287 142 348 155 91 202 17 125 140 264 289 332 71 286 254 20 205 144 31 168 87 220 277 261 276 44 131 305 106 306 94 32 148 320 273 162 241 122 141 128 176 182 167 301 3 92 345 11 76 163 311 99 307 172 194 43 164 274 166 165 75 177 218 267 234 35 30 339 336 70 330 266 335 53 302 127 145 152 229 255 130 15 222 246 213 258 158 265 159 184 262 68 39 278 309 328 80 215 232 316 114 146 136 2 108 270 300 93 193 230 180 225 318 290 206 63 23 72 294 297 86 47 1 317 10 52 119 187 
+Tempo: 1501.67 segundos

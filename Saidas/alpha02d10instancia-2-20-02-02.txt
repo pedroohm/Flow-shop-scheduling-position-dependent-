@@ -2,345 +2,196 @@
 Calculando TP
 TP calculada
 Sequência de Tarefas - Solução Inicial EDD
-6 17 19 4 18 2 14 10 3 16 13 8 5 20 9 12 11 15 1 7 
 Atraso Máximo da solução inicial EDD: 1084.04
 
 Sequência de Tarefas - Solução Inicial Tempos Medios
-19 3 6 5 18 10 4 17 13 12 15 9 16 2 8 14 1 7 20 11 
 Atraso Máximo da solução inicial Tempos Medios: 972.752
 
-Sequencia inicial 1 -> 972.752
-Melhor vizinho: 942.642
+ITERAÇÃO: 1 - Atraso: 972.752
 
-Sequencia inicial 2 -> 942.642
-Melhor vizinho: 911.309
+ITERAÇÃO: 1 - Atraso: 954.654
 
-Sequencia inicial 3 -> 911.309
-Melhor vizinho: 900.717
+ITERAÇÃO: 1 - Atraso: 941.255
 
-Sequencia inicial 4 -> 900.717
-Melhor vizinho: 893.21
+ITERAÇÃO: 1 - Atraso: 938.442
 
-Sequencia inicial 5 -> 893.21
-Melhor vizinho: 890.497
+ITERAÇÃO: 2 - Atraso: 938.442
 
-Sequencia inicial 6 -> 890.497
-Melhor vizinho: 889.845
+ITERAÇÃO: 3 - Atraso: 938.442
 
-Sequencia inicial 7 -> 889.845
-Melhor vizinho: 889.609
+ITERAÇÃO: 4 - Atraso: 938.442
 
-Sequencia inicial 8 -> 889.609
-ITERAÇÃO: 1 - Atraso: 889.609
+ITERAÇÃO: 5 - Atraso: 938.442
 
-Sequencia inicial 1 -> 890.429
-ITERAÇÃO: 2 - Atraso: 889.609
+ITERAÇÃO: 6 - Atraso: 938.442
 
-Sequencia inicial 1 -> 901.407
-Melhor vizinho: 894.557
+ITERAÇÃO: 7 - Atraso: 938.442
 
-Sequencia inicial 2 -> 894.557
-Melhor vizinho: 891.838
+ITERAÇÃO: 8 - Atraso: 938.442
 
-Sequencia inicial 3 -> 891.838
-ITERAÇÃO: 3 - Atraso: 889.609
+ITERAÇÃO: 9 - Atraso: 938.442
 
-Sequencia inicial 1 -> 897.05
-Melhor vizinho: 894.659
+ITERAÇÃO: 10 - Atraso: 938.442
 
-Sequencia inicial 2 -> 894.659
-Melhor vizinho: 892.675
+ITERAÇÃO: 11 - Atraso: 938.442
 
-Sequencia inicial 3 -> 892.675
-ITERAÇÃO: 4 - Atraso: 889.609
+ITERAÇÃO: 12 - Atraso: 938.442
 
-Sequencia inicial 1 -> 894.659
-Melhor vizinho: 892.675
+ITERAÇÃO: 13 - Atraso: 938.442
 
-Sequencia inicial 2 -> 892.675
-ITERAÇÃO: 5 - Atraso: 889.609
+ITERAÇÃO: 14 - Atraso: 938.442
 
-Sequencia inicial 1 -> 894.195
-Melhor vizinho: 892.755
+ITERAÇÃO: 15 - Atraso: 938.442
 
-Sequencia inicial 2 -> 892.755
-Melhor vizinho: 892.675
+ITERAÇÃO: 16 - Atraso: 938.442
 
-Sequencia inicial 3 -> 892.675
-ITERAÇÃO: 6 - Atraso: 889.609
+ITERAÇÃO: 17 - Atraso: 938.442
 
-Sequencia inicial 1 -> 893.054
-Melhor vizinho: 892.755
+ITERAÇÃO: 18 - Atraso: 938.442
 
-Sequencia inicial 2 -> 892.755
-Melhor vizinho: 892.675
+ITERAÇÃO: 19 - Atraso: 938.442
 
-Sequencia inicial 3 -> 892.675
-ITERAÇÃO: 7 - Atraso: 889.609
+ITERAÇÃO: 20 - Atraso: 938.442
 
-Sequencia inicial 1 -> 894.358
-Melhor vizinho: 891.599
+ITERAÇÃO: 21 - Atraso: 938.442
 
-Sequencia inicial 2 -> 891.599
-Melhor vizinho: 890.488
+ITERAÇÃO: 22 - Atraso: 938.442
 
-Sequencia inicial 3 -> 890.488
-ITERAÇÃO: 8 - Atraso: 889.609
+ITERAÇÃO: 23 - Atraso: 938.442
 
-Sequencia inicial 1 -> 893.062
-Melhor vizinho: 890.488
+ITERAÇÃO: 24 - Atraso: 938.442
 
-Sequencia inicial 2 -> 890.488
-ITERAÇÃO: 9 - Atraso: 889.609
+ITERAÇÃO: 25 - Atraso: 938.442
 
-Sequencia inicial 1 -> 895.123
-Melhor vizinho: 890.503
+ITERAÇÃO: 26 - Atraso: 938.442
 
-Sequencia inicial 2 -> 890.503
-Melhor vizinho: 890.488
+ITERAÇÃO: 27 - Atraso: 938.442
 
-Sequencia inicial 3 -> 890.488
-ITERAÇÃO: 10 - Atraso: 889.609
+ITERAÇÃO: 28 - Atraso: 938.442
 
-Sequencia inicial 1 -> 894.47
-Melhor vizinho: 890.488
+ITERAÇÃO: 29 - Atraso: 938.442
 
-Sequencia inicial 2 -> 890.488
-ITERAÇÃO: 11 - Atraso: 889.609
+ITERAÇÃO: 30 - Atraso: 938.442
 
-Sequencia inicial 1 -> 894.47
-Melhor vizinho: 890.488
+ITERAÇÃO: 31 - Atraso: 938.442
 
-Sequencia inicial 2 -> 890.488
-ITERAÇÃO: 12 - Atraso: 889.609
+ITERAÇÃO: 32 - Atraso: 938.442
 
-Sequencia inicial 1 -> 896.466
-Melhor vizinho: 892.483
+ITERAÇÃO: 1 - Atraso: 918.386
 
-Sequencia inicial 2 -> 892.483
-Melhor vizinho: 890.488
+ITERAÇÃO: 1 - Atraso: 900.414
 
-Sequencia inicial 3 -> 890.488
-ITERAÇÃO: 13 - Atraso: 889.609
+ITERAÇÃO: 2 - Atraso: 900.414
 
-Sequencia inicial 1 -> 949.75
-Melhor vizinho: 896.061
+ITERAÇÃO: 3 - Atraso: 900.414
 
-Sequencia inicial 2 -> 896.061
-Melhor vizinho: 893.836
+ITERAÇÃO: 4 - Atraso: 900.414
 
-Sequencia inicial 3 -> 893.836
-Melhor vizinho: 891.841
+ITERAÇÃO: 1 - Atraso: 899.599
 
-Sequencia inicial 4 -> 891.841
-Melhor vizinho: 890.94
+ITERAÇÃO: 2 - Atraso: 899.599
 
-Sequencia inicial 5 -> 890.94
-Melhor vizinho: 890.488
+ITERAÇÃO: 1 - Atraso: 898.392
 
-Sequencia inicial 6 -> 890.488
-ITERAÇÃO: 14 - Atraso: 889.609
+ITERAÇÃO: 2 - Atraso: 898.392
 
-Sequencia inicial 1 -> 954.637
-Melhor vizinho: 900.948
+ITERAÇÃO: 3 - Atraso: 898.392
 
-Sequencia inicial 2 -> 900.948
-Melhor vizinho: 896.922
+ITERAÇÃO: 4 - Atraso: 898.392
 
-Sequencia inicial 3 -> 896.922
-Melhor vizinho: 894.697
+ITERAÇÃO: 5 - Atraso: 898.392
 
-Sequencia inicial 4 -> 894.697
-Melhor vizinho: 892.702
+ITERAÇÃO: 6 - Atraso: 898.392
 
-Sequencia inicial 5 -> 892.702
-Melhor vizinho: 891.8
+ITERAÇÃO: 7 - Atraso: 898.392
 
-Sequencia inicial 6 -> 891.8
-Melhor vizinho: 891.349
+ITERAÇÃO: 8 - Atraso: 898.392
 
-Sequencia inicial 7 -> 891.349
-Melhor vizinho: 890.98
+ITERAÇÃO: 9 - Atraso: 898.392
 
-Sequencia inicial 8 -> 890.98
-Melhor vizinho: 890.733
+ITERAÇÃO: 10 - Atraso: 898.392
 
-Sequencia inicial 9 -> 890.733
-Melhor vizinho: 890.488
+ITERAÇÃO: 11 - Atraso: 898.392
 
-Sequencia inicial 10 -> 890.488
-ITERAÇÃO: 15 - Atraso: 889.609
+ITERAÇÃO: 12 - Atraso: 898.392
 
-Sequencia inicial 1 -> 961.192
-Melhor vizinho: 906.945
+ITERAÇÃO: 13 - Atraso: 898.392
 
-Sequencia inicial 2 -> 906.945
-Melhor vizinho: 898.986
+ITERAÇÃO: 14 - Atraso: 898.392
 
-Sequencia inicial 3 -> 898.986
-Melhor vizinho: 894.96
+ITERAÇÃO: 15 - Atraso: 898.392
 
-Sequencia inicial 4 -> 894.96
-Melhor vizinho: 891.8
+ITERAÇÃO: 16 - Atraso: 898.392
 
-Sequencia inicial 5 -> 891.8
-Melhor vizinho: 891.349
+ITERAÇÃO: 17 - Atraso: 898.392
 
-Sequencia inicial 6 -> 891.349
-Melhor vizinho: 890.98
+ITERAÇÃO: 18 - Atraso: 898.392
 
-Sequencia inicial 7 -> 890.98
-Melhor vizinho: 890.733
+ITERAÇÃO: 19 - Atraso: 898.392
 
-Sequencia inicial 8 -> 890.733
-Melhor vizinho: 890.488
+ITERAÇÃO: 20 - Atraso: 898.392
 
-Sequencia inicial 9 -> 890.488
-ITERAÇÃO: 16 - Atraso: 889.609
+ITERAÇÃO: 21 - Atraso: 898.392
 
-Sequencia inicial 1 -> 958.073
-Melhor vizinho: 903.826
+ITERAÇÃO: 22 - Atraso: 898.392
 
-Sequencia inicial 2 -> 903.826
-Melhor vizinho: 897.301
+ITERAÇÃO: 23 - Atraso: 898.392
 
-Sequencia inicial 3 -> 897.301
-Melhor vizinho: 893.318
+ITERAÇÃO: 24 - Atraso: 898.392
 
-Sequencia inicial 4 -> 893.318
-Melhor vizinho: 892.4
+ITERAÇÃO: 25 - Atraso: 898.392
 
-Sequencia inicial 5 -> 892.4
-Melhor vizinho: 892.08
+ITERAÇÃO: 26 - Atraso: 898.392
 
-Sequencia inicial 6 -> 892.08
-ITERAÇÃO: 17 - Atraso: 889.609
+ITERAÇÃO: 27 - Atraso: 898.392
 
-Sequencia inicial 1 -> 958.168
-Melhor vizinho: 916.236
+ITERAÇÃO: 28 - Atraso: 898.392
 
-Sequencia inicial 2 -> 916.236
-Melhor vizinho: 905.164
+ITERAÇÃO: 29 - Atraso: 898.392
 
-Sequencia inicial 3 -> 905.164
-Melhor vizinho: 901.675
+ITERAÇÃO: 30 - Atraso: 898.392
 
-Sequencia inicial 4 -> 901.675
-Melhor vizinho: 898.206
+ITERAÇÃO: 31 - Atraso: 898.392
 
-Sequencia inicial 5 -> 898.206
-Melhor vizinho: 896.357
+ITERAÇÃO: 32 - Atraso: 898.392
 
-Sequencia inicial 6 -> 896.357
-Melhor vizinho: 892.42
+ITERAÇÃO: 33 - Atraso: 898.392
 
-Sequencia inicial 7 -> 892.42
-Melhor vizinho: 891.597
+ITERAÇÃO: 34 - Atraso: 898.392
 
-Sequencia inicial 8 -> 891.597
-Melhor vizinho: 891.017
+ITERAÇÃO: 35 - Atraso: 898.392
 
-Sequencia inicial 9 -> 891.017
-ITERAÇÃO: 18 - Atraso: 889.609
+ITERAÇÃO: 36 - Atraso: 898.392
 
-Sequencia inicial 1 -> 971.784
-Melhor vizinho: 916.765
+ITERAÇÃO: 37 - Atraso: 898.392
 
-Sequencia inicial 2 -> 916.765
-Melhor vizinho: 907.824
+ITERAÇÃO: 38 - Atraso: 898.392
 
-Sequencia inicial 3 -> 907.824
-Melhor vizinho: 903.132
+ITERAÇÃO: 39 - Atraso: 898.392
 
-Sequencia inicial 4 -> 903.132
-Melhor vizinho: 899.231
+ITERAÇÃO: 40 - Atraso: 898.392
 
-Sequencia inicial 5 -> 899.231
-Melhor vizinho: 897.381
+ITERAÇÃO: 41 - Atraso: 898.392
 
-Sequencia inicial 6 -> 897.381
-Melhor vizinho: 895.828
+ITERAÇÃO: 42 - Atraso: 898.392
 
-Sequencia inicial 7 -> 895.828
-Melhor vizinho: 894.284
+ITERAÇÃO: 43 - Atraso: 898.392
 
-Sequencia inicial 8 -> 894.284
-Melhor vizinho: 892.696
+ITERAÇÃO: 44 - Atraso: 898.392
 
-Sequencia inicial 9 -> 892.696
-Melhor vizinho: 892.575
+ITERAÇÃO: 45 - Atraso: 898.392
 
-Sequencia inicial 10 -> 892.575
-ITERAÇÃO: 19 - Atraso: 889.609
+ITERAÇÃO: 46 - Atraso: 898.392
 
-Sequencia inicial 1 -> 960.584
-Melhor vizinho: 953.525
+ITERAÇÃO: 47 - Atraso: 898.392
 
-Sequencia inicial 2 -> 953.525
-Melhor vizinho: 948.772
+ITERAÇÃO: 48 - Atraso: 898.392
 
-Sequencia inicial 3 -> 948.772
-Melhor vizinho: 944.924
+ITERAÇÃO: 49 - Atraso: 898.392
 
-Sequencia inicial 4 -> 944.924
-Melhor vizinho: 943.244
+ITERAÇÃO: 50 - Atraso: 898.392
 
-Sequencia inicial 5 -> 943.244
-Melhor vizinho: 941.884
-
-Sequencia inicial 6 -> 941.884
-Melhor vizinho: 940.766
-
-Sequencia inicial 7 -> 940.766
-Melhor vizinho: 908.294
-
-Sequencia inicial 8 -> 908.294
-Melhor vizinho: 892.696
-
-Sequencia inicial 9 -> 892.696
-Melhor vizinho: 892.575
-
-Sequencia inicial 10 -> 892.575
-ITERAÇÃO: 20 - Atraso: 889.609
-
-Sequencia inicial 1 -> 957.73
-Melhor vizinho: 950.671
-
-Sequencia inicial 2 -> 950.671
-Melhor vizinho: 945.918
-
-Sequencia inicial 3 -> 945.918
-Melhor vizinho: 943.808
-
-Sequencia inicial 4 -> 943.808
-Melhor vizinho: 942.128
-
-Sequencia inicial 5 -> 942.128
-Melhor vizinho: 941.01
-
-Sequencia inicial 6 -> 941.01
-Melhor vizinho: 923.115
-
-Sequencia inicial 7 -> 923.115
-Melhor vizinho: 894.575
-
-Sequencia inicial 8 -> 894.575
-Melhor vizinho: 892.958
-
-Sequencia inicial 9 -> 892.958
-Melhor vizinho: 891.888
-
-Sequencia inicial 10 -> 891.888
-Melhor vizinho: 891.445
-
-Sequencia inicial 11 -> 891.445
-Melhor vizinho: 891.013
-
-Sequencia inicial 12 -> 891.013
-Melhor vizinho: 890.794
-
-Sequencia inicial 13 -> 890.794
-Atraso Máximo Iterated Greedy (IG): 889.609
+Atraso Máximo Iterated Greedy (IG): 898.392
 Sequência de Tarefas - Solução Final IG
-13 19 3 17 6 5 9 4 10 7 18 2 20 1 16 12 15 14 8 11 
-Tempo: 0.070051 segundos
+19 15 4 3 6 18 17 1 12 10 5 9 8 16 13 2 14 20 11 7 
+Tempo: 0.019742 segundos
