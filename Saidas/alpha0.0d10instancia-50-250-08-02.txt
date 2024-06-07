@@ -1,0 +1,195 @@
+
+Calculando TP
+TP calculada
+Sequência de Tarefas - Solução Inicial EDD
+Atraso Máximo da solução inicial EDD: 16612
+
+Sequência de Tarefas - Solução Inicial Tempos Medios
+Atraso Máximo da solução inicial Tempos Medios: 16441
+
+ITERAÇÃO: 1 - Atraso: 16441
+
+ITERAÇÃO: 1 - Atraso: 16021
+
+ITERAÇÃO: 1 - Atraso: 15766
+
+ITERAÇÃO: 1 - Atraso: 15593
+
+ITERAÇÃO: 1 - Atraso: 15451
+
+ITERAÇÃO: 1 - Atraso: 15312
+
+ITERAÇÃO: 1 - Atraso: 15263
+
+ITERAÇÃO: 1 - Atraso: 15143
+
+ITERAÇÃO: 1 - Atraso: 15065
+
+ITERAÇÃO: 1 - Atraso: 14996
+
+ITERAÇÃO: 1 - Atraso: 14883
+
+ITERAÇÃO: 1 - Atraso: 14760
+
+ITERAÇÃO: 1 - Atraso: 14672
+
+ITERAÇÃO: 2 - Atraso: 14672
+
+ITERAÇÃO: 1 - Atraso: 14617
+
+ITERAÇÃO: 1 - Atraso: 14552
+
+ITERAÇÃO: 1 - Atraso: 14542
+
+ITERAÇÃO: 2 - Atraso: 14542
+
+ITERAÇÃO: 3 - Atraso: 14542
+
+ITERAÇÃO: 1 - Atraso: 14504
+
+ITERAÇÃO: 2 - Atraso: 14504
+
+ITERAÇÃO: 1 - Atraso: 14477
+
+ITERAÇÃO: 1 - Atraso: 14366
+
+ITERAÇÃO: 1 - Atraso: 14333
+
+ITERAÇÃO: 1 - Atraso: 14269
+
+ITERAÇÃO: 2 - Atraso: 14269
+
+ITERAÇÃO: 1 - Atraso: 14256
+
+ITERAÇÃO: 2 - Atraso: 14256
+
+ITERAÇÃO: 3 - Atraso: 14256
+
+ITERAÇÃO: 4 - Atraso: 14256
+
+ITERAÇÃO: 5 - Atraso: 14256
+
+ITERAÇÃO: 6 - Atraso: 14256
+
+ITERAÇÃO: 7 - Atraso: 14256
+
+ITERAÇÃO: 8 - Atraso: 14256
+
+ITERAÇÃO: 9 - Atraso: 14256
+
+ITERAÇÃO: 10 - Atraso: 14256
+
+ITERAÇÃO: 11 - Atraso: 14256
+
+ITERAÇÃO: 12 - Atraso: 14256
+
+ITERAÇÃO: 13 - Atraso: 14256
+
+ITERAÇÃO: 14 - Atraso: 14256
+
+ITERAÇÃO: 15 - Atraso: 14256
+
+ITERAÇÃO: 16 - Atraso: 14256
+
+ITERAÇÃO: 1 - Atraso: 14218
+
+ITERAÇÃO: 1 - Atraso: 14212
+
+ITERAÇÃO: 2 - Atraso: 14212
+
+ITERAÇÃO: 3 - Atraso: 14212
+
+ITERAÇÃO: 1 - Atraso: 14206
+
+ITERAÇÃO: 1 - Atraso: 14176
+
+ITERAÇÃO: 2 - Atraso: 14176
+
+ITERAÇÃO: 3 - Atraso: 14176
+
+ITERAÇÃO: 4 - Atraso: 14176
+
+ITERAÇÃO: 5 - Atraso: 14176
+
+ITERAÇÃO: 6 - Atraso: 14176
+
+ITERAÇÃO: 7 - Atraso: 14176
+
+ITERAÇÃO: 8 - Atraso: 14176
+
+ITERAÇÃO: 9 - Atraso: 14176
+
+ITERAÇÃO: 10 - Atraso: 14176
+
+ITERAÇÃO: 11 - Atraso: 14176
+
+ITERAÇÃO: 12 - Atraso: 14176
+
+ITERAÇÃO: 13 - Atraso: 14176
+
+ITERAÇÃO: 1 - Atraso: 14162
+
+ITERAÇÃO: 1 - Atraso: 14149
+
+ITERAÇÃO: 2 - Atraso: 14149
+
+ITERAÇÃO: 3 - Atraso: 14149
+
+ITERAÇÃO: 4 - Atraso: 14149
+
+ITERAÇÃO: 5 - Atraso: 14149
+
+ITERAÇÃO: 6 - Atraso: 14149
+
+ITERAÇÃO: 7 - Atraso: 14149
+
+ITERAÇÃO: 8 - Atraso: 14149
+
+ITERAÇÃO: 9 - Atraso: 14149
+
+ITERAÇÃO: 10 - Atraso: 14149
+
+ITERAÇÃO: 11 - Atraso: 14149
+
+ITERAÇÃO: 12 - Atraso: 14149
+
+ITERAÇÃO: 13 - Atraso: 14149
+
+ITERAÇÃO: 14 - Atraso: 14149
+
+ITERAÇÃO: 15 - Atraso: 14149
+
+ITERAÇÃO: 16 - Atraso: 14149
+
+ITERAÇÃO: 17 - Atraso: 14149
+
+ITERAÇÃO: 18 - Atraso: 14149
+
+ITERAÇÃO: 19 - Atraso: 14149
+
+ITERAÇÃO: 20 - Atraso: 14149
+
+ITERAÇÃO: 21 - Atraso: 14149
+
+ITERAÇÃO: 22 - Atraso: 14149
+
+ITERAÇÃO: 23 - Atraso: 14149
+
+ITERAÇÃO: 24 - Atraso: 14149
+
+ITERAÇÃO: 25 - Atraso: 14149
+
+ITERAÇÃO: 26 - Atraso: 14149
+
+ITERAÇÃO: 27 - Atraso: 14149
+
+ITERAÇÃO: 28 - Atraso: 14149
+
+ITERAÇÃO: 29 - Atraso: 14149
+
+ITERAÇÃO: 30 - Atraso: 14149
+
+Atraso Máximo Iterated Greedy (IG): 14149
+Sequência de Tarefas - Solução Final IG
+141 223 249 183 85 1 90 199 170 119 70 23 32 181 30 3 162 194 225 136 160 86 101 115 4 184 42 27 87 72 175 21 78 226 171 45 43 189 64 219 47 230 217 241 156 177 112 186 39 234 157 61 130 180 56 232 164 172 18 211 58 94 247 114 49 208 139 25 44 154 98 31 79 110 134 73 245 182 179 38 6 121 128 205 88 244 210 83 135 9 201 68 250 92 106 123 196 159 54 93 95 146 239 193 224 126 150 96 13 46 82 55 97 142 16 192 33 215 176 63 132 127 104 81 236 51 41 144 5 145 71 188 12 207 80 153 120 212 102 235 202 209 243 14 147 231 203 34 52 213 117 100 169 248 17 19 218 22 185 227 165 60 214 66 233 15 166 138 26 200 191 187 190 89 137 111 240 149 10 109 50 77 195 20 197 62 113 228 40 206 163 69 129 74 168 28 198 143 24 8 122 229 48 124 29 221 222 2 99 59 178 36 155 174 151 167 161 76 11 148 37 103 242 67 131 57 158 7 35 75 152 204 173 105 237 53 246 108 125 91 107 118 140 133 216 84 238 65 116 220 
+Tempo: 197.457 segundos

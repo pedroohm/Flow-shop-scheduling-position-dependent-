@@ -16,7 +16,7 @@ void imprimeSequencia(const std::vector<int> &sequencia){
     //std::cout<<"\n";
 }
 
-void imprimeCompTime(const std::vector<std::vector<float>> &compTime){
+void imprimeCompTime(const std::vector<std::vector<double>> &compTime){
     std::cout << "\nCompletion Time\n";
     for(int k=1; k<=compTime.size(); k++){
         for(int i=1; i<=compTime[0].size(); i++){
@@ -27,7 +27,7 @@ void imprimeCompTime(const std::vector<std::vector<float>> &compTime){
     std::cout << "\n";
 }
 
-void calculaTP(const int n, const int m, std::vector<std::vector<int>> &processingTimes, std::vector<std::vector<std::vector<float>>> &TP, float alpha){
+void calculaTP(const int n, const int m, std::vector<std::vector<int>> &processingTimes, std::vector<std::vector<std::vector<double>>> &TP, double alpha){
     for(int j=0; j<n; j++){
         for(int i=0; i<m; i++){
             for(int k=0; k<n; k++){
@@ -37,8 +37,8 @@ void calculaTP(const int n, const int m, std::vector<std::vector<int>> &processi
     }
 }
 
-void calculaCompletionTime(const int n, const int m, const std::vector<int> &sequenciaTarefas, const std::vector<std::vector<std::vector<float>>> &TP, std::vector<std::vector<float>> &compTime){
-    compTime.resize(n + 1, std::vector<float>(m + 1));
+void calculaCompletionTime(const int n, const int m, const std::vector<int> &sequenciaTarefas, const std::vector<std::vector<std::vector<double>>> &TP, std::vector<std::vector<double>> &compTime){
+    compTime.resize(n + 1, std::vector<double>(m + 1));
     for (int i = 0; i <= m; ++i)
         compTime[0][i] = 0;
     for (int k = 0; k <= n; ++k)
@@ -51,11 +51,11 @@ void calculaCompletionTime(const int n, const int m, const std::vector<int> &seq
     }
 }
 
-float atrasoMaximo(const int n, const int m, const std::vector<int> &sequenciaTarefas, const std::vector<std::vector<float>> &compTime, const std::vector<int> &dueDates){
-    float atraso = 0;
+double atrasoMaximo(const int n, const int m, const std::vector<int> &sequenciaTarefas, const std::vector<std::vector<double>> &compTime, const std::vector<int> &dueDates){
+    double atraso = 0;
     int tarefa, indice;
     for(int k=1; k<=n; k++){
-        float newAtraso = compTime[k][m] - dueDates[sequenciaTarefas[k-1]];
+        double newAtraso = compTime[k][m] - dueDates[sequenciaTarefas[k-1]];
         if (newAtraso > atraso)
             atraso = newAtraso;
             tarefa = sequenciaTarefas[k-1];
@@ -65,22 +65,22 @@ float atrasoMaximo(const int n, const int m, const std::vector<int> &sequenciaTa
     return atraso;
 }
 
-void imprimeCompletionTime(int n, int m, std::vector<std::vector<float>> compTime){
+void imprimeCompletionTime(int n, int m, std::vector<std::vector<double>> compTime){
     std::cout << "\n Ultima linha da completion time:\n";
     for(int k=0; k<n; k++){         
         std::cout << compTime[k+1][m] << " ";
     }
 }
 
-std::vector<std::pair<float, int>> ordemTarefas(const int n, const int m, std::vector<int> &dueDates, std::vector<std::vector<int>> &processingTimes, const int param){
-    std::vector<std::pair<float, int>> temposMedios(n, std::pair<float, int>(0.0f, 0)); 
+std::vector<std::pair<double, int>> ordemTarefas(const int n, const int m, std::vector<int> &dueDates, std::vector<std::vector<int>> &processingTimes, const int param){
+    std::vector<std::pair<double, int>> temposMedios(n, std::pair<double, int>(0.0f, 0)); 
     if (param ==1){
         for(int j=0; j<n; j++){
-            float soma = 0;
+            double soma = 0;
             for(int i=0; i<m; i++){
                 soma += processingTimes[i][j];
             }
-            float p_medio = soma / m;
+            double p_medio = soma / m;
             temposMedios[j] = std::make_pair((dueDates[j] / p_medio), j);       
         }
     } else {
@@ -92,7 +92,7 @@ std::vector<std::pair<float, int>> ordemTarefas(const int n, const int m, std::v
     return temposMedios;
 }
 
-std::pair<std::vector<int>, float> destructConstruct(std::vector<int> &sequencia, std::vector<std::vector<float>> &completionTime, int d, int n, int m, std::vector<int> dueDates, const std::vector<std::vector<int>> &processingTimes, const std::vector<std::vector<std::vector<float>>> &TP, float alpha){
+std::pair<std::vector<int>, double> destructConstruct(std::vector<int> &sequencia, std::vector<std::vector<double>> &completionTime, int d, int n, int m, std::vector<int> dueDates, const std::vector<std::vector<int>> &processingTimes, const std::vector<std::vector<std::vector<double>>> &TP, double alpha){
     std::vector<int> deletados;
 
     int size = sequencia.size();
@@ -111,8 +111,8 @@ std::pair<std::vector<int>, float> destructConstruct(std::vector<int> &sequencia
     }
 
     // Processo de construção
-    float menorAtraso;
-    float atrasoAux;
+    double menorAtraso;
+    double atrasoAux;
     for(int i=0; i<deletados.size(); i++){
         menorAtraso = INT_MAX;
         pos = 0;
@@ -120,7 +120,7 @@ std::pair<std::vector<int>, float> destructConstruct(std::vector<int> &sequencia
         for(int j=0; j<sequencia.size(); j++){
             seqParcial = sequencia;
             seqParcial.insert(seqParcial.begin() + j, deletados[i]);
-            completionTime.resize(seqParcial.size()+1, std::vector<float>(m+1, 0));
+            completionTime.resize(seqParcial.size()+1, std::vector<double>(m+1, 0));
             calculaCompletionTime(seqParcial.size(), m, seqParcial, TP, completionTime);
                     
             atrasoAux = atrasoMaximo(seqParcial.size(), m, seqParcial, completionTime, dueDates);
@@ -137,11 +137,12 @@ std::pair<std::vector<int>, float> destructConstruct(std::vector<int> &sequencia
     return std::make_pair(sequencia, menorAtraso);
 }
 
-std::pair<std::vector<int>, float> generateNeighbors(const std::vector<int> &sequencia, float melhorAtraso, int n, int m, std::vector<std::vector<float>> &completionTime, const std::vector<int> &dueDates, const std::vector<std::vector<int>> &processingTimes, const std::vector<std::vector<std::vector<float>>> &TP){
+std::pair<std::vector<int>, double> generateNeighbors(const std::vector<int> &sequencia, double melhorAtraso, int n, int m, std::vector<std::vector<double>> &completionTime, const std::vector<int> &dueDates, const std::vector<std::vector<int>> &processingTimes, const std::vector<std::vector<std::vector<double>>> &TP){
     std::vector<int> vizinho(n);
     std::vector<int> melhorVizinho(n, 0); // Inicialize com uma sequência inválida
-    float melhorAtrasoVizinho = melhorAtraso;
+    double melhorAtrasoVizinho = melhorAtraso;
     int distancia;
+    double atraso;
 
     if (n<50) distancia = n/2;
     else distancia = n/4; 
@@ -168,7 +169,7 @@ std::pair<std::vector<int>, float> generateNeighbors(const std::vector<int> &seq
                 }
                 
                 calculaCompletionTime(n, m, vizinho, TP, completionTime);
-                float atraso = atrasoMaximo(n, m, vizinho, completionTime, dueDates);
+                atraso = atrasoMaximo(n, m, vizinho, completionTime, dueDates);
                 
                 //imprimeSequencia(vizinho);
                 //std::cout << " ->" << atraso;
@@ -185,13 +186,13 @@ std::pair<std::vector<int>, float> generateNeighbors(const std::vector<int> &seq
     return std::make_pair(melhorVizinho, melhorAtrasoVizinho);
 }
 
-std::pair<std::vector<int>, float> buscaLocal(std::vector<int> &sequencia, float melhorAtraso, int n, int m, std::vector<std::vector<float>> &completionTime, std::vector<int> dueDates, const std::vector<std::vector<int>> &processingTimes, const std::vector<std::vector<std::vector<float>>> &TP){
+std::pair<std::vector<int>, double> buscaLocal(std::vector<int> &sequencia, double melhorAtraso, int n, int m, std::vector<std::vector<double>> &completionTime, std::vector<int> dueDates, const std::vector<std::vector<int>> &processingTimes, const std::vector<std::vector<std::vector<double>>> &TP){
     bool melhora = true;
     //std::cout << "\nEntrando na Busca Local com atraso = " << melhorAtraso;
     int i=1;
     while(melhora){
         melhora = false;
-        std::pair<std::vector<int>, float> sequenciaTmax = generateNeighbors(sequencia, melhorAtraso, n, m, completionTime, dueDates, processingTimes, TP);
+        std::pair<std::vector<int>, double> sequenciaTmax = generateNeighbors(sequencia, melhorAtraso, n, m, completionTime, dueDates, processingTimes, TP);
         std::cout << "\nSequencia inicial " << i++;
         //imprimeSequencia(sequencia);
         std::cout << " -> " << melhorAtraso;
@@ -207,13 +208,13 @@ std::pair<std::vector<int>, float> buscaLocal(std::vector<int> &sequencia, float
     return std::make_pair(sequencia, melhorAtraso);
 }
 
-std::pair<std::vector<int>, float> iteratedGreedy(std::vector<int> initialSolution, float atrasoInicialSolution, int n, int m, int d, float alpha, std::vector<std::vector<float>> &completionTime, std::vector<int> dueDates, const std::vector<std::vector<int>> &processingTimes, const std::vector<std::vector<std::vector<float>>> &TP){
+std::pair<std::vector<int>, double> iteratedGreedy(std::vector<int> initialSolution, double atrasoInicialSolution, int n, int m, int d, double alpha, std::vector<std::vector<double>> &completionTime, std::vector<int> dueDates, const std::vector<std::vector<int>> &processingTimes, const std::vector<std::vector<std::vector<double>>> &TP){
     std::vector<int> pi0(initialSolution);
-    float atrasoPi0 = atrasoInicialSolution;
+    double atrasoPi0 = atrasoInicialSolution;
 
-    std::pair<std::vector<int>, float> sequenceTmaxPi = buscaLocal(pi0, atrasoInicialSolution, n, m, completionTime, dueDates, processingTimes, TP);
+    std::pair<std::vector<int>, double> sequenceTmaxPi = buscaLocal(pi0, atrasoInicialSolution, n, m, completionTime, dueDates, processingTimes, TP);
     std::vector<int> pi = sequenceTmaxPi.first;
-    float atrasoPi = sequenceTmaxPi.second;
+    double atrasoPi = sequenceTmaxPi.second;
 
     int i = 0;
     while (i<20){
@@ -221,13 +222,13 @@ std::pair<std::vector<int>, float> iteratedGreedy(std::vector<int> initialSoluti
         std::cout << "\nITERAÇÃO: " << i << " - Atraso: " << atrasoPi << "\n";
 
         //chamada de constructDestruct removendo d das tarefas
-        std::pair<std::vector<int>, float> sequenceTmaxPi1 = destructConstruct(pi, completionTime, d, n, m, dueDates, processingTimes, TP, alpha);
+        std::pair<std::vector<int>, double> sequenceTmaxPi1 = destructConstruct(pi, completionTime, d, n, m, dueDates, processingTimes, TP, alpha);
         std::vector<int> pi1(sequenceTmaxPi1.first);
-        float atrasoPi1 = sequenceTmaxPi1.second;
+        double atrasoPi1 = sequenceTmaxPi1.second;
 
-        std::pair<std::vector<int>, float> sequenceTmaxPi2 = buscaLocal(pi1, atrasoPi1, n, m, completionTime, dueDates, processingTimes, TP);
+        std::pair<std::vector<int>, double> sequenceTmaxPi2 = buscaLocal(pi1, atrasoPi1, n, m, completionTime, dueDates, processingTimes, TP);
         std::vector<int> pi2(sequenceTmaxPi2.first);
-        float atrasoPi2 = sequenceTmaxPi2.second;
+        double atrasoPi2 = sequenceTmaxPi2.second;
         
         if (atrasoPi2 < atrasoPi){
             pi = pi2;
@@ -240,23 +241,23 @@ std::pair<std::vector<int>, float> iteratedGreedy(std::vector<int> initialSoluti
 }
 
 
-std::pair<std::vector<int>, float> iteratedGreedyWhitoutLocalSearch(std::vector<int> initialSolution, float atrasoInicialSolution, int n, int m, int d, float alpha, std::vector<std::vector<float>> &completionTime, std::vector<int> dueDates, const std::vector<std::vector<int>> &processingTimes, const std::vector<std::vector<std::vector<float>>> &TP){
+std::pair<std::vector<int>, double> iteratedGreedyWhitoutLocalSearch(std::vector<int> initialSolution, double atrasoInicialSolution, int n, int m, int d, double alpha, std::vector<std::vector<double>> &completionTime, std::vector<int> dueDates, const std::vector<std::vector<int>> &processingTimes, const std::vector<std::vector<std::vector<double>>> &TP){
     std::vector<int> pi0(initialSolution);
-    float atrasoPi0 = atrasoInicialSolution;
+    double atrasoPi0 = atrasoInicialSolution;
 
     std::vector<int> pi = pi0;
-    float atrasoPi = atrasoPi0;
+    double atrasoPi = atrasoPi0;
 
     int i = 0;
     // IGA sem busca local parando após 50 iterações sem melhoria
-    while (i<50){
+    while (i<30){
         i++;
         std::cout << "\nITERAÇÃO: " << i << " - Atraso: " << atrasoPi << "\n";
 
         //chamada de constructDestruct removendo d das tarefas
-        std::pair<std::vector<int>, float> sequenceTmaxPi1 = destructConstruct(pi, completionTime, d, n, m, dueDates, processingTimes, TP, alpha);
+        std::pair<std::vector<int>, double> sequenceTmaxPi1 = destructConstruct(pi, completionTime, d, n, m, dueDates, processingTimes, TP, alpha);
         std::vector<int> pi1(sequenceTmaxPi1.first);
-        float atrasoPi1 = sequenceTmaxPi1.second;
+        double atrasoPi1 = sequenceTmaxPi1.second;
         
         if (atrasoPi1 < atrasoPi){
             pi = pi1;
@@ -269,7 +270,7 @@ std::pair<std::vector<int>, float> iteratedGreedyWhitoutLocalSearch(std::vector<
 
 int main(int argc, char *argv[]){
     if (argc < 3) {
-        std::cerr << "Insira alpha <valor_float> e a porcentagem de tarefas a serem removidas em destructConstruct <valor_float>" << std::endl;
+        std::cerr << "Insira alpha <valor_double> e a porcentagem de tarefas a serem removidas em destructConstruct <valor_double>" << std::endl;
         return 1;
     }
 
@@ -281,16 +282,16 @@ int main(int argc, char *argv[]){
 
     int m; //Número de workers ou máquinas
     int n; //Número de jobs
-    float T; //Dita se as datas de entrega serão maiores ou menores
-    float R; //Índice de depreciação
-    float alpha= std::stod(argv[1]); //Penalidade por atrasos
-    float porcentagem = std::stod(argv[2]); //Porcentagem de tarefas a serem removidas destructConstruct
+    double T; //Dita se as datas de entrega serão maiores ou menores
+    double R; //Índice de depreciação
+    double alpha= std::stod(argv[1]); //Penalidade por atrasos
+    int d = std::stoi(argv[2]); // Quantidade de tarefas a serem removidas destructConstruct
+
+    auto init = std::chrono::high_resolution_clock::now();
 
     std::cin>>m>>n>>T>>R;
 
-    int d = n * porcentagem; //quantidade de tarefas a serem removidas
-
-    arquivo << alpha << "," << porcentagem << "," << m << "," << n << "," << T << "," << R << ",";
+    arquivo << alpha << "," << d << "," << m << "," << n << "," << T << "," << R << ",";
     
     std::vector<int> solucao(n); //Onde será armazenada a solução do problema aplicando heristicas
 
@@ -314,9 +315,9 @@ int main(int argc, char *argv[]){
     //TP[j][i][k] = quanto tempo a tarefa j demorará a ser feita pela máquina i
     //   caso ela esteja na posição k
     //  TP[j][i][k] = processingTimes[i][j] * k^alpha;
-    std::vector<std::vector<std::vector<float>>> TP(n, std::vector<std::vector<float>>(m, std::vector<float>(n)));
+    std::vector<std::vector<std::vector<double>>> TP(n, std::vector<std::vector<double>>(m, std::vector<double>(n)));
     //Criação da matriz completion time, usada para calcular o atraso
-    std::vector<std::vector<float>> compTime(n+1, std::vector<float>(m+1, 0));
+    std::vector<std::vector<double>> compTime(n+1, std::vector<double>(m+1, 0));
 
     std::cout << "\nCalculando TP";
     calculaTP(n, m, processingTimes, TP, alpha);
@@ -325,7 +326,7 @@ int main(int argc, char *argv[]){
     //-------------------------------------------------------//
     //  Definindo uma solução inicial (pi0) para o problema EDD
     //Calculando a média de todos os tempos das tarefas em todas as máquinas
-    std::vector<std::pair<float, int>> temposMedios(n, std::pair<float, int>(0.0f, 0));
+    std::vector<std::pair<double, int>> temposMedios(n, std::pair<double, int>(0.0f, 0));
     
     auto start = std::chrono::high_resolution_clock::now();
 
@@ -345,11 +346,11 @@ int main(int argc, char *argv[]){
     //imprimeSequencia(solucao);
 
     //Calculo do atraso máximo para a solução inicial
-    float atraso_maximo = atrasoMaximo(n, m, solucao, compTime, dueDates);
+    double atraso_maximo = atrasoMaximo(n, m, solucao, compTime, dueDates);
     std::cout << "\nAtraso Máximo da solução inicial EDD: " << atraso_maximo << "\n";
 
     auto end = std::chrono::high_resolution_clock::now();
-    std::chrono::duration<float> elapsed_seconds = end-start;
+    std::chrono::duration<double> elapsed_seconds = end-start;
     
     arquivo << atraso_maximo << "," << elapsed_seconds.count() << ",";
 
@@ -377,13 +378,13 @@ int main(int argc, char *argv[]){
     
     arquivo << atraso_maximo << "," << elapsed_seconds.count() << ",";
 
-
-
     //-------------------------------------------------------//
     //                  Iterated Greedy Algorithm
+    start = std::chrono::high_resolution_clock::now(); // reinicia a contagem para o IGA
+
     std::vector<int> piBest;
-    float atrasoPiBest;
-    std::pair<std::vector<int>, float> sequenceTmax = iteratedGreedyWhitoutLocalSearch(solucao, atraso_maximo, n, m, d, alpha, compTime, dueDates, processingTimes, TP);
+    double atrasoPiBest;
+    std::pair<std::vector<int>, double> sequenceTmax = iteratedGreedyWhitoutLocalSearch(solucao, atraso_maximo, n, m, d, alpha, compTime, dueDates, processingTimes, TP);
 
     piBest = sequenceTmax.first;
     atrasoPiBest = sequenceTmax.second;
@@ -391,7 +392,7 @@ int main(int argc, char *argv[]){
     end = std::chrono::high_resolution_clock::now();
     elapsed_seconds = end-start;
     
-    arquivo << atrasoPiBest << "," << elapsed_seconds.count() << "\n";
+    arquivo << atrasoPiBest << "," << elapsed_seconds.count()/60 << "\n";
 
     std::cout << "\nAtraso Máximo Iterated Greedy (IG): "<< atrasoPiBest;
     std::cout << "\nSequência de Tarefas - Solução Final IG";
@@ -399,7 +400,7 @@ int main(int argc, char *argv[]){
 
     //-------------------------------------------------------//
     auto stop = std::chrono::high_resolution_clock::now();
-    auto duration = std::chrono::duration_cast<std::chrono::microseconds>(stop - start);
+    auto duration = std::chrono::duration_cast<std::chrono::microseconds>(stop - init);
  
     std::cout << "\nTempo: " << duration.count()/1000000.0 << " segundos\n";
     //-------------------------------------------------------//

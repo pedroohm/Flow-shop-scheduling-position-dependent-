@@ -1,0 +1,215 @@
+
+Calculando TP
+TP calculada
+Sequência de Tarefas - Solução Inicial EDD
+Atraso Máximo da solução inicial EDD: 9721
+
+Sequência de Tarefas - Solução Inicial Tempos Medios
+Atraso Máximo da solução inicial Tempos Medios: 9726
+
+ITERAÇÃO: 1 - Atraso: 9726
+
+ITERAÇÃO: 1 - Atraso: 9336
+
+ITERAÇÃO: 1 - Atraso: 9072
+
+ITERAÇÃO: 1 - Atraso: 8884
+
+ITERAÇÃO: 1 - Atraso: 8713
+
+ITERAÇÃO: 1 - Atraso: 8628
+
+ITERAÇÃO: 1 - Atraso: 8556
+
+ITERAÇÃO: 1 - Atraso: 8513
+
+ITERAÇÃO: 1 - Atraso: 8501
+
+ITERAÇÃO: 2 - Atraso: 8501
+
+ITERAÇÃO: 1 - Atraso: 8441
+
+ITERAÇÃO: 1 - Atraso: 8426
+
+ITERAÇÃO: 2 - Atraso: 8426
+
+ITERAÇÃO: 3 - Atraso: 8426
+
+ITERAÇÃO: 1 - Atraso: 8367
+
+ITERAÇÃO: 2 - Atraso: 8367
+
+ITERAÇÃO: 3 - Atraso: 8367
+
+ITERAÇÃO: 1 - Atraso: 8355
+
+ITERAÇÃO: 1 - Atraso: 8334
+
+ITERAÇÃO: 2 - Atraso: 8334
+
+ITERAÇÃO: 3 - Atraso: 8334
+
+ITERAÇÃO: 1 - Atraso: 8310
+
+ITERAÇÃO: 1 - Atraso: 8299
+
+ITERAÇÃO: 1 - Atraso: 8284
+
+ITERAÇÃO: 2 - Atraso: 8284
+
+ITERAÇÃO: 3 - Atraso: 8284
+
+ITERAÇÃO: 4 - Atraso: 8284
+
+ITERAÇÃO: 5 - Atraso: 8284
+
+ITERAÇÃO: 6 - Atraso: 8284
+
+ITERAÇÃO: 7 - Atraso: 8284
+
+ITERAÇÃO: 1 - Atraso: 8281
+
+ITERAÇÃO: 1 - Atraso: 8261
+
+ITERAÇÃO: 2 - Atraso: 8261
+
+ITERAÇÃO: 3 - Atraso: 8261
+
+ITERAÇÃO: 4 - Atraso: 8261
+
+ITERAÇÃO: 5 - Atraso: 8261
+
+ITERAÇÃO: 6 - Atraso: 8261
+
+ITERAÇÃO: 1 - Atraso: 8257
+
+ITERAÇÃO: 2 - Atraso: 8257
+
+ITERAÇÃO: 3 - Atraso: 8257
+
+ITERAÇÃO: 4 - Atraso: 8257
+
+ITERAÇÃO: 1 - Atraso: 8247
+
+ITERAÇÃO: 2 - Atraso: 8247
+
+ITERAÇÃO: 3 - Atraso: 8247
+
+ITERAÇÃO: 4 - Atraso: 8247
+
+ITERAÇÃO: 5 - Atraso: 8247
+
+ITERAÇÃO: 6 - Atraso: 8247
+
+ITERAÇÃO: 7 - Atraso: 8247
+
+ITERAÇÃO: 8 - Atraso: 8247
+
+ITERAÇÃO: 9 - Atraso: 8247
+
+ITERAÇÃO: 10 - Atraso: 8247
+
+ITERAÇÃO: 11 - Atraso: 8247
+
+ITERAÇÃO: 1 - Atraso: 8246
+
+ITERAÇÃO: 2 - Atraso: 8246
+
+ITERAÇÃO: 1 - Atraso: 8237
+
+ITERAÇÃO: 2 - Atraso: 8237
+
+ITERAÇÃO: 3 - Atraso: 8237
+
+ITERAÇÃO: 1 - Atraso: 8224
+
+ITERAÇÃO: 2 - Atraso: 8224
+
+ITERAÇÃO: 1 - Atraso: 8208
+
+ITERAÇÃO: 1 - Atraso: 8174
+
+ITERAÇÃO: 1 - Atraso: 8061
+
+ITERAÇÃO: 2 - Atraso: 8061
+
+ITERAÇÃO: 3 - Atraso: 8061
+
+ITERAÇÃO: 4 - Atraso: 8061
+
+ITERAÇÃO: 5 - Atraso: 8061
+
+ITERAÇÃO: 6 - Atraso: 8061
+
+ITERAÇÃO: 7 - Atraso: 8061
+
+ITERAÇÃO: 8 - Atraso: 8061
+
+ITERAÇÃO: 9 - Atraso: 8061
+
+ITERAÇÃO: 10 - Atraso: 8061
+
+ITERAÇÃO: 1 - Atraso: 8056
+
+ITERAÇÃO: 2 - Atraso: 8056
+
+ITERAÇÃO: 3 - Atraso: 8056
+
+ITERAÇÃO: 4 - Atraso: 8056
+
+ITERAÇÃO: 5 - Atraso: 8056
+
+ITERAÇÃO: 6 - Atraso: 8056
+
+ITERAÇÃO: 7 - Atraso: 8056
+
+ITERAÇÃO: 8 - Atraso: 8056
+
+ITERAÇÃO: 9 - Atraso: 8056
+
+ITERAÇÃO: 10 - Atraso: 8056
+
+ITERAÇÃO: 11 - Atraso: 8056
+
+ITERAÇÃO: 12 - Atraso: 8056
+
+ITERAÇÃO: 13 - Atraso: 8056
+
+ITERAÇÃO: 14 - Atraso: 8056
+
+ITERAÇÃO: 15 - Atraso: 8056
+
+ITERAÇÃO: 16 - Atraso: 8056
+
+ITERAÇÃO: 17 - Atraso: 8056
+
+ITERAÇÃO: 18 - Atraso: 8056
+
+ITERAÇÃO: 19 - Atraso: 8056
+
+ITERAÇÃO: 20 - Atraso: 8056
+
+ITERAÇÃO: 21 - Atraso: 8056
+
+ITERAÇÃO: 22 - Atraso: 8056
+
+ITERAÇÃO: 23 - Atraso: 8056
+
+ITERAÇÃO: 24 - Atraso: 8056
+
+ITERAÇÃO: 25 - Atraso: 8056
+
+ITERAÇÃO: 26 - Atraso: 8056
+
+ITERAÇÃO: 27 - Atraso: 8056
+
+ITERAÇÃO: 28 - Atraso: 8056
+
+ITERAÇÃO: 29 - Atraso: 8056
+
+ITERAÇÃO: 30 - Atraso: 8056
+
+Atraso Máximo Iterated Greedy (IG): 8056
+Sequência de Tarefas - Solução Final IG
+39 33 84 106 23 83 24 16 47 141 52 20 144 14 77 58 142 124 11 40 107 42 25 95 78 35 64 97 34 111 103 114 129 15 139 92 56 81 138 75 122 98 146 18 30 133 48 91 57 71 121 2 130 118 102 38 44 115 63 50 17 41 55 73 86 53 137 123 61 104 31 113 26 99 127 43 70 87 134 100 143 21 145 96 93 12 13 116 8 149 110 76 32 109 88 125 10 150 5 22 29 120 74 27 128 131 4 108 45 135 7 117 72 9 101 94 67 6 3 69 54 49 126 60 19 90 59 79 147 119 136 66 148 51 62 80 112 37 85 105 36 65 46 89 28 140 132 68 1 82 
+Tempo: 27.3029 segundos

@@ -1,0 +1,117 @@
+
+Calculando TP
+TP calculada
+Sequência de Tarefas - Solução Inicial EDD
+Atraso Máximo da solução inicial EDD: 353
+
+Sequência de Tarefas - Solução Inicial Tempos Medios
+Atraso Máximo da solução inicial Tempos Medios: 554
+
+ITERAÇÃO: 1 - Atraso: 554
+
+ITERAÇÃO: 1 - Atraso: 410
+
+ITERAÇÃO: 1 - Atraso: 249
+
+ITERAÇÃO: 1 - Atraso: 235
+
+ITERAÇÃO: 2 - Atraso: 235
+
+ITERAÇÃO: 3 - Atraso: 235
+
+ITERAÇÃO: 1 - Atraso: 204
+
+ITERAÇÃO: 2 - Atraso: 204
+
+ITERAÇÃO: 1 - Atraso: 164
+
+ITERAÇÃO: 2 - Atraso: 164
+
+ITERAÇÃO: 3 - Atraso: 164
+
+ITERAÇÃO: 4 - Atraso: 164
+
+ITERAÇÃO: 5 - Atraso: 164
+
+ITERAÇÃO: 6 - Atraso: 164
+
+ITERAÇÃO: 7 - Atraso: 164
+
+ITERAÇÃO: 8 - Atraso: 164
+
+ITERAÇÃO: 9 - Atraso: 164
+
+ITERAÇÃO: 10 - Atraso: 164
+
+ITERAÇÃO: 11 - Atraso: 164
+
+ITERAÇÃO: 12 - Atraso: 164
+
+ITERAÇÃO: 13 - Atraso: 164
+
+ITERAÇÃO: 14 - Atraso: 164
+
+ITERAÇÃO: 1 - Atraso: 160
+
+ITERAÇÃO: 2 - Atraso: 160
+
+ITERAÇÃO: 3 - Atraso: 160
+
+ITERAÇÃO: 4 - Atraso: 160
+
+ITERAÇÃO: 5 - Atraso: 160
+
+ITERAÇÃO: 6 - Atraso: 160
+
+ITERAÇÃO: 7 - Atraso: 160
+
+ITERAÇÃO: 8 - Atraso: 160
+
+ITERAÇÃO: 9 - Atraso: 160
+
+ITERAÇÃO: 10 - Atraso: 160
+
+ITERAÇÃO: 11 - Atraso: 160
+
+ITERAÇÃO: 12 - Atraso: 160
+
+ITERAÇÃO: 13 - Atraso: 160
+
+ITERAÇÃO: 14 - Atraso: 160
+
+ITERAÇÃO: 15 - Atraso: 160
+
+ITERAÇÃO: 16 - Atraso: 160
+
+ITERAÇÃO: 17 - Atraso: 160
+
+ITERAÇÃO: 18 - Atraso: 160
+
+ITERAÇÃO: 19 - Atraso: 160
+
+ITERAÇÃO: 20 - Atraso: 160
+
+ITERAÇÃO: 21 - Atraso: 160
+
+ITERAÇÃO: 22 - Atraso: 160
+
+ITERAÇÃO: 23 - Atraso: 160
+
+ITERAÇÃO: 24 - Atraso: 160
+
+ITERAÇÃO: 25 - Atraso: 160
+
+ITERAÇÃO: 26 - Atraso: 160
+
+ITERAÇÃO: 27 - Atraso: 160
+
+ITERAÇÃO: 28 - Atraso: 160
+
+ITERAÇÃO: 29 - Atraso: 160
+
+ITERAÇÃO: 30 - Atraso: 160
+
+Atraso Máximo Iterated Greedy (IG): 160
+Sequência de Tarefas - Solução Final IG
+1 7 2 15 9 5 6 8 17 13 19 12 3 11 20 18 14 10 16 4 
+Tempo: 0.028774 segundos

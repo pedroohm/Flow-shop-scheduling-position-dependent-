@@ -1,0 +1,119 @@
+
+Calculando TP
+TP calculada
+Sequência de Tarefas - Solução Inicial EDD
+Atraso Máximo da solução inicial EDD: 854
+
+Sequência de Tarefas - Solução Inicial Tempos Medios
+Atraso Máximo da solução inicial Tempos Medios: 935
+
+ITERAÇÃO: 1 - Atraso: 935
+
+ITERAÇÃO: 1 - Atraso: 842
+
+ITERAÇÃO: 1 - Atraso: 821
+
+ITERAÇÃO: 2 - Atraso: 821
+
+ITERAÇÃO: 3 - Atraso: 821
+
+ITERAÇÃO: 4 - Atraso: 821
+
+ITERAÇÃO: 5 - Atraso: 821
+
+ITERAÇÃO: 6 - Atraso: 821
+
+ITERAÇÃO: 7 - Atraso: 821
+
+ITERAÇÃO: 8 - Atraso: 821
+
+ITERAÇÃO: 9 - Atraso: 821
+
+ITERAÇÃO: 1 - Atraso: 786
+
+ITERAÇÃO: 2 - Atraso: 786
+
+ITERAÇÃO: 3 - Atraso: 786
+
+ITERAÇÃO: 4 - Atraso: 786
+
+ITERAÇÃO: 5 - Atraso: 786
+
+ITERAÇÃO: 6 - Atraso: 786
+
+ITERAÇÃO: 7 - Atraso: 786
+
+ITERAÇÃO: 8 - Atraso: 786
+
+ITERAÇÃO: 9 - Atraso: 786
+
+ITERAÇÃO: 10 - Atraso: 786
+
+ITERAÇÃO: 11 - Atraso: 786
+
+ITERAÇÃO: 12 - Atraso: 786
+
+ITERAÇÃO: 1 - Atraso: 774
+
+ITERAÇÃO: 2 - Atraso: 774
+
+ITERAÇÃO: 3 - Atraso: 774
+
+ITERAÇÃO: 4 - Atraso: 774
+
+ITERAÇÃO: 5 - Atraso: 774
+
+ITERAÇÃO: 6 - Atraso: 774
+
+ITERAÇÃO: 7 - Atraso: 774
+
+ITERAÇÃO: 8 - Atraso: 774
+
+ITERAÇÃO: 9 - Atraso: 774
+
+ITERAÇÃO: 10 - Atraso: 774
+
+ITERAÇÃO: 11 - Atraso: 774
+
+ITERAÇÃO: 12 - Atraso: 774
+
+ITERAÇÃO: 13 - Atraso: 774
+
+ITERAÇÃO: 14 - Atraso: 774
+
+ITERAÇÃO: 15 - Atraso: 774
+
+ITERAÇÃO: 16 - Atraso: 774
+
+ITERAÇÃO: 17 - Atraso: 774
+
+ITERAÇÃO: 18 - Atraso: 774
+
+ITERAÇÃO: 19 - Atraso: 774
+
+ITERAÇÃO: 20 - Atraso: 774
+
+ITERAÇÃO: 21 - Atraso: 774
+
+ITERAÇÃO: 22 - Atraso: 774
+
+ITERAÇÃO: 23 - Atraso: 774
+
+ITERAÇÃO: 24 - Atraso: 774
+
+ITERAÇÃO: 25 - Atraso: 774
+
+ITERAÇÃO: 26 - Atraso: 774
+
+ITERAÇÃO: 27 - Atraso: 774
+
+ITERAÇÃO: 28 - Atraso: 774
+
+ITERAÇÃO: 29 - Atraso: 774
+
+ITERAÇÃO: 30 - Atraso: 774
+
+Atraso Máximo Iterated Greedy (IG): 774
+Sequência de Tarefas - Solução Final IG
+5 16 20 19 6 13 17 10 14 3 18 1 15 12 4 2 11 9 7 8 
+Tempo: 0.028372 segundos

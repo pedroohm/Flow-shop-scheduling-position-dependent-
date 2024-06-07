@@ -1,0 +1,125 @@
+
+Calculando TP
+TP calculada
+Sequência de Tarefas - Solução Inicial EDD
+Atraso Máximo da solução inicial EDD: 1066
+
+Sequência de Tarefas - Solução Inicial Tempos Medios
+Atraso Máximo da solução inicial Tempos Medios: 1221
+
+ITERAÇÃO: 1 - Atraso: 1221
+
+ITERAÇÃO: 1 - Atraso: 1073
+
+ITERAÇÃO: 1 - Atraso: 1065
+
+ITERAÇÃO: 1 - Atraso: 1041
+
+ITERAÇÃO: 2 - Atraso: 1041
+
+ITERAÇÃO: 3 - Atraso: 1041
+
+ITERAÇÃO: 4 - Atraso: 1041
+
+ITERAÇÃO: 5 - Atraso: 1041
+
+ITERAÇÃO: 6 - Atraso: 1041
+
+ITERAÇÃO: 7 - Atraso: 1041
+
+ITERAÇÃO: 8 - Atraso: 1041
+
+ITERAÇÃO: 1 - Atraso: 1026
+
+ITERAÇÃO: 2 - Atraso: 1026
+
+ITERAÇÃO: 3 - Atraso: 1026
+
+ITERAÇÃO: 4 - Atraso: 1026
+
+ITERAÇÃO: 5 - Atraso: 1026
+
+ITERAÇÃO: 6 - Atraso: 1026
+
+ITERAÇÃO: 7 - Atraso: 1026
+
+ITERAÇÃO: 8 - Atraso: 1026
+
+ITERAÇÃO: 9 - Atraso: 1026
+
+ITERAÇÃO: 10 - Atraso: 1026
+
+ITERAÇÃO: 11 - Atraso: 1026
+
+ITERAÇÃO: 12 - Atraso: 1026
+
+ITERAÇÃO: 13 - Atraso: 1026
+
+ITERAÇÃO: 14 - Atraso: 1026
+
+ITERAÇÃO: 15 - Atraso: 1026
+
+ITERAÇÃO: 1 - Atraso: 1010
+
+ITERAÇÃO: 2 - Atraso: 1010
+
+ITERAÇÃO: 3 - Atraso: 1010
+
+ITERAÇÃO: 4 - Atraso: 1010
+
+ITERAÇÃO: 5 - Atraso: 1010
+
+ITERAÇÃO: 6 - Atraso: 1010
+
+ITERAÇÃO: 7 - Atraso: 1010
+
+ITERAÇÃO: 8 - Atraso: 1010
+
+ITERAÇÃO: 9 - Atraso: 1010
+
+ITERAÇÃO: 10 - Atraso: 1010
+
+ITERAÇÃO: 11 - Atraso: 1010
+
+ITERAÇÃO: 12 - Atraso: 1010
+
+ITERAÇÃO: 13 - Atraso: 1010
+
+ITERAÇÃO: 14 - Atraso: 1010
+
+ITERAÇÃO: 15 - Atraso: 1010
+
+ITERAÇÃO: 16 - Atraso: 1010
+
+ITERAÇÃO: 17 - Atraso: 1010
+
+ITERAÇÃO: 18 - Atraso: 1010
+
+ITERAÇÃO: 19 - Atraso: 1010
+
+ITERAÇÃO: 20 - Atraso: 1010
+
+ITERAÇÃO: 21 - Atraso: 1010
+
+ITERAÇÃO: 22 - Atraso: 1010
+
+ITERAÇÃO: 23 - Atraso: 1010
+
+ITERAÇÃO: 24 - Atraso: 1010
+
+ITERAÇÃO: 25 - Atraso: 1010
+
+ITERAÇÃO: 26 - Atraso: 1010
+
+ITERAÇÃO: 27 - Atraso: 1010
+
+ITERAÇÃO: 28 - Atraso: 1010
+
+ITERAÇÃO: 29 - Atraso: 1010
+
+ITERAÇÃO: 30 - Atraso: 1010
+
+Atraso Máximo Iterated Greedy (IG): 1010
+Sequência de Tarefas - Solução Final IG
+19 5 1 13 2 11 8 6 9 7 10 18 4 20 12 14 15 17 16 3 
+Tempo: 0.036862 segundos

@@ -1,0 +1,139 @@
+
+Calculando TP
+TP calculada
+Sequência de Tarefas - Solução Inicial EDD
+Atraso Máximo da solução inicial EDD: 2068
+
+Sequência de Tarefas - Solução Inicial Tempos Medios
+Atraso Máximo da solução inicial Tempos Medios: 2750
+
+ITERAÇÃO: 1 - Atraso: 2750
+
+ITERAÇÃO: 1 - Atraso: 1997
+
+ITERAÇÃO: 1 - Atraso: 1761
+
+ITERAÇÃO: 1 - Atraso: 1734
+
+ITERAÇÃO: 1 - Atraso: 1707
+
+ITERAÇÃO: 1 - Atraso: 1642
+
+ITERAÇÃO: 2 - Atraso: 1642
+
+ITERAÇÃO: 3 - Atraso: 1642
+
+ITERAÇÃO: 4 - Atraso: 1642
+
+ITERAÇÃO: 5 - Atraso: 1642
+
+ITERAÇÃO: 1 - Atraso: 1610
+
+ITERAÇÃO: 1 - Atraso: 1598
+
+ITERAÇÃO: 2 - Atraso: 1598
+
+ITERAÇÃO: 3 - Atraso: 1598
+
+ITERAÇÃO: 4 - Atraso: 1598
+
+ITERAÇÃO: 5 - Atraso: 1598
+
+ITERAÇÃO: 6 - Atraso: 1598
+
+ITERAÇÃO: 1 - Atraso: 1593
+
+ITERAÇÃO: 2 - Atraso: 1593
+
+ITERAÇÃO: 3 - Atraso: 1593
+
+ITERAÇÃO: 4 - Atraso: 1593
+
+ITERAÇÃO: 1 - Atraso: 1533
+
+ITERAÇÃO: 2 - Atraso: 1533
+
+ITERAÇÃO: 1 - Atraso: 1497
+
+ITERAÇÃO: 1 - Atraso: 1423
+
+ITERAÇÃO: 2 - Atraso: 1423
+
+ITERAÇÃO: 3 - Atraso: 1423
+
+ITERAÇÃO: 4 - Atraso: 1423
+
+ITERAÇÃO: 5 - Atraso: 1423
+
+ITERAÇÃO: 6 - Atraso: 1423
+
+ITERAÇÃO: 1 - Atraso: 1420
+
+ITERAÇÃO: 2 - Atraso: 1420
+
+ITERAÇÃO: 3 - Atraso: 1420
+
+ITERAÇÃO: 1 - Atraso: 1404
+
+ITERAÇÃO: 2 - Atraso: 1404
+
+ITERAÇÃO: 3 - Atraso: 1404
+
+ITERAÇÃO: 4 - Atraso: 1404
+
+ITERAÇÃO: 5 - Atraso: 1404
+
+ITERAÇÃO: 6 - Atraso: 1404
+
+ITERAÇÃO: 7 - Atraso: 1404
+
+ITERAÇÃO: 8 - Atraso: 1404
+
+ITERAÇÃO: 9 - Atraso: 1404
+
+ITERAÇÃO: 10 - Atraso: 1404
+
+ITERAÇÃO: 11 - Atraso: 1404
+
+ITERAÇÃO: 12 - Atraso: 1404
+
+ITERAÇÃO: 13 - Atraso: 1404
+
+ITERAÇÃO: 14 - Atraso: 1404
+
+ITERAÇÃO: 15 - Atraso: 1404
+
+ITERAÇÃO: 16 - Atraso: 1404
+
+ITERAÇÃO: 17 - Atraso: 1404
+
+ITERAÇÃO: 18 - Atraso: 1404
+
+ITERAÇÃO: 19 - Atraso: 1404
+
+ITERAÇÃO: 20 - Atraso: 1404
+
+ITERAÇÃO: 21 - Atraso: 1404
+
+ITERAÇÃO: 22 - Atraso: 1404
+
+ITERAÇÃO: 23 - Atraso: 1404
+
+ITERAÇÃO: 24 - Atraso: 1404
+
+ITERAÇÃO: 25 - Atraso: 1404
+
+ITERAÇÃO: 26 - Atraso: 1404
+
+ITERAÇÃO: 27 - Atraso: 1404
+
+ITERAÇÃO: 28 - Atraso: 1404
+
+ITERAÇÃO: 29 - Atraso: 1404
+
+ITERAÇÃO: 30 - Atraso: 1404
+
+Atraso Máximo Iterated Greedy (IG): 1404
+Sequência de Tarefas - Solução Final IG
+47 4 36 19 27 50 16 23 43 42 26 3 20 46 5 21 37 45 49 32 1 22 18 48 28 12 11 13 10 8 29 39 38 2 15 40 35 44 25 31 24 30 34 6 9 17 7 33 14 41 
+Tempo: 1.5732 segundos

@@ -1,0 +1,175 @@
+
+Calculando TP
+TP calculada
+Sequência de Tarefas - Solução Inicial EDD
+Atraso Máximo da solução inicial EDD: 3664
+
+Sequência de Tarefas - Solução Inicial Tempos Medios
+Atraso Máximo da solução inicial Tempos Medios: 3906
+
+ITERAÇÃO: 1 - Atraso: 3906
+
+ITERAÇÃO: 1 - Atraso: 3334
+
+ITERAÇÃO: 1 - Atraso: 3133
+
+ITERAÇÃO: 1 - Atraso: 3016
+
+ITERAÇÃO: 1 - Atraso: 2991
+
+ITERAÇÃO: 1 - Atraso: 2910
+
+ITERAÇÃO: 1 - Atraso: 2884
+
+ITERAÇÃO: 2 - Atraso: 2884
+
+ITERAÇÃO: 1 - Atraso: 2843
+
+ITERAÇÃO: 2 - Atraso: 2843
+
+ITERAÇÃO: 3 - Atraso: 2843
+
+ITERAÇÃO: 4 - Atraso: 2843
+
+ITERAÇÃO: 5 - Atraso: 2843
+
+ITERAÇÃO: 6 - Atraso: 2843
+
+ITERAÇÃO: 7 - Atraso: 2843
+
+ITERAÇÃO: 8 - Atraso: 2843
+
+ITERAÇÃO: 9 - Atraso: 2843
+
+ITERAÇÃO: 10 - Atraso: 2843
+
+ITERAÇÃO: 11 - Atraso: 2843
+
+ITERAÇÃO: 12 - Atraso: 2843
+
+ITERAÇÃO: 1 - Atraso: 2790
+
+ITERAÇÃO: 2 - Atraso: 2790
+
+ITERAÇÃO: 3 - Atraso: 2790
+
+ITERAÇÃO: 4 - Atraso: 2790
+
+ITERAÇÃO: 5 - Atraso: 2790
+
+ITERAÇÃO: 6 - Atraso: 2790
+
+ITERAÇÃO: 7 - Atraso: 2790
+
+ITERAÇÃO: 8 - Atraso: 2790
+
+ITERAÇÃO: 9 - Atraso: 2790
+
+ITERAÇÃO: 10 - Atraso: 2790
+
+ITERAÇÃO: 11 - Atraso: 2790
+
+ITERAÇÃO: 12 - Atraso: 2790
+
+ITERAÇÃO: 13 - Atraso: 2790
+
+ITERAÇÃO: 14 - Atraso: 2790
+
+ITERAÇÃO: 15 - Atraso: 2790
+
+ITERAÇÃO: 16 - Atraso: 2790
+
+ITERAÇÃO: 17 - Atraso: 2790
+
+ITERAÇÃO: 18 - Atraso: 2790
+
+ITERAÇÃO: 19 - Atraso: 2790
+
+ITERAÇÃO: 20 - Atraso: 2790
+
+ITERAÇÃO: 21 - Atraso: 2790
+
+ITERAÇÃO: 22 - Atraso: 2790
+
+ITERAÇÃO: 23 - Atraso: 2790
+
+ITERAÇÃO: 24 - Atraso: 2790
+
+ITERAÇÃO: 25 - Atraso: 2790
+
+ITERAÇÃO: 26 - Atraso: 2790
+
+ITERAÇÃO: 27 - Atraso: 2790
+
+ITERAÇÃO: 1 - Atraso: 2777
+
+ITERAÇÃO: 1 - Atraso: 2742
+
+ITERAÇÃO: 1 - Atraso: 2717
+
+ITERAÇÃO: 2 - Atraso: 2717
+
+ITERAÇÃO: 1 - Atraso: 2711
+
+ITERAÇÃO: 2 - Atraso: 2711
+
+ITERAÇÃO: 3 - Atraso: 2711
+
+ITERAÇÃO: 4 - Atraso: 2711
+
+ITERAÇÃO: 5 - Atraso: 2711
+
+ITERAÇÃO: 6 - Atraso: 2711
+
+ITERAÇÃO: 7 - Atraso: 2711
+
+ITERAÇÃO: 8 - Atraso: 2711
+
+ITERAÇÃO: 9 - Atraso: 2711
+
+ITERAÇÃO: 10 - Atraso: 2711
+
+ITERAÇÃO: 11 - Atraso: 2711
+
+ITERAÇÃO: 12 - Atraso: 2711
+
+ITERAÇÃO: 13 - Atraso: 2711
+
+ITERAÇÃO: 14 - Atraso: 2711
+
+ITERAÇÃO: 15 - Atraso: 2711
+
+ITERAÇÃO: 16 - Atraso: 2711
+
+ITERAÇÃO: 17 - Atraso: 2711
+
+ITERAÇÃO: 18 - Atraso: 2711
+
+ITERAÇÃO: 19 - Atraso: 2711
+
+ITERAÇÃO: 20 - Atraso: 2711
+
+ITERAÇÃO: 21 - Atraso: 2711
+
+ITERAÇÃO: 22 - Atraso: 2711
+
+ITERAÇÃO: 23 - Atraso: 2711
+
+ITERAÇÃO: 24 - Atraso: 2711
+
+ITERAÇÃO: 25 - Atraso: 2711
+
+ITERAÇÃO: 26 - Atraso: 2711
+
+ITERAÇÃO: 27 - Atraso: 2711
+
+ITERAÇÃO: 28 - Atraso: 2711
+
+ITERAÇÃO: 29 - Atraso: 2711
+
+ITERAÇÃO: 30 - Atraso: 2711
+
+Atraso Máximo Iterated Greedy (IG): 2711
+Sequência de Tarefas - Solução Final IG
+19 48 20 43 30 21 36 49 32 31 35 2 10 37 40 39 50 15 41 9 4 33 34 13 26 45 5 28 18 6 42 44 12 14 22 25 1 7 47 8 29 27 3 23 24 17 11 38 46 16 
+Tempo: 3.73492 segundos

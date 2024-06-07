@@ -1,0 +1,117 @@
+
+Calculando TP
+TP calculada
+Sequência de Tarefas - Solução Inicial EDD
+Atraso Máximo da solução inicial EDD: 2068
+
+Sequência de Tarefas - Solução Inicial Tempos Medios
+Atraso Máximo da solução inicial Tempos Medios: 2750
+
+ITERAÇÃO: 1 - Atraso: 2750
+
+ITERAÇÃO: 1 - Atraso: 2426
+
+ITERAÇÃO: 1 - Atraso: 2027
+
+ITERAÇÃO: 1 - Atraso: 1889
+
+ITERAÇÃO: 1 - Atraso: 1887
+
+ITERAÇÃO: 1 - Atraso: 1793
+
+ITERAÇÃO: 1 - Atraso: 1737
+
+ITERAÇÃO: 1 - Atraso: 1699
+
+ITERAÇÃO: 1 - Atraso: 1654
+
+ITERAÇÃO: 2 - Atraso: 1654
+
+ITERAÇÃO: 3 - Atraso: 1654
+
+ITERAÇÃO: 4 - Atraso: 1654
+
+ITERAÇÃO: 5 - Atraso: 1654
+
+ITERAÇÃO: 1 - Atraso: 1611
+
+ITERAÇÃO: 2 - Atraso: 1611
+
+ITERAÇÃO: 3 - Atraso: 1611
+
+ITERAÇÃO: 1 - Atraso: 1584
+
+ITERAÇÃO: 1 - Atraso: 1571
+
+ITERAÇÃO: 2 - Atraso: 1571
+
+ITERAÇÃO: 1 - Atraso: 1559
+
+ITERAÇÃO: 1 - Atraso: 1501
+
+ITERAÇÃO: 2 - Atraso: 1501
+
+ITERAÇÃO: 1 - Atraso: 1476
+
+ITERAÇÃO: 2 - Atraso: 1476
+
+ITERAÇÃO: 3 - Atraso: 1476
+
+ITERAÇÃO: 4 - Atraso: 1476
+
+ITERAÇÃO: 5 - Atraso: 1476
+
+ITERAÇÃO: 6 - Atraso: 1476
+
+ITERAÇÃO: 7 - Atraso: 1476
+
+ITERAÇÃO: 8 - Atraso: 1476
+
+ITERAÇÃO: 9 - Atraso: 1476
+
+ITERAÇÃO: 10 - Atraso: 1476
+
+ITERAÇÃO: 11 - Atraso: 1476
+
+ITERAÇÃO: 12 - Atraso: 1476
+
+ITERAÇÃO: 13 - Atraso: 1476
+
+ITERAÇÃO: 14 - Atraso: 1476
+
+ITERAÇÃO: 15 - Atraso: 1476
+
+ITERAÇÃO: 16 - Atraso: 1476
+
+ITERAÇÃO: 17 - Atraso: 1476
+
+ITERAÇÃO: 18 - Atraso: 1476
+
+ITERAÇÃO: 19 - Atraso: 1476
+
+ITERAÇÃO: 20 - Atraso: 1476
+
+ITERAÇÃO: 21 - Atraso: 1476
+
+ITERAÇÃO: 22 - Atraso: 1476
+
+ITERAÇÃO: 23 - Atraso: 1476
+
+ITERAÇÃO: 24 - Atraso: 1476
+
+ITERAÇÃO: 25 - Atraso: 1476
+
+ITERAÇÃO: 26 - Atraso: 1476
+
+ITERAÇÃO: 27 - Atraso: 1476
+
+ITERAÇÃO: 28 - Atraso: 1476
+
+ITERAÇÃO: 29 - Atraso: 1476
+
+ITERAÇÃO: 30 - Atraso: 1476
+
+Atraso Máximo Iterated Greedy (IG): 1476
+Sequência de Tarefas - Solução Final IG
+4 47 36 5 9 27 26 46 32 7 24 37 38 43 35 3 12 48 6 45 41 1 18 21 8 42 15 49 25 50 44 29 39 40 20 34 17 11 2 22 19 10 16 31 30 23 28 33 14 13 
+Tempo: 0.991529 segundos

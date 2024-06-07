@@ -1,0 +1,139 @@
+
+Calculando TP
+TP calculada
+Sequência de Tarefas - Solução Inicial EDD
+Atraso Máximo da solução inicial EDD: 7030.77
+
+Sequência de Tarefas - Solução Inicial Tempos Medios
+Atraso Máximo da solução inicial Tempos Medios: 7395.99
+
+ITERAÇÃO: 1 - Atraso: 7395.99
+
+ITERAÇÃO: 1 - Atraso: 6668.24
+
+ITERAÇÃO: 1 - Atraso: 6649.22
+
+ITERAÇÃO: 1 - Atraso: 6484.36
+
+ITERAÇÃO: 1 - Atraso: 6310.35
+
+ITERAÇÃO: 1 - Atraso: 6280.44
+
+ITERAÇÃO: 1 - Atraso: 6212.83
+
+ITERAÇÃO: 1 - Atraso: 6137.71
+
+ITERAÇÃO: 1 - Atraso: 6061.86
+
+ITERAÇÃO: 1 - Atraso: 5940.28
+
+ITERAÇÃO: 2 - Atraso: 5940.28
+
+ITERAÇÃO: 3 - Atraso: 5940.28
+
+ITERAÇÃO: 1 - Atraso: 5903.85
+
+ITERAÇÃO: 2 - Atraso: 5903.85
+
+ITERAÇÃO: 3 - Atraso: 5903.85
+
+ITERAÇÃO: 4 - Atraso: 5903.85
+
+ITERAÇÃO: 5 - Atraso: 5903.85
+
+ITERAÇÃO: 1 - Atraso: 5869.82
+
+ITERAÇÃO: 1 - Atraso: 5851.9
+
+ITERAÇÃO: 1 - Atraso: 5833.8
+
+ITERAÇÃO: 2 - Atraso: 5833.8
+
+ITERAÇÃO: 1 - Atraso: 5759.27
+
+ITERAÇÃO: 2 - Atraso: 5759.27
+
+ITERAÇÃO: 3 - Atraso: 5759.27
+
+ITERAÇÃO: 4 - Atraso: 5759.27
+
+ITERAÇÃO: 5 - Atraso: 5759.27
+
+ITERAÇÃO: 6 - Atraso: 5759.27
+
+ITERAÇÃO: 7 - Atraso: 5759.27
+
+ITERAÇÃO: 8 - Atraso: 5759.27
+
+ITERAÇÃO: 9 - Atraso: 5759.27
+
+ITERAÇÃO: 10 - Atraso: 5759.27
+
+ITERAÇÃO: 11 - Atraso: 5759.27
+
+ITERAÇÃO: 1 - Atraso: 5752.5
+
+ITERAÇÃO: 1 - Atraso: 5701.69
+
+ITERAÇÃO: 2 - Atraso: 5701.69
+
+ITERAÇÃO: 3 - Atraso: 5701.69
+
+ITERAÇÃO: 4 - Atraso: 5701.69
+
+ITERAÇÃO: 5 - Atraso: 5701.69
+
+ITERAÇÃO: 6 - Atraso: 5701.69
+
+ITERAÇÃO: 7 - Atraso: 5701.69
+
+ITERAÇÃO: 8 - Atraso: 5701.69
+
+ITERAÇÃO: 9 - Atraso: 5701.69
+
+ITERAÇÃO: 10 - Atraso: 5701.69
+
+ITERAÇÃO: 11 - Atraso: 5701.69
+
+ITERAÇÃO: 12 - Atraso: 5701.69
+
+ITERAÇÃO: 13 - Atraso: 5701.69
+
+ITERAÇÃO: 14 - Atraso: 5701.69
+
+ITERAÇÃO: 15 - Atraso: 5701.69
+
+ITERAÇÃO: 16 - Atraso: 5701.69
+
+ITERAÇÃO: 17 - Atraso: 5701.69
+
+ITERAÇÃO: 18 - Atraso: 5701.69
+
+ITERAÇÃO: 19 - Atraso: 5701.69
+
+ITERAÇÃO: 20 - Atraso: 5701.69
+
+ITERAÇÃO: 21 - Atraso: 5701.69
+
+ITERAÇÃO: 22 - Atraso: 5701.69
+
+ITERAÇÃO: 23 - Atraso: 5701.69
+
+ITERAÇÃO: 24 - Atraso: 5701.69
+
+ITERAÇÃO: 25 - Atraso: 5701.69
+
+ITERAÇÃO: 26 - Atraso: 5701.69
+
+ITERAÇÃO: 27 - Atraso: 5701.69
+
+ITERAÇÃO: 28 - Atraso: 5701.69
+
+ITERAÇÃO: 29 - Atraso: 5701.69
+
+ITERAÇÃO: 30 - Atraso: 5701.69
+
+Atraso Máximo Iterated Greedy (IG): 5701.69
+Sequência de Tarefas - Solução Final IG
+36 3 6 14 38 22 50 45 35 48 47 20 11 16 30 13 1 25 21 42 43 8 41 26 27 32 15 49 10 7 24 40 31 12 39 2 37 29 28 18 4 46 34 23 44 33 19 9 17 5 
+Tempo: 1.23049 segundos

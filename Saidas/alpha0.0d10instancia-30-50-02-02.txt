@@ -1,0 +1,97 @@
+
+Calculando TP
+TP calculada
+Sequência de Tarefas - Solução Inicial EDD
+Atraso Máximo da solução inicial EDD: 2068
+
+Sequência de Tarefas - Solução Inicial Tempos Medios
+Atraso Máximo da solução inicial Tempos Medios: 2750
+
+ITERAÇÃO: 1 - Atraso: 2750
+
+ITERAÇÃO: 1 - Atraso: 2103
+
+ITERAÇÃO: 1 - Atraso: 1768
+
+ITERAÇÃO: 1 - Atraso: 1703
+
+ITERAÇÃO: 1 - Atraso: 1576
+
+ITERAÇÃO: 1 - Atraso: 1554
+
+ITERAÇÃO: 1 - Atraso: 1525
+
+ITERAÇÃO: 1 - Atraso: 1495
+
+ITERAÇÃO: 2 - Atraso: 1495
+
+ITERAÇÃO: 3 - Atraso: 1495
+
+ITERAÇÃO: 4 - Atraso: 1495
+
+ITERAÇÃO: 5 - Atraso: 1495
+
+ITERAÇÃO: 1 - Atraso: 1490
+
+ITERAÇÃO: 2 - Atraso: 1490
+
+ITERAÇÃO: 3 - Atraso: 1490
+
+ITERAÇÃO: 4 - Atraso: 1490
+
+ITERAÇÃO: 5 - Atraso: 1490
+
+ITERAÇÃO: 6 - Atraso: 1490
+
+ITERAÇÃO: 7 - Atraso: 1490
+
+ITERAÇÃO: 8 - Atraso: 1490
+
+ITERAÇÃO: 9 - Atraso: 1490
+
+ITERAÇÃO: 10 - Atraso: 1490
+
+ITERAÇÃO: 11 - Atraso: 1490
+
+ITERAÇÃO: 12 - Atraso: 1490
+
+ITERAÇÃO: 13 - Atraso: 1490
+
+ITERAÇÃO: 14 - Atraso: 1490
+
+ITERAÇÃO: 15 - Atraso: 1490
+
+ITERAÇÃO: 16 - Atraso: 1490
+
+ITERAÇÃO: 17 - Atraso: 1490
+
+ITERAÇÃO: 18 - Atraso: 1490
+
+ITERAÇÃO: 19 - Atraso: 1490
+
+ITERAÇÃO: 20 - Atraso: 1490
+
+ITERAÇÃO: 21 - Atraso: 1490
+
+ITERAÇÃO: 22 - Atraso: 1490
+
+ITERAÇÃO: 23 - Atraso: 1490
+
+ITERAÇÃO: 24 - Atraso: 1490
+
+ITERAÇÃO: 25 - Atraso: 1490
+
+ITERAÇÃO: 26 - Atraso: 1490
+
+ITERAÇÃO: 27 - Atraso: 1490
+
+ITERAÇÃO: 28 - Atraso: 1490
+
+ITERAÇÃO: 29 - Atraso: 1490
+
+ITERAÇÃO: 30 - Atraso: 1490
+
+Atraso Máximo Iterated Greedy (IG): 1490
+Sequência de Tarefas - Solução Final IG
+19 47 4 5 36 27 26 10 32 6 23 13 9 35 16 49 3 46 37 11 40 34 31 2 43 38 44 42 45 7 48 24 30 8 12 50 22 25 29 15 18 21 20 1 33 17 39 28 41 14 
+Tempo: 1.26716 segundos

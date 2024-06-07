@@ -1,0 +1,117 @@
+
+Calculando TP
+TP calculada
+Sequência de Tarefas - Solução Inicial EDD
+Atraso Máximo da solução inicial EDD: 7941.24
+
+Sequência de Tarefas - Solução Inicial Tempos Medios
+Atraso Máximo da solução inicial Tempos Medios: 5985.24
+
+ITERAÇÃO: 1 - Atraso: 5985.24
+
+ITERAÇÃO: 1 - Atraso: 5622.81
+
+ITERAÇÃO: 1 - Atraso: 5476.64
+
+ITERAÇÃO: 1 - Atraso: 5400.28
+
+ITERAÇÃO: 2 - Atraso: 5400.28
+
+ITERAÇÃO: 3 - Atraso: 5400.28
+
+ITERAÇÃO: 4 - Atraso: 5400.28
+
+ITERAÇÃO: 5 - Atraso: 5400.28
+
+ITERAÇÃO: 1 - Atraso: 5299.89
+
+ITERAÇÃO: 2 - Atraso: 5299.89
+
+ITERAÇÃO: 3 - Atraso: 5299.89
+
+ITERAÇÃO: 1 - Atraso: 5296.2
+
+ITERAÇÃO: 2 - Atraso: 5296.2
+
+ITERAÇÃO: 3 - Atraso: 5296.2
+
+ITERAÇÃO: 4 - Atraso: 5296.2
+
+ITERAÇÃO: 5 - Atraso: 5296.2
+
+ITERAÇÃO: 6 - Atraso: 5296.2
+
+ITERAÇÃO: 7 - Atraso: 5296.2
+
+ITERAÇÃO: 8 - Atraso: 5296.2
+
+ITERAÇÃO: 9 - Atraso: 5296.2
+
+ITERAÇÃO: 10 - Atraso: 5296.2
+
+ITERAÇÃO: 11 - Atraso: 5296.2
+
+ITERAÇÃO: 1 - Atraso: 5220.97
+
+ITERAÇÃO: 2 - Atraso: 5220.97
+
+ITERAÇÃO: 3 - Atraso: 5220.97
+
+ITERAÇÃO: 4 - Atraso: 5220.97
+
+ITERAÇÃO: 5 - Atraso: 5220.97
+
+ITERAÇÃO: 6 - Atraso: 5220.97
+
+ITERAÇÃO: 7 - Atraso: 5220.97
+
+ITERAÇÃO: 8 - Atraso: 5220.97
+
+ITERAÇÃO: 9 - Atraso: 5220.97
+
+ITERAÇÃO: 10 - Atraso: 5220.97
+
+ITERAÇÃO: 11 - Atraso: 5220.97
+
+ITERAÇÃO: 12 - Atraso: 5220.97
+
+ITERAÇÃO: 13 - Atraso: 5220.97
+
+ITERAÇÃO: 14 - Atraso: 5220.97
+
+ITERAÇÃO: 15 - Atraso: 5220.97
+
+ITERAÇÃO: 16 - Atraso: 5220.97
+
+ITERAÇÃO: 17 - Atraso: 5220.97
+
+ITERAÇÃO: 18 - Atraso: 5220.97
+
+ITERAÇÃO: 19 - Atraso: 5220.97
+
+ITERAÇÃO: 20 - Atraso: 5220.97
+
+ITERAÇÃO: 21 - Atraso: 5220.97
+
+ITERAÇÃO: 22 - Atraso: 5220.97
+
+ITERAÇÃO: 23 - Atraso: 5220.97
+
+ITERAÇÃO: 24 - Atraso: 5220.97
+
+ITERAÇÃO: 25 - Atraso: 5220.97
+
+ITERAÇÃO: 26 - Atraso: 5220.97
+
+ITERAÇÃO: 27 - Atraso: 5220.97
+
+ITERAÇÃO: 28 - Atraso: 5220.97
+
+ITERAÇÃO: 29 - Atraso: 5220.97
+
+ITERAÇÃO: 30 - Atraso: 5220.97
+
+Atraso Máximo Iterated Greedy (IG): 5220.97
+Sequência de Tarefas - Solução Final IG
+14 8 10 18 4 5 12 15 6 19 13 20 1 16 9 3 17 2 11 7 
+Tempo: 0.022751 segundos

@@ -1,0 +1,271 @@
+
+Calculando TP
+TP calculada
+Sequência de Tarefas - Solução Inicial EDD
+Atraso Máximo da solução inicial EDD: 18744
+
+Sequência de Tarefas - Solução Inicial Tempos Medios
+Atraso Máximo da solução inicial Tempos Medios: 20129
+
+ITERAÇÃO: 1 - Atraso: 20129
+
+ITERAÇÃO: 1 - Atraso: 19723
+
+ITERAÇÃO: 1 - Atraso: 19356
+
+ITERAÇÃO: 1 - Atraso: 18879
+
+ITERAÇÃO: 1 - Atraso: 18453
+
+ITERAÇÃO: 1 - Atraso: 18245
+
+ITERAÇÃO: 1 - Atraso: 18007
+
+ITERAÇÃO: 1 - Atraso: 17863
+
+ITERAÇÃO: 1 - Atraso: 17833
+
+ITERAÇÃO: 1 - Atraso: 17723
+
+ITERAÇÃO: 1 - Atraso: 17638
+
+ITERAÇÃO: 1 - Atraso: 17565
+
+ITERAÇÃO: 1 - Atraso: 17471
+
+ITERAÇÃO: 1 - Atraso: 17357
+
+ITERAÇÃO: 1 - Atraso: 17339
+
+ITERAÇÃO: 1 - Atraso: 17223
+
+ITERAÇÃO: 1 - Atraso: 17160
+
+ITERAÇÃO: 1 - Atraso: 17112
+
+ITERAÇÃO: 2 - Atraso: 17112
+
+ITERAÇÃO: 1 - Atraso: 17079
+
+ITERAÇÃO: 1 - Atraso: 17013
+
+ITERAÇÃO: 1 - Atraso: 17000
+
+ITERAÇÃO: 1 - Atraso: 16915
+
+ITERAÇÃO: 1 - Atraso: 16914
+
+ITERAÇÃO: 1 - Atraso: 16859
+
+ITERAÇÃO: 1 - Atraso: 16809
+
+ITERAÇÃO: 1 - Atraso: 16779
+
+ITERAÇÃO: 1 - Atraso: 16730
+
+ITERAÇÃO: 2 - Atraso: 16730
+
+ITERAÇÃO: 1 - Atraso: 16697
+
+ITERAÇÃO: 1 - Atraso: 16691
+
+ITERAÇÃO: 2 - Atraso: 16691
+
+ITERAÇÃO: 3 - Atraso: 16691
+
+ITERAÇÃO: 4 - Atraso: 16691
+
+ITERAÇÃO: 5 - Atraso: 16691
+
+ITERAÇÃO: 1 - Atraso: 16686
+
+ITERAÇÃO: 1 - Atraso: 16643
+
+ITERAÇÃO: 2 - Atraso: 16643
+
+ITERAÇÃO: 1 - Atraso: 16612
+
+ITERAÇÃO: 1 - Atraso: 16582
+
+ITERAÇÃO: 2 - Atraso: 16582
+
+ITERAÇÃO: 1 - Atraso: 16544
+
+ITERAÇÃO: 2 - Atraso: 16544
+
+ITERAÇÃO: 3 - Atraso: 16544
+
+ITERAÇÃO: 4 - Atraso: 16544
+
+ITERAÇÃO: 5 - Atraso: 16544
+
+ITERAÇÃO: 1 - Atraso: 16499
+
+ITERAÇÃO: 2 - Atraso: 16499
+
+ITERAÇÃO: 3 - Atraso: 16499
+
+ITERAÇÃO: 4 - Atraso: 16499
+
+ITERAÇÃO: 5 - Atraso: 16499
+
+ITERAÇÃO: 6 - Atraso: 16499
+
+ITERAÇÃO: 7 - Atraso: 16499
+
+ITERAÇÃO: 8 - Atraso: 16499
+
+ITERAÇÃO: 9 - Atraso: 16499
+
+ITERAÇÃO: 10 - Atraso: 16499
+
+ITERAÇÃO: 11 - Atraso: 16499
+
+ITERAÇÃO: 1 - Atraso: 16446
+
+ITERAÇÃO: 1 - Atraso: 16402
+
+ITERAÇÃO: 1 - Atraso: 16351
+
+ITERAÇÃO: 2 - Atraso: 16351
+
+ITERAÇÃO: 3 - Atraso: 16351
+
+ITERAÇÃO: 1 - Atraso: 16347
+
+ITERAÇÃO: 1 - Atraso: 16332
+
+ITERAÇÃO: 2 - Atraso: 16332
+
+ITERAÇÃO: 1 - Atraso: 16304
+
+ITERAÇÃO: 1 - Atraso: 16297
+
+ITERAÇÃO: 2 - Atraso: 16297
+
+ITERAÇÃO: 3 - Atraso: 16297
+
+ITERAÇÃO: 4 - Atraso: 16297
+
+ITERAÇÃO: 1 - Atraso: 16262
+
+ITERAÇÃO: 2 - Atraso: 16262
+
+ITERAÇÃO: 3 - Atraso: 16262
+
+ITERAÇÃO: 1 - Atraso: 16210
+
+ITERAÇÃO: 2 - Atraso: 16210
+
+ITERAÇÃO: 3 - Atraso: 16210
+
+ITERAÇÃO: 4 - Atraso: 16210
+
+ITERAÇÃO: 5 - Atraso: 16210
+
+ITERAÇÃO: 6 - Atraso: 16210
+
+ITERAÇÃO: 7 - Atraso: 16210
+
+ITERAÇÃO: 1 - Atraso: 16196
+
+ITERAÇÃO: 1 - Atraso: 16182
+
+ITERAÇÃO: 2 - Atraso: 16182
+
+ITERAÇÃO: 3 - Atraso: 16182
+
+ITERAÇÃO: 4 - Atraso: 16182
+
+ITERAÇÃO: 5 - Atraso: 16182
+
+ITERAÇÃO: 6 - Atraso: 16182
+
+ITERAÇÃO: 7 - Atraso: 16182
+
+ITERAÇÃO: 8 - Atraso: 16182
+
+ITERAÇÃO: 9 - Atraso: 16182
+
+ITERAÇÃO: 10 - Atraso: 16182
+
+ITERAÇÃO: 11 - Atraso: 16182
+
+ITERAÇÃO: 12 - Atraso: 16182
+
+ITERAÇÃO: 1 - Atraso: 16140
+
+ITERAÇÃO: 1 - Atraso: 16133
+
+ITERAÇÃO: 2 - Atraso: 16133
+
+ITERAÇÃO: 3 - Atraso: 16133
+
+ITERAÇÃO: 1 - Atraso: 16111
+
+ITERAÇÃO: 1 - Atraso: 16108
+
+ITERAÇÃO: 1 - Atraso: 16086
+
+ITERAÇÃO: 2 - Atraso: 16086
+
+ITERAÇÃO: 3 - Atraso: 16086
+
+ITERAÇÃO: 4 - Atraso: 16086
+
+ITERAÇÃO: 5 - Atraso: 16086
+
+ITERAÇÃO: 6 - Atraso: 16086
+
+ITERAÇÃO: 7 - Atraso: 16086
+
+ITERAÇÃO: 8 - Atraso: 16086
+
+ITERAÇÃO: 9 - Atraso: 16086
+
+ITERAÇÃO: 10 - Atraso: 16086
+
+ITERAÇÃO: 11 - Atraso: 16086
+
+ITERAÇÃO: 12 - Atraso: 16086
+
+ITERAÇÃO: 13 - Atraso: 16086
+
+ITERAÇÃO: 14 - Atraso: 16086
+
+ITERAÇÃO: 15 - Atraso: 16086
+
+ITERAÇÃO: 16 - Atraso: 16086
+
+ITERAÇÃO: 17 - Atraso: 16086
+
+ITERAÇÃO: 18 - Atraso: 16086
+
+ITERAÇÃO: 19 - Atraso: 16086
+
+ITERAÇÃO: 20 - Atraso: 16086
+
+ITERAÇÃO: 21 - Atraso: 16086
+
+ITERAÇÃO: 22 - Atraso: 16086
+
+ITERAÇÃO: 23 - Atraso: 16086
+
+ITERAÇÃO: 24 - Atraso: 16086
+
+ITERAÇÃO: 25 - Atraso: 16086
+
+ITERAÇÃO: 26 - Atraso: 16086
+
+ITERAÇÃO: 27 - Atraso: 16086
+
+ITERAÇÃO: 28 - Atraso: 16086
+
+ITERAÇÃO: 29 - Atraso: 16086
+
+ITERAÇÃO: 30 - Atraso: 16086
+
+Atraso Máximo Iterated Greedy (IG): 16086
+Sequência de Tarefas - Solução Final IG
+336 35 331 339 301 80 14 85 104 279 6 135 18 289 145 2 318 109 291 253 309 124 12 348 55 226 302 142 68 4 193 123 346 88 61 321 186 219 347 89 151 157 174 271 324 60 300 25 24 256 311 54 214 26 34 270 323 240 79 312 228 278 169 254 297 217 49 110 281 252 125 20 32 296 97 187 43 247 257 13 181 98 220 227 156 325 71 86 17 126 51 230 294 233 40 182 1 121 317 282 67 39 195 244 210 251 345 48 178 221 75 87 22 250 249 274 332 37 280 322 3 350 50 337 173 264 105 108 320 202 179 340 103 154 65 150 53 283 183 310 263 72 239 189 293 10 59 229 41 147 330 329 171 122 141 327 205 31 261 36 269 243 199 335 153 313 209 275 5 133 16 290 15 308 246 23 168 144 184 100 140 218 255 303 143 194 113 176 64 138 155 225 47 134 107 112 277 115 306 316 295 149 146 342 222 213 259 77 58 167 245 285 304 223 21 78 248 216 235 137 273 63 344 44 234 180 117 94 334 208 258 314 341 91 188 130 207 204 38 286 197 73 7 185 268 132 177 66 70 28 212 338 159 76 241 111 172 236 116 128 99 90 237 292 298 326 201 287 127 69 129 190 315 165 333 11 299 81 42 307 9 266 95 272 349 166 164 170 57 131 343 232 192 206 119 46 114 305 93 8 265 106 203 162 136 45 191 224 238 148 319 262 83 118 96 284 158 52 29 120 163 62 211 260 242 200 27 33 328 175 82 215 288 30 92 160 231 267 139 196 19 198 102 161 101 84 152 56 276 74 
+Tempo: 575.733 segundos

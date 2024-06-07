@@ -1,0 +1,117 @@
+
+Calculando TP
+TP calculada
+Sequência de Tarefas - Solução Inicial EDD
+Atraso Máximo da solução inicial EDD: 9566.41
+
+Sequência de Tarefas - Solução Inicial Tempos Medios
+Atraso Máximo da solução inicial Tempos Medios: 9020.89
+
+ITERAÇÃO: 1 - Atraso: 9020.89
+
+ITERAÇÃO: 1 - Atraso: 8717.07
+
+ITERAÇÃO: 1 - Atraso: 8654.42
+
+ITERAÇÃO: 1 - Atraso: 8521.91
+
+ITERAÇÃO: 1 - Atraso: 8494.25
+
+ITERAÇÃO: 2 - Atraso: 8494.25
+
+ITERAÇÃO: 1 - Atraso: 8445.38
+
+ITERAÇÃO: 1 - Atraso: 8368.51
+
+ITERAÇÃO: 1 - Atraso: 8321.47
+
+ITERAÇÃO: 1 - Atraso: 8247.54
+
+ITERAÇÃO: 1 - Atraso: 8114.78
+
+ITERAÇÃO: 2 - Atraso: 8114.78
+
+ITERAÇÃO: 3 - Atraso: 8114.78
+
+ITERAÇÃO: 1 - Atraso: 8087.47
+
+ITERAÇÃO: 2 - Atraso: 8087.47
+
+ITERAÇÃO: 3 - Atraso: 8087.47
+
+ITERAÇÃO: 4 - Atraso: 8087.47
+
+ITERAÇÃO: 5 - Atraso: 8087.47
+
+ITERAÇÃO: 1 - Atraso: 8067.62
+
+ITERAÇÃO: 2 - Atraso: 8067.62
+
+ITERAÇÃO: 3 - Atraso: 8067.62
+
+ITERAÇÃO: 4 - Atraso: 8067.62
+
+ITERAÇÃO: 1 - Atraso: 8030.68
+
+ITERAÇÃO: 2 - Atraso: 8030.68
+
+ITERAÇÃO: 3 - Atraso: 8030.68
+
+ITERAÇÃO: 4 - Atraso: 8030.68
+
+ITERAÇÃO: 5 - Atraso: 8030.68
+
+ITERAÇÃO: 6 - Atraso: 8030.68
+
+ITERAÇÃO: 7 - Atraso: 8030.68
+
+ITERAÇÃO: 8 - Atraso: 8030.68
+
+ITERAÇÃO: 9 - Atraso: 8030.68
+
+ITERAÇÃO: 10 - Atraso: 8030.68
+
+ITERAÇÃO: 11 - Atraso: 8030.68
+
+ITERAÇÃO: 12 - Atraso: 8030.68
+
+ITERAÇÃO: 13 - Atraso: 8030.68
+
+ITERAÇÃO: 14 - Atraso: 8030.68
+
+ITERAÇÃO: 15 - Atraso: 8030.68
+
+ITERAÇÃO: 16 - Atraso: 8030.68
+
+ITERAÇÃO: 17 - Atraso: 8030.68
+
+ITERAÇÃO: 18 - Atraso: 8030.68
+
+ITERAÇÃO: 19 - Atraso: 8030.68
+
+ITERAÇÃO: 20 - Atraso: 8030.68
+
+ITERAÇÃO: 21 - Atraso: 8030.68
+
+ITERAÇÃO: 22 - Atraso: 8030.68
+
+ITERAÇÃO: 23 - Atraso: 8030.68
+
+ITERAÇÃO: 24 - Atraso: 8030.68
+
+ITERAÇÃO: 25 - Atraso: 8030.68
+
+ITERAÇÃO: 26 - Atraso: 8030.68
+
+ITERAÇÃO: 27 - Atraso: 8030.68
+
+ITERAÇÃO: 28 - Atraso: 8030.68
+
+ITERAÇÃO: 29 - Atraso: 8030.68
+
+ITERAÇÃO: 30 - Atraso: 8030.68
+
+Atraso Máximo Iterated Greedy (IG): 8030.68
+Sequência de Tarefas - Solução Final IG
+36 26 45 35 44 22 39 19 2 13 41 1 8 49 32 6 27 47 28 25 48 34 7 50 15 21 23 20 16 3 31 37 12 18 46 4 43 42 10 33 9 40 30 38 5 14 11 17 24 29 
+Tempo: 1.01669 segundos

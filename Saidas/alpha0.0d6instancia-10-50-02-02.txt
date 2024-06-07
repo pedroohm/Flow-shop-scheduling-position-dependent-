@@ -1,0 +1,107 @@
+
+Calculando TP
+TP calculada
+Sequência de Tarefas - Solução Inicial EDD
+Atraso Máximo da solução inicial EDD: 1180
+
+Sequência de Tarefas - Solução Inicial Tempos Medios
+Atraso Máximo da solução inicial Tempos Medios: 1411
+
+ITERAÇÃO: 1 - Atraso: 1411
+
+ITERAÇÃO: 1 - Atraso: 1128
+
+ITERAÇÃO: 1 - Atraso: 957
+
+ITERAÇÃO: 1 - Atraso: 937
+
+ITERAÇÃO: 2 - Atraso: 937
+
+ITERAÇÃO: 1 - Atraso: 920
+
+ITERAÇÃO: 2 - Atraso: 920
+
+ITERAÇÃO: 1 - Atraso: 889
+
+ITERAÇÃO: 1 - Atraso: 816
+
+ITERAÇÃO: 2 - Atraso: 816
+
+ITERAÇÃO: 1 - Atraso: 756
+
+ITERAÇÃO: 1 - Atraso: 730
+
+ITERAÇÃO: 1 - Atraso: 727
+
+ITERAÇÃO: 1 - Atraso: 699
+
+ITERAÇÃO: 2 - Atraso: 699
+
+ITERAÇÃO: 1 - Atraso: 666
+
+ITERAÇÃO: 1 - Atraso: 637
+
+ITERAÇÃO: 1 - Atraso: 621
+
+ITERAÇÃO: 2 - Atraso: 621
+
+ITERAÇÃO: 3 - Atraso: 621
+
+ITERAÇÃO: 4 - Atraso: 621
+
+ITERAÇÃO: 5 - Atraso: 621
+
+ITERAÇÃO: 6 - Atraso: 621
+
+ITERAÇÃO: 7 - Atraso: 621
+
+ITERAÇÃO: 8 - Atraso: 621
+
+ITERAÇÃO: 9 - Atraso: 621
+
+ITERAÇÃO: 10 - Atraso: 621
+
+ITERAÇÃO: 11 - Atraso: 621
+
+ITERAÇÃO: 12 - Atraso: 621
+
+ITERAÇÃO: 13 - Atraso: 621
+
+ITERAÇÃO: 14 - Atraso: 621
+
+ITERAÇÃO: 15 - Atraso: 621
+
+ITERAÇÃO: 16 - Atraso: 621
+
+ITERAÇÃO: 17 - Atraso: 621
+
+ITERAÇÃO: 18 - Atraso: 621
+
+ITERAÇÃO: 19 - Atraso: 621
+
+ITERAÇÃO: 20 - Atraso: 621
+
+ITERAÇÃO: 21 - Atraso: 621
+
+ITERAÇÃO: 22 - Atraso: 621
+
+ITERAÇÃO: 23 - Atraso: 621
+
+ITERAÇÃO: 24 - Atraso: 621
+
+ITERAÇÃO: 25 - Atraso: 621
+
+ITERAÇÃO: 26 - Atraso: 621
+
+ITERAÇÃO: 27 - Atraso: 621
+
+ITERAÇÃO: 28 - Atraso: 621
+
+ITERAÇÃO: 29 - Atraso: 621
+
+ITERAÇÃO: 30 - Atraso: 621
+
+Atraso Máximo Iterated Greedy (IG): 621
+Sequência de Tarefas - Solução Final IG
+24 3 37 10 17 32 46 16 13 15 20 36 50 28 11 31 14 6 27 29 49 39 18 34 45 42 12 40 4 2 23 25 1 7 44 35 38 5 43 21 26 19 41 30 22 33 48 47 9 8 
+Tempo: 0.272087 segundos

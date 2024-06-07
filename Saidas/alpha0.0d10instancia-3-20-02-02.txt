@@ -1,0 +1,101 @@
+
+Calculando TP
+TP calculada
+Sequência de Tarefas - Solução Inicial EDD
+Atraso Máximo da solução inicial EDD: 373
+
+Sequência de Tarefas - Solução Inicial Tempos Medios
+Atraso Máximo da solução inicial Tempos Medios: 440
+
+ITERAÇÃO: 1 - Atraso: 440
+
+ITERAÇÃO: 1 - Atraso: 366
+
+ITERAÇÃO: 2 - Atraso: 366
+
+ITERAÇÃO: 3 - Atraso: 366
+
+ITERAÇÃO: 4 - Atraso: 366
+
+ITERAÇÃO: 5 - Atraso: 366
+
+ITERAÇÃO: 1 - Atraso: 280
+
+ITERAÇÃO: 1 - Atraso: 275
+
+ITERAÇÃO: 1 - Atraso: 260
+
+ITERAÇÃO: 2 - Atraso: 260
+
+ITERAÇÃO: 3 - Atraso: 260
+
+ITERAÇÃO: 4 - Atraso: 260
+
+ITERAÇÃO: 5 - Atraso: 260
+
+ITERAÇÃO: 1 - Atraso: 257
+
+ITERAÇÃO: 1 - Atraso: 231
+
+ITERAÇÃO: 2 - Atraso: 231
+
+ITERAÇÃO: 3 - Atraso: 231
+
+ITERAÇÃO: 4 - Atraso: 231
+
+ITERAÇÃO: 5 - Atraso: 231
+
+ITERAÇÃO: 6 - Atraso: 231
+
+ITERAÇÃO: 7 - Atraso: 231
+
+ITERAÇÃO: 8 - Atraso: 231
+
+ITERAÇÃO: 9 - Atraso: 231
+
+ITERAÇÃO: 10 - Atraso: 231
+
+ITERAÇÃO: 11 - Atraso: 231
+
+ITERAÇÃO: 12 - Atraso: 231
+
+ITERAÇÃO: 13 - Atraso: 231
+
+ITERAÇÃO: 14 - Atraso: 231
+
+ITERAÇÃO: 15 - Atraso: 231
+
+ITERAÇÃO: 16 - Atraso: 231
+
+ITERAÇÃO: 17 - Atraso: 231
+
+ITERAÇÃO: 18 - Atraso: 231
+
+ITERAÇÃO: 19 - Atraso: 231
+
+ITERAÇÃO: 20 - Atraso: 231
+
+ITERAÇÃO: 21 - Atraso: 231
+
+ITERAÇÃO: 22 - Atraso: 231
+
+ITERAÇÃO: 23 - Atraso: 231
+
+ITERAÇÃO: 24 - Atraso: 231
+
+ITERAÇÃO: 25 - Atraso: 231
+
+ITERAÇÃO: 26 - Atraso: 231
+
+ITERAÇÃO: 27 - Atraso: 231
+
+ITERAÇÃO: 28 - Atraso: 231
+
+ITERAÇÃO: 29 - Atraso: 231
+
+ITERAÇÃO: 30 - Atraso: 231
+
+Atraso Máximo Iterated Greedy (IG): 231
+Sequência de Tarefas - Solução Final IG
+3 18 2 8 6 19 11 9 4 1 13 5 16 17 7 20 12 14 10 15 
+Tempo: 0.023488 segundos

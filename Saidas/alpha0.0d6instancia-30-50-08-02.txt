@@ -1,0 +1,119 @@
+
+Calculando TP
+TP calculada
+Sequência de Tarefas - Solução Inicial EDD
+Atraso Máximo da solução inicial EDD: 4529
+
+Sequência de Tarefas - Solução Inicial Tempos Medios
+Atraso Máximo da solução inicial Tempos Medios: 4464
+
+ITERAÇÃO: 1 - Atraso: 4464
+
+ITERAÇÃO: 1 - Atraso: 4231
+
+ITERAÇÃO: 1 - Atraso: 4115
+
+ITERAÇÃO: 1 - Atraso: 4021
+
+ITERAÇÃO: 2 - Atraso: 4021
+
+ITERAÇÃO: 1 - Atraso: 4002
+
+ITERAÇÃO: 2 - Atraso: 4002
+
+ITERAÇÃO: 3 - Atraso: 4002
+
+ITERAÇÃO: 1 - Atraso: 3999
+
+ITERAÇÃO: 2 - Atraso: 3999
+
+ITERAÇÃO: 1 - Atraso: 3919
+
+ITERAÇÃO: 1 - Atraso: 3907
+
+ITERAÇÃO: 2 - Atraso: 3907
+
+ITERAÇÃO: 3 - Atraso: 3907
+
+ITERAÇÃO: 1 - Atraso: 3899
+
+ITERAÇÃO: 1 - Atraso: 3895
+
+ITERAÇÃO: 2 - Atraso: 3895
+
+ITERAÇÃO: 3 - Atraso: 3895
+
+ITERAÇÃO: 1 - Atraso: 3871
+
+ITERAÇÃO: 2 - Atraso: 3871
+
+ITERAÇÃO: 3 - Atraso: 3871
+
+ITERAÇÃO: 4 - Atraso: 3871
+
+ITERAÇÃO: 5 - Atraso: 3871
+
+ITERAÇÃO: 1 - Atraso: 3867
+
+ITERAÇÃO: 2 - Atraso: 3867
+
+ITERAÇÃO: 3 - Atraso: 3867
+
+ITERAÇÃO: 4 - Atraso: 3867
+
+ITERAÇÃO: 5 - Atraso: 3867
+
+ITERAÇÃO: 6 - Atraso: 3867
+
+ITERAÇÃO: 7 - Atraso: 3867
+
+ITERAÇÃO: 8 - Atraso: 3867
+
+ITERAÇÃO: 9 - Atraso: 3867
+
+ITERAÇÃO: 10 - Atraso: 3867
+
+ITERAÇÃO: 11 - Atraso: 3867
+
+ITERAÇÃO: 12 - Atraso: 3867
+
+ITERAÇÃO: 13 - Atraso: 3867
+
+ITERAÇÃO: 14 - Atraso: 3867
+
+ITERAÇÃO: 15 - Atraso: 3867
+
+ITERAÇÃO: 16 - Atraso: 3867
+
+ITERAÇÃO: 17 - Atraso: 3867
+
+ITERAÇÃO: 18 - Atraso: 3867
+
+ITERAÇÃO: 19 - Atraso: 3867
+
+ITERAÇÃO: 20 - Atraso: 3867
+
+ITERAÇÃO: 21 - Atraso: 3867
+
+ITERAÇÃO: 22 - Atraso: 3867
+
+ITERAÇÃO: 23 - Atraso: 3867
+
+ITERAÇÃO: 24 - Atraso: 3867
+
+ITERAÇÃO: 25 - Atraso: 3867
+
+ITERAÇÃO: 26 - Atraso: 3867
+
+ITERAÇÃO: 27 - Atraso: 3867
+
+ITERAÇÃO: 28 - Atraso: 3867
+
+ITERAÇÃO: 29 - Atraso: 3867
+
+ITERAÇÃO: 30 - Atraso: 3867
+
+Atraso Máximo Iterated Greedy (IG): 3867
+Sequência de Tarefas - Solução Final IG
+4 14 6 41 26 33 45 25 50 36 48 8 19 12 43 29 13 27 46 22 7 24 40 31 20 21 39 23 32 15 16 44 37 9 34 35 49 18 42 17 10 2 5 11 38 30 3 47 28 1 
+Tempo: 1.02818 segundos

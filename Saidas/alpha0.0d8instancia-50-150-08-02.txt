@@ -1,0 +1,151 @@
+
+Calculando TP
+TP calculada
+Sequência de Tarefas - Solução Inicial EDD
+Atraso Máximo da solução inicial EDD: 11378
+
+Sequência de Tarefas - Solução Inicial Tempos Medios
+Atraso Máximo da solução inicial Tempos Medios: 11761
+
+ITERAÇÃO: 1 - Atraso: 11761
+
+ITERAÇÃO: 1 - Atraso: 11427
+
+ITERAÇÃO: 1 - Atraso: 11204
+
+ITERAÇÃO: 1 - Atraso: 10934
+
+ITERAÇÃO: 1 - Atraso: 10826
+
+ITERAÇÃO: 1 - Atraso: 10737
+
+ITERAÇÃO: 1 - Atraso: 10676
+
+ITERAÇÃO: 1 - Atraso: 10569
+
+ITERAÇÃO: 2 - Atraso: 10569
+
+ITERAÇÃO: 1 - Atraso: 10549
+
+ITERAÇÃO: 1 - Atraso: 10540
+
+ITERAÇÃO: 2 - Atraso: 10540
+
+ITERAÇÃO: 1 - Atraso: 10525
+
+ITERAÇÃO: 1 - Atraso: 10506
+
+ITERAÇÃO: 1 - Atraso: 10466
+
+ITERAÇÃO: 1 - Atraso: 10462
+
+ITERAÇÃO: 2 - Atraso: 10462
+
+ITERAÇÃO: 1 - Atraso: 10454
+
+ITERAÇÃO: 1 - Atraso: 10444
+
+ITERAÇÃO: 1 - Atraso: 10443
+
+ITERAÇÃO: 1 - Atraso: 10415
+
+ITERAÇÃO: 1 - Atraso: 10395
+
+ITERAÇÃO: 2 - Atraso: 10395
+
+ITERAÇÃO: 1 - Atraso: 10371
+
+ITERAÇÃO: 1 - Atraso: 10365
+
+ITERAÇÃO: 1 - Atraso: 10356
+
+ITERAÇÃO: 1 - Atraso: 10352
+
+ITERAÇÃO: 1 - Atraso: 10351
+
+ITERAÇÃO: 2 - Atraso: 10351
+
+ITERAÇÃO: 1 - Atraso: 10337
+
+ITERAÇÃO: 1 - Atraso: 10328
+
+ITERAÇÃO: 1 - Atraso: 10222
+
+ITERAÇÃO: 2 - Atraso: 10222
+
+ITERAÇÃO: 1 - Atraso: 10217
+
+ITERAÇÃO: 1 - Atraso: 10202
+
+ITERAÇÃO: 1 - Atraso: 10183
+
+ITERAÇÃO: 1 - Atraso: 10153
+
+ITERAÇÃO: 1 - Atraso: 10108
+
+ITERAÇÃO: 2 - Atraso: 10108
+
+ITERAÇÃO: 1 - Atraso: 10093
+
+ITERAÇÃO: 2 - Atraso: 10093
+
+ITERAÇÃO: 3 - Atraso: 10093
+
+ITERAÇÃO: 4 - Atraso: 10093
+
+ITERAÇÃO: 5 - Atraso: 10093
+
+ITERAÇÃO: 6 - Atraso: 10093
+
+ITERAÇÃO: 7 - Atraso: 10093
+
+ITERAÇÃO: 8 - Atraso: 10093
+
+ITERAÇÃO: 9 - Atraso: 10093
+
+ITERAÇÃO: 10 - Atraso: 10093
+
+ITERAÇÃO: 11 - Atraso: 10093
+
+ITERAÇÃO: 12 - Atraso: 10093
+
+ITERAÇÃO: 13 - Atraso: 10093
+
+ITERAÇÃO: 14 - Atraso: 10093
+
+ITERAÇÃO: 15 - Atraso: 10093
+
+ITERAÇÃO: 16 - Atraso: 10093
+
+ITERAÇÃO: 17 - Atraso: 10093
+
+ITERAÇÃO: 18 - Atraso: 10093
+
+ITERAÇÃO: 19 - Atraso: 10093
+
+ITERAÇÃO: 20 - Atraso: 10093
+
+ITERAÇÃO: 21 - Atraso: 10093
+
+ITERAÇÃO: 22 - Atraso: 10093
+
+ITERAÇÃO: 23 - Atraso: 10093
+
+ITERAÇÃO: 24 - Atraso: 10093
+
+ITERAÇÃO: 25 - Atraso: 10093
+
+ITERAÇÃO: 26 - Atraso: 10093
+
+ITERAÇÃO: 27 - Atraso: 10093
+
+ITERAÇÃO: 28 - Atraso: 10093
+
+ITERAÇÃO: 29 - Atraso: 10093
+
+ITERAÇÃO: 30 - Atraso: 10093
+
+Atraso Máximo Iterated Greedy (IG): 10093
+Sequência de Tarefas - Solução Final IG
+109 37 67 132 32 150 139 77 23 118 131 114 62 31 143 35 104 128 85 38 107 60 145 45 97 79 100 44 83 120 6 51 58 69 98 94 11 117 111 63 16 89 3 65 108 10 26 64 124 102 115 59 36 144 76 112 7 71 106 19 138 147 61 78 55 50 73 42 43 142 5 22 30 129 136 14 95 20 88 119 46 17 18 134 28 48 92 113 24 126 15 72 81 140 93 2 127 137 121 12 87 70 141 105 123 66 1 116 149 99 91 122 25 101 125 29 52 21 84 130 40 135 74 80 13 41 82 8 49 133 39 34 148 54 146 56 90 68 110 4 75 96 27 33 53 86 47 9 57 103 
+Tempo: 37.199 segundos
