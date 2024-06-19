@@ -4,154 +4,322 @@ TP calculada
 Sequência de Tarefas - Solução Inicial EDD
 Atraso Máximo da solução inicial EDD: 4383
 
-Sequência de Tarefas - Solução Inicial Tempos Medios
 Atraso Máximo da solução inicial Tempos Medios: 5285
 
 ITERAÇÃO: 1 - Atraso: 5285
 
-ITERAÇÃO: 1 - Atraso: 4823
+ITERAÇÃO: 1 - Atraso: 4837
 
-ITERAÇÃO: 1 - Atraso: 4487
+ITERAÇÃO: 1 - Atraso: 4524
 
-ITERAÇÃO: 1 - Atraso: 4210
+ITERAÇÃO: 1 - Atraso: 4264
 
-ITERAÇÃO: 1 - Atraso: 4010
+ITERAÇÃO: 1 - Atraso: 4108
 
-ITERAÇÃO: 1 - Atraso: 3871
+ITERAÇÃO: 1 - Atraso: 3902
+
+ITERAÇÃO: 1 - Atraso: 3857
+
+ITERAÇÃO: 1 - Atraso: 3766
 
 ITERAÇÃO: 1 - Atraso: 3765
 
-ITERAÇÃO: 1 - Atraso: 3738
+ITERAÇÃO: 1 - Atraso: 3696
 
-ITERAÇÃO: 1 - Atraso: 3691
+ITERAÇÃO: 1 - Atraso: 3667
 
-ITERAÇÃO: 1 - Atraso: 3688
+ITERAÇÃO: 1 - Atraso: 3540
 
-ITERAÇÃO: 1 - Atraso: 3682
+ITERAÇÃO: 1 - Atraso: 3524
 
-ITERAÇÃO: 1 - Atraso: 3631
+ITERAÇÃO: 2 - Atraso: 3524
 
-ITERAÇÃO: 1 - Atraso: 3579
+ITERAÇÃO: 3 - Atraso: 3524
 
-ITERAÇÃO: 1 - Atraso: 3496
+ITERAÇÃO: 1 - Atraso: 3502
 
-ITERAÇÃO: 1 - Atraso: 3477
+ITERAÇÃO: 1 - Atraso: 3464
 
-ITERAÇÃO: 1 - Atraso: 3446
+ITERAÇÃO: 1 - Atraso: 3445
 
-ITERAÇÃO: 1 - Atraso: 3368
+ITERAÇÃO: 2 - Atraso: 3445
 
-ITERAÇÃO: 1 - Atraso: 3334
+ITERAÇÃO: 3 - Atraso: 3445
 
-ITERAÇÃO: 2 - Atraso: 3334
+ITERAÇÃO: 4 - Atraso: 3445
 
-ITERAÇÃO: 3 - Atraso: 3334
+ITERAÇÃO: 5 - Atraso: 3445
 
-ITERAÇÃO: 1 - Atraso: 3319
+ITERAÇÃO: 6 - Atraso: 3445
 
-ITERAÇÃO: 1 - Atraso: 3290
+ITERAÇÃO: 7 - Atraso: 3445
 
-ITERAÇÃO: 2 - Atraso: 3290
+ITERAÇÃO: 1 - Atraso: 3444
 
-ITERAÇÃO: 3 - Atraso: 3290
+ITERAÇÃO: 2 - Atraso: 3444
 
-ITERAÇÃO: 4 - Atraso: 3290
+ITERAÇÃO: 1 - Atraso: 3443
 
-ITERAÇÃO: 1 - Atraso: 3256
+ITERAÇÃO: 1 - Atraso: 3327
 
-ITERAÇÃO: 2 - Atraso: 3256
+ITERAÇÃO: 1 - Atraso: 3307
 
-ITERAÇÃO: 1 - Atraso: 3228
+ITERAÇÃO: 2 - Atraso: 3307
 
-ITERAÇÃO: 2 - Atraso: 3228
+ITERAÇÃO: 3 - Atraso: 3307
 
-ITERAÇÃO: 1 - Atraso: 3222
+ITERAÇÃO: 1 - Atraso: 3278
 
-ITERAÇÃO: 2 - Atraso: 3222
+ITERAÇÃO: 2 - Atraso: 3278
 
-ITERAÇÃO: 3 - Atraso: 3222
+ITERAÇÃO: 1 - Atraso: 3273
 
-ITERAÇÃO: 1 - Atraso: 3216
+ITERAÇÃO: 1 - Atraso: 3249
 
-ITERAÇÃO: 2 - Atraso: 3216
+ITERAÇÃO: 2 - Atraso: 3249
 
-ITERAÇÃO: 1 - Atraso: 3209
+ITERAÇÃO: 3 - Atraso: 3249
 
-ITERAÇÃO: 1 - Atraso: 3122
+ITERAÇÃO: 1 - Atraso: 3214
 
-ITERAÇÃO: 1 - Atraso: 3057
+ITERAÇÃO: 1 - Atraso: 3206
 
-ITERAÇÃO: 1 - Atraso: 3025
+ITERAÇÃO: 1 - Atraso: 3167
 
-ITERAÇÃO: 2 - Atraso: 3025
+ITERAÇÃO: 2 - Atraso: 3167
 
-ITERAÇÃO: 1 - Atraso: 2984
+ITERAÇÃO: 3 - Atraso: 3167
 
-ITERAÇÃO: 1 - Atraso: 2950
+ITERAÇÃO: 1 - Atraso: 3128
 
-ITERAÇÃO: 2 - Atraso: 2950
+ITERAÇÃO: 1 - Atraso: 3118
 
-ITERAÇÃO: 1 - Atraso: 2901
+ITERAÇÃO: 1 - Atraso: 3099
 
-ITERAÇÃO: 2 - Atraso: 2901
+ITERAÇÃO: 1 - Atraso: 3064
 
-ITERAÇÃO: 3 - Atraso: 2901
+ITERAÇÃO: 2 - Atraso: 3064
 
-ITERAÇÃO: 4 - Atraso: 2901
+ITERAÇÃO: 3 - Atraso: 3064
 
-ITERAÇÃO: 5 - Atraso: 2901
+ITERAÇÃO: 4 - Atraso: 3064
 
-ITERAÇÃO: 6 - Atraso: 2901
+ITERAÇÃO: 5 - Atraso: 3064
 
-ITERAÇÃO: 7 - Atraso: 2901
+ITERAÇÃO: 6 - Atraso: 3064
 
-ITERAÇÃO: 8 - Atraso: 2901
+ITERAÇÃO: 7 - Atraso: 3064
 
-ITERAÇÃO: 9 - Atraso: 2901
+ITERAÇÃO: 8 - Atraso: 3064
 
-ITERAÇÃO: 10 - Atraso: 2901
+ITERAÇÃO: 9 - Atraso: 3064
 
-ITERAÇÃO: 11 - Atraso: 2901
+ITERAÇÃO: 10 - Atraso: 3064
 
-ITERAÇÃO: 12 - Atraso: 2901
+ITERAÇÃO: 11 - Atraso: 3064
 
-ITERAÇÃO: 13 - Atraso: 2901
+ITERAÇÃO: 12 - Atraso: 3064
 
-ITERAÇÃO: 14 - Atraso: 2901
+ITERAÇÃO: 13 - Atraso: 3064
 
-ITERAÇÃO: 15 - Atraso: 2901
+ITERAÇÃO: 14 - Atraso: 3064
 
-ITERAÇÃO: 16 - Atraso: 2901
+ITERAÇÃO: 15 - Atraso: 3064
 
-ITERAÇÃO: 17 - Atraso: 2901
+ITERAÇÃO: 16 - Atraso: 3064
 
-ITERAÇÃO: 18 - Atraso: 2901
+ITERAÇÃO: 17 - Atraso: 3064
 
-ITERAÇÃO: 19 - Atraso: 2901
+ITERAÇÃO: 18 - Atraso: 3064
 
-ITERAÇÃO: 20 - Atraso: 2901
+ITERAÇÃO: 19 - Atraso: 3064
 
-ITERAÇÃO: 21 - Atraso: 2901
+ITERAÇÃO: 20 - Atraso: 3064
 
-ITERAÇÃO: 22 - Atraso: 2901
+ITERAÇÃO: 21 - Atraso: 3064
 
-ITERAÇÃO: 23 - Atraso: 2901
+ITERAÇÃO: 22 - Atraso: 3064
 
-ITERAÇÃO: 24 - Atraso: 2901
+ITERAÇÃO: 23 - Atraso: 3064
 
-ITERAÇÃO: 25 - Atraso: 2901
+ITERAÇÃO: 24 - Atraso: 3064
 
-ITERAÇÃO: 26 - Atraso: 2901
+ITERAÇÃO: 25 - Atraso: 3064
 
-ITERAÇÃO: 27 - Atraso: 2901
+ITERAÇÃO: 26 - Atraso: 3064
 
-ITERAÇÃO: 28 - Atraso: 2901
+ITERAÇÃO: 27 - Atraso: 3064
 
-ITERAÇÃO: 29 - Atraso: 2901
+ITERAÇÃO: 28 - Atraso: 3064
 
-ITERAÇÃO: 30 - Atraso: 2901
+ITERAÇÃO: 29 - Atraso: 3064
 
-Atraso Máximo Iterated Greedy (IG): 2901
-Sequência de Tarefas - Solução Final IG
-106 83 24 84 8 58 119 78 133 129 38 39 85 118 16 89 76 97 22 130 142 23 93 138 5 143 127 81 63 27 131 146 80 55 18 77 25 108 19 20 41 48 70 66 112 36 86 54 105 75 91 124 134 4 100 82 144 14 30 29 64 57 32 102 3 116 88 109 90 50 140 40 53 13 128 47 123 126 62 2 122 61 117 139 52 96 34 148 6 110 31 11 94 73 72 98 33 7 15 12 147 132 141 137 46 101 21 26 49 104 65 92 59 115 9 17 71 95 113 45 37 136 67 51 43 103 87 125 107 150 10 120 149 56 1 114 60 121 135 44 145 79 35 74 28 111 99 68 69 42 
-Tempo: 22.3648 segundos
+ITERAÇÃO: 30 - Atraso: 3064
+
+Atraso Máximo Iterated Greedy (IG): 3064
+Sequência de Tarefas - Solução Final IGA
+106 16 123 39 99 9 84 1 138 78 27 113 11 146 121 38 119 118 31 55 34 63 96 22 132 23 97 24 57 116 59 147 104 71 54 36 95 43 53 12 30 20 82 100 50 70 83 52 15 2 32 45 44 149 19 29 144 13 18 145 47 64 129 133 92 141 131 142 21 5 86 101 88 110 65 98 105 112 17 61 107 115 103 114 124 73 76 4 68 6 46 89 102 126 109 120 25 139 111 135 14 33 136 56 7 75 41 3 77 128 58 8 81 67 117 148 143 51 37 72 94 62 140 137 87 10 48 66 130 90 49 93 42 80 85 108 26 125 150 69 40 74 60 35 28 79 91 122 127 134 Iniciando Busca Local modo: 1
+
+Sequencia inicial 1 -> 3064
+Melhor vizinho: 3012
+
+Sequencia inicial 2 -> 3012
+Melhor vizinho: 3007
+
+Sequencia inicial 3 -> 3007
+Melhor vizinho: 3000
+
+Sequencia inicial 4 -> 3000
+Melhor vizinho: 2998
+
+Sequencia inicial 5 -> 2998
+Melhor vizinho: 2989
+
+Sequencia inicial 6 -> 2989
+Melhor vizinho: 2985
+
+Sequencia inicial 7 -> 2985
+Melhor vizinho: 2982
+
+Sequencia inicial 8 -> 2982
+Melhor vizinho: 2977
+
+Sequencia inicial 9 -> 2977
+Melhor vizinho: 2974
+
+Sequencia inicial 10 -> 2974
+Melhor vizinho: 2964
+
+Sequencia inicial 11 -> 2964
+Melhor vizinho: 2963
+
+Sequencia inicial 12 -> 2963
+Melhor vizinho: 2961
+
+Sequencia inicial 13 -> 2961
+Melhor vizinho: 2957
+
+Sequencia inicial 14 -> 2957
+Melhor vizinho: 2956
+
+Sequencia inicial 15 -> 2956
+Melhor vizinho: 2954
+
+Sequencia inicial 16 -> 2954
+Melhor vizinho: 2952
+
+Sequencia inicial 17 -> 2952
+Melhor vizinho: 2948
+
+Sequencia inicial 18 -> 2948
+Melhor vizinho: 2944
+
+Sequencia inicial 19 -> 2944
+Melhor vizinho: 2940
+
+Sequencia inicial 20 -> 2940
+Melhor vizinho: 2937
+
+Sequencia inicial 21 -> 2937
+Melhor vizinho: 2936
+
+Sequencia inicial 22 -> 2936
+Melhor vizinho: 2929
+
+Sequencia inicial 23 -> 2929
+Melhor vizinho: 2928
+
+Sequencia inicial 24 -> 2928
+Melhor vizinho: 2926
+
+Sequencia inicial 25 -> 2926
+Melhor vizinho: 2919
+
+Sequencia inicial 26 -> 2919
+Melhor vizinho: 2918
+
+Sequencia inicial 27 -> 2918
+Melhor vizinho: 2913
+
+Sequencia inicial 28 -> 2913
+Melhor vizinho: 2908
+
+Sequencia inicial 29 -> 2908
+Melhor vizinho: 2902
+
+Sequencia inicial 30 -> 2902
+Melhor vizinho: 2896
+
+Sequencia inicial 31 -> 2896
+Melhor vizinho: 2890
+
+Sequencia inicial 32 -> 2890
+Melhor vizinho: 2888
+
+Sequencia inicial 33 -> 2888
+Melhor vizinho: 2887
+
+Sequencia inicial 34 -> 2887
+Melhor vizinho: 2886
+
+Sequencia inicial 35 -> 2886
+Melhor vizinho: 2881
+
+Sequencia inicial 36 -> 2881
+Melhor vizinho: 2870
+
+Sequencia inicial 37 -> 2870
+Melhor vizinho: 2869
+
+Sequencia inicial 38 -> 2869
+Melhor vizinho: 2868
+
+Sequencia inicial 39 -> 2868
+Melhor vizinho: 2866
+
+Sequencia inicial 40 -> 2866
+Melhor vizinho: 2855
+
+Sequencia inicial 41 -> 2855
+Melhor vizinho: 2853
+
+Sequencia inicial 42 -> 2853
+Melhor vizinho: 2850
+
+Sequencia inicial 43 -> 2850
+Melhor vizinho: 2847
+
+Sequencia inicial 44 -> 2847
+Melhor vizinho: 2844
+
+Sequencia inicial 45 -> 2844
+Melhor vizinho: 2841
+
+Sequencia inicial 46 -> 2841
+Melhor vizinho: 2840
+
+Sequencia inicial 47 -> 2840
+Melhor vizinho: 2839
+
+Sequencia inicial 48 -> 2839
+Melhor vizinho: 2833
+
+Sequencia inicial 49 -> 2833
+Melhor vizinho: 2832
+
+Sequencia inicial 50 -> 2832
+Melhor vizinho: 2830
+
+Sequencia inicial 51 -> 2830
+Melhor vizinho: 2828
+
+Sequencia inicial 52 -> 2828
+Melhor vizinho: 2826
+
+Sequencia inicial 53 -> 2826
+Melhor vizinho: 2825
+
+Sequencia inicial 54 -> 2825
+Atraso Máximo Iterated Greedy with Local Search 1 (IGA - LS1): 2825
+Sequência de Tarefas - Solução Final IGA Local Search 1
+106 84 16 123 99 9 39 1 78 11 118 38 119 138 27 24 31 146 63 96 22 97 34 121 55 57 116 104 147 59 23 71 54 36 95 30 20 15 82 83 100 50 70 45 142 2 52 5 32 44 149 19 29 144 53 13 18 145 47 64 129 133 92 141 113 131 21 86 101 88 132 65 98 105 112 17 61 107 115 103 12 114 124 73 76 4 6 43 46 89 126 102 109 120 110 25 139 111 135 14 33 136 56 7 75 41 3 77 128 58 8 81 67 117 148 143 51 37 72 94 62 140 137 87 10 48 66 130 90 49 93 42 80 108 85 26 150 125 40 74 60 35 28 79 91 122 127 134 68 69 

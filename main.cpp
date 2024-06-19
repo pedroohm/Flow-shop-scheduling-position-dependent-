@@ -137,15 +137,19 @@ std::pair<std::vector<int>, double> destructConstruct(std::vector<int> &sequenci
     return std::make_pair(sequencia, menorAtraso);
 }
 
-std::pair<std::vector<int>, double> generateNeighbors(const std::vector<int> &sequencia, double melhorAtraso, int n, int m, std::vector<std::vector<double>> &completionTime, const std::vector<int> &dueDates, const std::vector<std::vector<int>> &processingTimes, const std::vector<std::vector<std::vector<double>>> &TP){
+std::pair<std::vector<int>, double> generateNeighbors(const std::vector<int> &sequencia, double melhorAtraso, int n, int m, std::vector<std::vector<double>> &completionTime, const std::vector<int> &dueDates, const std::vector<std::vector<int>> &processingTimes, const std::vector<std::vector<std::vector<double>>> &TP, bool primeiroMelhor = false){
     std::vector<int> vizinho(n);
     std::vector<int> melhorVizinho(n, 0); // Inicialize com uma sequência inválida
     double melhorAtrasoVizinho = melhorAtraso;
     int distancia;
     double atraso;
 
+    /*
     if (n<50) distancia = n/2;
-    else distancia = n/4; 
+    else distancia = n/4;
+    */
+
+   distancia = n/2;
 
     //std::cout << "\nVizinhos:\n";
 
@@ -177,6 +181,11 @@ std::pair<std::vector<int>, double> generateNeighbors(const std::vector<int> &se
                 if (atraso < melhorAtrasoVizinho){
                     melhorVizinho = vizinho;
                     melhorAtrasoVizinho = atraso;
+
+                    //Primeiro melhor
+                    if (primeiroMelhor){
+                    return std::make_pair(melhorVizinho, melhorAtrasoVizinho);
+                    }
                 }                
             }            
         }
@@ -186,13 +195,22 @@ std::pair<std::vector<int>, double> generateNeighbors(const std::vector<int> &se
     return std::make_pair(melhorVizinho, melhorAtrasoVizinho);
 }
 
-std::pair<std::vector<int>, double> buscaLocal(std::vector<int> &sequencia, double melhorAtraso, int n, int m, std::vector<std::vector<double>> &completionTime, std::vector<int> dueDates, const std::vector<std::vector<int>> &processingTimes, const std::vector<std::vector<std::vector<double>>> &TP){
+// se MODO = 1, a busca local utilizará o primeiro melhor vizinho
+std::pair<std::vector<int>, double> buscaLocal(std::vector<int> &sequencia, double melhorAtraso, int n, int m, std::vector<std::vector<double>> &completionTime, std::vector<int> dueDates, const std::vector<std::vector<int>> &processingTimes, const std::vector<std::vector<std::vector<double>>> &TP, int MODO = 0){
+    std::cout << "Iniciando Busca Local modo: " << MODO << "\n";
+
     bool melhora = true;
     //std::cout << "\nEntrando na Busca Local com atraso = " << melhorAtraso;
     int i=1;
     while(melhora){
         melhora = false;
-        std::pair<std::vector<int>, double> sequenciaTmax = generateNeighbors(sequencia, melhorAtraso, n, m, completionTime, dueDates, processingTimes, TP);
+        std::pair<std::vector<int>, double> sequenciaTmax;
+        if (MODO == 0){
+            sequenciaTmax = generateNeighbors(sequencia, melhorAtraso, n, m, completionTime, dueDates, processingTimes, TP);
+        }
+        else {
+            sequenciaTmax = generateNeighbors(sequencia, melhorAtraso, n, m, completionTime, dueDates, processingTimes, TP, true);
+        }
         std::cout << "\nSequencia inicial " << i++;
         //imprimeSequencia(sequencia);
         std::cout << " -> " << melhorAtraso;
@@ -204,11 +222,10 @@ std::pair<std::vector<int>, double> buscaLocal(std::vector<int> &sequencia, doub
             std::cout << "\nMelhor vizinho: " << melhorAtraso << "\n";
         }
     }
-    //std::cout << "\nSaindo da Busca Local com atraso = " << melhorAtraso;
     return std::make_pair(sequencia, melhorAtraso);
 }
 
-std::pair<std::vector<int>, double> iteratedGreedy(std::vector<int> initialSolution, double atrasoInicialSolution, int n, int m, int d, double alpha, std::vector<std::vector<double>> &completionTime, std::vector<int> dueDates, const std::vector<std::vector<int>> &processingTimes, const std::vector<std::vector<std::vector<double>>> &TP){
+std::pair<std::vector<int>, double> iteratedGreedy(std::vector<int> initialSolution, double atrasoInicialSolution, int n, int m, int d, double alpha, std::vector<std::vector<double>> &completionTime, std::vector<int> dueDates, const std::vector<std::vector<int>> &processingTimes, const std::vector<std::vector<std::vector<double>>> &TP, int modoLS){
     std::vector<int> pi0(initialSolution);
     double atrasoPi0 = atrasoInicialSolution;
 
@@ -217,7 +234,7 @@ std::pair<std::vector<int>, double> iteratedGreedy(std::vector<int> initialSolut
     double atrasoPi = sequenceTmaxPi.second;
 
     int i = 0;
-    while (i<20){
+    while (i<30){
         i++;
         std::cout << "\nITERAÇÃO: " << i << " - Atraso: " << atrasoPi << "\n";
 
@@ -226,7 +243,7 @@ std::pair<std::vector<int>, double> iteratedGreedy(std::vector<int> initialSolut
         std::vector<int> pi1(sequenceTmaxPi1.first);
         double atrasoPi1 = sequenceTmaxPi1.second;
 
-        std::pair<std::vector<int>, double> sequenceTmaxPi2 = buscaLocal(pi1, atrasoPi1, n, m, completionTime, dueDates, processingTimes, TP);
+        std::pair<std::vector<int>, double> sequenceTmaxPi2 = buscaLocal(pi1, atrasoPi1, n, m, completionTime, dueDates, processingTimes, TP, modoLS);
         std::vector<int> pi2(sequenceTmaxPi2.first);
         double atrasoPi2 = sequenceTmaxPi2.second;
         
@@ -269,12 +286,14 @@ std::pair<std::vector<int>, double> iteratedGreedyWhitoutLocalSearch(std::vector
 }
 
 int main(int argc, char *argv[]){
-    if (argc < 3) {
-        std::cerr << "Insira alpha <valor_double> e a porcentagem de tarefas a serem removidas em destructConstruct <valor_double>" << std::endl;
+    if (argc < 4) {
+        std::cerr << "Insira alpha <double>, a quantidade de tarefas a serem removidas em destructConstruct <int> e o nome do arquivo que serão salvos os testes <string>" << std::endl;
         return 1;
     }
 
-    std::ofstream arquivo("teste.csv", std::ios::out | std::ios::app);
+    std::string nomeArquivo = argv[3];
+
+    std::ofstream arquivo(nomeArquivo, std::ios::out | std::ios::app);
     if (!arquivo.is_open()) {
         std::cerr << "Erro ao abrir o arquivo!" << std::endl;
         return 1;
@@ -323,7 +342,7 @@ int main(int argc, char *argv[]){
     calculaTP(n, m, processingTimes, TP, alpha);
     std::cout << "\nTP calculada";
 
-    //-------------------------------------------------------//
+    //------------------EDD-------------------------//
     //  Definindo uma solução inicial (pi0) para o problema EDD
     //Calculando a média de todos os tempos das tarefas em todas as máquinas
     std::vector<std::pair<double, int>> temposMedios(n, std::pair<double, int>(0.0f, 0));
@@ -352,10 +371,13 @@ int main(int argc, char *argv[]){
     auto end = std::chrono::high_resolution_clock::now();
     std::chrono::duration<double> elapsed_seconds = end-start;
     
-    arquivo << atraso_maximo << "," << elapsed_seconds.count() << ",";
+    if (m > 10) {
+        arquivo << atraso_maximo << "," << elapsed_seconds.count()/60 << ",";
+    } else {
+        arquivo << atraso_maximo << "," << elapsed_seconds.count() << ",";
+    }
 
-    //-------------------------------------------------------//
-    //                  Utilizando as médias
+    //-----------------MÉDIAS-------------------//  
     start = std::chrono::high_resolution_clock::now();
     //P == 0 -> Ordem crescente de dueDates EDD, P == 1 -> Ordenado pela média de dueDates
     temposMedios = ordemTarefas(n, m, dueDates, processingTimes, 1);
@@ -367,19 +389,19 @@ int main(int argc, char *argv[]){
     }
 
     calculaCompletionTime(n, m, solucao, TP, compTime);
-    std::cout<<"\nSequência de Tarefas - Solução Inicial Tempos Medios";
-    //imprimeSequencia(solucao);
     //Calculo do atraso máximo para a solução inicial
     atraso_maximo = atrasoMaximo(n, m, solucao, compTime, dueDates);
     std::cout << "\nAtraso Máximo da solução inicial Tempos Medios: " << atraso_maximo << "\n";
 
     end = std::chrono::high_resolution_clock::now();
     elapsed_seconds = end-start;
-    
-    arquivo << atraso_maximo << "," << elapsed_seconds.count() << ",";
+    if (m > 10) {
+        arquivo << atraso_maximo << "," << elapsed_seconds.count()/60 << ",";
+    } else {
+        arquivo << atraso_maximo << "," << elapsed_seconds.count() << ",";
+    }
 
-    //-------------------------------------------------------//
-    //                  Iterated Greedy Algorithm
+    //----------------Iterated Greedy Algorithm-------------------//            
     start = std::chrono::high_resolution_clock::now(); // reinicia a contagem para o IGA
 
     std::vector<int> piBest;
@@ -392,18 +414,42 @@ int main(int argc, char *argv[]){
     end = std::chrono::high_resolution_clock::now();
     elapsed_seconds = end-start;
     
-    arquivo << atrasoPiBest << "," << elapsed_seconds.count()/60 << "\n";
+    // se existir mais de 10 máquinas, o tempo será em minutos, como no artigo base
+    if (m > 10) {
+        arquivo << atrasoPiBest << "," << elapsed_seconds.count()/60 << ",";
+    } else {
+        arquivo << atrasoPiBest << "," << elapsed_seconds.count() << ",";
+    }
 
     std::cout << "\nAtraso Máximo Iterated Greedy (IG): "<< atrasoPiBest;
-    std::cout << "\nSequência de Tarefas - Solução Final IG";
+    std::cout << "\nSequência de Tarefas - Solução Final IGA";
     imprimeSequencia(piBest);
+    // -------------------------------------------------------//
 
-    //-------------------------------------------------------//
-    auto stop = std::chrono::high_resolution_clock::now();
-    auto duration = std::chrono::duration_cast<std::chrono::microseconds>(stop - init);
- 
-    std::cout << "\nTempo: " << duration.count()/1000000.0 << " segundos\n";
-    //-------------------------------------------------------//
+    //------------Iterated Greedy Algorithm With Local Search 1° Best----------------//            
+    start = std::chrono::high_resolution_clock::now(); // reinicia a contagem para o IGA-LS1
+
+    // MODO = 0 -> busca local com o melhor vizinho, MODO = 1 -> busca local com o primeiro melhor vizinho
+    sequenceTmax = buscaLocal(piBest, atrasoPiBest, n, m, compTime, dueDates, processingTimes, TP, 1);
+
+    piBest = sequenceTmax.first;
+    atrasoPiBest = sequenceTmax.second;
+    
+    end = std::chrono::high_resolution_clock::now();
+    elapsed_seconds = end-start;
+    
+    // se existir mais de 10 máquinas, o tempo será em minutos, como no artigo base
+    if (m > 10) {
+        arquivo << atrasoPiBest << "," << elapsed_seconds.count()/60 << "\n";
+    } else {
+        arquivo << atrasoPiBest << "," << elapsed_seconds.count() << "\n";
+    }
+
+    std::cout << "\nAtraso Máximo Iterated Greedy with Local Search 1 (IGA - LS1): "<< atrasoPiBest;
+    std::cout << "\nSequência de Tarefas - Solução Final IGA Local Search 1";
+    imprimeSequencia(piBest);
+    // -------------------------------------------------------//
+
     
     arquivo.close();
     return 0;

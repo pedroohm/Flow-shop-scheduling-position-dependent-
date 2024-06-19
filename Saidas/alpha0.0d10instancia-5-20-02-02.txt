@@ -4,22 +4,55 @@ TP calculada
 Sequência de Tarefas - Solução Inicial EDD
 Atraso Máximo da solução inicial EDD: 353
 
-Sequência de Tarefas - Solução Inicial Tempos Medios
 Atraso Máximo da solução inicial Tempos Medios: 554
 
 ITERAÇÃO: 1 - Atraso: 554
 
-ITERAÇÃO: 1 - Atraso: 382
+ITERAÇÃO: 1 - Atraso: 392
 
-ITERAÇÃO: 2 - Atraso: 382
+ITERAÇÃO: 1 - Atraso: 343
 
-ITERAÇÃO: 1 - Atraso: 224
+ITERAÇÃO: 2 - Atraso: 343
 
-ITERAÇÃO: 2 - Atraso: 224
+ITERAÇÃO: 3 - Atraso: 343
 
-ITERAÇÃO: 1 - Atraso: 222
+ITERAÇÃO: 4 - Atraso: 343
 
-ITERAÇÃO: 2 - Atraso: 222
+ITERAÇÃO: 1 - Atraso: 244
+
+ITERAÇÃO: 1 - Atraso: 217
+
+ITERAÇÃO: 2 - Atraso: 217
+
+ITERAÇÃO: 3 - Atraso: 217
+
+ITERAÇÃO: 1 - Atraso: 204
+
+ITERAÇÃO: 2 - Atraso: 204
+
+ITERAÇÃO: 3 - Atraso: 204
+
+ITERAÇÃO: 4 - Atraso: 204
+
+ITERAÇÃO: 5 - Atraso: 204
+
+ITERAÇÃO: 6 - Atraso: 204
+
+ITERAÇÃO: 7 - Atraso: 204
+
+ITERAÇÃO: 8 - Atraso: 204
+
+ITERAÇÃO: 9 - Atraso: 204
+
+ITERAÇÃO: 10 - Atraso: 204
+
+ITERAÇÃO: 11 - Atraso: 204
+
+ITERAÇÃO: 12 - Atraso: 204
+
+ITERAÇÃO: 13 - Atraso: 204
+
+ITERAÇÃO: 14 - Atraso: 204
 
 ITERAÇÃO: 1 - Atraso: 192
 
@@ -82,6 +115,10 @@ ITERAÇÃO: 29 - Atraso: 192
 ITERAÇÃO: 30 - Atraso: 192
 
 Atraso Máximo Iterated Greedy (IG): 192
-Sequência de Tarefas - Solução Final IG
-7 15 13 2 5 9 10 16 6 14 1 20 18 8 11 19 12 4 3 17 
-Tempo: 0.02724 segundos
+Sequência de Tarefas - Solução Final IGA
+19 6 11 10 12 9 16 8 7 1 15 13 4 14 3 20 5 2 18 17 Iniciando Busca Local modo: 1
+
+Sequencia inicial 1 -> 192
+Atraso Máximo Iterated Greedy with Local Search 1 (IGA - LS1): 192
+Sequência de Tarefas - Solução Final IGA Local Search 1
+19 6 11 10 12 9 16 8 7 1 15 13 4 14 3 20 5 2 18 17 
