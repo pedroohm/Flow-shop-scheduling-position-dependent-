@@ -1,7 +1,8 @@
-
-
 input_dir="Entradas"
 output_dir="Saidas"
+
+g++ main.cpp -o programa
+
 if [ $? -ne 0 ]; then
     echo "Erro na compilação"
     exit 1
@@ -18,12 +19,10 @@ run_tests() {
     for alpha in "${alphas[@]}"; do     
         output_file="${output_dir}/alpha${alpha}d10$(basename "$input_file")"
         echo "Inicio alpha=$alpha d=10 - time=$(date +"%T")"
-        ./programa "$alpha" 10 buscalocal.csv < "$input_file" > "$output_file"
+        ./programa "$alpha" 10 teste.csv < "$input_file" > "$output_file"
         echo "Fim alpha=$alpha d=10 - time=$(date +"%T")"
     done
 }
-
-echo "time=$(date +"%T")"
 
 # Percorre os arquivos de entrada e os ordena
 for input_file in $(ls $input_dir/*.txt | sort); do
@@ -33,11 +32,10 @@ for input_file in $(ls $input_dir/*.txt | sort); do
         num_tarefas=${BASH_REMATCH[2]}
         alpha=${BASH_REMATCH[3]}
         d=${BASH_REMATCH[4]}
-        echo "num_maquinas=$num_maquinas num_tarefas=$num_tarefas alpha=$alpha d=$d"
 
-        if (( num_tarefas > 10 )) && (( num_maquinas < 50 )); then
-            # Adiciona o arquivo ao array de instâncias grandes
-            large_instances+=("$input_file")
+        if (( num_tarefas > 10 && num_maquinas <= 5 )); then
+        # Adiciona o arquivo ao array de instâncias grandes
+        large_instances+=("$input_file")
         fi
     else
         echo "Nome de arquivo inesperado: $input_file"
