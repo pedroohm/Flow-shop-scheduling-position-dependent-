@@ -7,8 +7,10 @@ Atraso Máximo da solução inicial EDD: 995
 Atraso Máximo da solução inicial Tempos Medios: 1114
 
 ITERATED GREEDY (sem busca local).
-Iteração - Atraso1 - Atraso: 1114
+Iteração - Atraso
+1 - Atraso: 1114
 1 - Atraso: 988
+2 - Atraso: 988
 1 - Atraso: 963
 2 - Atraso: 963
 3 - Atraso: 963
@@ -17,8 +19,6 @@ Iteração - Atraso1 - Atraso: 1114
 6 - Atraso: 963
 7 - Atraso: 963
 8 - Atraso: 963
-9 - Atraso: 963
-10 - Atraso: 963
 1 - Atraso: 956
 2 - Atraso: 956
 3 - Atraso: 956
@@ -72,30 +72,407 @@ Iteração - Atraso1 - Atraso: 1114
 
 Atraso Máximo Iterated Greedy sem Busca Loca (IG): 956
 Sequência de Tarefas - Solução Final IGA sem Busca Local
-16 10 18 8 9 5 11 19 20 4 6 17 1 3 13 12 7 2 14 15 Iniciando Busca Local com o primeiro melhor vizinho.Iniciando Busca Local. Iteracoes: 1, 
-Atraso Máximo Iterated Greedy with Local Search 1 (IGA - LS1): 956
-Sequência de Tarefas - Solução Final IGA Local Search 1
-16 10 18 8 9 5 11 19 20 4 6 17 1 3 13 12 7 2 14 15 Busca Local com o melhor vizinho.Iniciando Busca Local. Iteracoes: 1, 
-Atraso Máximo  Busca Local Melhor Vizinho: 956
-Sequência de Tarefas - Solução Final IGA+LS complete:
-16 10 18 8 9 5 11 19 20 4 6 17 1 3 13 12 7 2 14 15 
+18 7 9 16 14 5 19 6 3 12 15 11 2 17 10 1 20 13 4 8 
 
 
 Iterated Greedy Algorithm:
 
 
-ITERATED GREEDY.
-Iteração - Atraso1 - Atraso: 1114
-1 - Atraso: 966
-2 - Atraso: 966
-3 - Atraso: 966
-4 - Atraso: 966
-5 - Atraso: 966
-6 - Atraso: 966
-7 - Atraso: 966
-8 - Atraso: 966
-9 - Atraso: 966
-Iniciando Busca Local com o primeiro melhor vizinho.Iniciando Busca Local. Iteracoes: 1, 1 - Atraso: 956
+ITERATED GREEDY (com busca local).
+Iteração - Atraso
+1 - Atraso: 1114
+Busca Local com o melhor vizinho.
+Iniciando Busca Local. Atraso: 966
+Procurando vizinhos com melhor atraso que: 966 
+Vizinho n° 0 -> Atraso:966
+Vizinho n° 1 -> Atraso:966
+Vizinho n° 2 -> Atraso:966
+Vizinho n° 3 -> Atraso:966
+Vizinho n° 4 -> Atraso:966
+Vizinho n° 5 -> Atraso:966
+Vizinho n° 6 -> Atraso:966
+Vizinho n° 7 -> Atraso:966
+Vizinho n° 8 -> Atraso:966
+Vizinho n° 9 -> Atraso:966
+Vizinho n° 10 -> Atraso:966
+Vizinho n° 11 -> Atraso:966
+Vizinho n° 12 -> Atraso:966
+Vizinho n° 13 -> Atraso:966
+Vizinho n° 14 -> Atraso:966
+Vizinho n° 15 -> Atraso:966
+Vizinho n° 16 -> Atraso:966
+Vizinho n° 17 -> Atraso:966
+Vizinho n° 18 -> Atraso:966
+Vizinho n° 19 -> Atraso:966
+Vizinho n° 20 -> Atraso:966
+Vizinho n° 21 -> Atraso:966
+Vizinho n° 22 -> Atraso:966
+Vizinho n° 23 -> Atraso:966
+Vizinho n° 24 -> Atraso:966
+Vizinho n° 25 -> Atraso:966
+Vizinho n° 26 -> Atraso:966
+Vizinho n° 27 -> Atraso:966
+Vizinho n° 28 -> Atraso:966
+Vizinho n° 29 -> Atraso:966
+Vizinho n° 30 -> Atraso:966
+Vizinho n° 31 -> Atraso:966
+Vizinho n° 32 -> Atraso:966
+Vizinho n° 33 -> Atraso:966
+Vizinho n° 34 -> Atraso:966
+Vizinho n° 35 -> Atraso:966
+Vizinho n° 36 -> Atraso:966
+Vizinho n° 37 -> Atraso:966
+Vizinho n° 38 -> Atraso:966
+Vizinho n° 39 -> Atraso:1007
+Vizinho n° 40 -> Atraso:966
+Vizinho n° 41 -> Atraso:966
+Vizinho n° 42 -> Atraso:966
+Vizinho n° 43 -> Atraso:966
+Vizinho n° 44 -> Atraso:966
+Vizinho n° 45 -> Atraso:966
+Vizinho n° 46 -> Atraso:966
+Vizinho n° 47 -> Atraso:966
+Vizinho n° 48 -> Atraso:966
+Vizinho n° 49 -> Atraso:966
+Vizinho n° 50 -> Atraso:966
+Vizinho n° 51 -> Atraso:966
+Vizinho n° 52 -> Atraso:966
+Vizinho n° 53 -> Atraso:966
+Vizinho n° 54 -> Atraso:966
+Vizinho n° 55 -> Atraso:966
+Vizinho n° 56 -> Atraso:966
+Vizinho n° 57 -> Atraso:986
+Vizinho n° 58 -> Atraso:992
+Vizinho n° 59 -> Atraso:966
+Vizinho n° 60 -> Atraso:970
+Vizinho n° 61 -> Atraso:986
+Vizinho n° 62 -> Atraso:986
+Vizinho n° 63 -> Atraso:986
+Vizinho n° 64 -> Atraso:966
+Vizinho n° 65 -> Atraso:966
+Vizinho n° 66 -> Atraso:966
+Vizinho n° 67 -> Atraso:966
+Vizinho n° 68 -> Atraso:966
+Vizinho n° 69 -> Atraso:966
+Vizinho n° 70 -> Atraso:966
+Vizinho n° 71 -> Atraso:966
+Vizinho n° 72 -> Atraso:966
+Vizinho n° 73 -> Atraso:966
+Vizinho n° 74 -> Atraso:966
+Vizinho n° 75 -> Atraso:966
+Vizinho n° 76 -> Atraso:966
+Vizinho n° 77 -> Atraso:966
+Vizinho n° 78 -> Atraso:994
+Vizinho n° 79 -> Atraso:1014
+Vizinho n° 80 -> Atraso:1014
+Vizinho n° 81 -> Atraso:1047
+Vizinho n° 82 -> Atraso:994
+Vizinho n° 83 -> Atraso:994
+Vizinho n° 84 -> Atraso:994
+Vizinho n° 85 -> Atraso:966
+Vizinho n° 86 -> Atraso:966
+Vizinho n° 87 -> Atraso:980
+Vizinho n° 88 -> Atraso:966
+Vizinho n° 89 -> Atraso:966
+Vizinho n° 90 -> Atraso:966
+Vizinho n° 91 -> Atraso:968
+Vizinho n° 92 -> Atraso:990
+Vizinho n° 93 -> Atraso:1048
+Vizinho n° 94 -> Atraso:1005
+Vizinho n° 95 -> Atraso:1005
+Vizinho n° 96 -> Atraso:1000
+Vizinho n° 97 -> Atraso:1006
+Vizinho n° 98 -> Atraso:990
+Vizinho n° 99 -> Atraso:994
+Vizinho n° 100 -> Atraso:966
+Vizinho n° 101 -> Atraso:966
+Vizinho n° 102 -> Atraso:1006
+Vizinho n° 103 -> Atraso:1005
+Vizinho n° 104 -> Atraso:1004
+Vizinho n° 105 -> Atraso:1004
+Vizinho n° 106 -> Atraso:966
+Vizinho n° 107 -> Atraso:966
+Vizinho n° 108 -> Atraso:1024
+Vizinho n° 109 -> Atraso:966
+Vizinho n° 110 -> Atraso:966
+Vizinho n° 111 -> Atraso:966
+Vizinho n° 112 -> Atraso:1002
+Vizinho n° 113 -> Atraso:1058
+Vizinho n° 114 -> Atraso:966
+Vizinho n° 115 -> Atraso:966
+Vizinho n° 116 -> Atraso:966
+Vizinho n° 117 -> Atraso:993
+Vizinho n° 118 -> Atraso:963
+Vizinho n° 119 -> Atraso:980
+Vizinho n° 120 -> Atraso:1038
+1, 
+Procurando vizinhos com melhor atraso que: 963 
+Vizinho n° 0 -> Atraso:963
+Vizinho n° 1 -> Atraso:963
+Vizinho n° 2 -> Atraso:963
+Vizinho n° 3 -> Atraso:963
+Vizinho n° 4 -> Atraso:963
+Vizinho n° 5 -> Atraso:963
+Vizinho n° 6 -> Atraso:963
+Vizinho n° 7 -> Atraso:963
+Vizinho n° 8 -> Atraso:963
+Vizinho n° 9 -> Atraso:963
+Vizinho n° 10 -> Atraso:963
+Vizinho n° 11 -> Atraso:963
+Vizinho n° 12 -> Atraso:963
+Vizinho n° 13 -> Atraso:963
+Vizinho n° 14 -> Atraso:963
+Vizinho n° 15 -> Atraso:963
+Vizinho n° 16 -> Atraso:963
+Vizinho n° 17 -> Atraso:963
+Vizinho n° 18 -> Atraso:963
+Vizinho n° 19 -> Atraso:963
+Vizinho n° 20 -> Atraso:963
+Vizinho n° 21 -> Atraso:963
+Vizinho n° 22 -> Atraso:963
+Vizinho n° 23 -> Atraso:963
+Vizinho n° 24 -> Atraso:963
+Vizinho n° 25 -> Atraso:963
+Vizinho n° 26 -> Atraso:963
+Vizinho n° 27 -> Atraso:963
+Vizinho n° 28 -> Atraso:963
+Vizinho n° 29 -> Atraso:963
+Vizinho n° 30 -> Atraso:963
+Vizinho n° 31 -> Atraso:963
+Vizinho n° 32 -> Atraso:963
+Vizinho n° 33 -> Atraso:963
+Vizinho n° 34 -> Atraso:963
+Vizinho n° 35 -> Atraso:963
+Vizinho n° 36 -> Atraso:963
+Vizinho n° 37 -> Atraso:964
+Vizinho n° 38 -> Atraso:963
+Vizinho n° 39 -> Atraso:1022
+Vizinho n° 40 -> Atraso:963
+Vizinho n° 41 -> Atraso:963
+Vizinho n° 42 -> Atraso:963
+Vizinho n° 43 -> Atraso:963
+Vizinho n° 44 -> Atraso:963
+Vizinho n° 45 -> Atraso:963
+Vizinho n° 46 -> Atraso:968
+Vizinho n° 47 -> Atraso:963
+Vizinho n° 48 -> Atraso:963
+Vizinho n° 49 -> Atraso:963
+Vizinho n° 50 -> Atraso:963
+Vizinho n° 51 -> Atraso:963
+Vizinho n° 52 -> Atraso:963
+Vizinho n° 53 -> Atraso:963
+Vizinho n° 54 -> Atraso:963
+Vizinho n° 55 -> Atraso:963
+Vizinho n° 56 -> Atraso:963
+Vizinho n° 57 -> Atraso:1001
+Vizinho n° 58 -> Atraso:1007
+Vizinho n° 59 -> Atraso:970
+Vizinho n° 60 -> Atraso:985
+Vizinho n° 61 -> Atraso:1001
+Vizinho n° 62 -> Atraso:1001
+Vizinho n° 63 -> Atraso:1001
+Vizinho n° 64 -> Atraso:963
+Vizinho n° 65 -> Atraso:963
+Vizinho n° 66 -> Atraso:963
+Vizinho n° 67 -> Atraso:963
+Vizinho n° 68 -> Atraso:963
+Vizinho n° 69 -> Atraso:963
+Vizinho n° 70 -> Atraso:963
+Vizinho n° 71 -> Atraso:963
+Vizinho n° 72 -> Atraso:963
+Vizinho n° 73 -> Atraso:963
+Vizinho n° 74 -> Atraso:963
+Vizinho n° 75 -> Atraso:963
+Vizinho n° 76 -> Atraso:963
+Vizinho n° 77 -> Atraso:963
+Vizinho n° 78 -> Atraso:1009
+Vizinho n° 79 -> Atraso:1029
+Vizinho n° 80 -> Atraso:1029
+Vizinho n° 81 -> Atraso:1029
+Vizinho n° 82 -> Atraso:1009
+Vizinho n° 83 -> Atraso:1009
+Vizinho n° 84 -> Atraso:1009
+Vizinho n° 85 -> Atraso:963
+Vizinho n° 86 -> Atraso:963
+Vizinho n° 87 -> Atraso:963
+Vizinho n° 88 -> Atraso:986
+Vizinho n° 89 -> Atraso:963
+Vizinho n° 90 -> Atraso:977
+Vizinho n° 91 -> Atraso:983
+Vizinho n° 92 -> Atraso:984
+Vizinho n° 93 -> Atraso:996
+Vizinho n° 94 -> Atraso:1054
+Vizinho n° 95 -> Atraso:1011
+Vizinho n° 96 -> Atraso:1000
+Vizinho n° 97 -> Atraso:1006
+Vizinho n° 98 -> Atraso:963
+Vizinho n° 99 -> Atraso:980
+Vizinho n° 100 -> Atraso:1038
+Vizinho n° 101 -> Atraso:993
+Vizinho n° 102 -> Atraso:966
+Vizinho n° 103 -> Atraso:1021
+Vizinho n° 104 -> Atraso:1005
+Vizinho n° 105 -> Atraso:1005
+Vizinho n° 106 -> Atraso:1000
+Vizinho n° 107 -> Atraso:963
+Vizinho n° 108 -> Atraso:1006
+Vizinho n° 109 -> Atraso:1019
+Vizinho n° 110 -> Atraso:1019
+Vizinho n° 111 -> Atraso:1000
+Vizinho n° 112 -> Atraso:963
+Vizinho n° 113 -> Atraso:1024
+Vizinho n° 114 -> Atraso:963
+Vizinho n° 115 -> Atraso:963
+Vizinho n° 116 -> Atraso:963
+Vizinho n° 117 -> Atraso:1040
+Vizinho n° 118 -> Atraso:995
+Vizinho n° 119 -> Atraso:995
+Vizinho n° 120 -> Atraso:995
+2, 
+Encerrando a Busca Local. Atraso: 9631 - Atraso: 963
+2 - Atraso: 963
+3 - Atraso: 963
+4 - Atraso: 963
+5 - Atraso: 963
+6 - Atraso: 963
+7 - Atraso: 963
+8 - Atraso: 963
+9 - Atraso: 963
+10 - Atraso: 963
+11 - Atraso: 963
+12 - Atraso: 963
+13 - Atraso: 963
+14 - Atraso: 963
+15 - Atraso: 963
+16 - Atraso: 963
+17 - Atraso: 963
+18 - Atraso: 963
+Busca Local com o melhor vizinho.
+Iniciando Busca Local. Atraso: 956
+Procurando vizinhos com melhor atraso que: 956 
+Vizinho n° 0 -> Atraso:956
+Vizinho n° 1 -> Atraso:956
+Vizinho n° 2 -> Atraso:956
+Vizinho n° 3 -> Atraso:956
+Vizinho n° 4 -> Atraso:956
+Vizinho n° 5 -> Atraso:956
+Vizinho n° 6 -> Atraso:956
+Vizinho n° 7 -> Atraso:956
+Vizinho n° 8 -> Atraso:956
+Vizinho n° 9 -> Atraso:956
+Vizinho n° 10 -> Atraso:956
+Vizinho n° 11 -> Atraso:956
+Vizinho n° 12 -> Atraso:956
+Vizinho n° 13 -> Atraso:956
+Vizinho n° 14 -> Atraso:956
+Vizinho n° 15 -> Atraso:956
+Vizinho n° 16 -> Atraso:956
+Vizinho n° 17 -> Atraso:956
+Vizinho n° 18 -> Atraso:956
+Vizinho n° 19 -> Atraso:956
+Vizinho n° 20 -> Atraso:956
+Vizinho n° 21 -> Atraso:956
+Vizinho n° 22 -> Atraso:956
+Vizinho n° 23 -> Atraso:956
+Vizinho n° 24 -> Atraso:956
+Vizinho n° 25 -> Atraso:956
+Vizinho n° 26 -> Atraso:956
+Vizinho n° 27 -> Atraso:956
+Vizinho n° 28 -> Atraso:956
+Vizinho n° 29 -> Atraso:956
+Vizinho n° 30 -> Atraso:956
+Vizinho n° 31 -> Atraso:956
+Vizinho n° 32 -> Atraso:956
+Vizinho n° 33 -> Atraso:956
+Vizinho n° 34 -> Atraso:956
+Vizinho n° 35 -> Atraso:956
+Vizinho n° 36 -> Atraso:956
+Vizinho n° 37 -> Atraso:956
+Vizinho n° 38 -> Atraso:956
+Vizinho n° 39 -> Atraso:956
+Vizinho n° 40 -> Atraso:956
+Vizinho n° 41 -> Atraso:956
+Vizinho n° 42 -> Atraso:956
+Vizinho n° 43 -> Atraso:956
+Vizinho n° 44 -> Atraso:956
+Vizinho n° 45 -> Atraso:956
+Vizinho n° 46 -> Atraso:956
+Vizinho n° 47 -> Atraso:956
+Vizinho n° 48 -> Atraso:956
+Vizinho n° 49 -> Atraso:956
+Vizinho n° 50 -> Atraso:956
+Vizinho n° 51 -> Atraso:956
+Vizinho n° 52 -> Atraso:956
+Vizinho n° 53 -> Atraso:956
+Vizinho n° 54 -> Atraso:956
+Vizinho n° 55 -> Atraso:956
+Vizinho n° 56 -> Atraso:956
+Vizinho n° 57 -> Atraso:956
+Vizinho n° 58 -> Atraso:956
+Vizinho n° 59 -> Atraso:956
+Vizinho n° 60 -> Atraso:990
+Vizinho n° 61 -> Atraso:956
+Vizinho n° 62 -> Atraso:956
+Vizinho n° 63 -> Atraso:956
+Vizinho n° 64 -> Atraso:956
+Vizinho n° 65 -> Atraso:956
+Vizinho n° 66 -> Atraso:993
+Vizinho n° 67 -> Atraso:976
+Vizinho n° 68 -> Atraso:956
+Vizinho n° 69 -> Atraso:956
+Vizinho n° 70 -> Atraso:956
+Vizinho n° 71 -> Atraso:956
+Vizinho n° 72 -> Atraso:956
+Vizinho n° 73 -> Atraso:956
+Vizinho n° 74 -> Atraso:956
+Vizinho n° 75 -> Atraso:956
+Vizinho n° 76 -> Atraso:956
+Vizinho n° 77 -> Atraso:956
+Vizinho n° 78 -> Atraso:956
+Vizinho n° 79 -> Atraso:956
+Vizinho n° 80 -> Atraso:956
+Vizinho n° 81 -> Atraso:956
+Vizinho n° 82 -> Atraso:956
+Vizinho n° 83 -> Atraso:956
+Vizinho n° 84 -> Atraso:956
+Vizinho n° 85 -> Atraso:956
+Vizinho n° 86 -> Atraso:956
+Vizinho n° 87 -> Atraso:956
+Vizinho n° 88 -> Atraso:956
+Vizinho n° 89 -> Atraso:956
+Vizinho n° 90 -> Atraso:956
+Vizinho n° 91 -> Atraso:956
+Vizinho n° 92 -> Atraso:956
+Vizinho n° 93 -> Atraso:956
+Vizinho n° 94 -> Atraso:1029
+Vizinho n° 95 -> Atraso:1033
+Vizinho n° 96 -> Atraso:956
+Vizinho n° 97 -> Atraso:956
+Vizinho n° 98 -> Atraso:956
+Vizinho n° 99 -> Atraso:961
+Vizinho n° 100 -> Atraso:984
+Vizinho n° 101 -> Atraso:1003
+Vizinho n° 102 -> Atraso:1047
+Vizinho n° 103 -> Atraso:961
+Vizinho n° 104 -> Atraso:961
+Vizinho n° 105 -> Atraso:961
+Vizinho n° 106 -> Atraso:956
+Vizinho n° 107 -> Atraso:956
+Vizinho n° 108 -> Atraso:981
+Vizinho n° 109 -> Atraso:956
+Vizinho n° 110 -> Atraso:976
+Vizinho n° 111 -> Atraso:959
+Vizinho n° 112 -> Atraso:987
+Vizinho n° 113 -> Atraso:966
+Vizinho n° 114 -> Atraso:987
+Vizinho n° 115 -> Atraso:987
+Vizinho n° 116 -> Atraso:987
+Vizinho n° 117 -> Atraso:967
+Vizinho n° 118 -> Atraso:984
+Vizinho n° 119 -> Atraso:984
+Vizinho n° 120 -> Atraso:984
+1, 
+Encerrando a Busca Local. Atraso: 9561 - Atraso: 956
 2 - Atraso: 956
 3 - Atraso: 956
 4 - Atraso: 956
@@ -145,7 +522,8 @@ Iniciando Busca Local com o primeiro melhor vizinho.Iniciando Busca Local. Itera
 48 - Atraso: 956
 49 - Atraso: 956
 50 - Atraso: 956
+Foram feitas 2
 
 Atraso Máximo IGA completo: 956
 Sequência de Tarefas - Solução Final IGA completo:
-11 12 14 19 7 5 17 18 8 1 9 6 2 15 4 10 3 13 16 20 
+17 8 13 11 2 10 3 1 18 14 5 7 15 12 20 6 19 16 4 9 

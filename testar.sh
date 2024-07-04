@@ -1,9 +1,3 @@
-#!/bin/bash
-
-# Compilando o programa
-date
-
-g++ main.cpp -o programa
-
+echo "Data e hora atual: $(date +"%T")"
 
 ./testeBuscaLocal.sh
