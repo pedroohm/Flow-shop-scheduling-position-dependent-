@@ -438,7 +438,7 @@ int main(int argc, char *argv[]){
 
     std::pair<std::vector<int>, double> sequenceTmax;
     
-    /*
+    
     
     //----------------Iterated Greedy Algorithm Without Local Search-------------------//            
     start = std::chrono::high_resolution_clock::now(); // reinicia a contagem para o IGA
@@ -462,7 +462,7 @@ int main(int argc, char *argv[]){
     imprimeSequencia(piBest);
     // -------------------------------------------------------//
 
-    
+    /*
     //------------Local Search with 1° Best on IGA----------------//            
     start = std::chrono::high_resolution_clock::now(); // reinicia a contagem para o IGA-LS1
 
@@ -504,7 +504,7 @@ int main(int argc, char *argv[]){
     // -------------------------------------------------------//
 
     
-    */
+    
 
     //------------IGA completo com melhor vizinho ----------------// 
     std::cout << "\n\n\nIterated Greedy Algorithm:\n\n";           
@@ -524,7 +524,7 @@ int main(int argc, char *argv[]){
     std::cout << "\nSequência de Tarefas - Solução Final IGA completo:";
     imprimeSequencia(sequenceTmax.first);
     // -------------------------------------------------------//
-    
+    */
     
 
 

@@ -3,14 +3,15 @@
 # Diretórios de entrada, saída e planilhas
 input_dir="Entradas"
 output_dir="Saidas"
-planilhas_dir="Experimentos_Dir"
+planilhas_dir="igaPuro/NovoTeste02"
 
 # Compila o programa
-g++ main.cpp -o programa
+g++ iga.cpp -o testeIGA
 if [ $? -ne 0 ]; then
     echo "Erro na compilação"
     exit 1
 fi
+
 
 date
 
@@ -18,21 +19,17 @@ date
 large_instances=()
 planilhas=()
 
-# Função para executar o programa com diferentes valores de alpha e d
 run_tests() {
     local input_file=$1
     local planilha=$2
-    local alphas=(0.0 0.2 0.8)
-    #local destructs=(10 12 14)
     local d=10
 
-    for alpha in "${alphas[@]}"; do
-        local output_file="${output_dir}/alpha${alpha}d${d}_$(basename "$input_file")_$(basename "$planilha").txt"
-        echo "Inicio alpha=$alpha d=$d - time=$(date +"%T")"
-        ./programa "$alpha" 10 "$planilha" < "$input_file" > "$output_file"
-        echo "Fim alpha=$alpha d=$d - time=$(date +"%T")"
-    done
+    local output_file="${output_dir}/alpha${alpha}d${d}_$(basename "$input_file")_$(basename "$planilha").txt"
+    ./testeIGA 0.2 10 "$planilha" < "$input_file" > "$output_file"
 }
+
+# Função para executar o programa com diferentes valores de alpha e d
+
 
 # Percorre os arquivos de entrada e os ordena
 for input_file in $(ls $input_dir/*.txt | sort); do
@@ -43,7 +40,7 @@ for input_file in $(ls $input_dir/*.txt | sort); do
         alpha=${BASH_REMATCH[3]}
         d=${BASH_REMATCH[4]}
 
-        if (( num_tarefas > 10)); then
+        if ((( num_tarefas > 10) && (num_tarefas<=20))); then
             # Adiciona o arquivo ao array de instâncias grandes
             large_instances+=("$input_file")
         fi
@@ -69,8 +66,10 @@ for planilha in "${planilhas[@]}"; do
     "
     date
     for input_file in "${sorted_large_instances[@]}"; do
-        echo "Testando arquivo grande: $input_file - time=$(date +"%T")"
+        echo "Testando arquivo: $input_file - time=$(date +"%T")"
         run_tests "$input_file" "$planilha"
+        #./testeIGA 0.2 10 "$planilha" < "$input_file"
+        
     done
     echo "
     

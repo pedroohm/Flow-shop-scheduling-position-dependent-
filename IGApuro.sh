@@ -2,11 +2,11 @@
 
 # Diretórios de entrada, saída e planilhas
 input_dir="Entradas"
-output_dir="Saidas"
-planilhas_dir="Experimentos_Dir"
+output_dir="igaPuro/Saidas"
+planilhas_dir="igaPuro/Experimentos"
 
 # Compila o programa
-g++ main.cpp -o programa
+g++ main.cpp -o IGApuro
 if [ $? -ne 0 ]; then
     echo "Erro na compilação"
     exit 1
@@ -29,7 +29,7 @@ run_tests() {
     for alpha in "${alphas[@]}"; do
         local output_file="${output_dir}/alpha${alpha}d${d}_$(basename "$input_file")_$(basename "$planilha").txt"
         echo "Inicio alpha=$alpha d=$d - time=$(date +"%T")"
-        ./programa "$alpha" 10 "$planilha" < "$input_file" > "$output_file"
+        ./IGApuro "$alpha" 10 "$planilha" < "$input_file" > "$output_file"
         echo "Fim alpha=$alpha d=$d - time=$(date +"%T")"
     done
 }
@@ -62,21 +62,13 @@ done
 
 # Executa o programa para cada combinação de instância grande e planilha
 for planilha in "${planilhas[@]}"; do
-    echo "
-    
-    Testando planilha: $planilha
-    
-    "
+    echo "Testando planilha: $planilha"
     date
     for input_file in "${sorted_large_instances[@]}"; do
         echo "Testando arquivo grande: $input_file - time=$(date +"%T")"
         run_tests "$input_file" "$planilha"
     done
-    echo "
-    
-    Final planilha: $planilha
-    
-    "
+    echo "Final planilha: $planilha"
 done
 
 echo "

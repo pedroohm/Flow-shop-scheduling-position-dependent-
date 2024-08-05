@@ -1,0 +1,1714 @@
+qua 17 jul 2024 16:10:52 -03
+Testando planilha: igaPuro/Entradas/planilha_10.csv
+qua 17 jul 2024 16:10:52 -03
+Testando arquivo grande: Entradas/instancia-10-50-02-02.txt - time=16:10:52
+Inicio alpha=0.0 d=10 - time=16:10:52
+Fim alpha=0.0 d=10 - time=16:10:52
+Inicio alpha=0.2 d=10 - time=16:10:52
+Fim alpha=0.2 d=10 - time=16:10:53
+Inicio alpha=0.8 d=10 - time=16:10:53
+Fim alpha=0.8 d=10 - time=16:10:53
+Testando arquivo grande: Entradas/instancia-10-50-08-02.txt - time=16:10:53
+Inicio alpha=0.0 d=10 - time=16:10:53
+Fim alpha=0.0 d=10 - time=16:10:54
+Inicio alpha=0.2 d=10 - time=16:10:54
+Fim alpha=0.2 d=10 - time=16:10:55
+Inicio alpha=0.8 d=10 - time=16:10:55
+Fim alpha=0.8 d=10 - time=16:10:55
+Testando arquivo grande: Entradas/instancia-2-20-02-02.txt - time=16:10:55
+Inicio alpha=0.0 d=10 - time=16:10:55
+Fim alpha=0.0 d=10 - time=16:10:55
+Inicio alpha=0.2 d=10 - time=16:10:55
+Fim alpha=0.2 d=10 - time=16:10:55
+Inicio alpha=0.8 d=10 - time=16:10:55
+Fim alpha=0.8 d=10 - time=16:10:55
+Testando arquivo grande: Entradas/instancia-2-20-08-02.txt - time=16:10:55
+Inicio alpha=0.0 d=10 - time=16:10:55
+Fim alpha=0.0 d=10 - time=16:10:55
+Inicio alpha=0.2 d=10 - time=16:10:55
+Fim alpha=0.2 d=10 - time=16:10:55
+Inicio alpha=0.8 d=10 - time=16:10:55
+Fim alpha=0.8 d=10 - time=16:10:55
+Testando arquivo grande: Entradas/instancia-30-150-02-02.txt - time=16:10:55
+Inicio alpha=0.0 d=10 - time=16:10:55
+Fim alpha=0.0 d=10 - time=16:11:27
+Inicio alpha=0.2 d=10 - time=16:11:27
+Fim alpha=0.2 d=10 - time=16:11:52
+Inicio alpha=0.8 d=10 - time=16:11:52
+Fim alpha=0.8 d=10 - time=16:12:11
+Testando arquivo grande: Entradas/instancia-30-150-08-02.txt - time=16:12:11
+Inicio alpha=0.0 d=10 - time=16:12:11
+Fim alpha=0.0 d=10 - time=16:13:05
+Inicio alpha=0.2 d=10 - time=16:13:05
+Fim alpha=0.2 d=10 - time=16:13:29
+Inicio alpha=0.8 d=10 - time=16:13:29
+Fim alpha=0.8 d=10 - time=16:14:00
+Testando arquivo grande: Entradas/instancia-30-250-02-02.txt - time=16:14:00
+Inicio alpha=0.0 d=10 - time=16:14:00
+Fim alpha=0.0 d=10 - time=16:16:37
+Inicio alpha=0.2 d=10 - time=16:16:37
+Fim alpha=0.2 d=10 - time=16:17:49
+Inicio alpha=0.8 d=10 - time=16:17:49
+Fim alpha=0.8 d=10 - time=16:19:41
+Testando arquivo grande: Entradas/instancia-30-250-08-02.txt - time=16:19:41
+Inicio alpha=0.0 d=10 - time=16:19:41
+Fim alpha=0.0 d=10 - time=16:21:38
+Inicio alpha=0.2 d=10 - time=16:21:38
+Fim alpha=0.2 d=10 - time=16:23:48
+Inicio alpha=0.8 d=10 - time=16:23:48
+Fim alpha=0.8 d=10 - time=16:25:20
+Testando arquivo grande: Entradas/instancia-30-350-02-02.txt - time=16:25:20
+Inicio alpha=0.0 d=10 - time=16:25:20
+Fim alpha=0.0 d=10 - time=16:28:18
+Inicio alpha=0.2 d=10 - time=16:28:18
+Fim alpha=0.2 d=10 - time=16:31:29
+Inicio alpha=0.8 d=10 - time=16:31:29
+Fim alpha=0.8 d=10 - time=16:34:15
+Testando arquivo grande: Entradas/instancia-30-350-08-02.txt - time=16:34:15
+Inicio alpha=0.0 d=10 - time=16:34:15
+Fim alpha=0.0 d=10 - time=16:38:05
+Inicio alpha=0.2 d=10 - time=16:38:05
+Fim alpha=0.2 d=10 - time=16:41:27
+Inicio alpha=0.8 d=10 - time=16:41:27
+Fim alpha=0.8 d=10 - time=16:45:13
+Testando arquivo grande: Entradas/instancia-30-50-02-02.txt - time=16:45:13
+Inicio alpha=0.0 d=10 - time=16:45:13
+Fim alpha=0.0 d=10 - time=16:45:14
+Inicio alpha=0.2 d=10 - time=16:45:14
+Fim alpha=0.2 d=10 - time=16:45:16
+Inicio alpha=0.8 d=10 - time=16:45:16
+Fim alpha=0.8 d=10 - time=16:45:18
+Testando arquivo grande: Entradas/instancia-30-50-08-02.txt - time=16:45:18
+Inicio alpha=0.0 d=10 - time=16:45:18
+Fim alpha=0.0 d=10 - time=16:45:20
+Inicio alpha=0.2 d=10 - time=16:45:20
+Fim alpha=0.2 d=10 - time=16:45:21
+Inicio alpha=0.8 d=10 - time=16:45:21
+Fim alpha=0.8 d=10 - time=16:45:23
+Testando arquivo grande: Entradas/instancia-3-20-02-02.txt - time=16:45:23
+Inicio alpha=0.0 d=10 - time=16:45:23
+Fim alpha=0.0 d=10 - time=16:45:23
+Inicio alpha=0.2 d=10 - time=16:45:23
+Fim alpha=0.2 d=10 - time=16:45:23
+Inicio alpha=0.8 d=10 - time=16:45:23
+Fim alpha=0.8 d=10 - time=16:45:23
+Testando arquivo grande: Entradas/instancia-3-20-08-02.txt - time=16:45:23
+Inicio alpha=0.0 d=10 - time=16:45:23
+Fim alpha=0.0 d=10 - time=16:45:23
+Inicio alpha=0.2 d=10 - time=16:45:23
+Fim alpha=0.2 d=10 - time=16:45:23
+Inicio alpha=0.8 d=10 - time=16:45:23
+Fim alpha=0.8 d=10 - time=16:45:23
+Testando arquivo grande: Entradas/instancia-50-150-02-02.txt - time=16:45:23
+Inicio alpha=0.0 d=10 - time=16:45:23
+Fim alpha=0.0 d=10 - time=16:46:10
+Inicio alpha=0.2 d=10 - time=16:46:10
+Fim alpha=0.2 d=10 - time=16:46:49
+Inicio alpha=0.8 d=10 - time=16:46:49
+Fim alpha=0.8 d=10 - time=16:47:33
+Testando arquivo grande: Entradas/instancia-50-150-08-02.txt - time=16:47:33
+Inicio alpha=0.0 d=10 - time=16:47:33
+Fim alpha=0.0 d=10 - time=16:48:07
+Inicio alpha=0.2 d=10 - time=16:48:07
+Fim alpha=0.2 d=10 - time=16:48:45
+Inicio alpha=0.8 d=10 - time=16:48:45
+Fim alpha=0.8 d=10 - time=16:49:34
+Testando arquivo grande: Entradas/instancia-50-250-02-02.txt - time=16:49:34
+Inicio alpha=0.0 d=10 - time=16:49:34
+Fim alpha=0.0 d=10 - time=16:51:39
+Inicio alpha=0.2 d=10 - time=16:51:39
+Fim alpha=0.2 d=10 - time=16:53:56
+Inicio alpha=0.8 d=10 - time=16:53:56
+Fim alpha=0.8 d=10 - time=16:56:36
+Testando arquivo grande: Entradas/instancia-50-250-08-02.txt - time=16:56:36
+Inicio alpha=0.0 d=10 - time=16:56:36
+Fim alpha=0.0 d=10 - time=16:59:50
+Inicio alpha=0.2 d=10 - time=16:59:50
+Fim alpha=0.2 d=10 - time=17:04:39
+Inicio alpha=0.8 d=10 - time=17:04:39
+Fim alpha=0.8 d=10 - time=17:07:27
+Testando arquivo grande: Entradas/instancia-50-350-02-02.txt - time=17:07:27
+Inicio alpha=0.0 d=10 - time=17:07:27
+Fim alpha=0.0 d=10 - time=17:12:58
+Inicio alpha=0.2 d=10 - time=17:12:58
+Fim alpha=0.2 d=10 - time=17:18:36
+Inicio alpha=0.8 d=10 - time=17:18:36
+Fim alpha=0.8 d=10 - time=17:24:04
+Testando arquivo grande: Entradas/instancia-50-350-08-02.txt - time=17:24:04
+Inicio alpha=0.0 d=10 - time=17:24:04
+Fim alpha=0.0 d=10 - time=17:30:25
+Inicio alpha=0.2 d=10 - time=17:30:25
+Fim alpha=0.2 d=10 - time=17:35:45
+Inicio alpha=0.8 d=10 - time=17:35:45
+Fim alpha=0.8 d=10 - time=17:44:38
+Testando arquivo grande: Entradas/instancia-50-50-02-02.txt - time=17:44:38
+Inicio alpha=0.0 d=10 - time=17:44:38
+Fim alpha=0.0 d=10 - time=17:44:41
+Inicio alpha=0.2 d=10 - time=17:44:41
+Fim alpha=0.2 d=10 - time=17:44:46
+Inicio alpha=0.8 d=10 - time=17:44:46
+Fim alpha=0.8 d=10 - time=17:44:48
+Testando arquivo grande: Entradas/instancia-50-50-08-02.txt - time=17:44:48
+Inicio alpha=0.0 d=10 - time=17:44:48
+Fim alpha=0.0 d=10 - time=17:44:52
+Inicio alpha=0.2 d=10 - time=17:44:52
+Fim alpha=0.2 d=10 - time=17:44:55
+Inicio alpha=0.8 d=10 - time=17:44:55
+Fim alpha=0.8 d=10 - time=17:44:58
+Testando arquivo grande: Entradas/instancia-5-20-02-02.txt - time=17:44:58
+Inicio alpha=0.0 d=10 - time=17:44:58
+Fim alpha=0.0 d=10 - time=17:44:58
+Inicio alpha=0.2 d=10 - time=17:44:58
+Fim alpha=0.2 d=10 - time=17:44:58
+Inicio alpha=0.8 d=10 - time=17:44:58
+Fim alpha=0.8 d=10 - time=17:44:58
+Testando arquivo grande: Entradas/instancia-5-20-08-02.txt - time=17:44:58
+Inicio alpha=0.0 d=10 - time=17:44:58
+Fim alpha=0.0 d=10 - time=17:44:58
+Inicio alpha=0.2 d=10 - time=17:44:58
+Fim alpha=0.2 d=10 - time=17:44:58
+Inicio alpha=0.8 d=10 - time=17:44:58
+Fim alpha=0.8 d=10 - time=17:44:58
+Final planilha: igaPuro/Entradas/planilha_10.csv
+Testando planilha: igaPuro/Entradas/planilha_1.csv
+qua 17 jul 2024 17:44:58 -03
+Testando arquivo grande: Entradas/instancia-10-50-02-02.txt - time=17:44:58
+Inicio alpha=0.0 d=10 - time=17:44:58
+Fim alpha=0.0 d=10 - time=17:44:59
+Inicio alpha=0.2 d=10 - time=17:44:59
+Fim alpha=0.2 d=10 - time=17:45:00
+Inicio alpha=0.8 d=10 - time=17:45:00
+Fim alpha=0.8 d=10 - time=17:45:00
+Testando arquivo grande: Entradas/instancia-10-50-08-02.txt - time=17:45:00
+Inicio alpha=0.0 d=10 - time=17:45:00
+Fim alpha=0.0 d=10 - time=17:45:02
+Inicio alpha=0.2 d=10 - time=17:45:02
+Fim alpha=0.2 d=10 - time=17:45:02
+Inicio alpha=0.8 d=10 - time=17:45:02
+Fim alpha=0.8 d=10 - time=17:45:03
+Testando arquivo grande: Entradas/instancia-2-20-02-02.txt - time=17:45:03
+Inicio alpha=0.0 d=10 - time=17:45:03
+Fim alpha=0.0 d=10 - time=17:45:03
+Inicio alpha=0.2 d=10 - time=17:45:03
+Fim alpha=0.2 d=10 - time=17:45:03
+Inicio alpha=0.8 d=10 - time=17:45:03
+Fim alpha=0.8 d=10 - time=17:45:03
+Testando arquivo grande: Entradas/instancia-2-20-08-02.txt - time=17:45:03
+Inicio alpha=0.0 d=10 - time=17:45:03
+Fim alpha=0.0 d=10 - time=17:45:03
+Inicio alpha=0.2 d=10 - time=17:45:03
+Fim alpha=0.2 d=10 - time=17:45:03
+Inicio alpha=0.8 d=10 - time=17:45:03
+Fim alpha=0.8 d=10 - time=17:45:03
+Testando arquivo grande: Entradas/instancia-30-150-02-02.txt - time=17:45:03
+Inicio alpha=0.0 d=10 - time=17:45:03
+Fim alpha=0.0 d=10 - time=17:45:30
+Inicio alpha=0.2 d=10 - time=17:45:30
+Fim alpha=0.2 d=10 - time=17:45:59
+Inicio alpha=0.8 d=10 - time=17:45:59
+Fim alpha=0.8 d=10 - time=17:46:28
+Testando arquivo grande: Entradas/instancia-30-150-08-02.txt - time=17:46:28
+Inicio alpha=0.0 d=10 - time=17:46:28
+Fim alpha=0.0 d=10 - time=17:46:48
+Inicio alpha=0.2 d=10 - time=17:46:48
+Fim alpha=0.2 d=10 - time=17:47:15
+Inicio alpha=0.8 d=10 - time=17:47:15
+Fim alpha=0.8 d=10 - time=17:47:33
+Testando arquivo grande: Entradas/instancia-30-250-02-02.txt - time=17:47:33
+Inicio alpha=0.0 d=10 - time=17:47:33
+Fim alpha=0.0 d=10 - time=17:48:47
+Inicio alpha=0.2 d=10 - time=17:48:47
+Fim alpha=0.2 d=10 - time=17:50:57
+Inicio alpha=0.8 d=10 - time=17:50:57
+Fim alpha=0.8 d=10 - time=17:52:28
+Testando arquivo grande: Entradas/instancia-30-250-08-02.txt - time=17:52:28
+Inicio alpha=0.0 d=10 - time=17:52:28
+Fim alpha=0.0 d=10 - time=17:54:01
+Inicio alpha=0.2 d=10 - time=17:54:01
+Fim alpha=0.2 d=10 - time=17:55:49
+Inicio alpha=0.8 d=10 - time=17:55:49
+Fim alpha=0.8 d=10 - time=17:57:07
+Testando arquivo grande: Entradas/instancia-30-350-02-02.txt - time=17:57:07
+Inicio alpha=0.0 d=10 - time=17:57:07
+Fim alpha=0.0 d=10 - time=18:02:48
+Inicio alpha=0.2 d=10 - time=18:02:48
+Fim alpha=0.2 d=10 - time=18:09:28
+Inicio alpha=0.8 d=10 - time=18:09:28
+Fim alpha=0.8 d=10 - time=18:12:31
+Testando arquivo grande: Entradas/instancia-30-350-08-02.txt - time=18:12:31
+Inicio alpha=0.0 d=10 - time=18:12:31
+Fim alpha=0.0 d=10 - time=18:15:49
+Inicio alpha=0.2 d=10 - time=18:15:49
+Fim alpha=0.2 d=10 - time=18:18:55
+Inicio alpha=0.8 d=10 - time=18:18:55
+Fim alpha=0.8 d=10 - time=18:22:43
+Testando arquivo grande: Entradas/instancia-30-50-02-02.txt - time=18:22:43
+Inicio alpha=0.0 d=10 - time=18:22:43
+Fim alpha=0.0 d=10 - time=18:22:45
+Inicio alpha=0.2 d=10 - time=18:22:45
+Fim alpha=0.2 d=10 - time=18:22:47
+Inicio alpha=0.8 d=10 - time=18:22:47
+Fim alpha=0.8 d=10 - time=18:22:48
+Testando arquivo grande: Entradas/instancia-30-50-08-02.txt - time=18:22:48
+Inicio alpha=0.0 d=10 - time=18:22:48
+Fim alpha=0.0 d=10 - time=18:22:50
+Inicio alpha=0.2 d=10 - time=18:22:50
+Fim alpha=0.2 d=10 - time=18:22:52
+Inicio alpha=0.8 d=10 - time=18:22:52
+Fim alpha=0.8 d=10 - time=18:22:54
+Testando arquivo grande: Entradas/instancia-3-20-02-02.txt - time=18:22:54
+Inicio alpha=0.0 d=10 - time=18:22:54
+Fim alpha=0.0 d=10 - time=18:22:54
+Inicio alpha=0.2 d=10 - time=18:22:54
+Fim alpha=0.2 d=10 - time=18:22:54
+Inicio alpha=0.8 d=10 - time=18:22:54
+Fim alpha=0.8 d=10 - time=18:22:54
+Testando arquivo grande: Entradas/instancia-3-20-08-02.txt - time=18:22:54
+Inicio alpha=0.0 d=10 - time=18:22:54
+Fim alpha=0.0 d=10 - time=18:22:54
+Inicio alpha=0.2 d=10 - time=18:22:54
+Fim alpha=0.2 d=10 - time=18:22:54
+Inicio alpha=0.8 d=10 - time=18:22:54
+Fim alpha=0.8 d=10 - time=18:22:54
+Testando arquivo grande: Entradas/instancia-50-150-02-02.txt - time=18:22:54
+Inicio alpha=0.0 d=10 - time=18:22:54
+Fim alpha=0.0 d=10 - time=18:23:35
+Inicio alpha=0.2 d=10 - time=18:23:35
+Fim alpha=0.2 d=10 - time=18:24:43
+Inicio alpha=0.8 d=10 - time=18:24:43
+Fim alpha=0.8 d=10 - time=18:25:10
+Testando arquivo grande: Entradas/instancia-50-150-08-02.txt - time=18:25:10
+Inicio alpha=0.0 d=10 - time=18:25:10
+Fim alpha=0.0 d=10 - time=18:25:53
+Inicio alpha=0.2 d=10 - time=18:25:53
+Fim alpha=0.2 d=10 - time=18:26:21
+Inicio alpha=0.8 d=10 - time=18:26:21
+Fim alpha=0.8 d=10 - time=18:27:02
+Testando arquivo grande: Entradas/instancia-50-250-02-02.txt - time=18:27:02
+Inicio alpha=0.0 d=10 - time=18:27:02
+Fim alpha=0.0 d=10 - time=18:30:27
+Inicio alpha=0.2 d=10 - time=18:30:27
+Fim alpha=0.2 d=10 - time=18:35:03
+Inicio alpha=0.8 d=10 - time=18:35:03
+Fim alpha=0.8 d=10 - time=18:38:35
+Testando arquivo grande: Entradas/instancia-50-250-08-02.txt - time=18:38:35
+Inicio alpha=0.0 d=10 - time=18:38:35
+Fim alpha=0.0 d=10 - time=18:41:17
+Inicio alpha=0.2 d=10 - time=18:41:17
+Fim alpha=0.2 d=10 - time=18:43:33
+Inicio alpha=0.8 d=10 - time=18:43:33
+Fim alpha=0.8 d=10 - time=18:46:25
+Testando arquivo grande: Entradas/instancia-50-350-02-02.txt - time=18:46:25
+Inicio alpha=0.0 d=10 - time=18:46:25
+Fim alpha=0.0 d=10 - time=18:52:56
+Inicio alpha=0.2 d=10 - time=18:52:56
+Fim alpha=0.2 d=10 - time=18:59:03
+Inicio alpha=0.8 d=10 - time=18:59:03
+Fim alpha=0.8 d=10 - time=19:03:22
+Testando arquivo grande: Entradas/instancia-50-350-08-02.txt - time=19:03:22
+Inicio alpha=0.0 d=10 - time=19:03:22
+Fim alpha=0.0 d=10 - time=19:10:37
+Inicio alpha=0.2 d=10 - time=19:10:37
+Fim alpha=0.2 d=10 - time=19:14:33
+Inicio alpha=0.8 d=10 - time=19:14:33
+Fim alpha=0.8 d=10 - time=19:21:02
+Testando arquivo grande: Entradas/instancia-50-50-02-02.txt - time=19:21:02
+Inicio alpha=0.0 d=10 - time=19:21:02
+Fim alpha=0.0 d=10 - time=19:21:05
+Inicio alpha=0.2 d=10 - time=19:21:05
+Fim alpha=0.2 d=10 - time=19:21:09
+Inicio alpha=0.8 d=10 - time=19:21:09
+Fim alpha=0.8 d=10 - time=19:21:14
+Testando arquivo grande: Entradas/instancia-50-50-08-02.txt - time=19:21:14
+Inicio alpha=0.0 d=10 - time=19:21:14
+Fim alpha=0.0 d=10 - time=19:21:15
+Inicio alpha=0.2 d=10 - time=19:21:15
+Fim alpha=0.2 d=10 - time=19:21:18
+Inicio alpha=0.8 d=10 - time=19:21:18
+Fim alpha=0.8 d=10 - time=19:21:21
+Testando arquivo grande: Entradas/instancia-5-20-02-02.txt - time=19:21:21
+Inicio alpha=0.0 d=10 - time=19:21:21
+Fim alpha=0.0 d=10 - time=19:21:21
+Inicio alpha=0.2 d=10 - time=19:21:21
+Fim alpha=0.2 d=10 - time=19:21:21
+Inicio alpha=0.8 d=10 - time=19:21:21
+Fim alpha=0.8 d=10 - time=19:21:21
+Testando arquivo grande: Entradas/instancia-5-20-08-02.txt - time=19:21:21
+Inicio alpha=0.0 d=10 - time=19:21:21
+Fim alpha=0.0 d=10 - time=19:21:21
+Inicio alpha=0.2 d=10 - time=19:21:21
+Fim alpha=0.2 d=10 - time=19:21:21
+Inicio alpha=0.8 d=10 - time=19:21:21
+Fim alpha=0.8 d=10 - time=19:21:21
+Final planilha: igaPuro/Entradas/planilha_1.csv
+Testando planilha: igaPuro/Entradas/planilha_2.csv
+qua 17 jul 2024 19:21:21 -03
+Testando arquivo grande: Entradas/instancia-10-50-02-02.txt - time=19:21:21
+Inicio alpha=0.0 d=10 - time=19:21:21
+Fim alpha=0.0 d=10 - time=19:21:22
+Inicio alpha=0.2 d=10 - time=19:21:22
+Fim alpha=0.2 d=10 - time=19:21:22
+Inicio alpha=0.8 d=10 - time=19:21:22
+Fim alpha=0.8 d=10 - time=19:21:23
+Testando arquivo grande: Entradas/instancia-10-50-08-02.txt - time=19:21:23
+Inicio alpha=0.0 d=10 - time=19:21:23
+Fim alpha=0.0 d=10 - time=19:21:24
+Inicio alpha=0.2 d=10 - time=19:21:24
+Fim alpha=0.2 d=10 - time=19:21:25
+Inicio alpha=0.8 d=10 - time=19:21:25
+Fim alpha=0.8 d=10 - time=19:21:25
+Testando arquivo grande: Entradas/instancia-2-20-02-02.txt - time=19:21:25
+Inicio alpha=0.0 d=10 - time=19:21:25
+Fim alpha=0.0 d=10 - time=19:21:25
+Inicio alpha=0.2 d=10 - time=19:21:25
+Fim alpha=0.2 d=10 - time=19:21:25
+Inicio alpha=0.8 d=10 - time=19:21:25
+Fim alpha=0.8 d=10 - time=19:21:25
+Testando arquivo grande: Entradas/instancia-2-20-08-02.txt - time=19:21:25
+Inicio alpha=0.0 d=10 - time=19:21:25
+Fim alpha=0.0 d=10 - time=19:21:25
+Inicio alpha=0.2 d=10 - time=19:21:25
+Fim alpha=0.2 d=10 - time=19:21:25
+Inicio alpha=0.8 d=10 - time=19:21:25
+Fim alpha=0.8 d=10 - time=19:21:25
+Testando arquivo grande: Entradas/instancia-30-150-02-02.txt - time=19:21:25
+Inicio alpha=0.0 d=10 - time=19:21:25
+Fim alpha=0.0 d=10 - time=19:21:48
+Inicio alpha=0.2 d=10 - time=19:21:48
+Fim alpha=0.2 d=10 - time=19:22:24
+Inicio alpha=0.8 d=10 - time=19:22:24
+Fim alpha=0.8 d=10 - time=19:23:09
+Testando arquivo grande: Entradas/instancia-30-150-08-02.txt - time=19:23:09
+Inicio alpha=0.0 d=10 - time=19:23:09
+Fim alpha=0.0 d=10 - time=19:23:32
+Inicio alpha=0.2 d=10 - time=19:23:32
+Fim alpha=0.2 d=10 - time=19:24:00
+Inicio alpha=0.8 d=10 - time=19:24:01
+Fim alpha=0.8 d=10 - time=19:24:33
+Testando arquivo grande: Entradas/instancia-30-250-02-02.txt - time=19:24:33
+Inicio alpha=0.0 d=10 - time=19:24:33
+Fim alpha=0.0 d=10 - time=19:27:00
+Inicio alpha=0.2 d=10 - time=19:27:00
+Fim alpha=0.2 d=10 - time=19:28:47
+Inicio alpha=0.8 d=10 - time=19:28:47
+Fim alpha=0.8 d=10 - time=19:29:59
+Testando arquivo grande: Entradas/instancia-30-250-08-02.txt - time=19:29:59
+Inicio alpha=0.0 d=10 - time=19:29:59
+Fim alpha=0.0 d=10 - time=19:31:34
+Inicio alpha=0.2 d=10 - time=19:31:34
+Fim alpha=0.2 d=10 - time=19:33:35
+Inicio alpha=0.8 d=10 - time=19:33:35
+Fim alpha=0.8 d=10 - time=19:35:51
+Testando arquivo grande: Entradas/instancia-30-350-02-02.txt - time=19:35:51
+Inicio alpha=0.0 d=10 - time=19:35:51
+Fim alpha=0.0 d=10 - time=19:39:29
+Inicio alpha=0.2 d=10 - time=19:39:29
+Fim alpha=0.2 d=10 - time=19:42:42
+Inicio alpha=0.8 d=10 - time=19:42:42
+Fim alpha=0.8 d=10 - time=19:47:22
+Testando arquivo grande: Entradas/instancia-30-350-08-02.txt - time=19:47:22
+Inicio alpha=0.0 d=10 - time=19:47:22
+Fim alpha=0.0 d=10 - time=19:50:21
+Inicio alpha=0.2 d=10 - time=19:50:21
+Fim alpha=0.2 d=10 - time=19:56:26
+Inicio alpha=0.8 d=10 - time=19:56:26
+Fim alpha=0.8 d=10 - time=19:59:46
+Testando arquivo grande: Entradas/instancia-30-50-02-02.txt - time=19:59:46
+Inicio alpha=0.0 d=10 - time=19:59:46
+Fim alpha=0.0 d=10 - time=19:59:47
+Inicio alpha=0.2 d=10 - time=19:59:47
+Fim alpha=0.2 d=10 - time=19:59:48
+Inicio alpha=0.8 d=10 - time=19:59:48
+Fim alpha=0.8 d=10 - time=19:59:50
+Testando arquivo grande: Entradas/instancia-30-50-08-02.txt - time=19:59:50
+Inicio alpha=0.0 d=10 - time=19:59:50
+Fim alpha=0.0 d=10 - time=19:59:51
+Inicio alpha=0.2 d=10 - time=19:59:51
+Fim alpha=0.2 d=10 - time=19:59:53
+Inicio alpha=0.8 d=10 - time=19:59:53
+Fim alpha=0.8 d=10 - time=19:59:54
+Testando arquivo grande: Entradas/instancia-3-20-02-02.txt - time=19:59:54
+Inicio alpha=0.0 d=10 - time=19:59:54
+Fim alpha=0.0 d=10 - time=19:59:54
+Inicio alpha=0.2 d=10 - time=19:59:54
+Fim alpha=0.2 d=10 - time=19:59:54
+Inicio alpha=0.8 d=10 - time=19:59:54
+Fim alpha=0.8 d=10 - time=19:59:54
+Testando arquivo grande: Entradas/instancia-3-20-08-02.txt - time=19:59:54
+Inicio alpha=0.0 d=10 - time=19:59:54
+Fim alpha=0.0 d=10 - time=19:59:54
+Inicio alpha=0.2 d=10 - time=19:59:54
+Fim alpha=0.2 d=10 - time=19:59:54
+Inicio alpha=0.8 d=10 - time=19:59:54
+Fim alpha=0.8 d=10 - time=19:59:54
+Testando arquivo grande: Entradas/instancia-50-150-02-02.txt - time=19:59:54
+Inicio alpha=0.0 d=10 - time=19:59:54
+Fim alpha=0.0 d=10 - time=20:00:44
+Inicio alpha=0.2 d=10 - time=20:00:44
+Fim alpha=0.2 d=10 - time=20:01:53
+Inicio alpha=0.8 d=10 - time=20:01:53
+Fim alpha=0.8 d=10 - time=20:02:52
+Testando arquivo grande: Entradas/instancia-50-150-08-02.txt - time=20:02:52
+Inicio alpha=0.0 d=10 - time=20:02:52
+Fim alpha=0.0 d=10 - time=20:03:58
+Inicio alpha=0.2 d=10 - time=20:03:58
+Fim alpha=0.2 d=10 - time=20:04:36
+Inicio alpha=0.8 d=10 - time=20:04:36
+Fim alpha=0.8 d=10 - time=20:05:11
+Testando arquivo grande: Entradas/instancia-50-250-02-02.txt - time=20:05:11
+Inicio alpha=0.0 d=10 - time=20:05:11
+Fim alpha=0.0 d=10 - time=20:07:31
+Inicio alpha=0.2 d=10 - time=20:07:31
+Fim alpha=0.2 d=10 - time=20:10:35
+Inicio alpha=0.8 d=10 - time=20:10:35
+Fim alpha=0.8 d=10 - time=20:13:11
+Testando arquivo grande: Entradas/instancia-50-250-08-02.txt - time=20:13:11
+Inicio alpha=0.0 d=10 - time=20:13:11
+Fim alpha=0.0 d=10 - time=20:16:27
+Inicio alpha=0.2 d=10 - time=20:16:27
+Fim alpha=0.2 d=10 - time=20:18:46
+Inicio alpha=0.8 d=10 - time=20:18:46
+Fim alpha=0.8 d=10 - time=20:22:17
+Testando arquivo grande: Entradas/instancia-50-350-02-02.txt - time=20:22:17
+Inicio alpha=0.0 d=10 - time=20:22:17
+Fim alpha=0.0 d=10 - time=20:30:20
+Inicio alpha=0.2 d=10 - time=20:30:20
+Fim alpha=0.2 d=10 - time=20:37:49
+Inicio alpha=0.8 d=10 - time=20:37:49
+Fim alpha=0.8 d=10 - time=20:44:02
+Testando arquivo grande: Entradas/instancia-50-350-08-02.txt - time=20:44:02
+Inicio alpha=0.0 d=10 - time=20:44:02
+Fim alpha=0.0 d=10 - time=20:47:35
+Inicio alpha=0.2 d=10 - time=20:47:35
+Fim alpha=0.2 d=10 - time=20:54:03
+Inicio alpha=0.8 d=10 - time=20:54:03
+Fim alpha=0.8 d=10 - time=21:00:37
+Testando arquivo grande: Entradas/instancia-50-50-02-02.txt - time=21:00:37
+Inicio alpha=0.0 d=10 - time=21:00:37
+Fim alpha=0.0 d=10 - time=21:00:42
+Inicio alpha=0.2 d=10 - time=21:00:42
+Fim alpha=0.2 d=10 - time=21:00:44
+Inicio alpha=0.8 d=10 - time=21:00:44
+Fim alpha=0.8 d=10 - time=21:00:47
+Testando arquivo grande: Entradas/instancia-50-50-08-02.txt - time=21:00:47
+Inicio alpha=0.0 d=10 - time=21:00:47
+Fim alpha=0.0 d=10 - time=21:00:51
+Inicio alpha=0.2 d=10 - time=21:00:51
+Fim alpha=0.2 d=10 - time=21:00:54
+Inicio alpha=0.8 d=10 - time=21:00:54
+Fim alpha=0.8 d=10 - time=21:00:59
+Testando arquivo grande: Entradas/instancia-5-20-02-02.txt - time=21:00:59
+Inicio alpha=0.0 d=10 - time=21:00:59
+Fim alpha=0.0 d=10 - time=21:00:59
+Inicio alpha=0.2 d=10 - time=21:00:59
+Fim alpha=0.2 d=10 - time=21:00:59
+Inicio alpha=0.8 d=10 - time=21:00:59
+Fim alpha=0.8 d=10 - time=21:00:59
+Testando arquivo grande: Entradas/instancia-5-20-08-02.txt - time=21:00:59
+Inicio alpha=0.0 d=10 - time=21:00:59
+Fim alpha=0.0 d=10 - time=21:00:59
+Inicio alpha=0.2 d=10 - time=21:00:59
+Fim alpha=0.2 d=10 - time=21:00:59
+Inicio alpha=0.8 d=10 - time=21:00:59
+Fim alpha=0.8 d=10 - time=21:00:59
+Final planilha: igaPuro/Entradas/planilha_2.csv
+Testando planilha: igaPuro/Entradas/planilha_3.csv
+qua 17 jul 2024 21:00:59 -03
+Testando arquivo grande: Entradas/instancia-10-50-02-02.txt - time=21:00:59
+Inicio alpha=0.0 d=10 - time=21:00:59
+Fim alpha=0.0 d=10 - time=21:00:59
+Inicio alpha=0.2 d=10 - time=21:00:59
+Fim alpha=0.2 d=10 - time=21:01:00
+Inicio alpha=0.8 d=10 - time=21:01:00
+Fim alpha=0.8 d=10 - time=21:01:00
+Testando arquivo grande: Entradas/instancia-10-50-08-02.txt - time=21:01:00
+Inicio alpha=0.0 d=10 - time=21:01:00
+Fim alpha=0.0 d=10 - time=21:01:01
+Inicio alpha=0.2 d=10 - time=21:01:01
+Fim alpha=0.2 d=10 - time=21:01:02
+Inicio alpha=0.8 d=10 - time=21:01:02
+Fim alpha=0.8 d=10 - time=21:01:02
+Testando arquivo grande: Entradas/instancia-2-20-02-02.txt - time=21:01:02
+Inicio alpha=0.0 d=10 - time=21:01:02
+Fim alpha=0.0 d=10 - time=21:01:02
+Inicio alpha=0.2 d=10 - time=21:01:02
+Fim alpha=0.2 d=10 - time=21:01:02
+Inicio alpha=0.8 d=10 - time=21:01:02
+Fim alpha=0.8 d=10 - time=21:01:02
+Testando arquivo grande: Entradas/instancia-2-20-08-02.txt - time=21:01:02
+Inicio alpha=0.0 d=10 - time=21:01:02
+Fim alpha=0.0 d=10 - time=21:01:02
+Inicio alpha=0.2 d=10 - time=21:01:02
+Fim alpha=0.2 d=10 - time=21:01:02
+Inicio alpha=0.8 d=10 - time=21:01:02
+Fim alpha=0.8 d=10 - time=21:01:02
+Testando arquivo grande: Entradas/instancia-30-150-02-02.txt - time=21:01:02
+Inicio alpha=0.0 d=10 - time=21:01:02
+Fim alpha=0.0 d=10 - time=21:01:20
+Inicio alpha=0.2 d=10 - time=21:01:20
+Fim alpha=0.2 d=10 - time=21:01:57
+Inicio alpha=0.8 d=10 - time=21:01:57
+Fim alpha=0.8 d=10 - time=21:02:34
+Testando arquivo grande: Entradas/instancia-30-150-08-02.txt - time=21:02:34
+Inicio alpha=0.0 d=10 - time=21:02:34
+Fim alpha=0.0 d=10 - time=21:03:13
+Inicio alpha=0.2 d=10 - time=21:03:13
+Fim alpha=0.2 d=10 - time=21:03:57
+Inicio alpha=0.8 d=10 - time=21:03:58
+Fim alpha=0.8 d=10 - time=21:04:25
+Testando arquivo grande: Entradas/instancia-30-250-02-02.txt - time=21:04:25
+Inicio alpha=0.0 d=10 - time=21:04:25
+Fim alpha=0.0 d=10 - time=21:07:19
+Inicio alpha=0.2 d=10 - time=21:07:19
+Fim alpha=0.2 d=10 - time=21:09:12
+Inicio alpha=0.8 d=10 - time=21:09:12
+Fim alpha=0.8 d=10 - time=21:10:09
+Testando arquivo grande: Entradas/instancia-30-250-08-02.txt - time=21:10:09
+Inicio alpha=0.0 d=10 - time=21:10:09
+Fim alpha=0.0 d=10 - time=21:11:19
+Inicio alpha=0.2 d=10 - time=21:11:19
+Fim alpha=0.2 d=10 - time=21:13:25
+Inicio alpha=0.8 d=10 - time=21:13:25
+Fim alpha=0.8 d=10 - time=21:14:55
+Testando arquivo grande: Entradas/instancia-30-350-02-02.txt - time=21:14:55
+Inicio alpha=0.0 d=10 - time=21:14:55
+Fim alpha=0.0 d=10 - time=21:17:48
+Inicio alpha=0.2 d=10 - time=21:17:48
+Fim alpha=0.2 d=10 - time=21:22:19
+Inicio alpha=0.8 d=10 - time=21:22:19
+Fim alpha=0.8 d=10 - time=21:25:29
+Testando arquivo grande: Entradas/instancia-30-350-08-02.txt - time=21:25:29
+Inicio alpha=0.0 d=10 - time=21:25:29
+Fim alpha=0.0 d=10 - time=21:28:19
+Inicio alpha=0.2 d=10 - time=21:28:19
+Fim alpha=0.2 d=10 - time=21:37:01
+Inicio alpha=0.8 d=10 - time=21:37:01
+Fim alpha=0.8 d=10 - time=21:39:36
+Testando arquivo grande: Entradas/instancia-30-50-02-02.txt - time=21:39:36
+Inicio alpha=0.0 d=10 - time=21:39:36
+Fim alpha=0.0 d=10 - time=21:39:39
+Inicio alpha=0.2 d=10 - time=21:39:39
+Fim alpha=0.2 d=10 - time=21:39:41
+Inicio alpha=0.8 d=10 - time=21:39:41
+Fim alpha=0.8 d=10 - time=21:39:43
+Testando arquivo grande: Entradas/instancia-30-50-08-02.txt - time=21:39:43
+Inicio alpha=0.0 d=10 - time=21:39:43
+Fim alpha=0.0 d=10 - time=21:39:44
+Inicio alpha=0.2 d=10 - time=21:39:44
+Fim alpha=0.2 d=10 - time=21:39:47
+Inicio alpha=0.8 d=10 - time=21:39:47
+Fim alpha=0.8 d=10 - time=21:39:49
+Testando arquivo grande: Entradas/instancia-3-20-02-02.txt - time=21:39:49
+Inicio alpha=0.0 d=10 - time=21:39:49
+Fim alpha=0.0 d=10 - time=21:39:49
+Inicio alpha=0.2 d=10 - time=21:39:49
+Fim alpha=0.2 d=10 - time=21:39:49
+Inicio alpha=0.8 d=10 - time=21:39:49
+Fim alpha=0.8 d=10 - time=21:39:49
+Testando arquivo grande: Entradas/instancia-3-20-08-02.txt - time=21:39:49
+Inicio alpha=0.0 d=10 - time=21:39:49
+Fim alpha=0.0 d=10 - time=21:39:49
+Inicio alpha=0.2 d=10 - time=21:39:49
+Fim alpha=0.2 d=10 - time=21:39:49
+Inicio alpha=0.8 d=10 - time=21:39:49
+Fim alpha=0.8 d=10 - time=21:39:49
+Testando arquivo grande: Entradas/instancia-50-150-02-02.txt - time=21:39:49
+Inicio alpha=0.0 d=10 - time=21:39:49
+Fim alpha=0.0 d=10 - time=21:40:42
+Inicio alpha=0.2 d=10 - time=21:40:42
+Fim alpha=0.2 d=10 - time=21:41:41
+Inicio alpha=0.8 d=10 - time=21:41:41
+Fim alpha=0.8 d=10 - time=21:42:31
+Testando arquivo grande: Entradas/instancia-50-150-08-02.txt - time=21:42:31
+Inicio alpha=0.0 d=10 - time=21:42:31
+Fim alpha=0.0 d=10 - time=21:43:15
+Inicio alpha=0.2 d=10 - time=21:43:15
+Fim alpha=0.2 d=10 - time=21:44:14
+Inicio alpha=0.8 d=10 - time=21:44:14
+Fim alpha=0.8 d=10 - time=21:45:09
+Testando arquivo grande: Entradas/instancia-50-250-02-02.txt - time=21:45:09
+Inicio alpha=0.0 d=10 - time=21:45:09
+Fim alpha=0.0 d=10 - time=21:47:17
+Inicio alpha=0.2 d=10 - time=21:47:17
+Fim alpha=0.2 d=10 - time=21:52:10
+Inicio alpha=0.8 d=10 - time=21:52:10
+Fim alpha=0.8 d=10 - time=21:54:41
+Testando arquivo grande: Entradas/instancia-50-250-08-02.txt - time=21:54:41
+Inicio alpha=0.0 d=10 - time=21:54:41
+Fim alpha=0.0 d=10 - time=21:56:52
+Inicio alpha=0.2 d=10 - time=21:56:52
+Fim alpha=0.2 d=10 - time=22:00:13
+Inicio alpha=0.8 d=10 - time=22:00:13
+Fim alpha=0.8 d=10 - time=22:03:09
+Testando arquivo grande: Entradas/instancia-50-350-02-02.txt - time=22:03:09
+Inicio alpha=0.0 d=10 - time=22:03:09
+Fim alpha=0.0 d=10 - time=22:08:54
+Inicio alpha=0.2 d=10 - time=22:08:54
+Fim alpha=0.2 d=10 - time=22:13:11
+Inicio alpha=0.8 d=10 - time=22:13:11
+Fim alpha=0.8 d=10 - time=22:20:07
+Testando arquivo grande: Entradas/instancia-50-350-08-02.txt - time=22:20:07
+Inicio alpha=0.0 d=10 - time=22:20:07
+Fim alpha=0.0 d=10 - time=22:27:58
+Inicio alpha=0.2 d=10 - time=22:27:58
+Fim alpha=0.2 d=10 - time=22:36:48
+Inicio alpha=0.8 d=10 - time=22:36:48
+Fim alpha=0.8 d=10 - time=22:41:55
+Testando arquivo grande: Entradas/instancia-50-50-02-02.txt - time=22:41:55
+Inicio alpha=0.0 d=10 - time=22:41:55
+Fim alpha=0.0 d=10 - time=22:41:57
+Inicio alpha=0.2 d=10 - time=22:41:57
+Fim alpha=0.2 d=10 - time=22:42:00
+Inicio alpha=0.8 d=10 - time=22:42:00
+Fim alpha=0.8 d=10 - time=22:42:03
+Testando arquivo grande: Entradas/instancia-50-50-08-02.txt - time=22:42:03
+Inicio alpha=0.0 d=10 - time=22:42:03
+Fim alpha=0.0 d=10 - time=22:42:05
+Inicio alpha=0.2 d=10 - time=22:42:05
+Fim alpha=0.2 d=10 - time=22:42:08
+Inicio alpha=0.8 d=10 - time=22:42:08
+Fim alpha=0.8 d=10 - time=22:42:11
+Testando arquivo grande: Entradas/instancia-5-20-02-02.txt - time=22:42:11
+Inicio alpha=0.0 d=10 - time=22:42:11
+Fim alpha=0.0 d=10 - time=22:42:11
+Inicio alpha=0.2 d=10 - time=22:42:11
+Fim alpha=0.2 d=10 - time=22:42:11
+Inicio alpha=0.8 d=10 - time=22:42:11
+Fim alpha=0.8 d=10 - time=22:42:11
+Testando arquivo grande: Entradas/instancia-5-20-08-02.txt - time=22:42:11
+Inicio alpha=0.0 d=10 - time=22:42:11
+Fim alpha=0.0 d=10 - time=22:42:11
+Inicio alpha=0.2 d=10 - time=22:42:11
+Fim alpha=0.2 d=10 - time=22:42:11
+Inicio alpha=0.8 d=10 - time=22:42:11
+Fim alpha=0.8 d=10 - time=22:42:11
+Final planilha: igaPuro/Entradas/planilha_3.csv
+Testando planilha: igaPuro/Entradas/planilha_4.csv
+qua 17 jul 2024 22:42:11 -03
+Testando arquivo grande: Entradas/instancia-10-50-02-02.txt - time=22:42:11
+Inicio alpha=0.0 d=10 - time=22:42:11
+Fim alpha=0.0 d=10 - time=22:42:12
+Inicio alpha=0.2 d=10 - time=22:42:12
+Fim alpha=0.2 d=10 - time=22:42:12
+Inicio alpha=0.8 d=10 - time=22:42:12
+Fim alpha=0.8 d=10 - time=22:42:13
+Testando arquivo grande: Entradas/instancia-10-50-08-02.txt - time=22:42:13
+Inicio alpha=0.0 d=10 - time=22:42:13
+Fim alpha=0.0 d=10 - time=22:42:13
+Inicio alpha=0.2 d=10 - time=22:42:13
+Fim alpha=0.2 d=10 - time=22:42:14
+Inicio alpha=0.8 d=10 - time=22:42:14
+Fim alpha=0.8 d=10 - time=22:42:15
+Testando arquivo grande: Entradas/instancia-2-20-02-02.txt - time=22:42:15
+Inicio alpha=0.0 d=10 - time=22:42:15
+Fim alpha=0.0 d=10 - time=22:42:15
+Inicio alpha=0.2 d=10 - time=22:42:15
+Fim alpha=0.2 d=10 - time=22:42:15
+Inicio alpha=0.8 d=10 - time=22:42:15
+Fim alpha=0.8 d=10 - time=22:42:15
+Testando arquivo grande: Entradas/instancia-2-20-08-02.txt - time=22:42:15
+Inicio alpha=0.0 d=10 - time=22:42:15
+Fim alpha=0.0 d=10 - time=22:42:15
+Inicio alpha=0.2 d=10 - time=22:42:15
+Fim alpha=0.2 d=10 - time=22:42:15
+Inicio alpha=0.8 d=10 - time=22:42:15
+Fim alpha=0.8 d=10 - time=22:42:15
+Testando arquivo grande: Entradas/instancia-30-150-02-02.txt - time=22:42:15
+Inicio alpha=0.0 d=10 - time=22:42:15
+Fim alpha=0.0 d=10 - time=22:42:45
+Inicio alpha=0.2 d=10 - time=22:42:45
+Fim alpha=0.2 d=10 - time=22:43:12
+Inicio alpha=0.8 d=10 - time=22:43:12
+Fim alpha=0.8 d=10 - time=22:43:39
+Testando arquivo grande: Entradas/instancia-30-150-08-02.txt - time=22:43:39
+Inicio alpha=0.0 d=10 - time=22:43:39
+Fim alpha=0.0 d=10 - time=22:44:04
+Inicio alpha=0.2 d=10 - time=22:44:04
+Fim alpha=0.2 d=10 - time=22:44:35
+Inicio alpha=0.8 d=10 - time=22:44:35
+Fim alpha=0.8 d=10 - time=22:45:00
+Testando arquivo grande: Entradas/instancia-30-250-02-02.txt - time=22:45:00
+Inicio alpha=0.0 d=10 - time=22:45:00
+Fim alpha=0.0 d=10 - time=22:47:43
+Inicio alpha=0.2 d=10 - time=22:47:43
+Fim alpha=0.2 d=10 - time=22:50:22
+Inicio alpha=0.8 d=10 - time=22:50:22
+Fim alpha=0.8 d=10 - time=22:51:20
+Testando arquivo grande: Entradas/instancia-30-250-08-02.txt - time=22:51:20
+Inicio alpha=0.0 d=10 - time=22:51:20
+Fim alpha=0.0 d=10 - time=22:52:45
+Inicio alpha=0.2 d=10 - time=22:52:45
+Fim alpha=0.2 d=10 - time=22:53:47
+Inicio alpha=0.8 d=10 - time=22:53:47
+Fim alpha=0.8 d=10 - time=22:55:05
+Testando arquivo grande: Entradas/instancia-30-350-02-02.txt - time=22:55:05
+Inicio alpha=0.0 d=10 - time=22:55:05
+Fim alpha=0.0 d=10 - time=22:57:48
+Inicio alpha=0.2 d=10 - time=22:57:48
+Fim alpha=0.2 d=10 - time=23:02:16
+Inicio alpha=0.8 d=10 - time=23:02:16
+Fim alpha=0.8 d=10 - time=23:04:57
+Testando arquivo grande: Entradas/instancia-30-350-08-02.txt - time=23:04:57
+Inicio alpha=0.0 d=10 - time=23:04:57
+Fim alpha=0.0 d=10 - time=23:08:03
+Inicio alpha=0.2 d=10 - time=23:08:03
+Fim alpha=0.2 d=10 - time=23:13:45
+Inicio alpha=0.8 d=10 - time=23:13:45
+Fim alpha=0.8 d=10 - time=23:18:33
+Testando arquivo grande: Entradas/instancia-30-50-02-02.txt - time=23:18:33
+Inicio alpha=0.0 d=10 - time=23:18:33
+Fim alpha=0.0 d=10 - time=23:18:35
+Inicio alpha=0.2 d=10 - time=23:18:35
+Fim alpha=0.2 d=10 - time=23:18:39
+Inicio alpha=0.8 d=10 - time=23:18:39
+Fim alpha=0.8 d=10 - time=23:18:41
+Testando arquivo grande: Entradas/instancia-30-50-08-02.txt - time=23:18:41
+Inicio alpha=0.0 d=10 - time=23:18:41
+Fim alpha=0.0 d=10 - time=23:18:42
+Inicio alpha=0.2 d=10 - time=23:18:42
+Fim alpha=0.2 d=10 - time=23:18:44
+Inicio alpha=0.8 d=10 - time=23:18:44
+Fim alpha=0.8 d=10 - time=23:18:45
+Testando arquivo grande: Entradas/instancia-3-20-02-02.txt - time=23:18:45
+Inicio alpha=0.0 d=10 - time=23:18:45
+Fim alpha=0.0 d=10 - time=23:18:45
+Inicio alpha=0.2 d=10 - time=23:18:45
+Fim alpha=0.2 d=10 - time=23:18:45
+Inicio alpha=0.8 d=10 - time=23:18:45
+Fim alpha=0.8 d=10 - time=23:18:45
+Testando arquivo grande: Entradas/instancia-3-20-08-02.txt - time=23:18:45
+Inicio alpha=0.0 d=10 - time=23:18:45
+Fim alpha=0.0 d=10 - time=23:18:45
+Inicio alpha=0.2 d=10 - time=23:18:45
+Fim alpha=0.2 d=10 - time=23:18:45
+Inicio alpha=0.8 d=10 - time=23:18:45
+Fim alpha=0.8 d=10 - time=23:18:45
+Testando arquivo grande: Entradas/instancia-50-150-02-02.txt - time=23:18:45
+Inicio alpha=0.0 d=10 - time=23:18:45
+Fim alpha=0.0 d=10 - time=23:19:35
+Inicio alpha=0.2 d=10 - time=23:19:35
+Fim alpha=0.2 d=10 - time=23:20:17
+Inicio alpha=0.8 d=10 - time=23:20:17
+Fim alpha=0.8 d=10 - time=23:21:19
+Testando arquivo grande: Entradas/instancia-50-150-08-02.txt - time=23:21:19
+Inicio alpha=0.0 d=10 - time=23:21:19
+Fim alpha=0.0 d=10 - time=23:22:19
+Inicio alpha=0.2 d=10 - time=23:22:19
+Fim alpha=0.2 d=10 - time=23:22:58
+Inicio alpha=0.8 d=10 - time=23:22:58
+Fim alpha=0.8 d=10 - time=23:23:39
+Testando arquivo grande: Entradas/instancia-50-250-02-02.txt - time=23:23:39
+Inicio alpha=0.0 d=10 - time=23:23:39
+Fim alpha=0.0 d=10 - time=23:25:32
+Inicio alpha=0.2 d=10 - time=23:25:32
+Fim alpha=0.2 d=10 - time=23:28:37
+Inicio alpha=0.8 d=10 - time=23:28:37
+Fim alpha=0.8 d=10 - time=23:31:24
+Testando arquivo grande: Entradas/instancia-50-250-08-02.txt - time=23:31:24
+Inicio alpha=0.0 d=10 - time=23:31:24
+Fim alpha=0.0 d=10 - time=23:36:41
+Inicio alpha=0.2 d=10 - time=23:36:41
+Fim alpha=0.2 d=10 - time=23:41:13
+Inicio alpha=0.8 d=10 - time=23:41:13
+Fim alpha=0.8 d=10 - time=23:44:41
+Testando arquivo grande: Entradas/instancia-50-350-02-02.txt - time=23:44:41
+Inicio alpha=0.0 d=10 - time=23:44:41
+Fim alpha=0.0 d=10 - time=23:52:25
+Inicio alpha=0.2 d=10 - time=23:52:25
+Fim alpha=0.2 d=10 - time=23:59:27
+Inicio alpha=0.8 d=10 - time=23:59:27
+Fim alpha=0.8 d=10 - time=00:04:51
+Testando arquivo grande: Entradas/instancia-50-350-08-02.txt - time=00:04:51
+Inicio alpha=0.0 d=10 - time=00:04:51
+Fim alpha=0.0 d=10 - time=00:10:30
+Inicio alpha=0.2 d=10 - time=00:10:30
+Fim alpha=0.2 d=10 - time=00:21:14
+Inicio alpha=0.8 d=10 - time=00:21:14
+Fim alpha=0.8 d=10 - time=00:29:00
+Testando arquivo grande: Entradas/instancia-50-50-02-02.txt - time=00:29:00
+Inicio alpha=0.0 d=10 - time=00:29:00
+Fim alpha=0.0 d=10 - time=00:29:03
+Inicio alpha=0.2 d=10 - time=00:29:03
+Fim alpha=0.2 d=10 - time=00:29:09
+Inicio alpha=0.8 d=10 - time=00:29:09
+Fim alpha=0.8 d=10 - time=00:29:11
+Testando arquivo grande: Entradas/instancia-50-50-08-02.txt - time=00:29:11
+Inicio alpha=0.0 d=10 - time=00:29:11
+Fim alpha=0.0 d=10 - time=00:29:14
+Inicio alpha=0.2 d=10 - time=00:29:14
+Fim alpha=0.2 d=10 - time=00:29:16
+Inicio alpha=0.8 d=10 - time=00:29:16
+Fim alpha=0.8 d=10 - time=00:29:18
+Testando arquivo grande: Entradas/instancia-5-20-02-02.txt - time=00:29:18
+Inicio alpha=0.0 d=10 - time=00:29:18
+Fim alpha=0.0 d=10 - time=00:29:18
+Inicio alpha=0.2 d=10 - time=00:29:18
+Fim alpha=0.2 d=10 - time=00:29:19
+Inicio alpha=0.8 d=10 - time=00:29:19
+Fim alpha=0.8 d=10 - time=00:29:19
+Testando arquivo grande: Entradas/instancia-5-20-08-02.txt - time=00:29:19
+Inicio alpha=0.0 d=10 - time=00:29:19
+Fim alpha=0.0 d=10 - time=00:29:19
+Inicio alpha=0.2 d=10 - time=00:29:19
+Fim alpha=0.2 d=10 - time=00:29:19
+Inicio alpha=0.8 d=10 - time=00:29:19
+Fim alpha=0.8 d=10 - time=00:29:19
+Final planilha: igaPuro/Entradas/planilha_4.csv
+Testando planilha: igaPuro/Entradas/planilha_5.csv
+qui 18 jul 2024 00:29:19 -03
+Testando arquivo grande: Entradas/instancia-10-50-02-02.txt - time=00:29:19
+Inicio alpha=0.0 d=10 - time=00:29:19
+Fim alpha=0.0 d=10 - time=00:29:20
+Inicio alpha=0.2 d=10 - time=00:29:20
+Fim alpha=0.2 d=10 - time=00:29:20
+Inicio alpha=0.8 d=10 - time=00:29:20
+Fim alpha=0.8 d=10 - time=00:29:21
+Testando arquivo grande: Entradas/instancia-10-50-08-02.txt - time=00:29:21
+Inicio alpha=0.0 d=10 - time=00:29:21
+Fim alpha=0.0 d=10 - time=00:29:21
+Inicio alpha=0.2 d=10 - time=00:29:21
+Fim alpha=0.2 d=10 - time=00:29:22
+Inicio alpha=0.8 d=10 - time=00:29:22
+Fim alpha=0.8 d=10 - time=00:29:23
+Testando arquivo grande: Entradas/instancia-2-20-02-02.txt - time=00:29:23
+Inicio alpha=0.0 d=10 - time=00:29:23
+Fim alpha=0.0 d=10 - time=00:29:23
+Inicio alpha=0.2 d=10 - time=00:29:23
+Fim alpha=0.2 d=10 - time=00:29:23
+Inicio alpha=0.8 d=10 - time=00:29:23
+Fim alpha=0.8 d=10 - time=00:29:23
+Testando arquivo grande: Entradas/instancia-2-20-08-02.txt - time=00:29:23
+Inicio alpha=0.0 d=10 - time=00:29:23
+Fim alpha=0.0 d=10 - time=00:29:23
+Inicio alpha=0.2 d=10 - time=00:29:23
+Fim alpha=0.2 d=10 - time=00:29:23
+Inicio alpha=0.8 d=10 - time=00:29:23
+Fim alpha=0.8 d=10 - time=00:29:23
+Testando arquivo grande: Entradas/instancia-30-150-02-02.txt - time=00:29:23
+Inicio alpha=0.0 d=10 - time=00:29:23
+Fim alpha=0.0 d=10 - time=00:29:49
+Inicio alpha=0.2 d=10 - time=00:29:49
+Fim alpha=0.2 d=10 - time=00:30:23
+Inicio alpha=0.8 d=10 - time=00:30:23
+Fim alpha=0.8 d=10 - time=00:31:07
+Testando arquivo grande: Entradas/instancia-30-150-08-02.txt - time=00:31:07
+Inicio alpha=0.0 d=10 - time=00:31:07
+Fim alpha=0.0 d=10 - time=00:31:31
+Inicio alpha=0.2 d=10 - time=00:31:31
+Fim alpha=0.2 d=10 - time=00:32:01
+Inicio alpha=0.8 d=10 - time=00:32:01
+Fim alpha=0.8 d=10 - time=00:32:29
+Testando arquivo grande: Entradas/instancia-30-250-02-02.txt - time=00:32:29
+Inicio alpha=0.0 d=10 - time=00:32:29
+Fim alpha=0.0 d=10 - time=00:34:03
+Inicio alpha=0.2 d=10 - time=00:34:03
+Fim alpha=0.2 d=10 - time=00:36:40
+Inicio alpha=0.8 d=10 - time=00:36:40
+Fim alpha=0.8 d=10 - time=00:37:44
+Testando arquivo grande: Entradas/instancia-30-250-08-02.txt - time=00:37:44
+Inicio alpha=0.0 d=10 - time=00:37:44
+Fim alpha=0.0 d=10 - time=00:39:26
+Inicio alpha=0.2 d=10 - time=00:39:26
+Fim alpha=0.2 d=10 - time=00:41:30
+Inicio alpha=0.8 d=10 - time=00:41:30
+Fim alpha=0.8 d=10 - time=00:43:09
+Testando arquivo grande: Entradas/instancia-30-350-02-02.txt - time=00:43:09
+Inicio alpha=0.0 d=10 - time=00:43:09
+Fim alpha=0.0 d=10 - time=00:48:55
+Inicio alpha=0.2 d=10 - time=00:48:55
+Fim alpha=0.2 d=10 - time=00:51:41
+Inicio alpha=0.8 d=10 - time=00:51:41
+Fim alpha=0.8 d=10 - time=00:54:03
+Testando arquivo grande: Entradas/instancia-30-350-08-02.txt - time=00:54:03
+Inicio alpha=0.0 d=10 - time=00:54:03
+Fim alpha=0.0 d=10 - time=00:57:27
+Inicio alpha=0.2 d=10 - time=00:57:27
+Fim alpha=0.2 d=10 - time=01:01:36
+Inicio alpha=0.8 d=10 - time=01:01:36
+Fim alpha=0.8 d=10 - time=01:04:43
+Testando arquivo grande: Entradas/instancia-30-50-02-02.txt - time=01:04:43
+Inicio alpha=0.0 d=10 - time=01:04:43
+Fim alpha=0.0 d=10 - time=01:04:45
+Inicio alpha=0.2 d=10 - time=01:04:45
+Fim alpha=0.2 d=10 - time=01:04:46
+Inicio alpha=0.8 d=10 - time=01:04:46
+Fim alpha=0.8 d=10 - time=01:04:49
+Testando arquivo grande: Entradas/instancia-30-50-08-02.txt - time=01:04:49
+Inicio alpha=0.0 d=10 - time=01:04:49
+Fim alpha=0.0 d=10 - time=01:04:50
+Inicio alpha=0.2 d=10 - time=01:04:50
+Fim alpha=0.2 d=10 - time=01:04:52
+Inicio alpha=0.8 d=10 - time=01:04:52
+Fim alpha=0.8 d=10 - time=01:04:55
+Testando arquivo grande: Entradas/instancia-3-20-02-02.txt - time=01:04:55
+Inicio alpha=0.0 d=10 - time=01:04:55
+Fim alpha=0.0 d=10 - time=01:04:55
+Inicio alpha=0.2 d=10 - time=01:04:55
+Fim alpha=0.2 d=10 - time=01:04:55
+Inicio alpha=0.8 d=10 - time=01:04:55
+Fim alpha=0.8 d=10 - time=01:04:55
+Testando arquivo grande: Entradas/instancia-3-20-08-02.txt - time=01:04:55
+Inicio alpha=0.0 d=10 - time=01:04:55
+Fim alpha=0.0 d=10 - time=01:04:55
+Inicio alpha=0.2 d=10 - time=01:04:55
+Fim alpha=0.2 d=10 - time=01:04:55
+Inicio alpha=0.8 d=10 - time=01:04:55
+Fim alpha=0.8 d=10 - time=01:04:55
+Testando arquivo grande: Entradas/instancia-50-150-02-02.txt - time=01:04:55
+Inicio alpha=0.0 d=10 - time=01:04:55
+Fim alpha=0.0 d=10 - time=01:06:10
+Inicio alpha=0.2 d=10 - time=01:06:10
+Fim alpha=0.2 d=10 - time=01:06:50
+Inicio alpha=0.8 d=10 - time=01:06:50
+Fim alpha=0.8 d=10 - time=01:07:17
+Testando arquivo grande: Entradas/instancia-50-150-08-02.txt - time=01:07:17
+Inicio alpha=0.0 d=10 - time=01:07:17
+Fim alpha=0.0 d=10 - time=01:08:28
+Inicio alpha=0.2 d=10 - time=01:08:28
+Fim alpha=0.2 d=10 - time=01:09:15
+Inicio alpha=0.8 d=10 - time=01:09:15
+Fim alpha=0.8 d=10 - time=01:10:04
+Testando arquivo grande: Entradas/instancia-50-250-02-02.txt - time=01:10:04
+Inicio alpha=0.0 d=10 - time=01:10:04
+Fim alpha=0.0 d=10 - time=01:11:57
+Inicio alpha=0.2 d=10 - time=01:11:57
+Fim alpha=0.2 d=10 - time=01:16:41
+Inicio alpha=0.8 d=10 - time=01:16:41
+Fim alpha=0.8 d=10 - time=01:19:51
+Testando arquivo grande: Entradas/instancia-50-250-08-02.txt - time=01:19:51
+Inicio alpha=0.0 d=10 - time=01:19:51
+Fim alpha=0.0 d=10 - time=01:23:42
+Inicio alpha=0.2 d=10 - time=01:23:42
+Fim alpha=0.2 d=10 - time=01:28:28
+Inicio alpha=0.8 d=10 - time=01:28:28
+Fim alpha=0.8 d=10 - time=01:32:08
+Testando arquivo grande: Entradas/instancia-50-350-02-02.txt - time=01:32:08
+Inicio alpha=0.0 d=10 - time=01:32:08
+Fim alpha=0.0 d=10 - time=01:38:18
+Inicio alpha=0.2 d=10 - time=01:38:18
+Fim alpha=0.2 d=10 - time=01:43:59
+Inicio alpha=0.8 d=10 - time=01:43:59
+Fim alpha=0.8 d=10 - time=01:51:00
+Testando arquivo grande: Entradas/instancia-50-350-08-02.txt - time=01:51:00
+Inicio alpha=0.0 d=10 - time=01:51:00
+Fim alpha=0.0 d=10 - time=02:00:05
+Inicio alpha=0.2 d=10 - time=02:00:05
+Fim alpha=0.2 d=10 - time=02:08:32
+Inicio alpha=0.8 d=10 - time=02:08:32
+Fim alpha=0.8 d=10 - time=02:16:35
+Testando arquivo grande: Entradas/instancia-50-50-02-02.txt - time=02:16:35
+Inicio alpha=0.0 d=10 - time=02:16:35
+Fim alpha=0.0 d=10 - time=02:16:38
+Inicio alpha=0.2 d=10 - time=02:16:38
+Fim alpha=0.2 d=10 - time=02:16:41
+Inicio alpha=0.8 d=10 - time=02:16:41
+Fim alpha=0.8 d=10 - time=02:16:44
+Testando arquivo grande: Entradas/instancia-50-50-08-02.txt - time=02:16:44
+Inicio alpha=0.0 d=10 - time=02:16:44
+Fim alpha=0.0 d=10 - time=02:16:46
+Inicio alpha=0.2 d=10 - time=02:16:46
+Fim alpha=0.2 d=10 - time=02:16:51
+Inicio alpha=0.8 d=10 - time=02:16:51
+Fim alpha=0.8 d=10 - time=02:16:55
+Testando arquivo grande: Entradas/instancia-5-20-02-02.txt - time=02:16:55
+Inicio alpha=0.0 d=10 - time=02:16:55
+Fim alpha=0.0 d=10 - time=02:16:55
+Inicio alpha=0.2 d=10 - time=02:16:55
+Fim alpha=0.2 d=10 - time=02:16:55
+Inicio alpha=0.8 d=10 - time=02:16:55
+Fim alpha=0.8 d=10 - time=02:16:55
+Testando arquivo grande: Entradas/instancia-5-20-08-02.txt - time=02:16:55
+Inicio alpha=0.0 d=10 - time=02:16:55
+Fim alpha=0.0 d=10 - time=02:16:55
+Inicio alpha=0.2 d=10 - time=02:16:55
+Fim alpha=0.2 d=10 - time=02:16:55
+Inicio alpha=0.8 d=10 - time=02:16:55
+Fim alpha=0.8 d=10 - time=02:16:55
+Final planilha: igaPuro/Entradas/planilha_5.csv
+Testando planilha: igaPuro/Entradas/planilha_6.csv
+qui 18 jul 2024 02:16:55 -03
+Testando arquivo grande: Entradas/instancia-10-50-02-02.txt - time=02:16:55
+Inicio alpha=0.0 d=10 - time=02:16:55
+Fim alpha=0.0 d=10 - time=02:16:56
+Inicio alpha=0.2 d=10 - time=02:16:56
+Fim alpha=0.2 d=10 - time=02:16:57
+Inicio alpha=0.8 d=10 - time=02:16:57
+Fim alpha=0.8 d=10 - time=02:16:57
+Testando arquivo grande: Entradas/instancia-10-50-08-02.txt - time=02:16:57
+Inicio alpha=0.0 d=10 - time=02:16:57
+Fim alpha=0.0 d=10 - time=02:16:58
+Inicio alpha=0.2 d=10 - time=02:16:58
+Fim alpha=0.2 d=10 - time=02:16:59
+Inicio alpha=0.8 d=10 - time=02:16:59
+Fim alpha=0.8 d=10 - time=02:16:59
+Testando arquivo grande: Entradas/instancia-2-20-02-02.txt - time=02:16:59
+Inicio alpha=0.0 d=10 - time=02:16:59
+Fim alpha=0.0 d=10 - time=02:16:59
+Inicio alpha=0.2 d=10 - time=02:16:59
+Fim alpha=0.2 d=10 - time=02:16:59
+Inicio alpha=0.8 d=10 - time=02:16:59
+Fim alpha=0.8 d=10 - time=02:16:59
+Testando arquivo grande: Entradas/instancia-2-20-08-02.txt - time=02:16:59
+Inicio alpha=0.0 d=10 - time=02:16:59
+Fim alpha=0.0 d=10 - time=02:16:59
+Inicio alpha=0.2 d=10 - time=02:16:59
+Fim alpha=0.2 d=10 - time=02:16:59
+Inicio alpha=0.8 d=10 - time=02:16:59
+Fim alpha=0.8 d=10 - time=02:16:59
+Testando arquivo grande: Entradas/instancia-30-150-02-02.txt - time=02:16:59
+Inicio alpha=0.0 d=10 - time=02:16:59
+Fim alpha=0.0 d=10 - time=02:17:23
+Inicio alpha=0.2 d=10 - time=02:17:23
+Fim alpha=0.2 d=10 - time=02:17:45
+Inicio alpha=0.8 d=10 - time=02:17:45
+Fim alpha=0.8 d=10 - time=02:18:14
+Testando arquivo grande: Entradas/instancia-30-150-08-02.txt - time=02:18:14
+Inicio alpha=0.0 d=10 - time=02:18:14
+Fim alpha=0.0 d=10 - time=02:18:45
+Inicio alpha=0.2 d=10 - time=02:18:45
+Fim alpha=0.2 d=10 - time=02:19:05
+Inicio alpha=0.8 d=10 - time=02:19:05
+Fim alpha=0.8 d=10 - time=02:19:49
+Testando arquivo grande: Entradas/instancia-30-250-02-02.txt - time=02:19:49
+Inicio alpha=0.0 d=10 - time=02:19:49
+Fim alpha=0.0 d=10 - time=02:21:24
+Inicio alpha=0.2 d=10 - time=02:21:24
+Fim alpha=0.2 d=10 - time=02:24:13
+Inicio alpha=0.8 d=10 - time=02:24:13
+Fim alpha=0.8 d=10 - time=02:26:00
+Testando arquivo grande: Entradas/instancia-30-250-08-02.txt - time=02:26:00
+Inicio alpha=0.0 d=10 - time=02:26:00
+Fim alpha=0.0 d=10 - time=02:27:44
+Inicio alpha=0.2 d=10 - time=02:27:44
+Fim alpha=0.2 d=10 - time=02:30:13
+Inicio alpha=0.8 d=10 - time=02:30:13
+Fim alpha=0.8 d=10 - time=02:31:17
+Testando arquivo grande: Entradas/instancia-30-350-02-02.txt - time=02:31:17
+Inicio alpha=0.0 d=10 - time=02:31:17
+Fim alpha=0.0 d=10 - time=02:37:03
+Inicio alpha=0.2 d=10 - time=02:37:03
+Fim alpha=0.2 d=10 - time=02:42:57
+Inicio alpha=0.8 d=10 - time=02:42:57
+Fim alpha=0.8 d=10 - time=02:46:08
+Testando arquivo grande: Entradas/instancia-30-350-08-02.txt - time=02:46:08
+Inicio alpha=0.0 d=10 - time=02:46:08
+Fim alpha=0.0 d=10 - time=02:51:02
+Inicio alpha=0.2 d=10 - time=02:51:02
+Fim alpha=0.2 d=10 - time=02:54:43
+Inicio alpha=0.8 d=10 - time=02:54:43
+Fim alpha=0.8 d=10 - time=03:00:37
+Testando arquivo grande: Entradas/instancia-30-50-02-02.txt - time=03:00:37
+Inicio alpha=0.0 d=10 - time=03:00:37
+Fim alpha=0.0 d=10 - time=03:00:39
+Inicio alpha=0.2 d=10 - time=03:00:39
+Fim alpha=0.2 d=10 - time=03:00:41
+Inicio alpha=0.8 d=10 - time=03:00:41
+Fim alpha=0.8 d=10 - time=03:00:45
+Testando arquivo grande: Entradas/instancia-30-50-08-02.txt - time=03:00:45
+Inicio alpha=0.0 d=10 - time=03:00:45
+Fim alpha=0.0 d=10 - time=03:00:46
+Inicio alpha=0.2 d=10 - time=03:00:46
+Fim alpha=0.2 d=10 - time=03:00:48
+Inicio alpha=0.8 d=10 - time=03:00:48
+Fim alpha=0.8 d=10 - time=03:00:52
+Testando arquivo grande: Entradas/instancia-3-20-02-02.txt - time=03:00:52
+Inicio alpha=0.0 d=10 - time=03:00:52
+Fim alpha=0.0 d=10 - time=03:00:52
+Inicio alpha=0.2 d=10 - time=03:00:52
+Fim alpha=0.2 d=10 - time=03:00:52
+Inicio alpha=0.8 d=10 - time=03:00:52
+Fim alpha=0.8 d=10 - time=03:00:52
+Testando arquivo grande: Entradas/instancia-3-20-08-02.txt - time=03:00:52
+Inicio alpha=0.0 d=10 - time=03:00:52
+Fim alpha=0.0 d=10 - time=03:00:52
+Inicio alpha=0.2 d=10 - time=03:00:52
+Fim alpha=0.2 d=10 - time=03:00:52
+Inicio alpha=0.8 d=10 - time=03:00:52
+Fim alpha=0.8 d=10 - time=03:00:52
+Testando arquivo grande: Entradas/instancia-50-150-02-02.txt - time=03:00:52
+Inicio alpha=0.0 d=10 - time=03:00:52
+Fim alpha=0.0 d=10 - time=03:01:46
+Inicio alpha=0.2 d=10 - time=03:01:46
+Fim alpha=0.2 d=10 - time=03:02:21
+Inicio alpha=0.8 d=10 - time=03:02:21
+Fim alpha=0.8 d=10 - time=03:02:59
+Testando arquivo grande: Entradas/instancia-50-150-08-02.txt - time=03:02:59
+Inicio alpha=0.0 d=10 - time=03:02:59
+Fim alpha=0.0 d=10 - time=03:03:50
+Inicio alpha=0.2 d=10 - time=03:03:50
+Fim alpha=0.2 d=10 - time=03:04:27
+Inicio alpha=0.8 d=10 - time=03:04:27
+Fim alpha=0.8 d=10 - time=03:05:18
+Testando arquivo grande: Entradas/instancia-50-250-02-02.txt - time=03:05:18
+Inicio alpha=0.0 d=10 - time=03:05:18
+Fim alpha=0.0 d=10 - time=03:08:54
+Inicio alpha=0.2 d=10 - time=03:08:54
+Fim alpha=0.2 d=10 - time=03:12:01
+Inicio alpha=0.8 d=10 - time=03:12:01
+Fim alpha=0.8 d=10 - time=03:14:02
+Testando arquivo grande: Entradas/instancia-50-250-08-02.txt - time=03:14:02
+Inicio alpha=0.0 d=10 - time=03:14:02
+Fim alpha=0.0 d=10 - time=03:16:25
+Inicio alpha=0.2 d=10 - time=03:16:25
+Fim alpha=0.2 d=10 - time=03:20:43
+Inicio alpha=0.8 d=10 - time=03:20:43
+Fim alpha=0.8 d=10 - time=03:23:59
+Testando arquivo grande: Entradas/instancia-50-350-02-02.txt - time=03:23:59
+Inicio alpha=0.0 d=10 - time=03:23:59
+Fim alpha=0.0 d=10 - time=03:32:40
+Inicio alpha=0.2 d=10 - time=03:32:40
+Fim alpha=0.2 d=10 - time=03:37:39
+Inicio alpha=0.8 d=10 - time=03:37:40
+Fim alpha=0.8 d=10 - time=03:41:25
+Testando arquivo grande: Entradas/instancia-50-350-08-02.txt - time=03:41:25
+Inicio alpha=0.0 d=10 - time=03:41:25
+Fim alpha=0.0 d=10 - time=03:48:58
+Inicio alpha=0.2 d=10 - time=03:48:58
+Fim alpha=0.2 d=10 - time=03:57:31
+Inicio alpha=0.8 d=10 - time=03:57:31
+Fim alpha=0.8 d=10 - time=04:04:19
+Testando arquivo grande: Entradas/instancia-50-50-02-02.txt - time=04:04:19
+Inicio alpha=0.0 d=10 - time=04:04:19
+Fim alpha=0.0 d=10 - time=04:04:23
+Inicio alpha=0.2 d=10 - time=04:04:23
+Fim alpha=0.2 d=10 - time=04:04:27
+Inicio alpha=0.8 d=10 - time=04:04:27
+Fim alpha=0.8 d=10 - time=04:04:31
+Testando arquivo grande: Entradas/instancia-50-50-08-02.txt - time=04:04:31
+Inicio alpha=0.0 d=10 - time=04:04:31
+Fim alpha=0.0 d=10 - time=04:04:35
+Inicio alpha=0.2 d=10 - time=04:04:35
+Fim alpha=0.2 d=10 - time=04:04:39
+Inicio alpha=0.8 d=10 - time=04:04:39
+Fim alpha=0.8 d=10 - time=04:04:42
+Testando arquivo grande: Entradas/instancia-5-20-02-02.txt - time=04:04:42
+Inicio alpha=0.0 d=10 - time=04:04:42
+Fim alpha=0.0 d=10 - time=04:04:42
+Inicio alpha=0.2 d=10 - time=04:04:42
+Fim alpha=0.2 d=10 - time=04:04:42
+Inicio alpha=0.8 d=10 - time=04:04:42
+Fim alpha=0.8 d=10 - time=04:04:42
+Testando arquivo grande: Entradas/instancia-5-20-08-02.txt - time=04:04:42
+Inicio alpha=0.0 d=10 - time=04:04:42
+Fim alpha=0.0 d=10 - time=04:04:42
+Inicio alpha=0.2 d=10 - time=04:04:42
+Fim alpha=0.2 d=10 - time=04:04:42
+Inicio alpha=0.8 d=10 - time=04:04:42
+Fim alpha=0.8 d=10 - time=04:04:42
+Final planilha: igaPuro/Entradas/planilha_6.csv
+Testando planilha: igaPuro/Entradas/planilha_7.csv
+qui 18 jul 2024 04:04:42 -03
+Testando arquivo grande: Entradas/instancia-10-50-02-02.txt - time=04:04:42
+Inicio alpha=0.0 d=10 - time=04:04:42
+Fim alpha=0.0 d=10 - time=04:04:43
+Inicio alpha=0.2 d=10 - time=04:04:43
+Fim alpha=0.2 d=10 - time=04:04:43
+Inicio alpha=0.8 d=10 - time=04:04:43
+Fim alpha=0.8 d=10 - time=04:04:44
+Testando arquivo grande: Entradas/instancia-10-50-08-02.txt - time=04:04:44
+Inicio alpha=0.0 d=10 - time=04:04:44
+Fim alpha=0.0 d=10 - time=04:04:44
+Inicio alpha=0.2 d=10 - time=04:04:44
+Fim alpha=0.2 d=10 - time=04:04:45
+Inicio alpha=0.8 d=10 - time=04:04:45
+Fim alpha=0.8 d=10 - time=04:04:46
+Testando arquivo grande: Entradas/instancia-2-20-02-02.txt - time=04:04:46
+Inicio alpha=0.0 d=10 - time=04:04:46
+Fim alpha=0.0 d=10 - time=04:04:46
+Inicio alpha=0.2 d=10 - time=04:04:46
+Fim alpha=0.2 d=10 - time=04:04:46
+Inicio alpha=0.8 d=10 - time=04:04:46
+Fim alpha=0.8 d=10 - time=04:04:46
+Testando arquivo grande: Entradas/instancia-2-20-08-02.txt - time=04:04:46
+Inicio alpha=0.0 d=10 - time=04:04:46
+Fim alpha=0.0 d=10 - time=04:04:46
+Inicio alpha=0.2 d=10 - time=04:04:46
+Fim alpha=0.2 d=10 - time=04:04:46
+Inicio alpha=0.8 d=10 - time=04:04:46
+Fim alpha=0.8 d=10 - time=04:04:46
+Testando arquivo grande: Entradas/instancia-30-150-02-02.txt - time=04:04:46
+Inicio alpha=0.0 d=10 - time=04:04:46
+Fim alpha=0.0 d=10 - time=04:05:13
+Inicio alpha=0.2 d=10 - time=04:05:13
+Fim alpha=0.2 d=10 - time=04:05:44
+Inicio alpha=0.8 d=10 - time=04:05:44
+Fim alpha=0.8 d=10 - time=04:06:24
+Testando arquivo grande: Entradas/instancia-30-150-08-02.txt - time=04:06:24
+Inicio alpha=0.0 d=10 - time=04:06:24
+Fim alpha=0.0 d=10 - time=04:06:50
+Inicio alpha=0.2 d=10 - time=04:06:50
+Fim alpha=0.2 d=10 - time=04:07:08
+Inicio alpha=0.8 d=10 - time=04:07:08
+Fim alpha=0.8 d=10 - time=04:07:28
+Testando arquivo grande: Entradas/instancia-30-250-02-02.txt - time=04:07:28
+Inicio alpha=0.0 d=10 - time=04:07:28
+Fim alpha=0.0 d=10 - time=04:09:09
+Inicio alpha=0.2 d=10 - time=04:09:09
+Fim alpha=0.2 d=10 - time=04:10:34
+Inicio alpha=0.8 d=10 - time=04:10:34
+Fim alpha=0.8 d=10 - time=04:11:59
+Testando arquivo grande: Entradas/instancia-30-250-08-02.txt - time=04:11:59
+Inicio alpha=0.0 d=10 - time=04:11:59
+Fim alpha=0.0 d=10 - time=04:13:08
+Inicio alpha=0.2 d=10 - time=04:13:08
+Fim alpha=0.2 d=10 - time=04:14:51
+Inicio alpha=0.8 d=10 - time=04:14:51
+Fim alpha=0.8 d=10 - time=04:15:56
+Testando arquivo grande: Entradas/instancia-30-350-02-02.txt - time=04:15:56
+Inicio alpha=0.0 d=10 - time=04:15:56
+Fim alpha=0.0 d=10 - time=04:20:56
+Inicio alpha=0.2 d=10 - time=04:20:56
+Fim alpha=0.2 d=10 - time=04:26:33
+Inicio alpha=0.8 d=10 - time=04:26:33
+Fim alpha=0.8 d=10 - time=04:31:32
+Testando arquivo grande: Entradas/instancia-30-350-08-02.txt - time=04:31:32
+Inicio alpha=0.0 d=10 - time=04:31:32
+Fim alpha=0.0 d=10 - time=04:35:21
+Inicio alpha=0.2 d=10 - time=04:35:21
+Fim alpha=0.2 d=10 - time=04:39:50
+Inicio alpha=0.8 d=10 - time=04:39:50
+Fim alpha=0.8 d=10 - time=04:43:22
+Testando arquivo grande: Entradas/instancia-30-50-02-02.txt - time=04:43:22
+Inicio alpha=0.0 d=10 - time=04:43:22
+Fim alpha=0.0 d=10 - time=04:43:24
+Inicio alpha=0.2 d=10 - time=04:43:24
+Fim alpha=0.2 d=10 - time=04:43:25
+Inicio alpha=0.8 d=10 - time=04:43:25
+Fim alpha=0.8 d=10 - time=04:43:27
+Testando arquivo grande: Entradas/instancia-30-50-08-02.txt - time=04:43:27
+Inicio alpha=0.0 d=10 - time=04:43:27
+Fim alpha=0.0 d=10 - time=04:43:29
+Inicio alpha=0.2 d=10 - time=04:43:29
+Fim alpha=0.2 d=10 - time=04:43:30
+Inicio alpha=0.8 d=10 - time=04:43:30
+Fim alpha=0.8 d=10 - time=04:43:32
+Testando arquivo grande: Entradas/instancia-3-20-02-02.txt - time=04:43:32
+Inicio alpha=0.0 d=10 - time=04:43:32
+Fim alpha=0.0 d=10 - time=04:43:32
+Inicio alpha=0.2 d=10 - time=04:43:32
+Fim alpha=0.2 d=10 - time=04:43:32
+Inicio alpha=0.8 d=10 - time=04:43:32
+Fim alpha=0.8 d=10 - time=04:43:32
+Testando arquivo grande: Entradas/instancia-3-20-08-02.txt - time=04:43:32
+Inicio alpha=0.0 d=10 - time=04:43:32
+Fim alpha=0.0 d=10 - time=04:43:33
+Inicio alpha=0.2 d=10 - time=04:43:33
+Fim alpha=0.2 d=10 - time=04:43:33
+Inicio alpha=0.8 d=10 - time=04:43:33
+Fim alpha=0.8 d=10 - time=04:43:33
+Testando arquivo grande: Entradas/instancia-50-150-02-02.txt - time=04:43:33
+Inicio alpha=0.0 d=10 - time=04:43:33
+Fim alpha=0.0 d=10 - time=04:44:14
+Inicio alpha=0.2 d=10 - time=04:44:14
+Fim alpha=0.2 d=10 - time=04:45:10
+Inicio alpha=0.8 d=10 - time=04:45:10
+Fim alpha=0.8 d=10 - time=04:45:46
+Testando arquivo grande: Entradas/instancia-50-150-08-02.txt - time=04:45:46
+Inicio alpha=0.0 d=10 - time=04:45:46
+Fim alpha=0.0 d=10 - time=04:46:32
+Inicio alpha=0.2 d=10 - time=04:46:32
+Fim alpha=0.2 d=10 - time=04:47:20
+Inicio alpha=0.8 d=10 - time=04:47:20
+Fim alpha=0.8 d=10 - time=04:48:10
+Testando arquivo grande: Entradas/instancia-50-250-02-02.txt - time=04:48:10
+Inicio alpha=0.0 d=10 - time=04:48:10
+Fim alpha=0.0 d=10 - time=04:51:26
+Inicio alpha=0.2 d=10 - time=04:51:26
+Fim alpha=0.2 d=10 - time=04:54:06
+Inicio alpha=0.8 d=10 - time=04:54:06
+Fim alpha=0.8 d=10 - time=04:57:54
+Testando arquivo grande: Entradas/instancia-50-250-08-02.txt - time=04:57:54
+Inicio alpha=0.0 d=10 - time=04:57:54
+Fim alpha=0.0 d=10 - time=05:00:45
+Inicio alpha=0.2 d=10 - time=05:00:45
+Fim alpha=0.2 d=10 - time=05:04:18
+Inicio alpha=0.8 d=10 - time=05:04:18
+Fim alpha=0.8 d=10 - time=05:07:30
+Testando arquivo grande: Entradas/instancia-50-350-02-02.txt - time=05:07:30
+Inicio alpha=0.0 d=10 - time=05:07:30
+Fim alpha=0.0 d=10 - time=05:13:57
+Inicio alpha=0.2 d=10 - time=05:13:57
+Fim alpha=0.2 d=10 - time=05:18:45
+Inicio alpha=0.8 d=10 - time=05:18:45
+Fim alpha=0.8 d=10 - time=05:24:16
+Testando arquivo grande: Entradas/instancia-50-350-08-02.txt - time=05:24:16
+Inicio alpha=0.0 d=10 - time=05:24:16
+Fim alpha=0.0 d=10 - time=05:30:16
+Inicio alpha=0.2 d=10 - time=05:30:16
+Fim alpha=0.2 d=10 - time=05:36:24
+Inicio alpha=0.8 d=10 - time=05:36:24
+Fim alpha=0.8 d=10 - time=05:43:23
+Testando arquivo grande: Entradas/instancia-50-50-02-02.txt - time=05:43:23
+Inicio alpha=0.0 d=10 - time=05:43:23
+Fim alpha=0.0 d=10 - time=05:43:26
+Inicio alpha=0.2 d=10 - time=05:43:26
+Fim alpha=0.2 d=10 - time=05:43:29
+Inicio alpha=0.8 d=10 - time=05:43:29
+Fim alpha=0.8 d=10 - time=05:43:32
+Testando arquivo grande: Entradas/instancia-50-50-08-02.txt - time=05:43:32
+Inicio alpha=0.0 d=10 - time=05:43:32
+Fim alpha=0.0 d=10 - time=05:43:36
+Inicio alpha=0.2 d=10 - time=05:43:36
+Fim alpha=0.2 d=10 - time=05:43:39
+Inicio alpha=0.8 d=10 - time=05:43:39
+Fim alpha=0.8 d=10 - time=05:43:41
+Testando arquivo grande: Entradas/instancia-5-20-02-02.txt - time=05:43:41
+Inicio alpha=0.0 d=10 - time=05:43:41
+Fim alpha=0.0 d=10 - time=05:43:42
+Inicio alpha=0.2 d=10 - time=05:43:42
+Fim alpha=0.2 d=10 - time=05:43:42
+Inicio alpha=0.8 d=10 - time=05:43:42
+Fim alpha=0.8 d=10 - time=05:43:42
+Testando arquivo grande: Entradas/instancia-5-20-08-02.txt - time=05:43:42
+Inicio alpha=0.0 d=10 - time=05:43:42
+Fim alpha=0.0 d=10 - time=05:43:42
+Inicio alpha=0.2 d=10 - time=05:43:42
+Fim alpha=0.2 d=10 - time=05:43:42
+Inicio alpha=0.8 d=10 - time=05:43:42
+Fim alpha=0.8 d=10 - time=05:43:42
+Final planilha: igaPuro/Entradas/planilha_7.csv
+Testando planilha: igaPuro/Entradas/planilha_8.csv
+qui 18 jul 2024 05:43:42 -03
+Testando arquivo grande: Entradas/instancia-10-50-02-02.txt - time=05:43:42
+Inicio alpha=0.0 d=10 - time=05:43:42
+Fim alpha=0.0 d=10 - time=05:43:42
+Inicio alpha=0.2 d=10 - time=05:43:42
+Fim alpha=0.2 d=10 - time=05:43:43
+Inicio alpha=0.8 d=10 - time=05:43:43
+Fim alpha=0.8 d=10 - time=05:43:43
+Testando arquivo grande: Entradas/instancia-10-50-08-02.txt - time=05:43:43
+Inicio alpha=0.0 d=10 - time=05:43:43
+Fim alpha=0.0 d=10 - time=05:43:44
+Inicio alpha=0.2 d=10 - time=05:43:44
+Fim alpha=0.2 d=10 - time=05:43:44
+Inicio alpha=0.8 d=10 - time=05:43:44
+Fim alpha=0.8 d=10 - time=05:43:45
+Testando arquivo grande: Entradas/instancia-2-20-02-02.txt - time=05:43:45
+Inicio alpha=0.0 d=10 - time=05:43:45
+Fim alpha=0.0 d=10 - time=05:43:45
+Inicio alpha=0.2 d=10 - time=05:43:45
+Fim alpha=0.2 d=10 - time=05:43:45
+Inicio alpha=0.8 d=10 - time=05:43:45
+Fim alpha=0.8 d=10 - time=05:43:45
+Testando arquivo grande: Entradas/instancia-2-20-08-02.txt - time=05:43:45
+Inicio alpha=0.0 d=10 - time=05:43:45
+Fim alpha=0.0 d=10 - time=05:43:45
+Inicio alpha=0.2 d=10 - time=05:43:45
+Fim alpha=0.2 d=10 - time=05:43:45
+Inicio alpha=0.8 d=10 - time=05:43:45
+Fim alpha=0.8 d=10 - time=05:43:45
+Testando arquivo grande: Entradas/instancia-30-150-02-02.txt - time=05:43:45
+Inicio alpha=0.0 d=10 - time=05:43:45
+Fim alpha=0.0 d=10 - time=05:44:25
+Inicio alpha=0.2 d=10 - time=05:44:25
+Fim alpha=0.2 d=10 - time=05:44:47
+Inicio alpha=0.8 d=10 - time=05:44:47
+Fim alpha=0.8 d=10 - time=05:45:18
+Testando arquivo grande: Entradas/instancia-30-150-08-02.txt - time=05:45:18
+Inicio alpha=0.0 d=10 - time=05:45:18
+Fim alpha=0.0 d=10 - time=05:45:59
+Inicio alpha=0.2 d=10 - time=05:45:59
+Fim alpha=0.2 d=10 - time=05:46:32
+Inicio alpha=0.8 d=10 - time=05:46:32
+Fim alpha=0.8 d=10 - time=05:46:56
+Testando arquivo grande: Entradas/instancia-30-250-02-02.txt - time=05:46:56
+Inicio alpha=0.0 d=10 - time=05:46:56
+Fim alpha=0.0 d=10 - time=05:48:12
+Inicio alpha=0.2 d=10 - time=05:48:12
+Fim alpha=0.2 d=10 - time=05:49:59
+Inicio alpha=0.8 d=10 - time=05:49:59
+Fim alpha=0.8 d=10 - time=05:51:09
+Testando arquivo grande: Entradas/instancia-30-250-08-02.txt - time=05:51:09
+Inicio alpha=0.0 d=10 - time=05:51:09
+Fim alpha=0.0 d=10 - time=05:53:01
+Inicio alpha=0.2 d=10 - time=05:53:01
+Fim alpha=0.2 d=10 - time=05:54:43
+Inicio alpha=0.8 d=10 - time=05:54:43
+Fim alpha=0.8 d=10 - time=05:56:14
+Testando arquivo grande: Entradas/instancia-30-350-02-02.txt - time=05:56:14
+Inicio alpha=0.0 d=10 - time=05:56:14
+Fim alpha=0.0 d=10 - time=06:01:19
+Inicio alpha=0.2 d=10 - time=06:01:19
+Fim alpha=0.2 d=10 - time=06:04:24
+Inicio alpha=0.8 d=10 - time=06:04:24
+Fim alpha=0.8 d=10 - time=06:07:13
+Testando arquivo grande: Entradas/instancia-30-350-08-02.txt - time=06:07:13
+Inicio alpha=0.0 d=10 - time=06:07:13
+Fim alpha=0.0 d=10 - time=06:10:54
+Inicio alpha=0.2 d=10 - time=06:10:54
+Fim alpha=0.2 d=10 - time=06:14:04
+Inicio alpha=0.8 d=10 - time=06:14:04
+Fim alpha=0.8 d=10 - time=06:18:06
+Testando arquivo grande: Entradas/instancia-30-50-02-02.txt - time=06:18:06
+Inicio alpha=0.0 d=10 - time=06:18:06
+Fim alpha=0.0 d=10 - time=06:18:08
+Inicio alpha=0.2 d=10 - time=06:18:08
+Fim alpha=0.2 d=10 - time=06:18:10
+Inicio alpha=0.8 d=10 - time=06:18:10
+Fim alpha=0.8 d=10 - time=06:18:11
+Testando arquivo grande: Entradas/instancia-30-50-08-02.txt - time=06:18:11
+Inicio alpha=0.0 d=10 - time=06:18:11
+Fim alpha=0.0 d=10 - time=06:18:13
+Inicio alpha=0.2 d=10 - time=06:18:13
+Fim alpha=0.2 d=10 - time=06:18:14
+Inicio alpha=0.8 d=10 - time=06:18:14
+Fim alpha=0.8 d=10 - time=06:18:16
+Testando arquivo grande: Entradas/instancia-3-20-02-02.txt - time=06:18:16
+Inicio alpha=0.0 d=10 - time=06:18:16
+Fim alpha=0.0 d=10 - time=06:18:16
+Inicio alpha=0.2 d=10 - time=06:18:16
+Fim alpha=0.2 d=10 - time=06:18:16
+Inicio alpha=0.8 d=10 - time=06:18:16
+Fim alpha=0.8 d=10 - time=06:18:16
+Testando arquivo grande: Entradas/instancia-3-20-08-02.txt - time=06:18:16
+Inicio alpha=0.0 d=10 - time=06:18:16
+Fim alpha=0.0 d=10 - time=06:18:16
+Inicio alpha=0.2 d=10 - time=06:18:16
+Fim alpha=0.2 d=10 - time=06:18:16
+Inicio alpha=0.8 d=10 - time=06:18:16
+Fim alpha=0.8 d=10 - time=06:18:16
+Testando arquivo grande: Entradas/instancia-50-150-02-02.txt - time=06:18:16
+Inicio alpha=0.0 d=10 - time=06:18:16
+Fim alpha=0.0 d=10 - time=06:18:57
+Inicio alpha=0.2 d=10 - time=06:18:57
+Fim alpha=0.2 d=10 - time=06:20:00
+Inicio alpha=0.8 d=10 - time=06:20:00
+Fim alpha=0.8 d=10 - time=06:20:31
+Testando arquivo grande: Entradas/instancia-50-150-08-02.txt - time=06:20:31
+Inicio alpha=0.0 d=10 - time=06:20:31
+Fim alpha=0.0 d=10 - time=06:21:33
+Inicio alpha=0.2 d=10 - time=06:21:33
+Fim alpha=0.2 d=10 - time=06:22:29
+Inicio alpha=0.8 d=10 - time=06:22:29
+Fim alpha=0.8 d=10 - time=06:23:20
+Testando arquivo grande: Entradas/instancia-50-250-02-02.txt - time=06:23:20
+Inicio alpha=0.0 d=10 - time=06:23:20
+Fim alpha=0.0 d=10 - time=06:25:19
+Inicio alpha=0.2 d=10 - time=06:25:19
+Fim alpha=0.2 d=10 - time=06:28:33
+Inicio alpha=0.8 d=10 - time=06:28:33
+Fim alpha=0.8 d=10 - time=06:30:58
+Testando arquivo grande: Entradas/instancia-50-250-08-02.txt - time=06:30:58
+Inicio alpha=0.0 d=10 - time=06:30:58
+Fim alpha=0.0 d=10 - time=06:33:03
+Inicio alpha=0.2 d=10 - time=06:33:03
+Fim alpha=0.2 d=10 - time=06:35:43
+Inicio alpha=0.8 d=10 - time=06:35:43
+Fim alpha=0.8 d=10 - time=06:39:18
+Testando arquivo grande: Entradas/instancia-50-350-02-02.txt - time=06:39:18
+Inicio alpha=0.0 d=10 - time=06:39:18
+Fim alpha=0.0 d=10 - time=06:46:32
+Inicio alpha=0.2 d=10 - time=06:46:32
+Fim alpha=0.2 d=10 - time=06:51:20
+Inicio alpha=0.8 d=10 - time=06:51:20
+Fim alpha=0.8 d=10 - time=06:56:24
+Testando arquivo grande: Entradas/instancia-50-350-08-02.txt - time=06:56:24
+Inicio alpha=0.0 d=10 - time=06:56:24
+Fim alpha=0.0 d=10 - time=07:01:41
+Inicio alpha=0.2 d=10 - time=07:01:41
+Fim alpha=0.2 d=10 - time=07:12:13
+Inicio alpha=0.8 d=10 - time=07:12:13
+Fim alpha=0.8 d=10 - time=07:21:34
+Testando arquivo grande: Entradas/instancia-50-50-02-02.txt - time=07:21:34
+Inicio alpha=0.0 d=10 - time=07:21:34
+Fim alpha=0.0 d=10 - time=07:21:37
+Inicio alpha=0.2 d=10 - time=07:21:37
+Fim alpha=0.2 d=10 - time=07:21:41
+Inicio alpha=0.8 d=10 - time=07:21:41
+Fim alpha=0.8 d=10 - time=07:21:44
+Testando arquivo grande: Entradas/instancia-50-50-08-02.txt - time=07:21:44
+Inicio alpha=0.0 d=10 - time=07:21:44
+Fim alpha=0.0 d=10 - time=07:21:45
+Inicio alpha=0.2 d=10 - time=07:21:45
+Fim alpha=0.2 d=10 - time=07:21:48
+Inicio alpha=0.8 d=10 - time=07:21:48
+Fim alpha=0.8 d=10 - time=07:21:51
+Testando arquivo grande: Entradas/instancia-5-20-02-02.txt - time=07:21:51
+Inicio alpha=0.0 d=10 - time=07:21:51
+Fim alpha=0.0 d=10 - time=07:21:51
+Inicio alpha=0.2 d=10 - time=07:21:51
+Fim alpha=0.2 d=10 - time=07:21:51
+Inicio alpha=0.8 d=10 - time=07:21:51
+Fim alpha=0.8 d=10 - time=07:21:51
+Testando arquivo grande: Entradas/instancia-5-20-08-02.txt - time=07:21:51
+Inicio alpha=0.0 d=10 - time=07:21:51
+Fim alpha=0.0 d=10 - time=07:21:51
+Inicio alpha=0.2 d=10 - time=07:21:51
+Fim alpha=0.2 d=10 - time=07:21:51
+Inicio alpha=0.8 d=10 - time=07:21:51
+Fim alpha=0.8 d=10 - time=07:21:51
+Final planilha: igaPuro/Entradas/planilha_8.csv
+Testando planilha: igaPuro/Entradas/planilha_9.csv
+qui 18 jul 2024 07:21:51 -03
+Testando arquivo grande: Entradas/instancia-10-50-02-02.txt - time=07:21:51
+Inicio alpha=0.0 d=10 - time=07:21:51
+Fim alpha=0.0 d=10 - time=07:21:52
+Inicio alpha=0.2 d=10 - time=07:21:52
+Fim alpha=0.2 d=10 - time=07:21:52
+Inicio alpha=0.8 d=10 - time=07:21:52
+Fim alpha=0.8 d=10 - time=07:21:53
+Testando arquivo grande: Entradas/instancia-10-50-08-02.txt - time=07:21:53
+Inicio alpha=0.0 d=10 - time=07:21:53
+Fim alpha=0.0 d=10 - time=07:21:53
+Inicio alpha=0.2 d=10 - time=07:21:53
+Fim alpha=0.2 d=10 - time=07:21:54
+Inicio alpha=0.8 d=10 - time=07:21:54
+Fim alpha=0.8 d=10 - time=07:21:55
+Testando arquivo grande: Entradas/instancia-2-20-02-02.txt - time=07:21:55
+Inicio alpha=0.0 d=10 - time=07:21:55
+Fim alpha=0.0 d=10 - time=07:21:55
+Inicio alpha=0.2 d=10 - time=07:21:55
+Fim alpha=0.2 d=10 - time=07:21:55
+Inicio alpha=0.8 d=10 - time=07:21:55
+Fim alpha=0.8 d=10 - time=07:21:55
+Testando arquivo grande: Entradas/instancia-2-20-08-02.txt - time=07:21:55
+Inicio alpha=0.0 d=10 - time=07:21:55
+Fim alpha=0.0 d=10 - time=07:21:55
+Inicio alpha=0.2 d=10 - time=07:21:55
+Fim alpha=0.2 d=10 - time=07:21:55
+Inicio alpha=0.8 d=10 - time=07:21:55
+Fim alpha=0.8 d=10 - time=07:21:55
+Testando arquivo grande: Entradas/instancia-30-150-02-02.txt - time=07:21:55
+Inicio alpha=0.0 d=10 - time=07:21:55
+Fim alpha=0.0 d=10 - time=07:22:14
+Inicio alpha=0.2 d=10 - time=07:22:14
+Fim alpha=0.2 d=10 - time=07:22:57
+Inicio alpha=0.8 d=10 - time=07:22:57
+Fim alpha=0.8 d=10 - time=07:23:25
+Testando arquivo grande: Entradas/instancia-30-150-08-02.txt - time=07:23:25
+Inicio alpha=0.0 d=10 - time=07:23:25
+Fim alpha=0.0 d=10 - time=07:23:56
+Inicio alpha=0.2 d=10 - time=07:23:56
+Fim alpha=0.2 d=10 - time=07:24:48
+Inicio alpha=0.8 d=10 - time=07:24:48
+Fim alpha=0.8 d=10 - time=07:25:28
+Testando arquivo grande: Entradas/instancia-30-250-02-02.txt - time=07:25:28
+Inicio alpha=0.0 d=10 - time=07:25:28
+Fim alpha=0.0 d=10 - time=07:27:43
+Inicio alpha=0.2 d=10 - time=07:27:43
+Fim alpha=0.2 d=10 - time=07:29:27
+Inicio alpha=0.8 d=10 - time=07:29:27
+Fim alpha=0.8 d=10 - time=07:31:00
+Testando arquivo grande: Entradas/instancia-30-250-08-02.txt - time=07:31:00
+Inicio alpha=0.0 d=10 - time=07:31:00
+Fim alpha=0.0 d=10 - time=07:32:30
+Inicio alpha=0.2 d=10 - time=07:32:30
+Fim alpha=0.2 d=10 - time=07:33:54
+Inicio alpha=0.8 d=10 - time=07:33:54
+Fim alpha=0.8 d=10 - time=07:34:55
+Testando arquivo grande: Entradas/instancia-30-350-02-02.txt - time=07:34:55
+Inicio alpha=0.0 d=10 - time=07:34:55
+Fim alpha=0.0 d=10 - time=07:37:58
+Inicio alpha=0.2 d=10 - time=07:37:58
+Fim alpha=0.2 d=10 - time=07:42:13
+Inicio alpha=0.8 d=10 - time=07:42:13
+Fim alpha=0.8 d=10 - time=07:45:52
+Testando arquivo grande: Entradas/instancia-30-350-08-02.txt - time=07:45:52
+Inicio alpha=0.0 d=10 - time=07:45:52
+Fim alpha=0.0 d=10 - time=07:50:29
+Inicio alpha=0.2 d=10 - time=07:50:29
+Fim alpha=0.2 d=10 - time=07:56:08
+Inicio alpha=0.8 d=10 - time=07:56:08
+Fim alpha=0.8 d=10 - time=08:02:00
+Testando arquivo grande: Entradas/instancia-30-50-02-02.txt - time=08:02:00
+Inicio alpha=0.0 d=10 - time=08:02:00
+Fim alpha=0.0 d=10 - time=08:02:02
+Inicio alpha=0.2 d=10 - time=08:02:02
+Fim alpha=0.2 d=10 - time=08:02:03
+Inicio alpha=0.8 d=10 - time=08:02:03
+Fim alpha=0.8 d=10 - time=08:02:04
+Testando arquivo grande: Entradas/instancia-30-50-08-02.txt - time=08:02:04
+Inicio alpha=0.0 d=10 - time=08:02:04
+Fim alpha=0.0 d=10 - time=08:02:06
+Inicio alpha=0.2 d=10 - time=08:02:06
+Fim alpha=0.2 d=10 - time=08:02:07
+Inicio alpha=0.8 d=10 - time=08:02:07
+Fim alpha=0.8 d=10 - time=08:02:09
+Testando arquivo grande: Entradas/instancia-3-20-02-02.txt - time=08:02:09
+Inicio alpha=0.0 d=10 - time=08:02:09
+Fim alpha=0.0 d=10 - time=08:02:10
+Inicio alpha=0.2 d=10 - time=08:02:10
+Fim alpha=0.2 d=10 - time=08:02:10
+Inicio alpha=0.8 d=10 - time=08:02:10
+Fim alpha=0.8 d=10 - time=08:02:10
+Testando arquivo grande: Entradas/instancia-3-20-08-02.txt - time=08:02:10
+Inicio alpha=0.0 d=10 - time=08:02:10
+Fim alpha=0.0 d=10 - time=08:02:10
+Inicio alpha=0.2 d=10 - time=08:02:10
+Fim alpha=0.2 d=10 - time=08:02:10
+Inicio alpha=0.8 d=10 - time=08:02:10
+Fim alpha=0.8 d=10 - time=08:02:10
+Testando arquivo grande: Entradas/instancia-50-150-02-02.txt - time=08:02:10
+Inicio alpha=0.0 d=10 - time=08:02:10
+Fim alpha=0.0 d=10 - time=08:03:19
+Inicio alpha=0.2 d=10 - time=08:03:19
+Fim alpha=0.2 d=10 - time=08:04:11
+Inicio alpha=0.8 d=10 - time=08:04:11
+Fim alpha=0.8 d=10 - time=08:04:45
+Testando arquivo grande: Entradas/instancia-50-150-08-02.txt - time=08:04:45
+Inicio alpha=0.0 d=10 - time=08:04:45
+Fim alpha=0.0 d=10 - time=08:05:35
+Inicio alpha=0.2 d=10 - time=08:05:35
+Fim alpha=0.2 d=10 - time=08:06:11
+Inicio alpha=0.8 d=10 - time=08:06:11
+Fim alpha=0.8 d=10 - time=08:06:43
+Testando arquivo grande: Entradas/instancia-50-250-02-02.txt - time=08:06:43
+Inicio alpha=0.0 d=10 - time=08:06:43
+Fim alpha=0.0 d=10 - time=08:10:40
+Inicio alpha=0.2 d=10 - time=08:10:40
+Fim alpha=0.2 d=10 - time=08:13:03
+Inicio alpha=0.8 d=10 - time=08:13:03
+Fim alpha=0.8 d=10 - time=08:15:34
+Testando arquivo grande: Entradas/instancia-50-250-08-02.txt - time=08:15:34
+Inicio alpha=0.0 d=10 - time=08:15:34
+Fim alpha=0.0 d=10 - time=08:18:49
+Inicio alpha=0.2 d=10 - time=08:18:49
+Fim alpha=0.2 d=10 - time=08:22:02
+Inicio alpha=0.8 d=10 - time=08:22:02
+Fim alpha=0.8 d=10 - time=08:24:21
+Testando arquivo grande: Entradas/instancia-50-350-02-02.txt - time=08:24:21
+Inicio alpha=0.0 d=10 - time=08:24:21
+Fim alpha=0.0 d=10 - time=08:34:32
+Inicio alpha=0.2 d=10 - time=08:34:32
+Fim alpha=0.2 d=10 - time=08:41:30
+Inicio alpha=0.8 d=10 - time=08:41:30
+Fim alpha=0.8 d=10 - time=08:45:43
+Testando arquivo grande: Entradas/instancia-50-350-08-02.txt - time=08:45:43
+Inicio alpha=0.0 d=10 - time=08:45:43
+Fim alpha=0.0 d=10 - time=08:50:51
+Inicio alpha=0.2 d=10 - time=08:50:51
+Fim alpha=0.2 d=10 - time=08:59:02
+Inicio alpha=0.8 d=10 - time=08:59:02
+Fim alpha=0.8 d=10 - time=09:05:41
+Testando arquivo grande: Entradas/instancia-50-50-02-02.txt - time=09:05:41
+Inicio alpha=0.0 d=10 - time=09:05:41
+Fim alpha=0.0 d=10 - time=09:05:45
+Inicio alpha=0.2 d=10 - time=09:05:45
+Fim alpha=0.2 d=10 - time=09:05:47
+Inicio alpha=0.8 d=10 - time=09:05:47
+Fim alpha=0.8 d=10 - time=09:05:52
+Testando arquivo grande: Entradas/instancia-50-50-08-02.txt - time=09:05:52
+Inicio alpha=0.0 d=10 - time=09:05:52
+Fim alpha=0.0 d=10 - time=09:05:57
+Inicio alpha=0.2 d=10 - time=09:05:57
+Fim alpha=0.2 d=10 - time=09:05:59
+Inicio alpha=0.8 d=10 - time=09:05:59
+Fim alpha=0.8 d=10 - time=09:06:03
+Testando arquivo grande: Entradas/instancia-5-20-02-02.txt - time=09:06:03
+Inicio alpha=0.0 d=10 - time=09:06:03
+Fim alpha=0.0 d=10 - time=09:06:03
+Inicio alpha=0.2 d=10 - time=09:06:03
+Fim alpha=0.2 d=10 - time=09:06:03
+Inicio alpha=0.8 d=10 - time=09:06:03
+Fim alpha=0.8 d=10 - time=09:06:03
+Testando arquivo grande: Entradas/instancia-5-20-08-02.txt - time=09:06:03
+Inicio alpha=0.0 d=10 - time=09:06:03
+Fim alpha=0.0 d=10 - time=09:06:03
+Inicio alpha=0.2 d=10 - time=09:06:03
+Fim alpha=0.2 d=10 - time=09:06:03
+Inicio alpha=0.8 d=10 - time=09:06:03
+Fim alpha=0.8 d=10 - time=09:06:04
+Final planilha: igaPuro/Entradas/planilha_9.csv
+
+
+    TESTE FINALIZADO!!!
