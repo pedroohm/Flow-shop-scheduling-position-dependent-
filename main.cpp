@@ -74,7 +74,8 @@ void imprimeCompletionTime(int n, int m, std::vector<std::vector<double>> compTi
 
 std::vector<std::pair<double, int>> ordemTarefas(const int n, const int m, std::vector<int> &dueDates, std::vector<std::vector<int>> &processingTimes, const int param){
     std::vector<std::pair<double, int>> temposMedios(n, std::pair<double, int>(0.0f, 0)); 
-    if (param ==1){
+    if (param == 1){
+        //crescente EDD+PT
         for(int j=0; j<n; j++){
             double soma = 0;
             for(int i=0; i<m; i++){
@@ -83,13 +84,29 @@ std::vector<std::pair<double, int>> ordemTarefas(const int n, const int m, std::
             double p_medio = soma / m;
             temposMedios[j] = std::make_pair((dueDates[j] / p_medio), j);       
         }
-    } else {
+        std::sort(temposMedios.begin(), temposMedios.end());
+        return temposMedios;
+    } else if (param == 2){
+        //decrescente LPT
+        for(int j=0; j<n; j++){
+            double soma = 0;
+            for(int i=0; i<m; i++){
+                soma += processingTimes[i][j];
+            }
+            double p_medio = soma / m;
+            temposMedios[j] = std::make_pair(p_medio, j);       
+        }
+        std::sort(temposMedios.begin(), temposMedios.end(), [](std::pair<double, int> a, std::pair<double, int> b) { return a.first > b.first; }); // Ordena decrescente
+        return temposMedios;
+        
+    } else{
+        //EDD -> crescente
         for(int j=0; j<n; j++)
             temposMedios[j] = std::make_pair(dueDates[j], j);
-    }
+        std::sort(temposMedios.begin(), temposMedios.end());
+        return temposMedios;
 
-    std::sort(temposMedios.begin(), temposMedios.end());
-    return temposMedios;
+    }
 }
 
 std::pair<std::vector<int>, double> destructConstruct(std::vector<int> &sequencia, std::vector<std::vector<double>> &completionTime, int d, int n, int m, std::vector<int> dueDates, const std::vector<std::vector<int>> &processingTimes, const std::vector<std::vector<std::vector<double>>> &TP, double alpha){
@@ -365,18 +382,18 @@ int main(int argc, char *argv[]){
     //------------------EDD-------------------------//
     //  Definindo uma solução inicial (pi0) para o problema EDD
     //Calculando a média de todos os tempos das tarefas em todas as máquinas
-    std::vector<std::pair<double, int>> temposMedios(n, std::pair<double, int>(0.0f, 0));
+    std::vector<std::pair<double, int>> heuristicaConstrutiva(n, std::pair<double, int>(0.0f, 0));
     
     auto start = std::chrono::high_resolution_clock::now();
 
-    //P == 0 -> Ordem crescente de dueDates EDD, P == 1 -> Ordenado pela média de dueDates
+    //P == 0 -> Ordem crescente de dueDates (EDD), P == 1 -> Ordenado pela média de dueDates, P == 2 -> Ordenado pela média de processingTimes
     // Utilizando EDD para construir a solução inicial
-    temposMedios = ordemTarefas(n, m, dueDates, processingTimes, 0);
+    heuristicaConstrutiva = ordemTarefas(n, m, dueDates, processingTimes, 0);
     
     // Armazenando a sequência de tarefas
     for(int j=0; j<n; j++) {
-        solucao[j] = temposMedios[j].second;
-        //std::cout << temposMedios[j].first << " - " << temposMedios[j].second << "\n";
+        solucao[j] = heuristicaConstrutiva[j].second;
+        //std::cout << heuristicaConstrutiva[j].first << " - " << heuristicaConstrutiva[j].second << "\n";
     }
      
     //Calculo do completion time para a solução inicial
@@ -392,29 +409,21 @@ int main(int argc, char *argv[]){
 
     arquivo << atraso_maximo << "," << elapsed_seconds.count() << ",";
 
-
     std::cout << "\nAtraso Máximo da solução inicial EDD: " << atraso_maximo;
     std::cout << "\nCPU Time duration: " << elapsed_seconds.count();
-
-    //std::chrono::high_resolution_clock::time_point
-    
-    //auto duration = std::chrono::duration_cast<std::chrono::microseconds>(end - start);
-    //std::chrono::minutes duration;
-    
-    
 
     std::vector<int> solucaoEDD(n);
     solucaoEDD = solucao;
 
-    //-----------------MÉDIAS-------------------//  
+    //-----------------MÉDIAS LPT-------------------//  
     start = std::chrono::high_resolution_clock::now();
     //P == 0 -> Ordem crescente de dueDates EDD, P == 1 -> Ordenado pela média de dueDates
-    temposMedios = ordemTarefas(n, m, dueDates, processingTimes, 1);
+    heuristicaConstrutiva = ordemTarefas(n, m, dueDates, processingTimes, 1);
     
     // Armazenando a sequência de tarefas
     for(int j=0; j<n; j++) {
-        solucao[j] = temposMedios[j].second;
-        //std::cout << temposMedios[j].first << " - " << temposMedios[j].second << "\n";
+        solucao[j] = heuristicaConstrutiva[j].second;
+        //std::cout << heuristicaConstrutiva[j].first << " - " << heuristicaConstrutiva[j].second << "\n";
     }
 
     calculaCompletionTime(n, m, solucao, TP, compTime);
@@ -429,8 +438,40 @@ int main(int argc, char *argv[]){
     std::cout << "\nAtraso Máximo da solução inicial Tempos Medios: " << atraso_maximo;
     std::cout << "\nCPU Time duration: " << elapsed_seconds.count();
 
-    std::vector<int> solucaoMedias(n);
-    solucaoMedias = solucao;
+    std::vector<int> solucaoPLT(n);
+    solucaoPLT = solucao;
+
+    arquivo << "\n";
+
+    //-----------------EDD + PLT-------------------//  
+    start = std::chrono::high_resolution_clock::now();
+    //P == 0 -> Ordem crescente de dueDates EDD, P == 1 -> Ordenado pela média de dueDates, P == 2 -> EDD+PLT
+    heuristicaConstrutiva = ordemTarefas(n, m, dueDates, processingTimes, 2);
+    
+    // Armazenando a sequência de tarefas
+    for(int j=0; j<n; j++) {
+        solucao[j] = heuristicaConstrutiva[j].second;
+        //std::cout << heuristicaConstrutiva[j].first << " - " << heuristicaConstrutiva[j].second << "\n";
+    }
+
+    calculaCompletionTime(n, m, solucao, TP, compTime);
+    //Calculo do atraso máximo para a solução inicial
+    atraso_maximo = atrasoMaximo(n, m, solucao, compTime, dueDates);
+
+    end = std::chrono::high_resolution_clock::now();
+    elapsed_seconds = std::chrono::duration_cast<std::chrono::seconds>(end - start);
+    
+    arquivo << atraso_maximo << "," << elapsed_seconds.count() << ",";
+
+    std::cout << "\nAtraso Máximo da solução inicial Tempos Medios: " << atraso_maximo;
+    std::cout << "\nCPU Time duration: " << elapsed_seconds.count();
+
+    std::vector<int> solucaoEDDPLT(n);
+    solucaoEDDPLT = solucao;
+
+    arquivo << "\n";
+
+    /*
     // ---------------------------------------------------- //
 
     if (alpha == 0.0) solucao = solucaoEDD;
@@ -438,7 +479,7 @@ int main(int argc, char *argv[]){
 
     std::pair<std::vector<int>, double> sequenceTmax;
     
-    /*
+    
     
     //----------------Iterated Greedy Algorithm Without Local Search-------------------//            
     start = std::chrono::high_resolution_clock::now(); // reinicia a contagem para o IGA
@@ -504,7 +545,7 @@ int main(int argc, char *argv[]){
     // -------------------------------------------------------//
 
     
-    */
+    
 
     //------------IGA completo com melhor vizinho ----------------// 
     std::cout << "\n\n\nIterated Greedy Algorithm:\n\n";           
@@ -525,8 +566,7 @@ int main(int argc, char *argv[]){
     imprimeSequencia(sequenceTmax.first);
     // -------------------------------------------------------//
     
-    
-
+    */
 
     arquivo.close();
     return 0;
