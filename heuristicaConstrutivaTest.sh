@@ -1,12 +1,9 @@
-#!/bin/bash
-
-# Diretórios de entrada, saída e planilhas
 input_dir="Entradas"
-output_dir="igaPuro/Saidas"
-planilhas_dir="igaPuro/Experimentos"
+output_dir="Saidas"
+planilhas_dir="experiemntos"
 
-# Compila o programa
-g++ main.cpp -o IGApuro
+g++ main.cpp -o inicial
+
 if [ $? -ne 0 ]; then
     echo "Erro na compilação"
     exit 1
@@ -28,7 +25,7 @@ run_tests() {
     for alpha in "${alphas[@]}"; do
         local output_file="${output_dir}/alpha${alpha}d${d}_$(basename "$input_file")_$(basename "$planilha").txt"
         echo "Inicio alpha=$alpha d=$d - time=$(date +"%T")"
-        ./IGApuro "$alpha" 10 "$planilha" < "$input_file" > "$output_file"
+        ./inicial "$alpha" 10 "$planilha" < "$input_file" > "$output_file"
         echo "Fim alpha=$alpha d=$d - time=$(date +"%T")"
     done
 }

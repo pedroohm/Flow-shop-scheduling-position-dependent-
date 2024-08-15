@@ -75,7 +75,7 @@ void imprimeCompletionTime(int n, int m, std::vector<std::vector<double>> compTi
 std::vector<std::pair<double, int>> ordemTarefas(const int n, const int m, std::vector<int> &dueDates, std::vector<std::vector<int>> &processingTimes, const int param){
     std::vector<std::pair<double, int>> temposMedios(n, std::pair<double, int>(0.0f, 0)); 
     if (param == 1){
-        //crescente EDD+PT
+        // EDD+LPT -> crescente 
         for(int j=0; j<n; j++){
             double soma = 0;
             for(int i=0; i<m; i++){
@@ -87,7 +87,7 @@ std::vector<std::pair<double, int>> ordemTarefas(const int n, const int m, std::
         std::sort(temposMedios.begin(), temposMedios.end());
         return temposMedios;
     } else if (param == 2){
-        //decrescente LPT
+        // LPT -> decrescente
         for(int j=0; j<n; j++){
             double soma = 0;
             for(int i=0; i<m; i++){
@@ -100,7 +100,7 @@ std::vector<std::pair<double, int>> ordemTarefas(const int n, const int m, std::
         return temposMedios;
         
     } else{
-        //EDD -> crescente
+        // EDD -> crescente
         for(int j=0; j<n; j++)
             temposMedios[j] = std::make_pair(dueDates[j], j);
         std::sort(temposMedios.begin(), temposMedios.end());
@@ -288,7 +288,6 @@ std::pair<std::vector<int>, double> iteratedGreedy(std::vector<int> initialSolut
     return std::make_pair(pi, atrasoPi);
 }
 
-
 std::pair<std::vector<int>, double> iteratedGreedyWhitoutLocalSearch(std::vector<int> initialSolution, double atrasoInicialSolution, int n, int m, int d, double alpha, std::vector<std::vector<double>> &completionTime, std::vector<int> dueDates, const std::vector<std::vector<int>> &processingTimes, const std::vector<std::vector<std::vector<double>>> &TP){
     std::vector<int> pi0(initialSolution);
     double atrasoPi0 = atrasoInicialSolution;
@@ -415,7 +414,7 @@ int main(int argc, char *argv[]){
     std::vector<int> solucaoEDD(n);
     solucaoEDD = solucao;
 
-    //-----------------MÉDIAS LPT-------------------//  
+    //-----------------LPT + EDD-------------------//  
     start = std::chrono::high_resolution_clock::now();
     //P == 0 -> Ordem crescente de dueDates EDD, P == 1 -> Ordenado pela média de dueDates
     heuristicaConstrutiva = ordemTarefas(n, m, dueDates, processingTimes, 1);
@@ -438,14 +437,12 @@ int main(int argc, char *argv[]){
     std::cout << "\nAtraso Máximo da solução inicial Tempos Medios: " << atraso_maximo;
     std::cout << "\nCPU Time duration: " << elapsed_seconds.count();
 
-    std::vector<int> solucaoPLT(n);
-    solucaoPLT = solucao;
+    std::vector<int> solucaoEDDPLT(n);
+    solucaoEDDPLT = solucao;
 
-    arquivo << "\n";
-
-    //-----------------EDD + PLT-------------------//  
+    //-----------------LPT-------------------//  
     start = std::chrono::high_resolution_clock::now();
-    //P == 0 -> Ordem crescente de dueDates EDD, P == 1 -> Ordenado pela média de dueDates, P == 2 -> EDD+PLT
+    //P == 0 -> Ordem crescente de dueDates EDD, P == 1 -> Ordenado pela média de dueDates EDD+LPT, P == 2 -> LPT
     heuristicaConstrutiva = ordemTarefas(n, m, dueDates, processingTimes, 2);
     
     // Armazenando a sequência de tarefas
@@ -466,10 +463,8 @@ int main(int argc, char *argv[]){
     std::cout << "\nAtraso Máximo da solução inicial Tempos Medios: " << atraso_maximo;
     std::cout << "\nCPU Time duration: " << elapsed_seconds.count();
 
-    std::vector<int> solucaoEDDPLT(n);
-    solucaoEDDPLT = solucao;
-
-    arquivo << "\n";
+    std::vector<int> solucaoLPT(n);
+    solucaoLPT= solucao;
 
     /*
     // ---------------------------------------------------- //
